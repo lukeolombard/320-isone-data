@@ -1,0 +1,603 @@
+Effective 1/1/2024 – ER24-91-000 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION IV.A 
+RECOVERY OF ISO ADMINISTRATIVE EXPENSES 
+ 
+ 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+IV.A.1 Definitions 
+ 
+IV.A.2 Purpose of Section IV.A; Adjustments to Rates  
+ 
+IV.A.2.1 
+Purpose of Section  
+IV.A.2.2 
+True-Ups 
+ 
+IV.A.3 Billing and Payment 
+ 
+IV.A.3.1 
+Billing Procedure 
+IV.A.3.2 
+Working Capital Advances 
+ 
+IV.A.4 Regulatory Filings 
+ 
+IV.A.5 Creditworthiness 
+ 
+IV.A.6 Direct Billing; Sanctions 
+ 
+IV.A.6.1 
+Transmission Studies 
+IV.A.6.2 
+Information Requests 
+IV.A.6.3 
+Non-Standard Provisions 
+IV.A.6.4 
+Non-Standard Billing Service 
+IV.A.6.5 
+Reserved for Future Use 
+IV.A.6.6 
+Re-billing Requests 
+ 
+IV.A.7 Metering 
+ 
+IV.A.7.1 
+Customer Obligations 
+IV.A.7.2 
+RTO Access to Metering Data 
+Effective 1/1/2024 – ER24-91-000 
+ 
+ 
+IV.A.8 Collection of Commission Annual Charges 
+ 
+Schedule 1 Scheduling, System Control and Dispatch Service 
+Schedule 2 Energy Administration Service 
+Schedule 3 Reliability Administration Service 
+Schedule 4 Collection of Commission Annual Charges 
+Schedule 5 Collection of NESCOE Budget 
+ 
+Effective 1/1/2024 – ER24-91-000 
+IV.A.1  Definitions:   
+Whenever used in this Section IV.A, in either the singular or plural number, capitalized terms shall have 
+the meanings specified in Section I. 
+ 
+IV.A.2  Purpose of Section IV.A; Adjustments to Rates 
+ 
+IV.A.2.1  Purpose of Section IV.A 
+Section IV.A of the Tariff is the means by which the ISO collects the revenues necessary to carry out its 
+administrative functions in each calendar year, and contains rates, charges, terms and conditions for the 
+following Services, which together encompass the functions carried out by the ISO:   
+ 
+(1) 
+Scheduling, System Control and Dispatch Service (Schedule 1 hereto);  
+ 
+(2) 
+Energy Administration Service (Schedule 2 hereto); and  
+ 
+(3) 
+Reliability Administration Service (Schedule 3 hereto). 
+ 
+The rates and charges for each Service during a calendar year are based on the allocated portion of that 
+year’s Revenue Requirement.  “Revenue Requirement” refers to the budgeted total expense for the year as 
+adjusted by true-ups described herein. 
+ 
+IV.A.2.2  True-Ups 
+ 
+(1)  Schedule 2 True-Up 
+ 
+(i) 
+Each year (Year X), in determining the ISO’s Revenue Requirement for the subsequent 
+year (Year X+1), the ISO will make a true-up of the Schedule 2 portion of the Revenue 
+Requirement for the prior year (Year X-1).  Any difference between the actual Year X-1 Schedule 
+2 revenues and amounts budgeted for Schedule 2 revenues in the Year X-1 Revenue Requirement 
+will be reflected in the projected Schedule 2 rates for Year X+1 as stated in paragraph (ii) below.   
+ 
+(ii) 
+In implementing the true-up adjustment for revenue differences in the volumetric portion 
+of Schedule 2, the differences will be added to (in the case of a revenue shortfall) or subtracted 
+from (in the case of a revenue over-recovery) the ISO’s total estimated budgeted amounts for 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 2 for Year X+1.  For revenue over-recoveries attributable to the TUs in Schedule 2, the 
+ISO will treat them in the same manner as revenue adjustments for the volumetric portion of 
+Schedule 2.  For revenue shortfalls attributable to the TUs in Schedule 2, the ISO will allocate 
+them according to the following method: 
+ 
+(a) 
+50% of the shortfall will be added to the ISO’s projected Revenue Requirement 
+for the Schedule 2 volumetric component (85% of the projected Schedule 2 Revenue 
+Requirement prior to true-ups). 
+ 
+(b) 
+An additional percentage of the shortfall will be added to the ISO’s projected 
+Revenue Requirement for the Schedule 2 volumetric component for each percentage 
+decrease which was deemed to have occurred between the number of TUs used in the 
+true-up and the number of TUs that the ISO had used in the original projection of the 
+rates for that year. 
+ 
+(c) 
+The maximum percentage of the shortfall to be added to the Schedule 2 
+volumetric component is 100%, which would result if the percentage difference between 
+the actual and forecasted TUs were 50% or greater. 
+ 
+(d) 
+Any remaining shortfall revenues after allocation of the shortfall to the Schedule 
+2 volumetric component will be added to the ISO’s projected Revenue Requirement for 
+the Schedule 2 TU component (15% of the projected Schedule 2 Revenue Requirements 
+prior to true-ups). 
+ 
+(iii) 
+True-Ups Collected in Future Rates.  To the extent the ISO proposes to change its rate 
+design for Section IV.A, the ISO will continue to implement the true-up procedures stated in this 
+section to recover under- or over-collections of TUs for then-current and prior years.  For 
+example, when, on a going-forward basis effective January 1, 2012, the ISO eliminated the 
+inclusion of an estimated true-up for the current year (Year X) in the Revenue Requirement for 
+the subsequent year (Year X+1), the ISO was still required to include in the Revenue 
+Requirement for 2013 the difference between the estimated 2011 true-up filed with the 2012 
+Revenue Requirement and the final 2011 true-up calculated based on historical data. 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+ 
+(2) 
+General True-Up 
+Each year (Year X), in determining its Revenue Requirement for Year X+1, the ISO will include in such 
+Revenue Requirement a true-up of Year X-1’s Revenue Requirement for Schedules 1, 3 and 5. 
+Specifically, the Revenue Requirement for Year X+1 will include deviations between collections under 
+this Section IV.A and the ISO’s actual expenses for Year X-1.  For example, when filing the Revenue 
+Requirement for 2014, the ISO will compute the total actual expenses for Schedules 1, 3 and 5 in 2012 
+and will compare these totals with the total charges actually collected under the Tariff for each of these 
+Schedules during calendar year 2012.  Based on these comparisons, the ISO will adjust the otherwise-
+projected Revenue Requirement for calendar year 2014 for one or more of Schedules 1, 3 and 5, as 
+needed, downward or upward to reflect the actual calendar year 2012 surplus or deficit, respectively.  
+From these figures the ISO will calculate rates for calendar year 2014, and make a rate change filing for 
+calendar year 2014 and succeeding years, as required, to reflect the budget amount for the applicable 
+calendar year and the true-up calculated by means of the foregoing analysis and adjustments.  
+Notwithstanding the foregoing, for any instance of special purpose funding, in which funds are allocated 
+and not to be used for any other purpose, the ISO may maintain any surplus amounts in a segregated 
+ledger account to be applied in a future year for such specific purpose without application of the true-up 
+mechanism described above until such time as the special purpose needs are completed, at which time the 
+ISO will include any remaining funds in the Revenue Requirement adjustment being made pursuant to 
+this Section (2). 
+ 
+(3) 
+Indemnification 
+The Revenue Requirement does not reflect any amounts received by the ISO due to indemnification 
+payments. 
+ 
+IV.A.3  Billing and Payment 
+ 
+IV.A.3.1  Billing Procedure:   
+With respect to charges under this Section IV.A., the ISO will apply the ISO Billing Policy as set forth in 
+Exhibit ID to Section I of the Tariff. 
+ 
+IV.A.3.2  Working Capital Advances: 
+In the event that working capital financing arranged by the ISO is terminated early or repayment is 
+accelerated (and no replacement funding has been obtained by the ISO) and Early Amortization Working 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Capital Charges have been assessed to Market Participants by the ISO, each month, each Market 
+Participant shall be required to advance to the ISO an amount (each, an “Advance”) equal to the ISO’s 
+reasonable projection of such Market Participant’s charges under the Tariff for three succeeding months.  
+The Advances shall be held in an interest bearing account.  In each succeeding month, the ISO shall 
+adjust each Market Participant’s Advance so that, in each calendar month, each Market Participant’s 
+Advance is equal to the ISO’s reasonable projection of such Market Participant’s charges under Section 
+IV.A of the Tariff for such month and the next two succeeding months.  If, in the reasonable judgment of 
+the ISO, a cash deficiency is likely to occur at any time as a result of a depletion of the Advances (but not 
+as a result of the failure of any Market Participant to pay its Advance), the ISO shall, at its option, have 
+the right to require each Market Participant to pay the ISO its pro rata share (based on such Market 
+Participant’s projected charges under Section IV.A of the Tariff for the instant month and the next two 
+succeeding months compared to projected charges to all Market Participants under Section IV.A of the 
+Tariff for the instant month and the next two succeeding months) of any additional Advances required for 
+the ISO’s operations.  If any Market Participant withdraws from the ISO or has its membership 
+terminated, its Advance will be returned to it at the end of the month in which its withdrawal or 
+termination is effective, provided that all of the departing Market Participant’s liabilities under the Tariff 
+have been satisfied, and all of the other Market Participants will have their Advances adjusted 
+accordingly. 
+ 
+IV.A.4  Regulatory Filings 
+Nothing contained in the Tariff or any Service Agreement thereunder shall be construed as affecting in 
+any way the right of the ISO to file with the Commission under Section 205 of the Federal Power Act and 
+pursuant to the Commission’s rules and regulations promulgated thereunder for a change in any rates, 
+terms and conditions, charges, classification of service, Service Agreement, rule or regulation. 
+Nothing contained in the Tariff or any Service Agreement shall be construed as affecting in any way the 
+ability of any Customer receiving a Service under the Tariff to exercise its rights under the Federal Power 
+Act and pursuant to the Commission’s rules and regulations promulgated thereunder. 
+ 
+IV.A.5  Creditworthiness 
+For purposes of Section IV.A of the Tariff, the ISO will apply the ISO New England Financial Assurance 
+Policy attached to Section I of the Tariff.  Each Customer shall comply with the requirements of this 
+policy, as applicable. 
+ 
+IV.A.6  Direct Billing; Sanctions 
+ 
+Effective 1/1/2024 – ER24-91-000 
+ 
+IV.A.6.1  Transmission Studies:   
+The ISO will conduct and coordinate certain System Impact Studies and Facilities Studies pursuant to, 
+and in accordance with, the Tariff.  The costs of System Impact Studies and Facilities Studies will be 
+charged directly to the pertinent Eligible Customers or interconnection applicants.  The ISO will also 
+conduct studies as part of the Forward Capacity Market qualification process and will charge those costs 
+directly through Qualification Process Cost Reimbursement Deposits. 
+ 
+IV.A.6.2  Information Requests:   
+In fulfilling information requests of a significant and non-routine nature, the ISO will charge its 
+associated direct and indirect costs to the requestor.  Revenue from these charges will be credited to 
+Revenue Requirements for the Service to which the information request is most closely related. 
+ 
+IV.A.6.3  Non-Standard Provisions:   
+If there is a significant direct or indirect cost associated with the ISO’s implementation of non-standard 
+provisions for energy or other products in a bilateral contract, the ISO will charge those costs to the 
+contract submitter.  Revenue from these charges will be credited to Revenue Requirements for the Service 
+to which the submitted contract is most closely related. 
+ 
+IV.A.6.4  Non-Standard Billing Service:   
+Market Participants and other Customers who require non-standard billing payment arrangements, 
+pursuant to the terms of the ISO New England Financial Assurance Policy shall be charged the ISO’s 
+associated direct and indirect costs for these arrangements.  Fees collected will be credited to Revenue 
+Requirements for all three Services, in proportion to the relative Revenue Requirements for those 
+Services. 
+ 
+IV.A.6.5  [Reserved for Future Use] 
+ 
+IV.A.6.6  Re-billing Requests:  
+In fulfilling re-billing requests of a significant and non-routine nature as a result of data revisions not 
+being received in a timely fashion from a Customer, the ISO will charge its associated direct and indirect 
+costs to that Customer.  Revenue from these charges will be credited to Revenue Requirements for the 
+Service to which the information request is most closely related. 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+ 
+IV.A.7  Metering 
+ 
+IV.A.7.1  Customer Obligations:   
+The Customer shall be responsible for compliance with metering requirements under the Tariff and the 
+ISO New England Operating Documents and to communicate the metering information to the ISO. 
+ 
+IV.A.7.2  RTO Access to Metering Data:   
+The ISO will have access to such metering data as may reasonably be required to facilitate measurements 
+and billing under the ISO New England Operating Documents, the Tariff or any Service Agreement 
+thereunder. 
+ 
+IV.A.8  Collection of Commission Annual Charges:   
+The ISO’s collection of amounts necessary to pay annual charges to the Commission is addressed in 
+Schedule 4 hereof. 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 1 
+Scheduling, System Control and Dispatch Service 
+ 
+Scheduling, System Control and Dispatch Service (“Scheduling Service”) is the service required to 
+schedule at the regional level the movement of power through, out of, within, or into the New England 
+Control Area.  For regional transmission service under the Tariff, Scheduling Service is an Ancillary 
+Service that can be provided only by the ISO.  All Transmission Customers must be Customers for 
+Scheduling Service under this Tariff and purchase this Service from the ISO.  The ISO’s charges stated 
+herein for Scheduling Service are based on the expenses incurred by the ISO in providing this Service.  In 
+addition, the ISO acts as a billing agent for the operators of the Local Control Centers and certain Market 
+Participants in order to collect expenses incurred in providing this Service pursuant to this Schedule 1.  
+ 
+The ISO’s expenses are based on the functions and activities required to provide this Service and include, 
+but are not limited to: 
+ 
+• 
+Processing and implementation of requests for regional transmission service, including support of 
+the OASIS node; 
+• 
+Coordination of transmission system operation (including administration of reactive power 
+requirements under Schedule 2 of Section II of the Tariff) and implementation of necessary 
+control actions by the ISO and support for these functions; 
+• 
+Billing associated with regional transmission services provided under the Tariff; 
+• 
+Transmission system planning which supports this Service; and 
+• 
+Administrative costs associated with the aforementioned functions. 
+ 
+For the ISO’s expenses in providing transmission-related Scheduling Service: 
+ 
+(A) 
+each Customer that is obligated to pay the Regional Network Service rate shall pay each month, 
+in arrears, an amount equal to the product of $0.26954 per kilowatt month times its Monthly Regional 
+Network Load for that month. 
+ 
+(B) 
+each Customer that is a Transmission Customer receiving Through or Out Service shall pay each 
+month, in arrears, an amount equal to the product of the Transmission Customer’s highest amount of 
+Reserved Capacity (expressed in kilowatts) for an hour for each transaction, other than a Coordinated 
+ 
+Effective 1/1/2024 – ER24-91-000 
+External Transaction, that is scheduled to occur during the month as Through or Out Service multiplied 
+by $0.00037 per kilowatt for each hour of service. 
+ 
+Schedule 1 revenues collected from Through or Out Service customers shall be credited to each Network 
+Customer receiving Regional Network Service that month in proportion to each Network Customer’s 
+Monthly Regional Network Load in that month. 
+ 
+Non-Market Participant FTR fees and any portions of Long Lead Facility deposits collected by the ISO 
+under Schedule 22 and Schedule 25 of Section II of the Tariff that become non-refundable will be 
+credited to Schedule 1 Revenue Requirements and will be included in the Schedule 1 true-up calculations.   
+ 
+All general terms and conditions of the Tariff apply to this Service. 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 2 
+Energy Administration Service 
+ 
+Energy Administration Service (“EAS”) is the Service provided by the ISO to administer the Energy 
+Market. 
+ 
+The ISO’s expenses are based on the functions required to provide EAS and include, but are not limited 
+to: 
+ 
+• 
+Core operation of the Energy Market; 
+• 
+Generation and demand dispatch related to the Energy Market; 
+• 
+Energy accounting; 
+• 
+Loss determination and allocation; 
+• 
+Billing preparation; 
+• 
+Market power monitoring and mitigation for the Energy Market; 
+• 
+Sanctions activities; 
+• 
+Operation of FTR auctions; 
+• 
+Market assessment and reports; and 
+• 
+Formulation of additional market rules and proposals to modify existing rules. 
+ 
+Each Market Participant that has an account for Energy that is settled by the ISO for the current month 
+shall pay each month an amount based on Energy Transaction Units (Energy TUs), Increment Offers, 
+Decrement Bids, Volumetric Measures, submitted FTR auction bids, and cleared FTR auction bids. 
+ 
+Energy TU Based Charges:  For purposes of this Schedule 2, Energy TUs shall be calculated without 
+reference to contributions from Coordinated External Transactions.  Each Customer that has, during a 
+month, incurred Energy TUs exceeding zero shall pay an amount, in arrears, equal to the sum of the 
+products of: 
+ 
+(1) 
+$0.82494 times the Customer’s first 12,500 Energy TUs for that month; plus 
+ 
+(2) 
+$0.74994 times the amount of Energy TUs that exceed 12,500 but are less than or equal to 
+39,500; plus 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+(3) 
+$0.67495 times the amount of Energy TUs that exceed 39,500. 
+ 
+Charges Based on Increment Offers and Decrement Bids:  Each Customer submitting Increment Offers 
+and/or Decrement Bids shall pay, in arrears, amounts equal to: 
+ 
+(1) 
+$0.00500 times the number of Increment Offers and Decrement Bids submitted by the Customer 
+for that month; plus 
+ 
+(2) 
+$0.06000 times the number of Increment Offers and Decrement Bids submitted by the Customer 
+for that month that clear in the Day-Ahead Energy Market. 
+ 
+Volumetric Measure Based Charges:  A Customer shall be considered an EAS VM Customer if the sum 
+of Monthly Real-Time Load Obligation, Monthly Real-Time Generation Obligation, and Monthly Real-
+Time Demand Reduction Obligation (measured in megawatthours, MWh and excluding Coordinated 
+External Transactions) assessed to that Customer during the month exceeds zero (0), in which case, the 
+total EAS VM charges for that Customer shall be equal to the sum of: 
+ 
+(1) 
+Monthly Real-Time Load Obligation (MWh), excluding Monthly Real-Time Load Obligation 
+associated with Coordinated External Transactions;  
+ 
+(2) 
+Monthly Real-Time Generation Obligation (MWh); provided, however, that Monthly Real-Time 
+Generation Obligation associated with energy imported into the New England Control Area by 
+Bangor Hydro-Electric Company across the New Brunswick ties shall be excluded (up to 300 
+MW) for billing and rate calculation purposes from EAS VMs, and provided further that Monthly 
+Real-Time Generation Obligation associated with Coordinated External Transactions shall be 
+excluded; and 
+ 
+(3)  
+Monthly Real-Time Demand Reduction Obligation (MWh). 
+ 
+Subject to the foregoing, each Market Participant that is identified as an EAS VM Customer for that 
+month shall pay an amount, in arrears, based on total EAS VM, equal to: 
+ 
+(a) 
+$0.48178 per MWh for the first 250,000 MWh of EAS VM for that month; plus 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+(b) 
+$0.43798 per MWh for each VM that exceeds 250,000 EAS VM but is less than or equal to 
+1,500,000 MWh for that month; plus 
+ 
+(c) 
+$0.39418 per MWh for each EAS VM in excess of 1,500,000 MWh for that month. 
+ 
+Charges Based on Submitted and Cleared FTR Bids:  Each Customer submitting FTR auction bids shall 
+pay, in arrears, amounts equal to: 
+(1) 
+$2.77242 times the number of bids submitted by the Customer into any FTR auctions held for 
+that month; plus 
+ 
+(2) 
+$2.77242 times the number of bids submitted by the Customer into any annual or multi-month 
+FTR auctions (billed with the invoice for the first month of the annual or multi-month FTR 
+auction); plus 
+ 
+(3) 
+$4.48021 times the number of bids submitted by the Customer during that month that clear any 
+FTR auctions held for that month; plus 
+ 
+(4) 
+$4.48021 times the number of bids submitted by the Customer that clear any annual or multi-
+month FTR auctions (billed with the invoice for the first month of the annual or multi-month FTR 
+auction). 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 3 
+Reliability Administration Service 
+ 
+Reliability Administration Service (“RAS”) is the Service provided by the ISO to administer the 
+Reliability Markets (and facilitate reliability-associated transactions and arrangements) in accordance 
+with the Tariff and the corresponding rules promulgated thereunder, and to provide other reliability and 
+informational services.  The Reliability Markets are also a means by which certain Ancillary Services are 
+obtained under Section II of the Tariff.  Each Customer must enter into a Service Agreement. 
+ 
+The ISO’s administrative expenses are based on the functions required to provide this Service and 
+include, but are not limited to: 
+ 
+• 
+Generation and demand dispatch associated with Reliability Markets; 
+• 
+Reliability Markets accounting; 
+• 
+Billing preparation; 
+• 
+The ISO generation emissions analysis; 
+• 
+Risk profile updates; 
+• 
+Triennial review of resource adequacy; 
+• 
+Studies and qualification of resources under Forward Capacity Market; 
+• 
+Preparation of regional reports and load forecasts and profiles (Capacity, Energy, Load and 
+Transmission reports; reports to the Energy Information Administration (EIA) of the United 
+States Department of Energy; reports to the North American Electric Reliability Corporation; 
+Regional System Plan); 
+• 
+Support of power supply, environmental and market reliability planning activities; 
+• 
+Market power monitoring, mitigation and assessment for the Reliability Markets;  
+• 
+Formulation of additional market rules and proposals to modify existing rules. 
+ 
+(A) 
+Each Transmission Customer taking Through or Out Service that is not a Market Participant shall 
+be considered a RAS Customer and shall pay each month, in arrears, a RAS fee equal to the product of 
+$4.97 times the number of hourly Through or Out reservations made for that month. 
+ 
+(B) 
+Each Customer that is a Market Participant shall be considered a RAS Customer and shall pay 
+each month, in arrears, an amount equal to the product of $0.34097 per kilowatt month times the Market 
+Participant’s Real-Time NCP Load Obligation (measured in kilowatts) for that month.   
+ 
+Effective 1/1/2024 – ER24-91-000 
+ 
+(C) 
+For Exports other than Coordinated External Transactions, each RAS Customer shall pay each 
+month, in arrears, an amount equal to $0.70000 per MWh per Export, where MWh represents the hourly 
+scheduled MWs of associated Export.   
+ 
+In order to preserve the settlement approved in Docket No. ER01-316, Market Participants engaging in 
+“through” transactions using Through or Out Service will not be deemed to have a Real-Time Load 
+Obligation on account of those transactions. 
+ 
+Charges collected under Schedule 3 for RAS do not include any amounts paid by the ISO on behalf of the 
+Market Participants to purchase emergency power. 
+ 
+Charges collected under Schedule 3 for RAS do not include the recovery of costs associated with 
+disclosure or tracking obligations.  If one or more states require Market Participants to undertake such 
+activity the ISO will separately charge the expenses associated with such obligations. 
+ 
+All general terms and conditions of the Tariff apply to this Service. 
+ 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 4 
+Collection of Commission Annual Charges 
+ 
+Each Transmission Owner that is jurisdictional to the Commission shall provide to the ISO under oath, 
+sixty days in advance of the due date for the Commission’s Reporting Requirement No. 582 (“FERC-
+582”), data for the pertinent period concerning the Transmission Owner’s megawatt-hours of all 
+unbundled transmission (including MWh delivered in wheeling transactions and MWh delivered in 
+exchange transactions) and the Transmission Owner’s megawatt-hours of all bundled wholesale power 
+sales (to the extent these latter MWh were not separately reported as unbundled transmission) for the 
+pertinent period, in the level of detail required by Commission regulations and necessary for the ISO to 
+make and support a FERC-582 report by the ISO for the New England Control Area.  These amounts are 
+reported on the Commission’s Form 1 in connection with accounts 447, 456, and 555. 
+ 
+Upon the ISO’s receipt of the Commission’s bill for the annual charges for the New England Control 
+Area, the ISO will promptly calculate the allocable portion of that annual charge payable by each 
+Transmission Owner.  To determine the amount payable by each Transmission Owner for the annual 
+charge for the then-current Commission fiscal year, the ISO will divide each Transmission Owner’s total 
+reported megawatt-hours of transmission of electric energy in interstate commerce by the total megawatt-
+hours of transmission of electric energy in interstate commerce reported for the prior calendar year by the 
+ISO in FERC-582 for the New England Control Area, and multiply the resulting figure by the 
+Commission’s annual charge to the New England Control Area for the then-current Commission fiscal 
+year.  The allocation among Transmission Owners of any adjustments for the prior Commission fiscal 
+year reflected in the current-year Commission bill will be calculated by multiplying (x) each 
+Transmission Owner’s adjusted sales (i.e., megawatt-hours of transmission of electric energy in interstate 
+commerce) for the calendar year on which that prior Commission fiscal year’s annual charges were based 
+by (y) the final Commission charge factor for that prior fiscal year, as indicated in the Commission bill.  
+This amount will be compared with the amount originally paid by the corresponding Transmission Owner 
+for the prior fiscal year and any difference (positive or negative) will be an adjustment to the payment 
+required from that Transmission Owner for current-year Commission annual charges.  The ISO will 
+promptly notify each Transmission Owner of the required payment, and each Transmission Owner shall 
+pay to the ISO, within fifteen (15) days of the Transmission Owner’s receipt of the notice, the amount 
+specified in the notice.   
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Each Transmission Owner will provide the ISO with assistance reasonably required in responding to 
+information requests and audits by the Commission in connection with the Form 582 Reporting 
+Requirement and payment of annual charges. 
+ 
+ 
+ 
+Effective 1/1/2024 – ER24-91-000 
+Schedule 5 
+Collection of NESCOE Budget 
+ 
+ 
+The ISO acts as the billing and collection agent for the New England States Committee on Electricity 
+(NESCOE) for recovery of amounts reflected in the annual NESCOE budget through the rates set forth 
+below.  Each year, NESCOE will develop an annual budget, including supporting documentation and 
+justification and a collection schedule, and present it to the ISO in final form no later than October 20 for 
+the following calendar year, following the budget review process set forth in understandings among 
+NESCOE, the ISO, and NEPOOL, which process is anticipated to begin in June each year.  NESCOE 
+shall not exceed its budget in any given calendar year.  The “General True-Up Provision” in Section 
+IV.A.2.2.(2) of this Tariff shall apply to this Schedule 5. 
+ 
+The ISO will calculate the Schedule 5 rate based on the rate design specified below.  The ISO will submit 
+the NESCOE-provided materials and any revised tariff sheets to the Commission separately but 
+contemporaneously with the ISO’s annual filing of rates to recover ISO’s other administrative expenses. 
+ 
+For the calendar year 2024, the six New England states shall bear NESCOE’s budgeted costs as follows.  
+Each Customer that is obligated to pay the Regional Network Service rate shall pay each month, in 
+arrears, an amount equal to the product of $0.00807 per kilowatt times its Monthly Regional Network 
+Load for that month. 
+ 
+ 

@@ -1,0 +1,317 @@
+Last Revision Date: 8/27/2010 
+Last Merged Filing ID:  
+ 
+ISO New England Inc. Transmission, Markets and Services Tariff 
+ 
+ISO New England 
+ISO New England Inc. Transmission, Markets and Services Tariff 
+Document Generated On: 8/30/2010 
+ 
+ 
+Contents 
+ATTACHMENT G  - PROCEDURE TO PROTECT FOR THE LOSS OF PHASE II IMPORTS .. 3 
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 3 
+ATTACHMENT G  - PROCEDURE TO PROTECT FOR THE LOSS OF PHASE II IMPORTS 
+ 
+NOTE: In this Attachment G, “NEPEX” refers to ISO New England Inc., “NYPP” refers to the 
+New York Independent System Operator, Inc., and “PJM” refers to PJM Interconnection, LLC. 
+ 
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 4 
+ 
+PROCEDURE TO PROTECT FOR THE LOSS OF PHASE II IMPORTS 
+ 
+Reference: Procedure to Protect for the Loss of Hydro-Quebec Exports  
+ 
+ 
+INTRODUCTION  
+The Hydro-Quebec/NEPOOL Phase II tie has maximum transfer capability of 2,000 MW. Joint 
+PJM/NYPP/NEPEX studies have concluded that the loss of the Phase II facilities at high levels of imports 
+could have a worse effect on NYPP and PJM than the worst internal contingency that these individual 
+systems normally protect against. Accordingly, it has been agreed that Phase II imports will be limited to 
+the extent necessary to insure that NYPP and PJM operation reliability criteria are not violated by the loss 
+of Phase II contingency. This procedure is designed to prevent the occurrence of a loss of Phase II 
+contingency applicable when Phase II is operated in the isolated or synchronous mode. The absolute 
+maximum loss of Phase II contingency allowable under this procedure will be 2,200 MW.  
+ 
+ 
+SYSTEM MONITORING  
+1. 
+NYPP and PJM will monitor their respective systems to provide NEPEX with the data required to 
+calculate Phase II import limits.  
+ 
+2. 
+NEPEX will request forecasted data from NYPP and PJM required to establish Phase II 
+schedules.  
+ 
+3. 
+NEPEX will set schedules with Hydro-Quebec which are within acceptable limits.  
+ 
+4. 
+NEPEX will monitor real time system conditions in NYPP and PJM to insure that Phase II 
+imports are within acceptable limits.  
+ 
+5. 
+The calculations required to determine Phase II limitations will normally be done using a 
+software package in the NEPEX computer. The data required to perform the calculations is received in 
+part via the Interpool Network and by manual entry for those values not telemetered. The program fulfills 
+the requirements of this procedure. In the event that the NEPEX computer is unavailable for use, the 
+necessary calculations will be performed by operator use of a personal computer with data being 
+exchanged by telephone.  
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 5 
+ 
+ 
+DEFINITIONS OF TERMS  
+The following terms apply to the three (3) NYPP voltage indicators, Rochester 345 KV, Oakdale 345 KV 
+and Oakdale 230 KV. Each indicator will have unique values for each of these terms.  
+ 
+(Limit)  Pre-contingency Low Voltage Limit – the lowest precontingency voltage allowed at the station 
+based on contingencies within NYPP.  
+ 
+Actual Voltage – Actual voltage at the station  
+ 
+Voltage Margin – Actual voltage minus Pre-contingency Low Voltage Limit 
+  
+Base NE/NB Contingency Limit – The maximum total loss of generation within NE/NB or loss of HQ 
+HVDC Exports to NE/NB allowable when the station voltage is at the Pre-contingency Low Voltage 
+Limit (for the purposes of this procedure, the Base NE/NB Contingency Limit is the maximum level of 
+Phase II Imports allowable).  
+ 
+Margin Sensitivity – The number of MW of increase in the Base NE/NB Contingency Limit allowed for 
+each one (1) KV or Voltage Margin.  
+ 
+The following terms apply to the fourth indicator of NYPP Reactive Conditions, the Central/East (C/E) 
+Interface.  
+ 
+C/E Critical Transfer Level – Postcontingency 
+ 
+transfer limit for the C/E interface based on NYPP reactive 
+conditions  
+C/E Transfer – Actual MW transfer on the C/E interface  
+ 
+* 
+ Phase II C/E Distribution Factor – The number of MW by which the C/E flow would be 
+increased for each one (1) MW of the total of Phase II imports and MW armed for runback in New 
+Brunswick which would be lost as a result of a single contingency.  
+ 
+The following terms apply to the PJM Eastern, Central, and Western interfaces and are used in 
+determining limitations based on PJM reactive conditions.  
+ 
+PJM Transfer Limits – Precontigency transfer limits for each PJM interface based on contingencies within 
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 6 
+PJM. 
+ 
+PJM Transfers – Actual MW transfers on each PJM interface.  
+ 
+PJM Transfer Margins – Transfer limit minus actual transfer for each PJM interface.  
+ 
+PJM Base New England/New Brunswick (NE/NB) Contingency Limit – The maximum total loss of 
+generation within NE/NB or loss of HQ HVDC Export to NE/NB which is allowable when any of the 
+three (3) PJM interfaces is loaded to its precontingency transfer limit (for the purposes of this procedure, 
+the PJM Base NE/NB Contingency Limit is the maximum level of Phase II Imports allowable).  
+ 
+PJM Transfer Margin Sensitivity – The number of MW of increase in the PJM Base NE/NB Contingency 
+Limit allowed for each one (1) MW of Transfer Margin. Each PJM interface has an associated Transfer 
+Margin Sensitivity. By exception, the PJM Operations Planning Section will notify NEPEX supervision 
+of any required change in the Transfer Margin Sensitivities.  
+ 
+*THE TERMS DEFINED ABOVE ARE THE SAME TERMS USED IN THE PROCEDURE TO 
+PROTECT FOR LOSS OF HYDRO-QUEBEC EXPORTS WITH THE EXCEPTION OF THE PHASE 
+II C/E DISTRIBUTION FACTOR
+ 
+.  
+Loss of Phase II Contingency – The total of the MW of Phase II import and MW armed for runback in 
+New Brunswick (Keswick Power Relays) which would be lost as a result of a single contingency (See 
+Attachment I for Method of Calculating the Loss of Phase II Contingency). While the Keswick Power 
+Relays will normally be disabled, they will be enabled during outages of the Chester Static VAR 
+Compensator. MW armed during these periods must be included in the Loss of Phase II Contingency.  
+ 
+Phase II Import Limit (Phase II Limit) – The most restrictive Loss of Phase II Contingency allowable 
+based on NYPP and PJM reactive conditions (See Attachment I for Method of Calculating the Phase II 
+Import Limit.  
+ 
+ 
+PROCEDURES  
+I.  
+Setting Phase II Schedules – All required limitations on Phase II imports are to be recognized in 
+the establishment of Phase II schedules for the next hour. In order to set next hour schedules for the Phase 
+II tie, NEPEX will; 
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 7 
+  
+A.  
+Determine the total of the desired level of Phase II import plus anticipated arming in New 
+Brunswick (if Keswick Power Relays are enabled) for the next hour.  
+ 
+B.  
+Determine the Phase II Limit with no margin for the next hour.  
+ 
+C.  
+If the Phase II Limit (no margin) is less than the desired Phase II import plus arming in New 
+Brunswick, request that NYPP and/or PJM forecast and authorize use of any available margin for the next 
+hour.  
+ 
+D.  
+Determine the Phase II Limit using authorized margin.  
+ 
+E.  
+Thirty minutes in advance of the hour, establish a next hour Phase II schedule with Hydro-
+Quebec for which the L/O Phase II Contingency (import plus arming) will be equal to or less than the 
+Phase II Limit (which includes any authorized margin).  
+ 
+II.  
+Monitoring System Conditions – At least once each hour, NEPEX will make a complete check of 
+actual system conditions in NYPP and PJM. Whenever a condition exists such that the L/O Phase II Limit 
+based on those conditions, NEPEX will;  
+ 
+A.  
+Contact NYPP and/or PJM to determine if the L/O Phase II Contingency must be reduced.  
+ 
+B.  
+If the L/O Phase II Contingency must be reduced, reduce imports from New Brunswick to a level 
+at which arming (KPR) is not required and/or reduce Phase II imports so that the L/O Phase II 
+contingency is less than the Phase II Limit.  
+ 
+ACTION(S) TAKEN TO REDUCE THE L/O PHASE II CONTINGENCY MUST BE 
+ACCOMPLISHED WITHIN TEN (10) MINUTES FROM THE TIME THE PROBLEM IS 
+IDENTIFIED.  
+ 
+LOPIIPRO  
+10-20-90  
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 8 
+ 
+ATTACHMENT I 
+ 
+METHODS FOR CALCULATING THE LOSS OF PHASE II CONTINGENCY AND THE PHASE II 
+IMPORT LIMIT 
+ 
+I. 
+The Loss of Phase II Contingency  
+ 
+The loss of Phase II Contingency is made up of two components; 1) the transfer on the Phase II tie line 
+between Hydro-Quebec and NEPOOL and 2) any MW armed for runback in New Brunswick (Keswick 
+Power Relays). While normally disabled, the Keswick Power Relays will be enabled when the Chester 
+Static VAR Compensator is OOS. ALL MW armed for the Keswick Power Relays must be included as 
+part of the Loss of Phase II Contingency. The maximum Loss of Phase II Contingency allowable is 2,200 
+MW
+ 
+.  
+Loss of Phase II Contingency 
+ =  
+Phase II transfers 
+ +  
+MW armed for Keswick Power Relays  
+ 
+ 
+II.  
+The Phase II Import Limit  
+ 
+The calculation of the Phase II Limit requires the examination of seven (7) different sets of reactive 
+conditions, four (4) in NYPP and three (3) in PJM. Three (3) of the NYPP calculations are based on 
+station voltages; Rochester 345, Oakdale 345, Oakdale 230.The remaining NYPP calculation is based on 
+MW flow across the Central East Interface. The PJM calculations are based on MW flows across the 
+Eastern, Central, and Western Interfaces.  
+ 
+The Phase II Limit is the most restrictive of the values calculated.  
+ 
+The methods for calculating the Phase II Limits are listed below.  
+ 
+A.  
+ 
+CALCULATION OF LIMITS FOR NEXT HOUR SCHEDULING  
+1.  
+Phase II Limit based on NYPP station voltages  
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 9 
+ 
+a. 
+Limit without Voltage Margin-The Phase II Limit without Voltage Margin for each of the three 
+stations is the Base New England/New Brunswick (NE/NB) Contingency Limit for that station.  
+ 
+b.  
+Limit with Voltage Margin – The Phase II Limit with Voltage Margin for each of the three 
+stations is the Base NE/NB Contingency Limit for that station plus the amount of Voltage Margin 
+authorized for that station multiplied by the Margin Sensitivity for that station.  
+ 
+Phase II Limit 
+=  
+Station Base NW/NB Contingency Limit  
++  
+Station Margin Sensitivity x Authorized Voltage Margin  
+ 
+2.  
+ 
+Phase II Limit based on NYPP Central East flow  
+The Phase II Limit is (the C/E Critical Transfer Level minus the forecasted C/E transfer for the next hour)  
+divided by the Phase II C/E Distribution Factor  
+ 
+Phase II Limit  
+=  
+Phase II C/E Distribution Factor  
+(C/E Crit. Transfer Level-forecasted C/E Transfer  
+ 
+3.  
+Phase II Limit based on PJM interface flows
+ 
+  
+a.  
+Limit without Transfer Margin – The Phase II Limit without Transfer Margin for each of the 
+three (3) PJM interfaces is the PJM Base NE/NB Contingency Limit (same for all three interfaces)  
+ 
+b.  
+Limit with Transfer Margin – The Phase II Limit with Transfer Margin for each of the three (3) 
+PJM interfaces is the PJM Base NE/NB Contingency Limit plus the amount of Transfer Margin 
+authorized for that interface multiplied by the Margin Sensitivity for that interface. 
+  
+Phase II Limit  
+=  
+PJM Base NE/NB Contingency Limit  
++  
+Margin Sensitivity x Authorized Transfer Margin  
+ 
+ISO New England - ISO New England Inc. Transmission, Markets and Services Tariff 
+Page 10 
+B.  
+ 
+CALCULATION OF REALTIME LIMITS  
+1.  
+ 
+Phase II Limit based on NYPP station voltages  
+The Phase II Limit for real time conditions for each of the three (3) stations is the Base NE/NB 
+Contingency Limit for the station plus the amount of actual Voltage Margin at the station multiplied by 
+the Margin Sensitivity for the station  
+ 
+Phase II Limit  
+=  
+Station Base NE/NB Contingency Limit  
++  
+Margin Sensitivity x actual Voltage Margin  
+ 
+2.  
+Phase II Limit based on NYPP Central East Flow
+The Phase II Limit for real time conditions is (the C/E Critical Transfer Level minus the C/E Transfer)  
+  
+divided by the Phase II C/E Distribution Factor  
+ 
+Phase II Limit  
+=  
+Phase II C/E Distribution Factor  
+(C/E Crit. Transfer Level-actual C/E Transfer)  
+ 
+3.  
+Phase II Limit based on PJM interface flows
+ 
+  
+The Phase II Limit for real time conditions for each of the three (3) PJM interfaces is the PJM Base 
+NE/NB Contingency Limit plus the amount of actual Transfer Margin on the interface multiplied by the 
+Margin Sensitivity for the interface  
+ 
+Phase II Limit  
+=  
+PJM Base NE/NB Contingency Limit  
++  
+Transfer Margin x Margin Sensitivity  

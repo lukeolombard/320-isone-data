@@ -1,0 +1,244 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION IV.B 
+ 
+CAPITAL FUNDING ARRANGEMENTS 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+IV.B.1 Definitions: 
+ 
+IV.B.2 Purpose of and Charges Assessed Under Section IV.B 
+ 
+IV.B.2.1 
+The CFC 
+IV.B.2.2 
+The EAC 
+IV.B.2.3 
+The EAWCC 
+IV.B.2.4 
+The EPSFC 
+ 
+IV.B.3 Billing and Payment 
+ 
+IV.B.3.1 
+Billing Procedure 
+ 
+IV.B.4 Regulatory Filings 
+ 
+IV.B.5 Creditworthiness 
+ 
+IV.B.6 Budgeting Process and Reports 
+ 
+IV.B.6.1 
+ISO’s Capital Budgeting Process 
+IV.B.6.2 
+Reporting of Incurred and Forecasted Capital Costs 
+ 
+ 
+ 
+ 
+IV.B.1 Definitions:   
+Whenever used in this Section IV.B, in either the singular or plural number, capitalized terms shall have 
+the meanings specified in Section I of the Tariff.  
+ 
+IV.B.2 Purpose of and Charges Assessed Under Section IV.B 
+Section IV.B is the means by which the ISO collects:  (1) the revenues necessary, to the extent not 
+obtained by the ISO through private financing, for the acquisition of capital assets required for support of 
+the ISO’s operations; (2) any remaining unamortized costs of capital items financed by the ISO in the 
+event of termination, acceleration or other required repayment of private financing approved by the 
+Commission pursuant to Section 204 of the Federal Power Act and entered into by the ISO (or by ISO 
+New England Inc. as an independent system operator prior to the Operations Date) in support of capital 
+item acquisitions; (3) the working capital amount required by the ISO in the event of termination, 
+acceleration or required repayment of private financing approved by the Commission pursuant to Section 
+204 of the Federal Power Act and entered into by the ISO (or by ISO New England Inc. as an independent 
+system operator prior to the Operations Date) (following approval thereof by the Commission pursuant to 
+Section 204 of the Federal Power Act) to meet working capital requirements; and (4) amounts owned by 
+the ISO in the event of termination, acceleration or required repayment of Shortfall Funding Arrangement 
+financing approved by the Commission pursuant to Section 204 of the Federal Power Act and entered into 
+by the ISO in support of weekly billing under the ISO New England Billing Policy. 
+ 
+Section IV.B comprises four charges corresponding to the four categories of costs described above.   
+ 
+ 
+The Capital Funding Charge (the “CFC”) will collect from the Market Participants funds for the 
+direct purchase of capital assets if the ISO does not enter into private financing to fund these 
+purchases or the ISO funds the purchases through interim financings and does not enter into private 
+financing to provide long-term funding of these purchases   
+ 
+ 
+The Early Amortization Charge (the “EAC”) will collect from the Market Participants remaining 
+unamortized costs of capital items financed by the ISO in the event of termination, acceleration or 
+required repayment of private financing, or in the case of non-amortizing private financing, payment 
+at maturity if the ISO is unable to refinance such non-amortizing private financing, entered into by the 
+ISO (or by ISO New England Inc. as an independent system operator prior to the Operations Date) in 
+ 
+ 
+support of capital item acquisitions, including refinancings in support of such acquisitions. 
+ 
+ 
+The Early Amortization Working Capital Charge (the “EAWCC”), will collect from the Market 
+Participants such funds as are required to fund the working capital amount in the event of termination, 
+acceleration or required repayment of private financing entered into by the ISO (or by ISO New 
+England Inc. as an independent system operator) in support of its working capital needs.   
+ 
+ 
+The Early Payment Shortfall Funding Charge (the “EPSFC”) will collect from the Market Participants 
+such funds as are required to be paid by the ISO in the event of termination, acceleration or required 
+repayment of the Shortfall Funding Arrangement financing entered into by the ISO in support of 
+weekly billing under the ISO New England Billing Policy. 
+ 
+The ISO will not, and will not cause anyone else to, seek a revocation or termination of the EAC, 
+EAWCC or EPSFC, or seek any modification thereto that would adversely affect the rights of the ISO’s 
+lenders during the terms of the ISO’s private financing agreements or while any indebtedness or other 
+obligations of the ISO are outstanding thereunder. 
+ 
+IV.B.2.1  The CFC 
+As stated above, the CFC recovers the acquisition costs of the ISO’s capital items that have not been 
+otherwise funded by private financing or another source of funding. 
+ 
+The cost of each capital item is allocated among the three Services corresponding to the extent to which 
+that capital item is utilized in providing the Service.  
+ 
+To assist the Market Participants in their planning for payments of the CFC, if the ISO determines that it 
+needs to assess a CFC, the ISO will post on its website, in advance of collection, a non-binding estimate 
+of cash flow requirements of the ISO (for the upcoming calendar year or portion thereof) with respect to 
+acquisition of the ISO’s capital items, and allocated among Schedules 1, 2 and 3 to Section IV of the 
+Tariff. 
+ 
+Each month, the ISO shall bill each Market Participant, and each Market Participant shall pay, as its CFC:  
+(1) the proportion of the capital costs allocated to Schedule 1 actually incurred by the ISO during the 
+preceding month equaling the proportion of the Market Participant’s charges under Schedule 1 to the total 
+charges to all Market Participants under that rate schedule during the preceding month; (2) the proportion 
+ 
+ 
+of the capital costs allocated to Schedule 2 actually incurred by the ISO during the preceding month 
+equaling the proportion of the Market Participant’s charges under Schedule 2 to the total charges to all 
+Market Participants under that rate schedule during the preceding month; and (3) the proportion of the 
+capital costs allocated to Schedule 3 actually incurred by the ISO during the preceding month equaling the 
+proportion of the Market Participant’s charges under Schedule 3 to the total charges to all Market 
+Participants under that rate schedule during the preceding month. 
+ 
+For example, if the Schedule 2 capital costs and the Schedule 3 capital costs incurred in the preceding 
+month are $500,000 each, and the Market Participant’s share of total charges to Market Participants under 
+Schedule 2 for March was 5%, and the Market Participant’s share of total charges under Schedule 3 for 
+March was 3%, the Market Participant’s CFC that month would equal (for Schedule 2) $500,000 x .05 or 
+$25,000, plus (for Schedule 3) $500,000 x .03 or $15,000, for a total CFC of $40,000. 
+ 
+IV.B.2.2  The EAC 
+In the event of termination, acceleration or required repayment of private financing, or in the case of non-
+amortizing private financing, payment at maturity if the ISO is unable to refinance such non-amortizing 
+private financing, entered into by the ISO (or by ISO New England Inc. as an independent system 
+operator) in support of the ISO’s capital items and if no replacement financing has been obtained by the 
+ISO, an EAC will be billed to, and paid by, each Market Participant.  The ISO shall provide electronic 
+notice (no less than thirty (30) business days in advance of the date payment is due to the ISO’s lenders) 
+to each Market Participant of the aggregate amount of the unamortized costs of the financed assets (the 
+“EA Amount”), and the portion of the EA Amount assigned by the ISO to each of the Schedules (the 
+“Announced Schedule 1 EA Amount,” the “Announced Schedule 2 EA Amount,” and the “Announced 
+Schedule 3 EA Amount,” respectively).  The foregoing assignment by the ISO of the EA Amount to each 
+of the Schedules 1, 2 and 3 to Section IV of the Tariff shall be made in proportion to the total respective 
+value of capital items allocated to each of the Schedules 1, 2 and 3 to Section IV of the Tariff.  In each 
+such circumstance, the ISO shall, immediately after giving the notice described above, bill each Market 
+Participant and each Market Participant shall pay, as its EAC:  (1) the proportion of the Announced 
+Schedule 1 EA Amount equaling the proportion of the Market Participant’s charges under Schedule 1 to 
+the total charges to all Market Participants under that rate schedule during the month previous to the 
+month in which the foregoing notice has been given; (2) the proportion of the Announced Schedule 2 EA 
+Amount equaling the proportion of the Market Participant’s charges under Schedule 2 to the total charges 
+to all Market Participants under that rate schedule during the month previous to the month in which the 
+foregoing notice has been given; and (3) the proportion of the Announced Schedule 3 EA Amount 
+ 
+ 
+equaling the proportion of the Market Participant’s charges under Schedule 3 to the total charges to all 
+Market Participants under that rate schedule during the month previous to the month in which the 
+foregoing notice has been given.   
+ 
+For example, if the Announced Schedule 2 EA Amount and the Announced Schedule 3 EA Amount in 
+April are $500,000 each, and the Market Participant’s share of total charges to Market Participants under 
+Schedule 2 for March was 5%, and the Market Participant’s share of total charges under Schedule 3 for 
+March was 3%, the Market Participant’s EAC would equal (for Schedule 2) $500,000 x .05 or $25,000, 
+plus (for Schedule 3) $500,000 x .03 or $15,000, for a total EAC of $40,000.  
+ 
+IV.B.2.3  The EAWCC 
+In the event of termination, acceleration or required repayment of private financing that has been entered 
+into by the ISO (or by ISO New England Inc. as an independent system operator) in support of the ISO’s 
+working capital requirements, and if no replacement financing has been obtained by the ISO, an EAWCC 
+will be billed to, and paid by, each Market Participant.  The ISO shall provide electronic notice (no less 
+than thirty (30) business days in advance of the date payment is due to the ISO’s lenders) to each Market 
+Participant of the aggregate amount of the working capital amount (the “EAWW Amount”).  In each such 
+circumstance, the ISO shall immediately bill each Market Participant and each Market Participant shall 
+pay, as its EAWCC, the proportion of the EAWW Amount equaling the proportion of the Market 
+Participant’s charges under Schedules 1, 2 and 3 to Section IV of the Tariff to the total charges to all 
+Market Participants under Schedules 1, 2 and 3 to Section IV of the Tariff during the month previous to 
+the month in which notice has been given. 
+ 
+For example, if notice is given in April that the EAWW Amount is $1,000,000 and the Market 
+Participant’s share of total charges under Schedules 1, 2 and 3 to Section IV of the Tariff for March was 
+4% of all charges to all Market Participants, the Market Participant would be charged an EAWCC of 
+$1,000,000 x .04 or $40,000. 
+ 
+IV.B.2.4  The EPSFC 
+In the event of termination, acceleration or required payment of the Shortfall Funding Arrangement 
+financing that has been entered into by the ISO in support of weekly billing under the ISO New England 
+Billing Policy, and if no replacement financing has been obtained by the ISO, an EPSFC will be billed to, 
+and paid by, each Covered Entity.  The ISO shall provide electronic notice (no less than thirty (30) 
+business days in advance of the date payment is due to the ISO’s lenders) to each Covered Entity of the 
+ 
+ 
+aggregate amount of the Early Payment Shortfall Funding Amount (the “EPSF Amount”).  In each such 
+circumstance, the ISO shall immediately bill each Covered Entity and each Covered Entity shall pay, as 
+its EPSFC, a pro rata portion of the EPSF Amount allocated in the same manner as specified in Section 
+5.4(c) of the ISO New England Billing Policy for payments required from Covered Entities to restore the 
+Required Balance. 
+ 
+IV.B.3 Billing and Payment Billing Procedure 
+With respect to charges under this Section of the Tariff, the ISO will apply the ISO New England Billing 
+Policy. 
+ 
+IV.B.4 Regulatory Filings 
+Nothing contained in this Section IV.B. shall be construed as affecting in any way the right of the ISO to 
+file with the Commission under Section 205 of the Federal Power Act and pursuant to the Commission’s 
+rules and regulations promulgated thereunder for a change in any rates, terms and conditions, charges, 
+classification of service, Service Agreement, rule or regulation. 
+ 
+Nothing contained in this Section IV.B. shall be construed as affecting in any way the ability of any 
+Customer under Section IV.B to exercise its rights under the Federal Power Act and pursuant to the 
+Commission’s rules and regulations promulgated thereunder. 
+ 
+IV.B.5 Creditworthiness 
+The ISO will apply the creditworthiness provisions of the ISO New England Financial Assurance Policy 
+to the Market Participants.  Each Market Participant shall comply with the requirements of the ISO New 
+England Financial Assurance Policy.  
+ 
+IV.B.6 Budget Process and Reports 
+ 
+IV.B.6.1  ISO’s Capital Budgeting Process:   
+As part of its annual budget process, the ISO will submit to the Budget and Finance Subcommittee the 
+ISO’s proposed budget for capital expenditures.  After taking into consideration the comments of the 
+Budget and Finance Subcommittee, the ISO will submit its proposed budget for capital expenditures to 
+the Participants Committee.  The ISO shall report the results of all Participants Committee votes on the 
+ISO’s capital budget to the ISO’s Board of Directors which shall have sole authority to approve the final 
+ISO capital budget.  Following such approval and at least 60 days prior to the beginning of the ISO’s 
+ 
+ 
+operating year, the ISO will file its capital budget with the Commission.  All annual capital budget and 
+expenditure filings will be filed pursuant to, and subject to Commission review under, Section 205 of the 
+Federal Power Act and posted on the ISO’s website.  
+ 
+IV.B.6.2  Reporting of Incurred and Forecasted Capital Costs:   
+Consistent with the requirements imposed by the Commission in Docket No. ER02-2153, the ISO will 
+file quarterly reports with the Commission specifying, by  project, the ISO’s prior year spending on multi-
+year projects, year to date spending and a forecast of the next calendar year spending.  In addition, the 
+ISO will file a schedule of the unamortized costs of the ISO’s funded capital expenditures at the end of 
+the quarter and the allocation of those costs to Schedules 1, 2 and 3.  Such reports will be filed within 
+forty-five (45) days of the end of each quarter and posted on the ISO’s website.  All quarterly capital 
+budget and expenditure filings will be filed pursuant to, and subject to Commission review under, Section 
+205 of the Federal Power Act.  

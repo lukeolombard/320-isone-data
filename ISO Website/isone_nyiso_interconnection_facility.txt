@@ -1,0 +1,83 @@
+ISO-NE / NYISO List of Interconnection Facilities 
+Version 1, dated: May 5, 2021 
+There are three (3) ISO-NE / NYISO Interconnections, which are comprised of eight (8) 
+alternating current (“AC”) Interties and one (1) high-voltage direct current (“HVDC”) Intertie.  
+The first Interconnection (the “NY/NE Northern AC Interconnection”) is comprised of seven (7) 
+of the eight (8) AC Interties.  The second Interconnection for the Northport-Norwalk Harbor 
+Cable (the “NNC Interconnection”) is comprised of the remaining AC Intertie.  The third and 
+final Interconnection for the Cross Sound Cable (the “CSC Interconnection”) is comprised of a 
+single HVDC Intertie. 
+ 
+List of Interconnections 
+ 
+NY/NE Northern AC Interconnection - The NY/NE Northern AC Interconnection is comprised 
+of the following seven (7) Interties (as ordered from North to South): 
+1.   PV-20 Intertie (115 kV AC), 
+2.   K7 Intertie (115 kV AC), 
+3.   K6 Intertie (115 kV AC), 
+4.   E205W Intertie (230 kV AC), 
+5.   393 Intertie (345 kV AC),  
+6.   690/FV Intertie (69 kV AC), and 
+7.   398 Intertie (345 kV AC). 
+ 
+NNC Interconnection - The Northport-Norwalk Harbor Cable (“NNC”) Interconnection is 
+comprised of the following Intertie: 
+1.   NNC Intertie (138 kV AC). 
+ 
+CSC Interconnection - The Cross Sound Cable (“CSC”) Interconnection is comprised of the 
+following Intertie: 
+1.   CSC Intertie (150+/- kV HVDC). 
+ 
+List of Interties (as ordered from North to South) 
+PV-20 Intertie - A 115 kV AC transmission circuit, designated PV-20, series switched reactor 
+and phase shifting transformers, connecting the Plattsburgh transmission substation in NY to the 
+Sandbar transmission substation in VT.  The common meter point for this Intertie is located at 
+the Plattsburgh transmission substation. 
+K7 Intertie - A 115 kV AC transmission circuit, designated K7, and phase shifter transformer 
+connecting the Whitehall transmission substation in NY to the Blissville transmission substation 
+in VT.  The common meter point for this Intertie is located at the Whitehall transmission 
+substation. 
+K6 Intertie - A 115 kV AC transmission circuit, designated K6, connecting the Hoosick 
+transmission substation in NY to the Bennington transmission substation in VT.  The common 
+meter point for this Intertie is located at the Hoosick transmission substation. 
+E205W Intertie - A 230 kV AC transmission circuit, designated E205W, connecting the Eastover 
+Road transmission substation in NY to the Bear Swamp transmission substation in MA.  The 
+common meter point for this Intertie is located at the Bear Swamp transmission substation. 
+393 Intertie - A 345 kV AC transmission circuit, designated 393, connecting the Alps 
+transmission substation in NY to the Berkshire transmission substation in MA.  The common 
+meter point for this Intertie is located at the Alps transmission substation. 
+690/FV Intertie - A 69 kV AC transmission circuit, designated 690/FV, connecting the 
+Smithfield transmission substation in NY to the Salisbury transmission substation in CT.  The 
+common meter point for this Intertie is located at the Salisbury transmission substation. 
+398 Intertie - A 345 kV AC transmission circuit, designated 398, connecting the Cricket Valley 
+transmission substation in NY to the Long Mountain transmission substation in CT.  The 
+common meter point for this Intertie is located at the Cricket Valley transmission substation. 
+NNC Intertie - Three 138 kV AC transmission circuits (designated 601, 602 and 603), 
+transformer and phase shifting transformer, initially designated as the 1385 Cable Intertie and 
+now the NNC Intertie, connecting the Northport transmission substation in NY to the Norwalk 
+Harbor transmission substation in CT.1  The common meter point for this Intertie is located at 
+the Norwalk Harbor transmission substation. 
+CSC Intertie - A 150+/- kV HVDC transmission circuit and associated converter facilities, 
+designated CSC, connecting the Tomson converter at Shoreham, NY to the Halvarsson converter 
+at New Haven, CT.  This entire facility is under ISO-NE operating authority, pursuant to the 
+FERC Order containing approvals regarding the HVDC Cross Sound Cable.  For Operational 
+Control purposes, the point of demarcation for the HVDC Interconnection CSC is within New 
+York State at the point where the converter facilities interconnect with LIPA’s 138 kV AC 
+facilities at Shoreham, NY.  The common meter point for this Intertie is located at the Shoreham 
+transmission substation. 
+Revision History: 
+Revision Date 
+Version 
+Number 
+ISO-NE / NYISO 
+Approval Date 
+Revision Description 
+May 5, 2021 
+1.0 
+March 4, 2021 
+398 Intertie modification to recognize the new Cricket Valley transmission 
+substation and common meter point in NY. 
+ 
+                                                 
+1 The NNC Intertie may be referenced in the Parties individual operating documents as the Northport-Norwalk 
+Harbor Cable (“NNC”), the 1385 Cable/Line or the 601, 602 and 603 Cables. 

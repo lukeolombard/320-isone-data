@@ -1,0 +1,1642 @@
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generators, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+This document is controlled when viewed on the ISO New England Internet web site.  When downloaded and printed, 
+this document becomes UNCONTROLLED, and users should check the Internet web site to ensure that they have 
+the latest version. 
+ 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 1 of 27 
+ISO-NE PUBLIC 
+ 
+APPENDIX B -  
+RESOURCE REACTIVE CAPABILITY DATA EXPLANATION OF 
+TERMS AND INSTRUCTIONS FOR DATA PREPARATION FOR 
+ISO FORM NX-12D 
+Effective Date: March 5, 2024 
+Review By Date: March 5, 2026 
+Table of Contents 
+I. INTRODUCTION ................................................................................................................................... 3 
+II. DATA SUBMITTAL REQUIREMENTS .................................................................................................. 4 
+III. DATA DETERMINATION FOR SUBMITTAL ........................................................................................ 4 
+OP-14 Appendix B Revision History ........................................................................................................ 26 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 2 of 27 
+ISO-NE PUBLIC 
+References: 
+ 
+1. North American Electric Reliability Corporation (NERC) Reliability Standard VAR-002 - Generator 
+Operation for Maintaining Network Voltage Schedules 
+ 
+2. ISO New England Operating Procedure No. 12 - Voltage and Reactive Control (OP-12), Appendix B - 
+Voltage & Reactive Schedules (OP-12B) 
+ 
+3. ISO New England Operating Procedure No. 12 - Voltage and Reactive Control (OP-12), Appendix D - 
+Voltage Schedule Annual Transmittal Form (OP-12D) 
+ 
+4. ISO New England Operating Procedure No. 14 - Technical Requirements for Generators, Demand 
+Response Resources, Asset Related Demands and Alternative Technology Regulation Resources (OP-
+14) 
+ 
+5. ISO New England Operating Procedure No. 16 - Transmission System Data (OP-16) 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 3 of 27 
+ISO-NE PUBLIC 
+I. INTRODUCTION 
+ 
+Reactive capability (NX-12D) data defines and represents the physical characteristics and ratings of a 
+reactive device, including (but not limited to): Generators (as defined in ISO New England Operating 
+Procedure No. 14 – Technical Requirements for Generators, Demand Response Resources, Asset 
+Related Demands and Alternative Technology Regulation Resources (OP-14) ), Dispatchable Asset 
+Related Demands (DARDs), or other dynamic reactive devices (e.g., synchronous condensers or flexible 
+alternating current transmission systems (FACTS) devices) and is required by ISO New England (ISO) 
+and the Local Control Centers (LCCs) in order to develop accurate system models and to support the 
+reliable operation of the New England Transmission System.  Each Market Participant (MP) is required to 
+provide this data through the ISO NX submittal software as described in this Appendix B to OP-14 (OP-
+14B). 
+ 
+NX-12D data is required for each device that is located in the New England Reliability Coordinator Area 
+(RCA) and is either  
+i) part of a Generator, including generating facilities consisting of multiple generating units, where that 
+Generator has a total real power capability of at least 1 MW, 
+ii) part of a DARD that is contained within an Electric Storage Facility (ESF DARD),  
+iii) A shunt-connected dynamic reactive power device (e.g.., Static VAR Compensator (SVC), or 
+Synchronous Condenser), or  
+iv)  is another type of dynamic reactive device for which ISO or the LCC requires and specifically 
+requests reactive capability data.   
+The MP may submit one set of representative reactive capability data, including the number of devices 
+installed, for electricity producing or consuming devices that: 
+i) use an inverter (e.g., photovoltaic, wind, etc.),  
+ii) are associated with the same Resource, DARD or other piece of dynamic reactive equipment; and, 
+iii) have the same Point of Interconnection.   
+ 
+NX-12D data may be required by ISO and the LCC for other dynamic reactive devices that support the 
+reliable operation of the New England Transmission System.  Because the capabilities of these devices 
+may not match the descriptions in this OP-14B, ISO, the LCC, and the MP will work together to 
+determine how to accurately represent the reactive capability of these devices through the NX submittal 
+software. 
+ 
+The manufacturer nameplate lagging and leading reactive power (MVAr) output capability is based on 
+the design parameters of the equipment.  This capability represents the theoretical maximum reactive 
+capability of a specific reactive device. 
+ 
+The manufacturer nameplate operating lagging and leading MVAr output capability may be limited during 
+normal operation by any one of several devices or considerations other than the manufacturer nameplate 
+capability curve.  Examples of limiting devices include, but are not limited to, excitation limiters, electrical 
+protection relaying, and thermal protection relaying.  Examples of limiting considerations include, but are 
+not limited to, internal station voltage requirements, auxiliary equipment constraints, resource 
+interconnection generator step-up transformer (GSU) overheating, fuel or prime mover limitations, and 
+contractual arrangements.  When any such limitations are present, the equipment cannot operate at the 
+manufacturer nameplate reactive capability.  This restricted capability represents the normal reactive 
+operating capability and, accordingly, it shall be included in the NX-12D data. 
+ 
+The MP shall report any change in the reactive capability of a device in Real-Time to ISO and the 
+appropriate LCC control room.  If it is determined that the change will last longer than six (6) months, 
+then the MP shall update NX-12D data in the NX submittal software. 
+ 
+The MP shall verify all NX-12D data is accurate upon submittal and at least annually.  ISO shall initiate, 
+and the MP shall respond to, the annual NX-12D data verification, which shall be performed through the 
+NX submittal software. 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 4 of 27 
+ISO-NE PUBLIC 
+ 
+II. DATA SUBMITTAL REQUIREMENTS 
+ 
+  The MP shall submit NX-12D data through ISO NX submittal software under the following conditions: 
+1. Prior to ISO designating a Resource or ESF DARD as being ready to follow dispatch; 
+2. Prior to a dynamic reactive device being placed in service; 
+3.  No later than thirty (30) calendar days from the date when a determination is made by ISO or the MP 
+that the data contained in the NX submittal software is inaccurate; or, 
+4. No later than thirty (30) calendar days from the date of determination that a temporary modification to 
+a Reactive Resource with NX-12D data, that affects that Reactive Resource’s reactive capability, will be 
+in effect for longer than six (6) months. 
+Synchronous Generator Assets or ESF DARDs that are comprised of multiple individual machines require 
+a separate NX-12D form for each machine and a separate NX-12D form for the composite Reactive 
+Resource.   
+Non-Synchronous Generator Assets or ESF DARDs that are comprised of multiple individual pieces of 
+dynamic reactive equipment require a separate NX-12D form for each equipment type at the asset. 
+Reactive devices with multiple types of reactive equipment require a separate NX-12D form for the 
+composite asset. For example, a wind plant that is comprised of twenty-five (25) turbines from one (1) 
+manufacturer and twenty-five (25) turbines from another manufacturer would require two (2) separate NX-
+12D forms (one for each unique machine type) and an additional NX-12D form that captures the entire 
+plant composite reactive power capability.  
+  
+ III. DATA DETERMINATION FOR SUBMITTAL 
+ A. Prerequisites for filling out the NX-12D form 
+ The following are required in order for the MP to provide accurate data on the NX-12D form: 
+1. 
+Manufacturer Nameplate Reactive Capability curve.  This curve is also referred to as the P/Q or 
+MW/MVAr curve. This curve is provided by the manufacturer of the reactive equipment and is a graphic 
+illustration of the reactive capability of a machine as a function of real power output or consumption.  It 
+represents the physical limitations of that machine based upon design parameters.  This curve shall be 
+uploaded to the application using the File Attachments tab.  NOTE: If this curve is not available because 
+the manufacturer is out of business or other similar circumstance, the curve shall be created by the MP 
+using the best possible data for the resource capability. 
+ 
+2. 
+Reactive Capability curve showing any limitations to the Nameplate Reactive Capability curve. This 
+curve is referred to as the Normal Operating curve.  These limitations can include, but are not limited to: 
+under-/over-excitation, prime mover (maximum MW limit), and procedural limitations.  This may be 
+provided by the manufacturer or may need to be created by the MP using all of the known limitations 
+overlaid onto the Manufacturer Nameplate Reactive Capability curve. This curve shall be uploaded to the 
+application using the File Attachments tab. 
+ 
+3. 
+Voltage schedule or automatic voltage regulator exemption as provided by the Transmission 
+Operator. 
+ B. Theoretical and Tested Values 
+ The Theoretical and Tested Values section of the NX-12D data form is where MPs provide reactive 
+capability data that has been derived from the Nameplate Reactive Capability and Normal Operating 
+curves in order to discretely model those curves in ISO systems.  In order to determine these discrete data 
+points, MW values are determined based upon manufacturer maximum MW value, minimum MW value, 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 5 of 27 
+ISO-NE PUBLIC 
+and certain other MW values that may be present on a given reactive capability curve.  The MVAr values 
+that correspond to these MW values are then determined either graphically or mathematically from the 
+reactive capability curves. 
+ These capability values represent gross reactive (MVAr) and real (MW) power as measured at the 
+equipment terminal prior to station service load.   
+ Lagging (over-excited) capability is defined as the Resource providing reactive power to the electrical 
+system and is denoted as a positive value.   
+ Leading (under-excited) capability is defined as the Resource absorbing reactive power from the 
+electrical system and is denoted as a negative value. 
+Figure 1 – Data Required for Theoretical and Tested Values 
+ 
+ 1. Synchronous Machines That Produce Real Power and Pump DARDs  
+  
+ NOTE: Synchronous machines are considered any rotating machine that is electrically coupled to the 
+electrical system through an electrical generator.  
+ 
+The “Identical Unit Count” field shall be equal to “0” unless otherwise directed by ISO.  
+ 
+a. Nameplate Reactive Capability Data Determination 
+The Nameplate Reactive Capability curve is provided by the manufacturer based upon design 
+specifications of the equipment.   Figure 2 illustrates a typical Nameplate Reactive Capability curve for a 
+sample synchronous machine at various hydrogen pressures when not encumbered by any protective or 
+limiting concerns.  The sample synchronous machine is designed to operate at thirty (30) PSIA hydrogen 
+pressure.  For equipment nameplate capability, the requested data consists of MW and MVAr pairs for 
+nine (9) points along the capability curve (see, Figure 2). 
+ 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 6 of 27 
+ISO-NE PUBLIC 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+NOTE 
+Some manufacturers provide a curve with lagging (over-excited) and leading (under-excited) axes 
+reversed (i.e. leading will be on the positive y-axis and lagging will be on the negative y-axis). 
+ 
+(1) Nameplate Real Power Data Values 
+i. General Instructions 
+ (a) 
+These MW values are the same regardless of whether the MP is determining reactive power 
+capability for Nameplate Reactive Capability or Normal Operating Curves.  
+ 
+(b)  These MW values will be N/A on data for the Normal Operating curve if the machine cannot reach that 
+MW value on the Normal Operating curve.  
+ An example of this is a machine that is capable of twenty (20) MVA but limited by the prime mover 
+capability of ten (10) MW.  In this case, the machine cannot produce enough real power in order to 
+reach the Three Quarter or Unity Generating Unit Power Factor Load Points on the Normal Operating 
+curve.   
+ 
+(c)  If there are multiple temperature-based Nameplate Reactive Capability curves for the machine output, 
+the curve that most closely approximates forty (40) degrees Celsius (40oC) shall be used to determine 
+reactive capability. 
+Leading Break 
+Point Load MW 
+Lagging Break Point 
+Load MW 
+Leading Break 
+Point Load MVAr 
+Lagging Break Point 
+Load MVAr 
+(Over-Excited) 
+(Under-Excited) 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 7 of 27 
+ISO-NE PUBLIC 
+ 
+(d) 
+If there are multiple voltage-based Nameplate Reactive Capability curves, the curve for 1.0 per unit 
+(p.u.) shall be used. 
+ 
+ 
+(e)  Motoring Capability and Full Pumping Capability MW values shall be N/A (if the Resource is part of a 
+storage facility, the reactive capability while consuming will be reported on a separate NX-12D form). 
+ 
+ii. Nameplate Real Power Data Point Determination 
+ 
+(a)  Determine the Minimum Manual Load Point MW (see, Points 1 and 6 on Figure 2). This value: 
+ is the lowest MW output at which the machine can produce both real and reactive power;   
+ is a manufacturer-provided value;  
+ shall be the lower of the summer and winter values if there are separate values; and 
+ if modified, changes the values of the Intermediate and Three Quarter Load Points. 
+ 
+(b)  Determine the Unity Generating Unit Power Factor Load Point MW (see, Point 5 on Figure 2).  This 
+value is the: 
+ maximum real power capability of the machine at unity power factor, not taking into account any 
+limitations such as prime mover capability;    
+ point where the Nameplate Reactive Capability curve crosses the zero (0) MVAr point; and  
+ if modified, changes the values of the Intermediate and Three Quarter Load Points. 
+ 
+(c)  Determine the Intermediate Load Point MW (see, Points 2 and 7 on Figure 2).  This is a calculated 
+value that is halfway between the Minimum Manual Load Point and the Unity Generating Unit Power 
+Factor Load Point and is determined by the equation: 
+𝐼𝑛𝑡𝑒𝑟𝑚𝑒𝑑𝑖𝑎𝑡𝑒 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 𝑀𝑊
+= 0.5 ∗(𝑈𝑛𝑖𝑡𝑦 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑈𝑛𝑖𝑡 𝑃𝑜𝑤𝑒𝑟 𝐹𝑎𝑐𝑡𝑜𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡−𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡) + 𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 
+ This point is N/A for Normal Operating curve data if the machine is MW limited to a point that the 
+machine cannot reach the MW value in normal operation. 
+ This point will change if the Unity Generating Unit Power Factor Load Point or the Minimum Manual 
+Load Point are changed. 
+ 
+(d)  Determine the Three Quarter Load Point MW (see, Points 3 and 8 on Figure 2).  This is a calculated 
+value that is seventy-five percent (75%) between the Minimum Manual Load Point and the Unity 
+Generating Unit Power Factor Load Point and is determined by  the equation: 
+𝑇ℎ𝑟𝑒𝑒 𝑄𝑢𝑎𝑟𝑡𝑒𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 𝑀𝑊
+= 0.75 ∗(𝑈𝑛𝑖𝑡𝑦 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑈𝑛𝑖𝑡 𝑃𝑜𝑤𝑒𝑟 𝐹𝑎𝑐𝑡𝑜𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡−𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡) + 𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 
+ This point is N/A for Normal Operating curve data if the machine is MW limited to a point that the 
+machine cannot reach the MW value in normal operation. 
+ This point will change if the Unity Generating Unit Power Factor Load Point or the Minimum Manual 
+Load Point are changed. 
+ 
+(e)  Determine Lagging Break Point Load MW (See Point 4 Figure 2).  This value: 
+ is determined by examining the Manufacturer Nameplate Reactive Capability curve.  
+ Is the MW value that corresponds to the point on the lagging (over-excited) portion of the curve where 
+there is an intersection between the curve sections reflecting the field winding limit and stator design 
+limit;   
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 8 of 27 
+ISO-NE PUBLIC 
+ may be a different value than the Leading Break Point Load MW value;   
+ is N/A for Nameplate and Normal Operating curve data if there is no break point in the curve; and   
+ is N/A for Normal Operating curve data if the machine is MW limited to a point that the machine cannot 
+reach the MW value in normal operation. 
+ 
+(f) 
+Determine Leading Break Point Load MW (See Point 9 Figure 2).  This value: 
+ 
+ is determined by examining the Manufacturer Nameplate Reactive Capability curve; 
+ is the MW value that corresponds to the point on the leading (under-excited) portion of the curve 
+where there is an intersection between the curve sections reflecting the stator design limit and the end 
+region heating limit;   
+ may be a different value than the Lagging Break Point Load MW value; 
+ is N/A for Nameplate and Normal Operating curve data if there is no break point in the curve; and 
+ is N/A for Normal Operating curve data if the machine is MW limited to a point that the machine cannot 
+reach the MW value in normal operation. 
+ 
+The Transitional Load Point MW values are determined by overlaying any limitations (e.g. over-/under-
+excitation limiters or turbine max power limits) on the Nameplate Reactive Capability curve.  This 
+combined curve is referred to as the Normal Operating curve for the machine.  Figure 3 illustrates a typical 
+Normal Operating curve for a sample synchronous generating unit at various hydrogen pressures when 
+that machine is limited by protective relaying or limiting concerns.  The sample generating unit is designed 
+to operate at a thirty (30) PSIA hydrogen pressure level.   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 9 of 27 
+ISO-NE PUBLIC 
+ 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE 
+Curve limitations may be labeled using abbreviations such as OEL (over-excitation limit), UEL 
+(under-excitation limit), MEL (minimum or maximum excitation limit), etc. 
+ 
+(g)  Determine Lagging Transitional Load Point MW (see, Point 13 Figure 3).  This value: 
+ 
+ is determined by examining the Normal Operating Reactive Capability curve; 
+ is the MW value that corresponds to the point on the lagging (over-excited) portion of the curve where 
+the most limiting limit curve intersects the Nameplate Reactive Capability curve; 
+ may be a different value than the Leading Transitional Load Point MW value; 
+ is N/A for Nameplate and Normal Operating curve if there is no limitation or that limitation does not 
+intersect with the Nameplate Reactive Capability curve; and 
+ is N/A for Normal Operating curve data if the machine is MW limited such that the machine cannot 
+reach the MW value where the limit curve intersects the Nameplate Reactive Capability curve. 
+ 
+(h)  Determine Leading Transitional Load Point MW (See Point 18 Figure 3).  This value: 
+ is determined by examining the Normal Operating Reactive Capability curve; 
+ is the MW value that corresponds to the point on the leading (under-excited) portion of the curve 
+where the most limiting limit curve intersects the Nameplate Reactive Capability curve;   
+Leading Transitional 
+Load Point MW 
+Lagging Transitional 
+Load Point MW 
+Leading Transitional 
+Load Point MVAr 
+Lagging Transitional 
+Load Point MVAr 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 10 of 27 
+ISO-NE PUBLIC 
+ may be a different value than the Lagging Transitional Load Point MW value;  
+ is N/A for Nameplate and Normal Operating curve if there is no limitation or that limitation does not 
+intersect with the Nameplate Reactive Capability curve; and   
+ is N/A for Normal Operating curve data if the machine is MW-limited, such that the machine cannot 
+reach the MW value where the limit curve intersects the Nameplate Reactive Capability curve. 
+ 
+ (2) Nameplate Reactive Power Data Point Determination 
+i.  General Instructions 
+ (a) These values do not take into account any limitations (under-/over-excitation, prime mover (max P 
+limit), procedural, etc.) on the Nameplate Reactive Capability curve.   
+ 
+(b) The reactive power values may differ between Nameplate Reactive Capability curve values and 
+Normal Operating Curve values depending upon any machine limitations.  The absolute value of the 
+Normal Operating curve MVAr values cannot be greater than the absolute value of the Nameplate 
+Reactive Capability curve MVAr values. 
+ 
+(c)  These reactive power values will be N/A on the Normal Operating curve if the machine cannot reach 
+the MW value on the Normal Operating curve.  An example of this is a machine that is capable of twenty 
+(20) MVA but limited by the prime mover capability of ten (10) MW.  In this case, the machine cannot 
+produce enough MW in order to reach the Three Quarter or Unity Generating Unit Power Factor Load 
+Points.   
+ 
+(d)  If there are multiple temperature-based Nameplate Reactive Capability curves for the machine output, 
+the curve that most closely approximates 40 degrees Celsius (40oC) shall be used to determine reactive 
+capability. 
+ 
+(e)  If there are multiple gas pressure curves, the curve that represents the machine’s normal operating 
+pressure shall be used. 
+ 
+(f)  All values shall be in MW or MVAr.  If the curve provided by the manufacturer is not in MW or MVAr, 
+these values shall be converted by the MP. 
+ 
+(g) Motoring Capability and Full Pumping Capability MVAr values shall be N/A.   
+ 
+ii.  Nameplate Lagging Reactive Power Value Determination 
+ 
+ 
+(a) Determine the Lagging Minimum Manual Load Point MVAr. This is the point on the lagging (over-
+excited) portion of the Nameplate Reactive Capability curve that corresponds to the Minimum Manual 
+Load Point MW value. 
+ 
+(b) Determine the Lagging Intermediate Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Nameplate Reactive Capability curve that corresponds to the Intermediate Load Point MW 
+value. 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 11 of 27 
+ISO-NE PUBLIC 
+(c) Determine the Lagging Three Quarter Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Nameplate Reactive Capability curve that corresponds to the Three Quarter Load Point 
+MW value. 
+ 
+(d) Determine Lagging Break Point Load MVAr.  This is the point on the lagging (over-excited) portion of 
+the Nameplate Reactive Capability curve that corresponds to the Lagging Break Point Load MW value. 
+This point is N/A if there is no break point in the curve.  
+ 
+(e) Determine Lagging Transitional Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Nameplate Reactive Capability curve that corresponds to the Lagging Transitional Load 
+Point MW value. This point is N/A if there is no limitation or that limitation does not intersect with the 
+nameplate curve. 
+ 
+iii.  Nameplate Leading Reactive Power Value Determination 
+ 
+(a) Determine the Leading Minimum Manual Load Point MVAr. This is the point on the leading (under-
+excited) portion of the Nameplate Reactive Capability curve that corresponds to the Minimum Manual 
+Load Point MW value. 
+ 
+(b)  Determine the Leading Intermediate Load Point MVAr.  This is the point on the leading (under-
+excited) portion of the Nameplate Reactive Capability curve that corresponds to the Intermediate Load 
+Point MW value. 
+ 
+(c) Determine the Leading Three Quarter Load Point MVAr.  This is the point on the leading (under-
+excited) portion of the Nameplate Reactive Capability curve that corresponds to the Three Quarter Load 
+Point MW value. 
+ 
+(d)  Determine Leading Break Point Load MVAr.  This is the point on the leading (under-excited) portion 
+of the Nameplate Reactive Capability curve that corresponds to the Leading Break Point Load MW value. 
+This point is N/A if there is no break point in the curve.  
+ 
+(e) Determine Leading Transitional Load Point MVAr.  This is the point on the leading (under-excited) 
+portion of the Nameplate Reactive Capability curve that corresponds to the Leading Transitional Load 
+Point MW value. This point is N/A if there is no limitation or that limitation does not intersect with the 
+nameplate curve. 
+ 
+b. Normal Operating Capability Data Point Determination 
+(1)  Normal Operating Capability Real Power Values 
+(a) These MW values are the same regardless of whether the MP is determining reactive power capability 
+for either the Nameplate or Normal Operating curves.  
+(b) These MW values will be N/A on data for the Normal Operating curve if the machine cannot reach that 
+MW value on the Normal Operating curve.  
+ An example of this is a machine that is capable of 20 MVA but limited by the prime mover capability of 
+10 MW.  In this case, the machine cannot produce enough real power in order to reach the Three 
+Quarter or Unity Generating Unit Power Factor Load Points on the Normal Operating curve.   
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 12 of 27 
+ISO-NE PUBLIC 
+ 
+ (2) Normal Operating Capability Reactive Power Data Determination  
+These values shall reflect any limitations (under-/over-excitation, prime mover (max P limit), procedural, 
+etc.) that restrict the machine MVAr or MW capability to less than the Nameplate Reactive Capability 
+curve.   
+ 
+(a) The reactive power values may differ between the Nameplate Reactive Capability curve values and 
+Normal Operating curve values depending upon any machine limitations.  The absolute value of the 
+Normal Operating curve MVAr values cannot be greater than the absolute value of the Nameplate 
+Reactive Capability curve MVAr values. 
+ 
+(b)  These reactive power values will be N/A on the Normal Operating curve if the machine cannot reach 
+the MW value on the Normal Operating curve.   An example of this is a machine that is capable of 20 
+MVA but limited by the prime mover capability of 10 MW.  In this case, the machine cannot produce 
+enough MW in order to reach the Three Quarter or Unity Generating Unit Power Factor Load Points.   
+ 
+(c)  If there are multiple temperature-based Normal Operating Capability curves for the machine output, 
+the curve that most closely approximates forty (40) degrees Celsius (40oC) shall be used to determine 
+reactive capability. 
+ 
+(d) If there are multiple gas pressure curves, the curve that represents the machine’s normal operating 
+pressure shall be used. 
+ 
+(e)  All values shall be in MW or MVAr.  If the curve provided by the manufacturer is not in MW or MVAr, 
+these values shall be converted by the MP. 
+ 
+(f) Motoring Capability and Full Pumping Capability MVAr values shall be N/A.   
+ 
+ 
+i. Normal Operating Lagging Reactive Power Data Determination 
+ 
+(a) Determine the Lagging Minimum Manual Load Point MVAr. This is the point on the lagging (over-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Minimum 
+Manual Load Point MW value. 
+ 
+(b) Determine the Lagging Intermediate Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Intermediate Load 
+Point MW value. 
+ 
+(c) Determine the Lagging Three Quarter Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Three Quarter Load 
+Point MW value. This point is N/A if the machine is MW limited and cannot reach the Three Quarter Load 
+Point MW value in normal operation. 
+ 
+(d) Determine Lagging Break Point Load MVAr.  This is the point on the lagging (over-excited) portion of 
+the Normal Operating Reactive Capability curve that corresponds to the Lagging Break Point Load MW 
+value. This point is N/A if there is no break point in the curve or the machine is MW limited and cannot 
+reach the Break Point Load MW value in normal operation. 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 13 of 27 
+ISO-NE PUBLIC 
+(e) Determine Lagging Transitional Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Lagging Transitional 
+Load Point MW value. This point is N/A if there is no limitation or that limitation does not intersect with the 
+nameplate curve. 
+ 
+ 
+ 
+ 
+ii. Normal Operating Leading Reactive Power Data Determination 
+ 
+(a) Determine the Leading Minimum Manual Load Point MVAr. This is the point on the leading (under-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Minimum 
+Manual Load Point MW value. 
+ 
+(b) Determine the Leading Intermediate Load Point MVAr.  This is the point on the leading (under-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Intermediate Load 
+Point MW value. 
+ 
+(c) Determine the Leading Three Quarter Load Point MVAr.  This is the point on the leading (under-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Three Quarter 
+Load Point MW value. This point is N/A if the machine is MW limited and cannot reach the Three Quarter 
+Load Point MW value in normal operation. 
+ 
+(d) Determine Leading Break Point Load MVAr.  This is the point on the leading (under-excited) portion of 
+the Normal Operating Reactive Capability curve that corresponds to the Leading Break Point Load MW 
+value.  This point is N/A if there is no break point in the curve.  
+ 
+(e) Determine Leading Transitional Load Point MVAr.  This is the point on the leading (under-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Leading Transitional 
+Load Point MW value. This point is N/A if there is no limitation or that limitation does not intersect with the 
+nameplate curve. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 14 of 27 
+ISO-NE PUBLIC 
+ 
+ 
+ 
+2. Non-Synchronous Machines That Produce Real Power and non-Pump DARDs 
+ 
+ 
+ 
+ 
+NOTE: Non-Synchronous machines are any machine that is electrically coupled to the electrical system 
+through power electronics.  These machines include, but are not limited to, inverter-based resources. 
+ 
+The “Identical Unit Count” field shall be equal to the number of identical power producing pieces of equipment 
+at the asset.  For example: a wind plant with ten (10) turbines would have “10” in the “Identical Unit Count” field 
+or a solar plant with one thousand (1000) inverters would have “1000” in the “Identical Unit Count” field.  
+ 
+a. Nameplate Reactive Capability Data Point Determination 
+The Nameplate Reactive Capability curve is provided by the manufacturer based upon design specifications of 
+the equipment.   Figure 3 illustrates a Nameplate Reactive Capability curve for a sample non-synchronous 
+machine. A specific reactive capability curve for a non-synchronous machine may look different than the 
+example curve in Figure 3; however, the concepts for determining the MW and MVAr points are similar for all 
+types of curves. For equipment reactive power capability, the requested data consists of MW and MVAr pairs 
+for eleven points along the capability curve (see, Figure 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 15 of 27 
+ISO-NE PUBLIC 
+ 
+ 
+ 
+Figure 3 – Non-Synchronous Resource Nameplate Reactive Capability curve 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE 
+Some manufacturers provide a curve with lagging (over-excited) and leading (under-excited) axes 
+reversed (i.e. leading will be on the positive y-axis and lagging will be on the negative y-axis). 
+ 
+(1) Nameplate Real Power Values 
+i. General Instructions 
+ 
+(a)  These values are the same regardless of whether the MP is determining reactive power capability for   
+Nameplate or Normal Operating curves.  
+ 
+(b) These MW values are N/A on data for the Normal Operating curve if the machine cannot reach the MW 
+value on the Normal Operating curve. An example of this is a machine that is capable of twenty (20) MVA but 
+limited by the prime mover (e.g., solar panel, battery) capability of ten (10) MW.  In this case, the machine 
+cannot produce enough MW in order to reach the Three Quarter or Unity Generating Unit Power Factor Load 
+Points.   
+Leading Break 
+Point Load MW 
+Lagging Break Point 
+Load MW 
+Leading Break 
+Point Load MVAr 
+Lagging Break Point 
+Load MVAr 
+Leading Apparent 
+Power at Break 
+Point Load MW 
+1 
+5 
+7 
+3 
+Unity Load Point 
+(Calculated) 
+6 
+2 
+8 
+4 
+Q (MVAr) 
+9 
+10 
+P (MW) 
+Lagging Apparent Power 
+at Break Point Load MW 
+Transitional Load 
+Point MW 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 16 of 27 
+ISO-NE PUBLIC 
+(c) If there are multiple temperature-based curves for the machine output, the curve that most closely 
+approximates forty (40) degrees Celsius (40oC) shall be used to determine reactive capability. 
+ 
+(d) If there are multiple voltage curves, the curve for one (1.0) per unit (p.u.) shall be used. 
+ 
+(e) All values shall be in MW or MVAr.  If the curve provided by the manufacturer is not in MW or MVAr (e.g., 
+kW or kVAr), these values shall be converted by the MP. 
+ 
+(f) Motoring Capability and Full Pumping Capability MW values shall be N/A.   
+ 
+ii. Nameplate Real Power Data Determination 
+ 
+(a) 
+Determine the Minimum Manual Load Point MW (See Points 1 and 2 Figure 3). This value: 
+ 
+ is the lowest MW output at which the machine can produce both real and reactive power;  
+ is a manufacturer-provided value; 
+ shall be zero (0.0) MW if the machine can operate at zero MW output while still providing reactive power; 
+ shall be the lower of the summer and winter values if there are separate values; and 
+ if modified, changes the values of the Intermediate and Three Quarter Load Points. 
+ 
+(b) 
+Determine Lagging Break Point Load MW (See Point 3 Figure 3).  This value: 
+ 
+ is determined by examining the Manufacturer Nameplate Reactive Capability curve;  
+ is the MW value that corresponds to the point on the lagging (over-excited) portion of the curve where 
+there is an intersection between the curve sections such as sections based on maximum voltage versus 
+maximum current limits; 
+ is equal to N/A if there is no break-point in the curve;  
+ may be a different value than the Leading Break Point Load MW value; and 
+ is the point with the highest MW value if there are multiple break-points on the curve.  
+ 
+(c) 
+Determine Leading Break Point Load MW (See Point 4 Figure 3).  This value is: 
+ 
+ determined by examining the Manufacturer Nameplate Reactive Capability curve;   
+ the MW value that corresponds to the point on the leading (under-excited) portion of the curve where there 
+is an intersection between the curve sections such as sections based on maximum voltage versus 
+maximum current limit; 
+ equal to N/A if there is no break-point in the curve. This point may be a different value than the Lagging 
+Break Point Load MW value; and   
+ the point with the greatest MW value if there are multiple break-points on the curve. 
+ 
+(d) 
+Determine the Unity Generating Unit Power Factor Load Point MW (See Figure 3). This value is either: 
+(i) the point where the Nameplate Reactive Capability curve crosses the zero reactive power point (unity 
+power factor); or, 
+(ii) If the Nameplate Reactive Capability curve does not cross zero: 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 17 of 27 
+ISO-NE PUBLIC 
+ the greater of the apparent power of the machine at the Lagging Break Point Load MW and the Leading 
+Break Point Load MW; and 
+ may not fall within the MW range of the Nameplate Reactive Capability curve.  This is an acceptable result 
+and this point will have a MVAr value of zero. 
+ 
+NOTE 
+𝐴𝑝𝑝𝑎𝑟𝑒𝑛𝑡 𝑃𝑜𝑤𝑒𝑟= √(𝑀𝑊2 + 𝑀𝑉𝐴𝑅2)    or   𝑆= √(𝑃2 + 𝑄2) 
+ 
+ 
+Modifications to the Unity Generating Unit Power Factor Load Point also change the values of the 
+Intermediate and Three Quarter Load Points. 
+ 
+(e) Determine the Intermediate Load Point MW (see, Points 5 and 6 Figure 3).  This is a calculated value found 
+by the equation: 
+𝐼𝑛𝑡𝑒𝑟𝑚𝑒𝑑𝑖𝑎𝑡𝑒 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 𝑀𝑊
+= 0.5 ∗(𝑈𝑛𝑖𝑡𝑦 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑈𝑛𝑖𝑡 𝑃𝑜𝑤𝑒𝑟 𝐹𝑎𝑐𝑡𝑜𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡−𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡) + 𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 
+ 
+ This point is N/A for Normal Operating curve data if the machine is MW limited. 
+ This point will change if the Unity Generating Unit Power Factor Load Point or the Minimum Manual Load 
+Point are changed 
+ 
+(f) Determine the Three Quarter Load Point MW (see, Points 7 and 8 Figure 3).  This is a calculated value 
+found by the equation: 
+𝑇ℎ𝑟𝑒𝑒 𝑄𝑢𝑎𝑟𝑡𝑒𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 𝑀𝑊
+= 0.75 ∗(𝑈𝑛𝑖𝑡𝑦 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑈𝑛𝑖𝑡 𝑃𝑜𝑤𝑒𝑟 𝐹𝑎𝑐𝑡𝑜𝑟 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡−𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡) + 𝑀𝑖𝑛𝑖𝑚𝑢𝑚 𝑀𝑎𝑛𝑢𝑎𝑙 𝐿𝑜𝑎𝑑 𝑃𝑜𝑖𝑛𝑡 
+ 
+ This point is N/A for Normal Operating curve data if the machine is MW limited. 
+ This point will change if the Unity Generating Unit Power Factor Load Point or the Minimum Manual Load 
+Point are changed 
+ 
+(g) 
+Determine Lagging Transitional Load Point MW (see, Point 9 Figure 3).  This is the maximum MW 
+capability of the machine.   
+ 
+(h) Determine Leading Transitional Load Point MW (See Point 10 Figure 3).  This is the maximum MW 
+capability of the machine.   
+ 
+ 
+(2) 
+Nameplate Reactive Power Data Point Determination 
+ 
+i.  General Instructions 
+(a) 
+These values do not take into account any limitations (under-/over-excitation, prime mover (max P 
+limit), procedural, etc.) on the Nameplate Reactive Capability curve.   
+ 
+(b) 
+The MVAr values may differ for Nameplate curve values compared to Normal Operating curve values 
+depending upon any machine limitations.  Normal Operating curve MVAr values cannot be greater (absolute 
+value) than the Nameplate Reactive Capability curve MVAr values. 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 18 of 27 
+ISO-NE PUBLIC 
+(c) 
+These MVAr values will be N/A on the Normal Operating curve data if the machine cannot reach the 
+MW value on the Normal Operating curve.  
+ 
+(d) 
+ If there are multiple temperature-based curves for the machine output, the curve that most closely 
+approximates forty degrees Celsius (40oC) shall be used to determine reactive capability. 
+ 
+ 
+(e) 
+If there are multiple gas pressure curves, the curve that represents the machine’s normal operating 
+pressure shall be used 
+ 
+(f) 
+Motoring Capability and Full Pumping Capability MVAr values shall be N/A.   
+ 
+ii. Nameplate Lagging Reactive Power Value Determination 
+ 
+(a) 
+Determine the Lagging Minimum Manual Load Point MVAr (see, Point 1 Figure 3). This is the point on 
+the lagging (over-excited) portion of the Nameplate Reactive Capability curve that corresponds to the 
+Minimum Manual Load Point MW value. 
+ 
+(b) 
+Determine the Lagging Intermediate Load Point MVAr (see, Point 5 Figure 3).  This is the point on the 
+lagging (over-excited) portion of the Nameplate Reactive Capability curve that corresponds to the 
+Intermediate Load Point MW value. 
+ 
+ 
+(c) 
+Determine the Lagging Three Quarter Load Point MVAr (see, Point 7 Figure 3).  This is the point on the 
+lagging (over-excited) portion of the Nameplate Reactive Capability curve that corresponds to the Three 
+Quarter Load Point MW value. 
+ 
+(d) 
+Determine Lagging Break Point Load MVAr (See Point 3 Figure 3).  This is the point on the lagging 
+(over-excited) portion of the Nameplate Reactive Capability curve that corresponds to the Lagging Break 
+Point Load MW value.  
+ 
+ 
+(e) 
+Determine Transitional Load Point MVAr (See Point 9 Figure 3).  This is the point on the lagging (over-
+excited) portion of the Nameplate Reactive Capability curve that corresponds to the Lagging Transitional 
+Load Point MW value 
+ 
+iii. 
+Nameplate Leading Reactive Power Value Determination 
+ 
+(a) 
+Determine the Leading Minimum Manual Load Point MVAr (See Point 2 Figure 3). This is the point on 
+the leading (under-excited) portion of the Nameplate Reactive Capability curve that corresponds to the 
+Minimum Manual Load Point MW value. 
+(b) 
+Determine the Leading Intermediate Load Point MVAr (See Point 6 Figure 3).  This is the point on the 
+leading (under-excited) portion of the Nameplate Reactive Capability curve that corresponds to the 
+Intermediate Load Point MW value. 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 19 of 27 
+ISO-NE PUBLIC 
+(c) 
+Determine the Leading Three Quarter Load Point MVAr (See Point 8 Figure 3.  This is the point on the 
+leading (under-excited) portion of the Nameplate Reactive Capability curve that corresponds to the Three 
+Quarter Load Point MW value. 
+(d) 
+Determine Leading Break Point Load MVAr (See Point 4 Figure 3).  This is the point on the leading 
+(under-excited) portion of the Nameplate Reactive Capability curve that corresponds to the Leading Break 
+Point Load MW value.  
+(e) 
+Determine Leading Transitional Load Point MVAr (See Point 10 Figure 3).  This is the point on the 
+leading (under-excited) portion of the Normal Operating Reactive Capability curve that corresponds to the 
+Leading Transitional Load Point MW value.  
+ 
+ 
+b. Normal Operating Reactive Capability Curve Data Point Determination 
+ 
+(1) Normal Operating Real Power Data Point Determination 
+ 
+(a) 
+These values are the same regardless of whether you are determining reactive power capability for 
+Nameplate or Normal Operating curves.  
+(b)   These values shall reflect any limitations (Under-/Over-excitation, Prime mover (max P limit), Procedural, 
+etc.) on the Nameplate Reactive Capability curve.  For non-synchronous Resources, these values are 
+typically identical to the Nameplate Operating Capability values. 
+(c)  These MW values are N/A on data for the Normal Operating curve if the machine cannot reach the MW 
+value on the Normal Operating curve. An example of this is a machine that is capable of twenty (20) MVA but 
+limited by the prime mover (e.g., solar panel, battery) capability of ten (10) MW.  In this case, the machine 
+cannot produce enough MW in order to reach the Three Quarter or Unity Generating Unit Power Factor Load 
+Points.  
+  
+(2) 
+ Normal Operating Reactive Power Data Point Determination 
+ 
+i. 
+Normal Operating Lagging Reactive Power Value Determination 
+(a) 
+Determine the Lagging Minimum Manual Load Point MVAr. This is the point on the lagging (over-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Minimum Manual 
+Load Point MW value. 
+ 
+(b) 
+Determine the Lagging Intermediate Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Intermediate Load Point 
+MW value. 
+ 
+(c) 
+Determine the Lagging Three Quarter Load Point MVAr.  This is the point on the lagging (over-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Three Quarter Load Point 
+MW value. 
+ 
+(d) 
+Determine Lagging Break Point Load MVAr.  This is the point on the lagging (over-excited) portion of the 
+Normal Operating Reactive Capability curve that corresponds to the Lagging Break Point Load MW value.  
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 20 of 27 
+ISO-NE PUBLIC 
+(e) 
+Determine Transitional Load Point MVAr.  This is the point on the lagging (over-excited) portion of the  
+Normal Operating Reactive Capability curve that corresponds to the Lagging Transitional Load Point MW value. 
+ 
+ii. 
+Normal Operating Leading Reactive Power Value Determination 
+ 
+(a) 
+Determine the Leading Minimum Manual Load Point MVAr. This is the point on the leading (under-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Minimum Manual 
+Load Point MW value. 
+ 
+(b) 
+Determine the Leading Intermediate Load Point MVAr.  This is the point on the leading (under-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Intermediate Load Point 
+MW value. 
+ 
+ 
+(c) 
+Determine the Leading Three Quarter Load Point MVAr.  This is the point on the leading (under-
+excited) portion of the Normal Operating Reactive Capability curve that corresponds to the Three Quarter 
+Load Point MW value. 
+ 
+(d) 
+Determine Leading Break Point Load MVAr.  This is the point on the Leading (under-excited) portion of 
+the Normal Operating Reactive Capability curve that corresponds to the Leading Break Point Load MW value.   
+ 
+ 
+(e) 
+Determine Leading Transitional Load Point MVAr.  This is the point on the leading (under-excited) 
+portion of the Normal Operating Reactive Capability curve that corresponds to the Leading Transitional Load 
+Point MW value.  
+ 
+ 
+ 
+3. Shunt-Connected Dynamic Reactive Power Devices 
+ 
+The “Identical Unit Count” field shall be equal to the number of identical reactive power producing or 
+consuming pieces of equipment at the Reactive Resource.  For example: a facility with ten (10) synchronous 
+condensers would have “10” in the “Identical Unit Count” field.  
+ 
+a. Nameplate Reactive Capability Data Point Determination 
+The Nameplate Reactive Capability curve is provided by the manufacturer based upon design specifications 
+of the equipment. 
+ 
+i. Nameplate Real Power Data Determination 
+ 
+(a) 
+The Minimum Manual Load Point MW value shall be zero. 
+(b) 
+The Intermediate Load Point MW value shall be zero. 
+(c)         The Three Quarter Load Point MW value shall be zero. 
+(d) 
+The Lagging Break Point Load MW value shall be N/A 
+(e) 
+The Leading Break Point Load MW value shall be N/A 
+(f)         The Lagging Transitional Load Point MW value shall be N/A.   
+(g) 
+The Leading Transitional Load Point MW value shall be N/A.   
+(h) 
+The Unity Generating Unit Power Factor Load Point MW value shall be N/A. 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 21 of 27 
+ISO-NE PUBLIC 
+ 
+ii. Nameplate Reactive Power Data Point Determination 
+ 
+(a) 
+The Minimum Manual Load Point MVAR value shall be determined from the manufacturer curve. 
+(b) 
+The Intermediate Load Point MVAR value shall be determined from the manufacturer curve. 
+(c) 
+The Three Quarter Load Point MVAR value shall be determined from the manufacturer curve. 
+(d) 
+The Lagging Break Point Load MVAR value shall be N/A 
+(e) 
+The Leading Break Point Load MVAR value shall be N/A 
+(f)         The Lagging Transitional Load Point MVAR value shall be N/A.   
+(g) 
+The Leading Transitional Load Point MVAR value shall be N/A.   
+(h) 
+The Unity Generating Unit Power Factor Load Point MVAR value shall N/A. 
+ 
+b.Normal Operating Reactive Capability Curve Data Point Determination 
+The Normal Operating Reactive Capability Curve is typically identical to the Nameplate Reactive Capability 
+Curve for these resources.  If there are limitations to the reactive capability that restrict the Nameplate 
+Reactive Capability Curve, the ISO will work with the MP to reflect those restrictions on the NX-12D form. 
+ 
+i. Normal Operating Real Power Data Determination 
+ 
+(a) 
+The Minimum Manual Load Point MW value shall be zero. 
+(b)       The Intermediate Load Point MW value shall be zero. 
+(c) 
+The Three Quarter Load Point MW value shall be zero. 
+(d) 
+The Lagging Transitional Load Point MW value shall be N/A.   
+(e) 
+The Leading Transitional Load Point MW value shall be N/A.   
+(f)        The Lagging Break Point Load MW value shall be N/A. 
+(g) 
+The Leading Break Point Load MW value shall be N/A. 
+(h) 
+The Unity Generating Unit Power Factor Load Point MW value shall be N/A. 
+ 
+ii. Normal Operating Reactive Power Data Point Determination 
+ 
+(a) 
+The Minimum Manual Load Point MVAR value shall be determined from the manufacturer curve. 
+(b) 
+ The Intermediate Load Point MVAR value shall be determined from the manufacturer curve. 
+(c) 
+The Three Quarter Load Point MVAR value shall be determined from the manufacturer curve. 
+(d) 
+The Lagging Break Point Load MVAR value shall be N/A 
+(e) 
+The Leading Break Point Load MVAR value shall be N/A 
+(f)         The Lagging Transitional Load Point MVAR value shall be N/A.   
+(g) 
+The Leading Transitional Load Point MVAR value shall be N/A.   
+(h) 
+The Unity Generating Unit Power Factor Load Point MVAR value shall be N/A. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 22 of 27 
+ISO-NE PUBLIC 
+4. All Reactive Resources 
+a. Summer Seasonal Claimed and Economic Minimum Data 
+ 
+NOTE 
+The Summer Seasonal Claimed Capability Load Point MW value on the NX-12D form is not the 
+same value as the Resource’s Summer Seasonal Claimed Capability value as determined 
+through auditing. 
+ 
+ 
+ 
+(1) Determine the Summer Seasonal Claimed Capability Data 
+i. Determine the Summer Seasonal Claimed Capability Load Point MW value.  This value is: 
+ For Generator Assets, the MW value shall be ninety percent (90%) of the summer Network 
+Resource Capability (NRC); 
+ For DARDS that are registered as part of Binary Storage Facilities, the MW value shall be the 
+maximum normal demand for the asset; 
+ For DARDS that are registered as part of Continuous Storage Facilities, the MW value shall be 
+ninety percent (90%) of the summer NRC applied in the consuming direction. 
+ For all other Reactive Resources this shall be zero. 
+ii. Determine the Summer Seasonal Claimed Capability Load Point Lagging MVAr value. This is the 
+point on the lagging (over-excited) portion of the Normal Operating curve that corresponds to the 
+Summer Seasonal Claimed Capability Load Point MW value. 
+iii. Determine the Summer Seasonal Claimed Capability Load Point Leading MVAr value. This is the 
+point on the leading (under-excited) portion of the Normal Operating curve that corresponds to the 
+Summer Seasonal Claimed Capability Load Point MW value. 
+(2) Determine the Economic Minimum (EcoMin) Data 
+i. Determine the EcoMin Load Point MW value.  
+(a) For real power producing resources and DARDs, this value is an MP-provided value 
+determined by using the definition of Economic Minimum contained in Section I.2.2 of the ISO 
+New England Inc. Transmission, Markets, and Services Tariff.  
+(b) For all other Reactive Resources this shall be zero. 
+ii. Determine the EcoMin Load Point Lagging MVAr value. This is the point on the lagging (over-
+excited) portion of the Normal Operating curve that corresponds to the EcoMin Load Point MW 
+value. 
+iii. 
+ Determine the EcoMin Load Point Leading MVAr value. . This is the point on the leading 
+(under-excited) portion of the Normal Operating curve that corresponds to the EcoMin Load Point 
+MW value. 
+ 
+ 
+ 
+b. Station Service Load Data 
+ 
+Station service means the electric energy that is used within the Resource to power the lights, motors, 
+control systems, and other auxiliary electrical loads that are necessary for operation of the Resource.  The 
+MP shall provide the expected gross MW and MVAr station service loads for normal operation at the various 
+load points.  In the event that station service loads have seasonal variations, the MP shall provide the 
+maximum station service load expected at that real power load point.  The data provided shall reflect tested 
+data if available. 
+ 
+c. Tested Data 
+ 
+The MP shall provide the real and reactive power values at the equipment terminals, the station service real 
+and reactive power values, and the date of performance of the most recently performed Reactive Capability 
+Audit (if the Reactive Resource has performed a Reactive Capability Audit).  
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 23 of 27 
+ISO-NE PUBLIC 
+ 
+d. Values at Rated MVA and Rated Power Factor from Interconnection Agreement 
+ 
+The MP shall provide the values from the currently effective Interconnection Agreement.  (e.g., equipment 
+rated at 100) MVA and required by the Interconnection Agreement to have a 0.95 lagging power factor and a 
+0.95 leading power factor would have lagging 95 MW (-31 MVAr); leading 95 MW (-31 MVAr).  In the event 
+that the equipment does not have an Interconnection Agreement with ISO, the MP shall provide values at the 
+most restrictive capability or 0.95 lagging or leading whichever is less.   
+ 
+e. Generating Units Not Directly Connected at One-Hundred Fifteen (115) kV or Above 
+ 
+This block shall remain blank unless ISO requests that the MP fill in specific plant modeling information. 
+ 
+ 
+ 
+f. Bus Loading Not Explicitly Modeled on Equivalent Network 
+ 
+This block shall remain blank unless ISO requests that the MP fill in specific plant modeling information. 
+ 
+ 
+C. Impedance and Voltage Schedule Tab 
+ 
+1. Impedance Data (%)  
+ 
+This block shall remain blank unless ISO requests that the MP fill in specific plant modeling 
+information. 
+ 
+2. Bus Loading Not Explicitly Modeled on Equivalent Network 
+ 
+This block shall remain blank unless ISO requests that the MP fill in specific plant modeling 
+information. 
+ 
+3. High Side Visibility 
+ 
+ 
+NOTE 
+If the plant operator does not have Real-Time high side voltage reading, then the “High Side Visibility” 
+box shall not be checked. 
+ 
+ 
+Check this box when the plant operator has, available in the control room, a Real-Time voltage reading 
+indicating the voltage on the bus for which the voltage schedule is provided that can be used as a 
+reference to make voltage control set-point corrections.  This voltage reading would be comparable to 
+the voltage schedule provided by the LCC. 
+ 
+4. Voltage Schedule  
+ 
+ 
+NOTE 
+For Resources with multiple pieces of reactive equipment aggregated behind a single Point of 
+Interconnection, the transformer at the Point of Interconnection for these Resources is the equivalent of 
+a GSU for conventional generators. 
+For wind, solar, or other plants that have geographically diverse generating or consuming pieces of 
+equipment with the same Point of Interconnection, the terminal voltage is the voltage at the terminals of 
+the generating or consuming equipment before any transformer/transformation to a different voltage 
+level (e.g., between a turbine and its GSU or between a solar inverter and the collector transformer). 
+For Option A units, the maximum and minimum acceptable voltage schedule limits will typically differ 
+from the more narrow voltage schedule tolerance bands as stated in ISO New England Operating 
+Procedure No. 12 - Voltage and Reactive Control (OP-12), Appendix B - Voltage & Reactive Schedules 
+(OP-12B). 
+The ISO or the LCC may operate the station at more restrictive voltages due to transmission equipment 
+voltage limits.   
+ 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 24 of 27 
+ISO-NE PUBLIC 
+ 
+  
+a. General Instructions 
+i. The On-Peak schedule field is used for the default schedule, and the Off-Peak schedule field is 
+used for alternate schedules.  In the event that the asset is not provided an alternate schedule, 
+the default schedule shall be entered into the Off-Peak schedule fields. 
+ 
+b. Reactive Resources that have been identified as “Option A” on the most recent ISO New England 
+Operating Procedure No. 12 (OP-12) Appendix D-Voltage Schedule Annual Transmittal Form (OP-
+12D): 
+ 
+Figure - 4 Voltage schedule data required for Option A Reactive Resources 
+ 
+(1) 
+Select voltage control “Option A”. 
+ 
+(2) 
+Enter the maximum and minimum acceptable voltage limits.  These limits shall reflect 
+restrictions on generator-owned equipment, including but not limited to: terminal voltage 
+constraints, auxiliary equipment limitations, station service requirements, GSU, or breaker 
+ratings. 
+ 
+(3) 
+Enter the tolerance band high, voltage schedule, and tolerance band low values.  For 
+existing assets, these values are provided by the LCC on OP-12D.  For new assets, these 
+values are communicated by ISO-NE. 
+ 
+(4) 
+Enter the terminal bus voltage maximum and minimum limits as determined by generator-
+owned equipment limitations. 
+(5) 
+Enter the voltage schedule as reflected on the terminal bus in the terminal bus schedule. 
+ 
+(6) 
+If the asset does not have High Side Visibility: 
+ 
+i.  Enter a detailed description of the method used to monitor GSU high side voltage in the 
+voltage control option comments or as a separate attached document.  If the description is 
+provided as a separate file, enter a reference to the file in the voltage control option comments. 
+ 
+ 
+c. Reactive Resources that have been identified as “Option B” on the most recent OP-12D transmittal 
+form: 
+ 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 25 of 27 
+ISO-NE PUBLIC 
+ 
+Figure - 5 Voltage schedule data required for Option B Reactive Resources 
+ 
+(1) 
+Select Voltage Control “Option B”. 
+ 
+(2) 
+Enter the maximum, voltage schedule, and minimum values.  For existing assets, these 
+values are provided by the LCC on OP-12 D.  For new assets, these values are communicated by 
+the interconnecting entity. 
+ 
+(3) 
+Enter the terminal bus voltage maximum and minimum limits as determined by generator-
+owned equipment limitations. 
+(4) 
+Enter the voltage schedule as reflected on the terminal bus in the terminal bus schedule. 
+ 
+(5) 
+If the asset does not have High Side Visibility: 
+ 
+i. Enter a detailed description of the method used to monitor GSU high side voltage in the voltage 
+control option comments or as a separate attached document.  If the description is provided as a 
+separate file, enter a reference to the file in the voltage control option comments. 
+ 
+d. Reactive Resources that have requested and been identified by ISO as “Option C”, as described in 
+ISO New England Operating Procedure No. 12 – Voltage and Reactive Control, are exempted from 
+providing automatic voltage control:  
+ 
+Figure - 6 Voltage control comments required for Option C Reactive Resources 
+ 
+ 
+(1) 
+Select voltage control “Option C”. 
+ 
+(2) 
+Enter a description of the asset reactive controls and operation in lieu of maintaining a 
+voltage schedule through use of AVR or its equivalent. This description can be entered in the 
+voltage control option comments field or uploaded as a separate file. If the description is provided 
+as a separate file, enter a reference to the file in the voltage control option comments. 
+ 
+5. Operation of Automatic Voltage Regulating Equipment (AVR) 
+ 
+OP-12 and NERC Reliability Standard VAR-002 - Generator Operation for Maintaining Network Voltage 
+Schedules require each generator equipped with an AVR to operate with the AVR in-service in the 
+automatic voltage control mode and controlling voltage and to notify ISO and the applicable LCC of any 
+AVR status changes.  The MP shall indicate when the AVR will automatically control voltage during start-
+up, normal operation, and shut-down.  When such conditions occur that match the conditions indicated 
+on Form NX-12D, this serves as advance standing notification to ISO and the LCC, and Real-Time 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 26 of 27 
+ISO-NE PUBLIC 
+reporting is not required. 
+Shunt-connected dynamic reactive power devices shall provide indication of AVR status during start-up 
+(if applicable), normal operation, and shut-down (if applicable).  
+ 
+6. Plant Voltage Control Document  
+ 
+For all Reactive Resources that employ an overall plant voltage control scheme (including but not limited 
+to wind plant controllers and combined-cycle distributed control systems), the MP shall upload a file 
+containing a detailed explanation of the voltage control scheme into the NX submittal software on the 
+File Attachments Tab. 
+ 
+7. Power System Stabilizer  
+Figure 7 – Power System Stabilizer Information 
+ 
+a. The MP shall check the PSS Installed checkbox if the machine has a PSS installed, regardless of the 
+status of that PSS (e.g., a machine that has a PSS installed, but the PSS was never commissioned 
+would still indicate that a PSS is installed). 
+b. The MP shall check the PSS Normally in Service checkbox if the PSS is on and functional when the 
+machine is producing or absorbing power.  The required PSS status will be indicated in the System 
+Impact Study. 
+ 
+NOTE 
+If the PSS Normally in Service box is checked, then the PSS Installed box shall also be 
+checked.  
+ 
+8. Short-Term Overload Capability 
+Reactive Resources that have a short-term overload capability shall provide a document, on the attachments 
+tab, describing the operation, capability, and duration of the overload capability. 
+OP-14B Revision History 
+ 
+Document History (This Document History documents action taken on the equivalent NEPOOL 
+Procedure prior to the RTO Operations Date as well as revisions made to the ISO New England 
+Procedure subsequent to the RTO Operations Date.) 
+ 
+Rev. 
+No. 
+Date 
+Reason 
+-  
+10/01/19 
+For previous revision history, refer to Rev 10 available through Ask ISO: 
+Rev 11 
+10/01/19 
+Biennial review completed by procedure owner;  
+Globally, made editorial changes consistent with current conditions, practices and 
+management expectations; 
+Update all sections to add in ESF DARDs and make wording more applicable to 
+all types of resources; 
+Truncated Revision History per SOP-RTMKTS.0210.0010 Section 5.6; 
+Rev 12 
+09/02/21 
+Biennial review completed by procedure owner;  
+Document re-write to improve usability 
+Rev 
+12.1  
+09/02/21 
+Corrected typo in Revision 12 to record document effective date in Document 
+History 
+ISO New England Operating Procedures  
+OP-14 - Technical Requirements for Generation, Demand 
+ 
+Response Resources, Asset Related Demands and  
+ 
+Alternative Technology Regulation Resources,  
+ 
+Appendix B 
+ 
+ 
+Hard Copy Is Uncontrolled 
+Revision 14, Effective Date: March 5, 2024 
+ 
+Page 27 of 27 
+ISO-NE PUBLIC 
+Rev. 
+No. 
+Date 
+Reason 
+Rev 13 
+09/07/22 
+Biennial review completed by the procedure owner; 
+Clarified responsibility for voltage schedules  
+Rev 14 
+03/05/24 
+Biennial review completed by the procedure owner; 
+Added requirements for synchronous condenser and FACTS device data. 
+ 
+ 
+ 
+ 

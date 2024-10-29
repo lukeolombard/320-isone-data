@@ -1,0 +1,2728 @@
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+ATTACHMENT D 
+ISO New England Information Policy 
+ 
+ 
+ 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Table of Contents 
+ 
+Introduction  
+Section 1 - 
+Policy Intent & Objectives  
+Section 2 - 
+Confidentiality Issues  
+2.0  
+Confidentiality  
+2.1  
+Confidential Information  
+2.2  
+Treatment of Confidential Information  
+2.3  
+Disclosure of Information Regarding Defaulting Governance Participants  
+2.4  
+Breach of Confidential Information Obligations  
+ 
+Section 3 - 
+Information Access  
+3.0  
+Information Access  
+(a)  
+Public Information  
+(b)  
+Non-Public Transmission Information   
+(c)  
+Governance Participant Specific Data  
+(d)  
+Asset Specific Information – Near Real-Time  
+(e)  
+Asset Specific Information – Forecast and post-Settlement  
+(f)  
+Meter, Bid and Offer Data  
+(g)  
+Reliability, Operations and Area Control Information  
+(h)  
+Load Response Provider Information  
+(i)  
+ISO New England Information  
+(j)  
+Critical Energy Infrastructure Information ("CEII")  
+ 
+3.1  
+Process for Submitting and Tracking Formal Information Requests by 
+Governance Participants 
+(a)  
+Requesting Entities  
+(b)  
+Public Information  
+(c)  
+Non-Public Information  
+(d)  
+Form of Request; Tracking  
+(e)  
+Timing and Notice  
+(f)  
+Consideration of Requests  
+(g)  
+Release of Information; Prioritization of Formal Information Requests  
+(h)  
+Definition of Strategic Information  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+3.2  
+Disclosure to the Commission, the CFTC , and in Response to a Cyber Security 
+Exigency  
+(a) 
+Procedures for Disclosure to the Commission 
+(b) 
+Procedures for Disclosure to the CFTC  
+(c) 
+Procedures for Disclosure in Response to a Cyber Security Exigency 
+ 
+3.3  
+Disclosure to Authorized Persons and ISO/MMU Requesting Entities  
+(a)  
+Definitions  
+(b)  
+Procedures for Disclosures to Authorized Persons. 
+(c) 
+Procedures for Disclosures to an ISO/MMU Requesting Entity. 
+ 
+3.4  
+Disclosure to Academic Institutions  
+ 
+APPENDIX A   
+FORM OF NON-DISCLOSURE AGREEMENT  
+APPENDIX B   
+FORM OF CERTIFICATION  
+APPENDIX C   
+FORM OF ACADEMIC INSTITUTION NON-DISCLOSURE AGREEMENT 
+ 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Introduction  
+The ISO New England Information Policy establishes rules and guidelines regarding the appropriate 
+disclosure of all information received, created and distributed in connection with the operation of and 
+participation in the markets administered by ISO New England Inc. (the “ISO”). The Information Policy 
+allows stakeholder committees, task forces and working groups (collectively, “Stakeholder Committees”), 
+the ISO, and Governance Participants to share information with the benefit of a common understanding 
+regarding how that information will be used and how appropriate confidentiality will be maintained.  
+The Information Policy document consists of three sections. Section 1 highlights the Information Policy's 
+intent and objectives. Section 2 discusses confidentiality issues. Finally, Section 3 specifies what types of 
+information are available to whom.  
+Changes to the Information Policy will be made in accordance with Section 11.3 of the Participants 
+Agreement.  
+ 
+Section 1 -Policy Intent & Objectives  
+The intent of the Information Policy is twofold. First, to allow Governance Participants to provide certain 
+Confidential Information to the ISO, Stakeholder Committees, and other Governance Participants with 
+the benefit of a common understanding regarding how that information will be used and how appropriate 
+confidentiality will be maintained. Second, to provide the ISO, Stakeholder Committees and Governance 
+Participants clear guidance regarding the appropriate disclosure of all information received, created or 
+distributed in connection with the operation of and participation in the markets administered by the ISO. 
+The Information Policy will pertain to all information held by Stakeholder Committees or the ISO, or 
+furnished by or to a Governance Participant as a result of its participation in the markets administered by 
+the ISO, whether it is publicly available or strictly confidential.  
+ 
+In order to meet the general obligations of the Transmission, Markets and Services Tariff, the Participants 
+Agreement, the Transmission Operating Agreement, the Rate Design and Funds Disbursement 
+Agreement, and other documents that affect the rates, terms, and conditions of service, including all 
+exhibits and attachments to the listed documents (hereafter collectively referred to as the “Filed 
+Documents”), each Governance Participant is required to furnish to and may be entitled to receive from 
+Stakeholder Committees or the ISO certain information, some of which may be considered confidential, 
+commercially sensitive, and/or strategic in nature. This information is used by the ISO, Stakeholder 
+Committees or Governance Participants, as appropriate, for the following purposes, among others:  
+ 
+1.  
+To operate the bulk power supply system on a day-to-day basis.  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+2. 
+To administer the Open Access Transmission Tariff.  
+ 
+3. 
+To administer the New England electricity markets, including the bidding process, billing system 
+and settlement function.  
+ 
+4. 
+To monitor the competitiveness and efficiency of the market and Governance Participants' 
+compliance with relevant market rules and procedures.  
+ 
+5. 
+To assess and plan for the long term reliability and adequacy of the New England bulk power 
+supply system.  
+ 
+6. 
+To provide reports and data as required or appropriate to the various user groups as described in 
+Section 3 of this Information Policy.  
+ 
+It is recognized that the successful operation of the New England Control Area is highly dependent on 
+access to certain types of information. The high degree of bulk power supply reliability and adequacy that 
+customers of Governance Participants have become accustomed to expect is, to some degree, a result of 
+Governance Participants' willingness to provide the necessary information. It is only with the ISO's 
+continued access to the information necessary to perform its duties described above that the benefits 
+obtained from bulk power supply pooling can continue. 
+  
+This Information Policy will:  
+ 
+1. 
+Recognize that protecting the confidentiality of certain information is important to the 
+Governance Participants.  
+ 
+2. 
+Recognize that the ISO and each Governance Participant have the responsibility to protect the 
+confidentiality of such information.  
+ 
+3. 
+Provide procedures and guidelines to the ISO, Stakeholder Committees and Governance 
+Participants regarding the handling, publication and distribution of all information.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+This Information Policy is intended to comport with the obligation of the ISO, Stakeholder Committees 
+and the Governance Participants to comply fully with the antitrust laws and the information access and 
+disclosure provisions of the standards of conduct for transmission providers promulgated by the 
+Commission in 18 C.F.R.  Part 358. The Information Policy is expressly intended both: (1) to protect 
+against the disclosure of Confidential Information that could facilitate anticompetitive conduct prohibited 
+by the antitrust laws and (2) to distribute information to the extent and in a manner consistent with 
+preserving the competitiveness and efficiency of the New England electric markets and the reliability of 
+the bulk power system.  
+ 
+No modifications or additions shall be made to Section 3 of this document that result in limiting the 
+disclosure of Confidential Information by Governance Participants that are municipalities, state or 
+municipal agencies, or other public agencies unless such information contains trade secrets or commercial 
+or financial information that has otherwise been kept confidential.  
+ 
+Section 2 -Confidentiality Issues  
+ 
+2.0 
+Confidentiality  
+Confidential Information furnished by a Governance Participant to Stakeholder Committees and/or the 
+ISO shall, for the purposes of this Information Policy, be considered the sole and exclusive property of 
+such Governance Participant (the “Furnishing Governance Participant”). To the extent that such 
+Confidential Information is furnished to Stakeholder Committees and/or the ISO it shall be used solely to 
+perform their obligations under the NEPOOL Agreement and the Participants Agreement. No Governance 
+Participant shall be entitled to receive from the ISO and/or Stakeholder Committees any Confidential 
+Information furnished by another Governance Participant under the NEPOOL Agreement unless the 
+Furnishing Governance Participant has provided the relevant Stakeholder Committees and/or the ISO 
+written authorization for such release. The disclosure of Confidential Information in accordance with this 
+Information Policy shall not be used by any Governance Participant as a basis for a claim that the 
+Governance Participant furnishing such Confidential Information has waived, relinquished, or reduced in 
+any way the Furnishing Governance Participant’s rights to prevent further disclosure of such Confidential 
+Information.  
+ 
+The Governance Participants recognize that one of the purposes of the ISO is to prepare analyses, 
+forecasts and reports for the general public, reliability councils, regulators and other user groups. 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Preparation of such analyses, forecasts and reports requires the use of Governance Participants’ 
+information, some of which may be Confidential Information of an individual Governance Participant.  
+ 
+Governance Participants’ obligations to provide information to the ISO or Stakeholder Committees arise 
+under the Filed Documents. Nothing in this Information Policy is intended to expand or alter those 
+obligations. Nothing in this Information Policy requires the ISO to release information to Stakeholder 
+Committees, Governance Participants or any other person if the ISO in good faith believes that the release 
+of such information would violate any applicable law or regulation or the terms of any valid 
+confidentiality agreement or have a material adverse effect on the competitiveness or efficiency of the 
+markets administered by the ISO.  
+ 
+2.1  
+Confidential Information  
+The following information will be considered Confidential Information for the purposes of this Policy:  
+ 
+(a)  
+Information that (i) is furnished by a Governance Participant (the “Furnishing Governance 
+Participant”) to the ISO, Stakeholder Committees or another Governance Participant, (ii) 
+constitutes trade secrets or commercial or financial information, the disclosure of which would 
+harm the Furnishing Governance Participant or prejudice the position of that Governance 
+Participant in the New England electricity markets, and (iii) has been designated in writing by the 
+Furnishing Governance Participant as confidential or proprietary either in the document which 
+provided such information, in the transmittal materials accompanying such information, or in a 
+separate document which identifies the information with sufficient specificity and clarity so that 
+the entity receiving such information has been made aware that the Furnishing Governance 
+Participant seeks confidential treatment for such information, or, is classified as  a type of 
+confidential or proprietary information pursuant to Section 3.0.  
+ 
+(b)  
+Information that (i) is furnished by the ISO to a Governance Participant or a Stakeholder 
+Committee, (ii) constitutes trade secrets or commercial or financial information the disclosure of 
+which would have an adverse effect on the ability of the ISO to perform its responsibilities under 
+the Participants Agreement, and (iii) has been designated in writing by the ISO as confidential or 
+proprietary either in the document which provided such information, in transmittal materials 
+accompanying such information, or in a separate document which identifies the information with 
+sufficient specificity and clarity so that the entity receiving such information has been made 
+aware that the ISO seeks confidential treatment for such information. In addition, information that 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+is furnished by the ISO to a Governance Participant or a Stakeholder Committee relating to the 
+job status or performance or terms of employment of any ISO employee shall be Confidential 
+Information.  
+ 
+(c)  
+Information that (i) is furnished by a non-Governance Participant that takes part in a demand 
+response program operated by the ISO (a “DR Information Provider”) to the ISO, Stakeholder 
+Committees or any Governance Participant in connection with the demand response program, (ii) 
+constitutes trade secrets or commercial or financial information, the disclosure of which would 
+harm the DR Information Provider or prejudice the position of the DR Information Provider in 
+the demand response program, and (iii) has been designated in writing by the DR Information 
+Provider as confidential or proprietary either in the document which provided such information, 
+in the transmittal materials accompanying such information, or in a separate document that 
+identifies the information with sufficient specificity and clarity so that the entity receiving such 
+information has been made aware that the DR Information Provider seeks confidential treatment 
+for such information.  
+ 
+(d)  
+Information that (i) is furnished by a non-Governance Participant acting as a Project Sponsor to 
+the ISO, Stakeholder Committees or any Governance Participant in connection with the Forward 
+Capacity Market, (ii) constitutes trade secrets or commercial or financial information, the 
+disclosure of which would harm the Project Sponsor or prejudice the position of the Project 
+Sponsor in the Forward Capacity Market, and (iii) has been designated in writing by the Project 
+Sponsor as confidential or proprietary either in the document which provided such information, in 
+the transmittal materials accompanying such information, or in a separate document that 
+identifies the information with sufficient specificity and clarity so that the entity receiving such 
+information has been made aware that the Project Sponsor seeks confidential treatment for such 
+information.  
+ 
+(e) 
+Information disclosed to satisfy the “Minimum Criteria for Market Participation” set forth in 
+Section II.A of the ISO New England Financial Assurance Policy that (i) is furnished by a 
+Furnishing Governance Participant to the ISO, Stakeholder Committees or another Governance 
+Participant or is furnished by the ISO to a Governance Participant or a Stakeholder Committee, 
+(ii) constitutes sensitive or non-public information concerning the Participant or identifying or 
+concerning the Principals of a Participant, the disclosure of which could harm the Furnishing 
+Governance Participant or its Principals, and (iii) has been designated in writing by the 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Furnishing Governance Participant or by the ISO as confidential either in the document which 
+provided such information, in the transmittal materials accompanying such information, or in a 
+separate document which identifies the information with sufficient specificity and clarity so that 
+the entity receiving such information has been made aware that the Furnishing Governance 
+Participant or the ISO seeks confidential treatment for such information. 
+ 
+(f) 
+Consistent with the Commission’s Order No. 895, information furnished to the ISO by a 
+Commission-jurisdictional regional transmission organization or independent system operator (an 
+“Other RTO/ISO”) that relates to the creditworthiness of a market participant of such Other 
+RTO/ISO or an applicant to become a market participant of such Other RTO/ISO for the purpose 
+of credit risk management and mitigation, including without limitation information of the 
+respective Affiliates of the foregoing; provided that Sections 3.1 and 3.4 will not be applicable 
+with respect to such information. The ISO may use such credit-related information to the same 
+extent and for the same purposes as the ISO uses credit-related information collected from its 
+own Market Participants, Non-Market Participant Transmission Customers, and Applicants in 
+accordance with the ISO Tariff (including without limitation the ISO New England Financial 
+Assurance Policy). 
+ 
+(g)  
+Any report, compilation or communication produced by the ISO or a Stakeholder Committee that 
+(i) contains information described in Clause (a), (b), (c), (d), (e) or (f) above and allows for the 
+specific identification of the Furnishing Governance Participant, the DR Information Provider, 
+the market participant of an Other RTO/ISO, or an applicant to become a market participant of an 
+Other RTO/ISO, as applicable.  
+ 
+Confidential Information shall exclude information if and to the extent such information (1) is or becomes 
+generally available to the public without any party violating any obligation of secrecy relating to the 
+information disclosed, or (2) is received by a Governance Participant in good faith from a third party who 
+discloses such information on a non-confidential basis without violating any obligation of secrecy relating 
+to the information disclosed, or (3) is defined as “Public Information,” in Section 3, or (4) can be shown 
+by the recipient's prior records to have been already known to the recipient other than through disclosure 
+by a third party which would not be subject to exclusion based on (2) above.  
+ 
+Confidential Information, as defined in this Section 2.1, may be provided to specific user groups entitled 
+to information pursuant to Sections (a) through (i) of Section 3.0. Section 3.0 is not intended, however, to 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+add to or vary the criteria specified above. Otherwise, except as specifically provided herein, no other 
+distribution or disclosure of Confidential Information shall be permitted by the ISO, Stakeholder 
+Committees or Governance Participants.  
+ 
+2.2  
+Treatment of Confidential Information  
+The Governance Participants shall take reasonable measures to assure that all of their employees, 
+representatives, or agents who by virtue of their participation on, or as an alternate on, a Stakeholder 
+Committee have access to Confidential Information of another entity that furnished the information, 
+including, as appropriate, a Furnishing Governance Participant, a DR Information Provider or the ISO 
+(the “Furnishing Entity”) (1) do not disclose such Confidential Information to any other employee, 
+representative, or agent of the same Governance Participant or any other person except as permitted under 
+this Section 2.2 and (2) use such information solely for the purpose of satisfying that person’s 
+responsibilities on the Stakeholder Committee. Each Governance Participant shall, upon request by the 
+Participants Committee, provide assurance that the terms of this Section 2.2 are complied with. Any 
+Governance Participant that has furnished Confidential Information to Stakeholder Committees may 
+require each recipient to return all or any portion of the Confidential Information once it is no longer 
+needed by such recipient to fulfill its responsibilities under the Filed Documents.  
+ 
+Notwithstanding the foregoing, the ISO, the Participants Committee or any Governance Participant may 
+disclose Confidential Information of another Governance Participant or the ISO only: (1) if such 
+disclosure is permitted in writing by the Furnishing Entity, DR Information Provider or the ISO, as the 
+case may be, or (2) if disclosure is required by order of a court or regulatory agency of competent 
+jurisdiction or dispute resolution pursuant to the Filed Documents, or (3) as otherwise specifically 
+permitted by this Policy. Any entity subject to this Information Policy shall provide prompt written notice 
+to the Furnishing Entity if that entity either is compelled by order of a court or regulatory agency of 
+competent jurisdiction to disclose, or receives a request seeking to compel disclosure of, Confidential 
+Information for which it is not the Furnishing Entity. Further, in recognition that certain Governance 
+Participants are subject to public records and open meeting laws and that certain other demands may be 
+placed on Governance Participants to disclose Confidential Information, a recipient of Confidential 
+Information of another Governance Participant or the ISO may disclose such Confidential Information if 
+and to the extent required by law or requested in writing pursuant to a public records demand or other 
+legal discovery process, provided in either event that the disclosing Governance Participant gives the 
+Furnishing Governance Participant or the ISO prompt written notice of the circumstances that may 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+require such disclosure in time so that the Furnishing Governance Participant or the ISO has a reasonable 
+opportunity to seek a protective order to prevent disclosure.  
+ 
+Notwithstanding anything to the contrary contained in this Section 2.2, the ISO, the Participants 
+Committee, or any Governance Participant may disclose Confidential Information to an alternate dispute 
+resolution (“ADR”) neutral in an ADR proceeding required or permitted by any New England market 
+rule, including Appendix A, “Market Monitoring, Reporting and Market Power Mitigation,” to Market 
+Rule 1, or to an arbitrator in an arbitration proceeding under the Filed Documents. In addition, the ISO or 
+any Governance Participant may disclose Confidential Information to a Dispute Representative as defined 
+in, and permitted by, Section 5 of the Billing Policy. Any such ADR neutral, arbitrator or Dispute 
+Representative must agree to be bound by this Information Policy.  
+ 
+Notwithstanding anything to the contrary in this Information Policy, resource-specific information 
+contained in the data fields of the Forward Capacity Tracking System, but not information provided to the 
+ISO as separate attachments via the Forward Capacity Tracking System, will be shared with subsequent 
+Lead Market Participants or Project Sponsors for that resource.  
+ 
+Notwithstanding anything to the contrary in the ISO New England Information Policy, the ISO, the 
+Participants Committee, or any Governance Participant may disclose Confidential Information as required 
+or permitted to satisfy the “Minimum Criteria for Market Participation” set forth in Section II.A of the 
+ISO New England Financial Assurance Policy. 
+ 
+Notwithstanding anything to the contrary in the ISO New England Information Policy and consistent with 
+the Commission’s Order No. 787, the ISO may disclose Confidential Information concerning natural gas-
+fueled generation from resources located within the New England Control Area to the operating personnel 
+of an interstate natural gas pipeline company that operates a pipeline provided that: (a) Confidential 
+Information regarding specific generators will be shared only with the pipeline serving that generator 
+directly and (b) the ISO has determined that it is operationally necessary to ensure reliability to disclose 
+the Confidential Information.  
+ 
+Notwithstanding anything to the contrary in the ISO New England Information Policy and consistent with 
+the Commission’s Order No. 895, the ISO may disclose Confidential Information relating to the 
+creditworthiness of a Market Participant, a Non-Market Participant Transmission Customer, or an 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Applicant to an Other RTO/ISO, including without limitation information of the respective Affiliates of 
+the foregoing, for the purpose of credit risk management and mitigation.  
+ 
+2.3  
+Disclosure of Information Regarding Defaulting Governance Participants  
+Notwithstanding any provision herein to the contrary, the information for release to Governance 
+Participants identified in this Section shall no longer be deemed “Confidential Information” pursuant to 
+the Information Policy. For any Governance Participant that is the subject of a voluntary or involuntary 
+bankruptcy petition or has sought relief under bankruptcy or insolvency laws, or that has a Financial 
+Assurance Default (as defined in the Financial Assurance Policy) or payment default under the Billing 
+Policy, which default is not, or the ISO reasonably concludes will not be, cured within five days of the 
+date of the default, in the case of a payment default (as described in the Billing Policy) or within ten days 
+of the date of a Financial Assurance Default, the following information with respect to that Governance 
+Participant’s obligations shall be disclosed by the ISO to each member and alternate on the Participants 
+Committee, each member and alternate on the Budget and Finance Subcommittee, each Governance 
+Participant’s billing contacts and financial assurance contacts, appropriate Stakeholder Committee(s) 
+designated by the Participants Committee, and appropriate state regulatory or judiciary authority:  
+ 
+For the period beginning 90 calendar days prior to the date of the bankruptcy or insolvency 
+petition or for the period beginning on the date of the payment default under the Billing Policy or 
+Financial Assurance Default forward until such time as (a) when the Governance Participant 
+cures the default (unless otherwise required by this Section 2.3 to be disclosed in connection with 
+a bankruptcy or insolvency petition); (b) the earliest to occur of the following: when the 
+bankruptcy case is dismissed, the bankruptcy case is closed, or the plan of liquidation, plan of 
+reorganization, or plan of adjustment filed in the bankruptcy case has been confirmed and such 
+plan has become effective (unless otherwise required by this Section 2.3 to be disclosed in 
+connection with a Financial Assurance Default or a payment default under the Billing Policy); or 
+(c) in any event, when the Governance Participant’s status with the ISO has been terminated 
+(whether voluntarily or involuntarily): (i) the type and available amount of financial assurance in 
+place on the date of disclosure; (ii) whether such Governance Participant has defaulted on its 
+obligations under the Financial Assurance Policy, the amount of any such default as of the date of 
+the disclosure, the date of the initial default, and when or whether the default is cured; (iii) 
+whether such Governance Participant has defaulted on its payment obligations under the Billing 
+Policy, the cumulative amount of any payment defaults as of the date of disclosure, the initial date 
+of the default, the amount of default that remains outstanding as of the date of disclosure, when or 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+whether the default is cured, and the billing default procedures that have been applied pursuant to 
+Sections 3.3, 3.4, or 3.6 of the Billing Policy;  
+(iv) for any Governance Participant subject to a bankruptcy or insolvency petition, the net 
+invoiced amount of such Governance Participant’s purchases in the New England Markets; and 
+(v) whether such Governance Participant owns a registered Load Asset.  
+ 
+If a Governance Participant is suspended from the New England Markets, the ISO shall promptly send 
+notice of such suspension to each of the members and alternates on the Participants Committee, the 
+energy regulatory agencies in each of the New England states and the Commission. Said notice shall 
+identify the specific date and time of the suspension.  Notwithstanding the foregoing, notice of such 
+suspension shall not be sent to the Commission if the Governance Participant cures the default related to 
+such suspension prior to the end of the next Business Day following the default.  If the ISO has issued a 
+notice to the Commission that a Governance Participant has been suspended, and that Governance 
+Participant subsequently cures and is no longer suspended (as determined by the ISO in its sole 
+discretion), such Governance Participant may request the ISO to issue a notice state such fact.  In the 
+event of a Financial Assurance Default (as defined in the Financial Assurance Policy) or payment default 
+under the Billing Policy, the ISO may, to the extent reasonably necessary, disclose “Confidential 
+Information” related to such Financial Assurance Default or payment default in any proceeding before the 
+Commission or a court or agency of competent jurisdiction. 
+ 
+2.4  
+Breach of Confidential Information Obligations  
+The Governance Participants and the ISO acknowledge that remedies at law for any breach of the 
+obligations under this Section 2 would be inadequate and agree that, in enforcing this Section 2, in 
+addition to any other remedies provided at law:  
+ 
+(a)  
+A Furnishing Governance Participant may, at its option, take one or both of the following actions: 
+(i) apply to any court of equity having jurisdiction for an injunction restraining the ISO, any 
+Stakeholder Committee or any Governance Participant from an actual or threatened violation of 
+this Section 2 relating to Confidential Information provided by such Furnishing Governance 
+Participant and (ii) submit such actual or threatened violation to arbitration in accordance with the 
+procedure provided in Section 17.3 of the Participants Agreement and Section I of the 
+Transmission, Markets and Services Tariff.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(b)  
+The ISO may, at its option, take one or both of the following actions: (i) apply to any court of 
+equity having jurisdiction for an injunction restraining a Governance Participant or any 
+Stakeholder Committee from an actual or threatened violation of this Section 2 relating to 
+Confidential Information and (ii) submit such actual or threatened violation to arbitration in 
+accordance with the procedure provided in Section 17.3 of the Participants Agreement and 
+Section I of the Transmission, Markets and Services Tariff.  
+ 
+(c)  
+The Participants Committee may, at its option, take one or both of the following actions: (i) apply 
+to any court of equity having jurisdiction for an injunction restraining the ISO from an actual or 
+threatened violation of this Section 2 relating to Confidential Information and (ii) submit such 
+actual or threatened violation to arbitration in accordance with the procedure provided in Section 
+17.3 of the Participants Agreement and Section I of the Transmission, Markets and Services 
+Tariff.  
+ 
+Section 3 -Information Access  
+ 
+3.0 
+ Information Access  
+ 
+(a)  
+Public Information  
+This information includes:  
+ 
+ 
+Public record filings with regulatory agencies. (Some examples include, but are not limited to, ISO 
+budget data required for ISO tariff filings; and data associated with the Open Access Transmission 
+Tariff.) 
+ 
+ 
+Data posted on the OASIS. (Some examples include, but are not limited to, transmission facilities 
+information including system inventory; new applications; scheduling information, Real-Time tie line 
+use and surplus availability; aggregate amount of generation operating out of merit (for transmission, 
+reliability and VAR) by Reliability Region (these regions will be defined by the ISO, such that no 
+Confidential Information or Strategic Information is released), Real-Time Operating Reserve 
+availability and curtailment or interruption of External Transactions.)  
+ 
+ 
+Information and/or reports that are required to be filed with the Commission (unless specifically 
+required to be filed on a confidential basis). (For example, the Filed Documents.) 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+ 
+Public generator information including system inventory and new applications. (Some examples 
+include, but are not limited to, Capacity, Energy, Loads & Transmission (CELT) Report; and 
+generator applications pursuant to Section I.3.9.) 
+ 
+ 
+Public Market Information includes any items required to be made public by (i) the Filed Documents; 
+and (ii) other relevant documents, including without limitation the ISO New England Manuals and 
+any other system rules, procedures or criteria for the operation of the New England system and 
+administration of the New England Markets and the Filed Documents. (Some examples include, but 
+are not limited to, aggregate market requirements and settlements; clearing prices; Locational 
+Marginal Prices; lists of load zones, nodes and hubs; Emergency Energy notices; market monitoring 
+input assumptions and threshold values; Financial Transmission Rights modeling and auction results; 
+Auction Revenue Rights modeling and auction results, and the Net Commitment Period 
+Compensation reporting described in Section III.F.4 of the Transmission, Markets and Services 
+Tariff.) 
+ 
+ 
+In addition, the ISO shall publish each month’s bid and offer information for all markets on its 
+website on the first day of the fourth calendar month following the month during which the applicable 
+demand bids and supply offers were in effect (e.g., bid and offer data for January would be released 
+on May 1), provided that the information is presented in a manner that does not reveal the specific 
+load or supply asset, its owners, or the name of the entity making the bid or offer, but that allows the 
+tracking of each individual entity’s bids and offers over time.  
+ 
+ 
+Market test information including any information equivalent to Public Market Information derived 
+from test programs for new markets or market software or simulations of proposed market 
+improvement (includes any and all information necessary for evaluation of the impacts of a proposed 
+new market or an improvement to an existing market, such as cost-shifting impacts and price impacts 
+under certain conditions).  
+ 
+ 
+Long-term system planning and operations information consisting of load forecasts, transmission 
+models (including power flow, short circuit and stability models and their related base cases and 
+contingency files), transfer limits used for planning purposes, Installed Capacity Requirements and 
+Governance Participants and non-Governance Participants proposed generation.  This information 
+does not include near-term transmission models or transfer limits within New England that are 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+developed as part of system operations or real-time information from the control room energy 
+management system.  
+ 
+ 
+Public reports required by the Filed Documents (including, but not limited to, evaluation of 
+procedures for determination of Locational Marginal Prices as well as the awarding Financial 
+Transmission Rights and associated Congestion Costs and Transmission Congestion Credits).  
+ 
+ 
+Public market monitoring information including, but not limited to, public reports by the Independent 
+Market Advisor required by the Market Rules (includes the ISO’s time and expenses in pursuing 
+sanctionable behavior on a case-by-case basis and periodic reports of sanctions imposed and the 
+sanctionable behavior upon which such sanctions were imposed, provided that the information is 
+presented in a manner that does not allow for the identification of the Governance Participants by 
+name or provide a manner for identifying such Governance Participants, except as otherwise provided 
+in the Filed Documents).  
+ 
+ 
+Any other information that is not Confidential Information that the ISO determines is appropriate for 
+public dissemination because it will improve system reliability, the efficiency of the markets or public 
+understanding of the New England system and the operations of the ISO.  
+ 
+This data may be made available to the public at large. (Fees may be applicable to cover process and 
+handling expenses.)  
+ 
+(b) 
+ Non-Public Transmission Information  
+This information includes:  
+ 
+ 
+Information and/or reports that are filed with NERC or NPCC 
+ 
+ 
+ 
+ 
+ 
+Real-time system operations information, which is not posted on the OASIS, including but not limited 
+to detailed operations data. (Some examples include, but are not limited to, real-time transmission line 
+flows, real-time transfer limits, and real-time voltages.)  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+Information relating to specific generating facilities, which is required by transmission personnel to 
+ensure the reliable operation of the New England bulk power system. (Some examples include, but 
+are not limited to, detailed generator operating characteristics; and dynamic swing recorder plots.) 
+ 
+ 
+Transmission Operating Guides. (Some examples include, but are not limited to, guides for operation 
+of special protection systems; and transmission operations related to stability limits.) 
+ 
+ 
+Information related to system restoration efforts. (Some examples include, but are not limited to, ISO 
+and Governance Participants' detailed power system restoration plans.) 
+ 
+This information may be made available to reliability councils and all Governance Participants’ 
+transmission personnel. The release of relevant transmission outage information to affected generators, to 
+the extent required or desired for coordination of transmission and generation outages, shall be governed 
+by the processes available for such coordination (ISO New England Operating Procedure No. 3 or any 
+successor or similar document), by the codes of conduct prescribed by 18 C.F.R. Part 358 and by other 
+applicable Commission regulation.  
+ 
+(c)  
+Governance Participant Specific Data  
+This information includes:  
+ 
+ 
+Data not yet posted on the OASIS. (Some examples include, but are not limited to, interface 
+transmission service schedules lists.) 
+ 
+ 
+Confidential Information, as defined in Section 2.1 of this Information Policy, for which this 
+Governance Participant, or an agent thereof, has the right to receive the data.  (Some examples 
+include, but are not limited to, product obligation; and load.) 
+ 
+ 
+Invoice and Settlement Data.  (Some examples include, but are not limited to, Governance Participant 
+Phase I/II hourly transfer capability allocations; electrical load, adjusted net interchange, obligation, 
+entitlement, Charges, and Payments for each market.) 
+ 
+This data may be made available to active users or agents of the specified Governance Participant.  
+ 
+(d)  
+Asset Specific Information – Near Real-Time  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+This information includes:  
+ 
+ 
+Near real-time information related to the particular asset. (Some examples include, but are not limited 
+to, generation levels (MW); designations (MW); AGC status, operating limits, response rates, unit 
+forecast and operation information, and Real-Time status of External Transactions)  
+ 
+This data may be made available to those Governance Participants, or agents thereof, who are joint 
+Owners and/or Entitlement Holders in the Asset.  As applicable, this data may also be made available to a 
+Governance Participant who is a contractual party to external or internal bilateral contracts for the 
+specified Asset, The release of relevant generation outage information to affected transmission owners, to 
+the extent required or desired for coordination of transmission and generation outages, shall be governed 
+by the processes available for such coordination (ISO New England Operating Procedure No. 3 or any 
+successor or similar document), by the standards of conduct prescribed by 18 C.F.R. Part 358 and by 
+other applicable Commission regulations.  
+ 
+(e) 
+ Asset Specific Information – Forecast and post-Settlement  
+This information includes:  
+ 
+ 
+Unit forecast information relating to a particular Asset, which is necessary to determine the projected 
+operation of particular resources. (Some examples include, but are not limited to, Start-Up Time; 
+generation; and shut-down time.) 
+ 
+ 
+Information relating to a particular Asset, which is necessary to determine the accuracy of settlement. 
+(Some examples include, but are not limited to, high operating limit; generation; Ownership Share; 
+and duration on AGC.) 
+ 
+ 
+Governance Participant input data. (Some examples include, but are not limited to, generation input 
+data; and records of deficient performance.) 
+ 
+ 
+Capability Responsibility  data and calculations, for those specific generating facilities for which a 
+Governance Participant(s) has an ownership interest. (Some examples include, but are not limited to, 
+unit capability demonstration audits) 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+All information, with the exception of bids, offers and meter data, necessary to verify settlement data. 
+(Some examples include, but are not limited to, response rate data; and minimum run-time data.) 
+ 
+This data may be made available to those Governance Participants, or agents thereof, who are joint 
+owners and/or entitlement holders in the Asset.  The release of relevant generation outage information to 
+affected transmission owners, to the extent required or desired for coordination of transmission and 
+generation outages, shall be governed by the processes available for such coordination (ISO New England 
+Operating Procedure No. 3 or any successor or similar document), by the  codes of conduct prescribed by 
+18 C.F.R. Part 358 and by other applicable Commission regulations.  
+ 
+(f)  
+Meter, Bid and Offer Data  
+This information includes:  
+ 
+ 
+Confidential Information submitted as input to the market system. Bid and offer data may be made 
+available to any Governance Participant with an Ownership Share, or agent thereof, for a specified 
+Asset.  
+ 
+ 
+A minimum power value derived by the ISO from a resource’s Economic Minimum Limit may be 
+included in the transmission models that are treated as public information pursuant to Section 3.0(a). 
+ 
+ 
+Meter data may be made available to the Assigned Meter Reader for a specified Asset.  Meter data 
+may be manually distributed to the Host Participant whose unmetered load is calculated based on said 
+meter data.  
+ 
+(g) 
+ Reliability, Operations and Area Control Information  
+ 
+(i) 
+Reliability-Related Information 
+This information includes: 
+ 
+ 
+Real-Time operating data, including Confidential Information, that is used to assure the 
+reliable operation of the interconnected bulk power system and/or that may be authorized or 
+required to be shared pursuant to reliability standard, NERC or NPCC rule, or by 
+Commission request, order or rule.  (Some examples include, but are not limited to, 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+transmission interface limits, transmission line flows, line or circuit breaker status, generation 
+output or phasor measurement data.) 
+ 
+Real-Time operating data that is used to assure reliable operation of the interconnected bulk power system 
+is typically shared by the ISO with the Commission, NERC, NPCC, and any applicable “regional entity” 
+(as defined in the Federal Power Act), or any reliability coordinator, balancing authority, transmission 
+operator or equivalent entity. 
+ 
+(ii)  
+External Control Center Information  
+This information includes:  
+ 
+ 
+All system operations or planning information that relates to the particular external control 
+center. (Some examples include, but are not limited to, transmission interface transfers and 
+limits within the external control center area; and inter-area emergency assistance available, 
+used for planning purposes, under ISO New England Operating Procedure No. 4 conditions.)  
+ 
+ 
+Information that is required to assure the reliable operation of the interconnected bulk power 
+system. (Some examples include, but are not limited to, all information deemed necessary in 
+the event of ISO New England Operating Procedure No. 4 implementation; and, under non-
+ISO New England Operating Procedure No. 4 system conditions, information related to inter-
+area flow control.)  
+ 
+ 
+Inter-area transmission operating guides that relate to the particular external control area. 
+(Some examples include, but are not limited to, PV-20 Cross Trip SPS – available to New 
+York; and Phase I Runback SPS – available to Hydro Quebec.)  
+ 
+ 
+Confidential Information (under signature of confidentiality agreements that provide rights to 
+Governance Participants equivalent to those granted in this Information Policy to notice of 
+and opportunity to defend against any release of their Confidential Information) and non-
+confidential information may be shared among Control Areas for the purposes of increasing 
+markets coordination, including elimination of seams, increasing market efficiency and study 
+purposes of the interconnected bulk power system. (Some examples include, but are not 
+limited to, ISO operations and markets information, including market monitoring 
+information, provided that market monitoring information shall only be shared with 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+independent market operators or independent market monitors and only in connection with 
+particular investigations affecting regional markets.)  
+ 
+This information is not available to Governance Participants, a subset thereof, or the Public at large, but is 
+typically communicated by the ISO operations (control room/forecast office) or planning department 
+directly to external control center personnel.  
+ 
+(iii) 
+ Local Control Center Information  
+This information includes:  
+ 
+ 
+All system operations or planning information.  (Some examples include, but are not limited to, 
+detailed system models; and transmission element data as detailed on NX-9 forms.) 
+ 
+ 
+Information relating to specific generating facilities that is needed to assure the reliable operation of 
+the New England Control Area.  (Some examples include, but are not limited to, generator 
+constraints, including the reason for such constraint; and detailed generator unit commitment.) 
+ 
+ 
+Transmission Operating Guides.  (Some examples include, but are not limited to, guides for operation 
+of special protection systems; and transmission operations related to stability limits.) 
+ 
+ 
+New England and Local Control Center System Restoration Plans.  (Some examples include, but are 
+not limited to, the ISO, Local Control Center and Governance Participants’ detailed power system 
+restoration plans.) 
+ 
+This information is not available to Governance Participants, a subset thereof, or the public at large, but is 
+typically communicated by the ISO’s control room/forecast office) directly to Local Control Center 
+personnel.  
+ 
+(h)  
+Demand Response Provider Information  
+This information is asset-specific Confidential Information, including:  
+ 
+Retail customer information; 
+ 
+Customer data; 
+ 
+Load profiles, and; 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+Demand response information provided at the request of the Internal Market Monitor pursuant to 
+Section III.A.17. 
+ 
+Information relating to retail customers, customer data and load profiles is subject to certain state law 
+restrictions and is not available to Governance Participants, a subset thereof, or the Public at large, but is 
+typically communicated by the ISO’s control room/forecast office directly to load response provider 
+personnel.  
+ 
+(i)  
+ISO New England Information  
+This information includes:  
+ 
+ 
+Any Governance Participant or Asset specific information as requested by the ISO, which will be 
+maintained in accordance with this Information Policy. (Some examples include, but are not limited 
+to, all Governance Participant and Asset specific information, which is available to the ISO.)  
+ 
+ 
+Any ISO employment information and ISO administrative information not specifically listed in other 
+categories.  
+ISO personnel, consultants, counsel, and board members may have access to any information defined in 
+the categories listed above.  
+All Confidential Information, as defined in Section 2.1 of this Information Policy, will only be distributed 
+in accordance with this  Information Policy.  
+ 
+All other data, which is not specifically defined and is not Confidential Information, may be released at 
+the discretion of the ISO in accordance with the procedures set forth in Sections 3.1, 3.2 and 3.3 hereto.  
+ 
+(j)  
+Critical Energy Infrastructure Information (“CEII”)  
+This information includes:  
+ 
+ 
+Information designated by a Governance Participant or the ISO as CEII, which is defined by the 
+Commission as “specific engineering, vulnerability, or detailed design information about proposed or 
+existing critical infrastructure that: (1) relates details about the production, generation, transportation, 
+transmission, or distribution of energy; (2) could be useful to a person in planning an attack on critical 
+infrastructure; (3) is exempt from mandatory disclosure under the Freedom of Information Act, 5 
+U.S.C. 552; and (4) does not simply give the general location of the critical infrastructure.”  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+ 
+Reports, summaries, compilations, analyses, notes or other information which contain such 
+information.  
+ 
+Access to CEII shall be granted by the ISO in accordance with the CEII disclosure processes posted on its 
+website and, in the event that the CEII also falls within a category of information (including Confidential 
+Information) described herein, in accordance with this Information Policy. Governance Participants shall 
+treat CEII as if it were Confidential Information, notwithstanding any other provision of this Information 
+Policy, and additionally shall maintain CEII in a secure place.  
+ 
+3.1 
+ Process for Submitting and Tracking Formal Information Requests by Governance 
+Participants  
+(a)  
+Requesting Entities  
+As used in this Section 3.1, the term “Requesting Entity” shall mean any Governance Participant  or an 
+Authorized Person, as defined in Section 3.3 of this Information Policy).  
+ 
+(b) 
+ Public Information  
+If a Requesting Entity requests that the ISO publish Public Information (as defined in Section 3.0(a) of 
+this Information Policy) that is not currently published by the ISO, the ISO may after consultation with 
+the Participants Committee or its designated subcommittee or working group defer or deny such request if 
+the ISO determines that publication of such data is not feasible at the time of such request due to resource 
+limitations, including, without limitation, available software.  
+ 
+(c)  
+Non-Public Information  
+(i)  
+A Requesting Entity that desires to make a formal request for information that is not 
+Public Information from the ISO, the resolution of which request shall be appealable under 
+Section 3.1(e)(v) of this Information Policy, shall submit a formal written request to the ISO in 
+the manner set forth in Section 3.1(d) below (a “Formal Information Request”) for such 
+information.  
+ 
+(ii)  
+Requests for information from Requesting Entities to the ISO other than Formal 
+Information Requests need not be in writing.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(iii)  
+Any request for information from the Commission, or the CFTC,  or from an Authorized 
+Person (as defined in Section 3.3 of this Information Policy) shall be addressed according to the 
+procedures set forth in Section 3.2 and Section 3.3 of this Information Policy, as applicable.  
+ 
+(d)  
+Form of Request; Tracking  
+(i)  
+Any Formal Information Request shall be directed to the point of contact designated by 
+the ISO to handle such requests (the “ISO Information Contact”). The ISO shall post contact 
+information for the ISO Information Contact on the ISO website.  
+ 
+(ii)  
+A Formal Information Request shall be in writing, which shall include electronic 
+communications addressed to the ISO Information Contact, and shall: (a) describe with 
+particularity the information sought; (b) provide a description of the purpose of the information 
+request; (c) state the time period for which such information is requested; (d) specifically 
+designate such request as a Formal Information Request and make reference to Section 3.1(d)(ii) 
+of the Information Policy; and (e) provide contact information for the person to whom the 
+response to such Formal Information Request is to be directed.  
+ 
+(iii)  
+The ISO Information Contact shall track all Formal Information Requests and provide a 
+report indicating the nature of each request and the response to such request to the Markets 
+Committee on a monthly basis.  
+ 
+(e)  
+Timing and Notice  
+(i)  
+The ISO Information Contact normally shall notify all affected Furnishing Entities within 
+five (5) business days after receiving a Formal Information Request.  
+ 
+(ii) 
+ The ISO Information Contact normally shall provide the Requesting Entity with a 
+response (an “Initial Response”) within fifteen (15) business days after receiving the Formal 
+Information Request (the “Request Date”). The Initial Response shall indicate either (A) that the 
+ISO has made a decision on the Formal Information Request in accordance with Section 3.1(f)(i) 
+below, in which case it shall describe such decision, or (B) that the ISO was unable to reach a 
+decision, and will be consulting with the Participants Committee in accordance with Section 
+3.1(f)(ii) below.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(iii) 
+ If the Initial Response indicates that the ISO is further consulting with the Participants 
+Committee, the ISO Information Contact normally shall provide the Requesting Entity with a 
+follow-up response (a “Follow-Up Response”) the earlier of ten (10) business days after a 
+recommendation by the Participants Committee as set forth in Section 3.1(f)(ii) below or sixty 
+(60) days following the Request Date, which response shall indicate either (A) that the ISO has 
+made a decision on the Formal Information Request in accordance with Section 3.1(f)(ii) below, 
+in which case it shall describe such decision, or (B) that the ISO has failed to make a decision 
+with respect to the Formal Information Request, in which case such request shall be deemed 
+denied.  
+ 
+(iv)  
+The ISO Information Contact shall provide the Furnishing Entity(ies) with copies of any 
+Initial Response or Follow-Up Response provided in response to a Formal Information Request 
+on the same day that such responses are provided to the Requesting Entity. In addition, the ISO 
+Information Contact shall provide the Furnishing Entity(ies) with at least ten (10) business days 
+prior written notice of any release of Confidential Information or Strategic Information relating to 
+such Furnishing Entity (whether such release is on the ISO’s own initiative, in response to a 
+Formal Information Request, or otherwise), which written notice shall inform such Furnishing 
+Entity(ies) of its right to dispute such release under Section 3.1(e)(v) of the Information Policy.  
+ 
+(v)  
+The Requesting Entity shall have the right to appeal any Initial Response that contains a 
+decision with respect to a Formal Information Request and any Follow-Up Response. Any 
+affected Furnishing Entity shall have the right to appeal any Initial Response or Follow-Up 
+Response that contains a decision with respect to a Formal Information Request and any decision 
+by the ISO to release Confidential Information or Strategic Information (whether such release is 
+on the ISO’s own initiative, in response to a Formal Information Request, or otherwise). The 
+Participants Committee shall have the right to appeal any Initial Response that contains a decision 
+with respect to a Formal Information Request. Notice of any appeal shall be provided 
+contemporaneously to the Participants Committee and the ISO Information Contact.  
+  
+(vi)  
+Any appeal of the ISO’s actions under this Section 3.1 with respect to a Formal 
+Information Request shall be subject to binding arbitration with the Commission’s Alternative 
+Dispute Resolution Service, as further described in 18 C.F.R. §§ 385.604, 385.605. The ISO and 
+the disputing entity(ies) shall use reasonable efforts to insure that an arbitrator is selected and a 
+hearing is scheduled within thirty (30) days of the ISO receiving notice of an appeal. Unless 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+otherwise agreed by all parties, the duration of any arbitration hearing will be limited to one day. 
+The arbitrator’s decision shall be binding on the respective parties; provided, however, that any of 
+the respective parties to the arbitrator’s decision shall be entitled to appeal the arbitrator’s 
+decision directly to the Commission.  
+ 
+(vii)  
+Suitable forms of notice and/or communications pursuant to this subsection shall include, 
+but not be limited to, electronic communications.  
+ 
+(f)  
+Consideration of Requests  
+(i)  
+After receiving a Formal Information Request, the ISO shall first determine whether (X) 
+the information requested is information described in Sections (a) through (i) of Section 3.0 and 
+(Y) the Requesting Entity is a member of a user group specifically entitled to receive such 
+information pursuant to Sections (a) through (i) of Section 3.0. If the ISO determines that the 
+Requesting Entity is not entitled to receive the requested information pursuant to Sections (a) 
+through (i) of Section 3.0, the ISO shall then determine if the requested information is 
+Confidential Information or Strategic Information. The ISO may consult with the Independent 
+Market Advisor, NEPOOL counsel, the Furnishing Entity(ies), and/or the Participants Committee 
+(as provided in Section 3.1(d)) during the process of making this determination.  
+ 
+(A)  
+If the ISO determines that the information is Confidential Information, the ISO 
+Information Contact will refer the request to the Furnishing Entity(ies) and the ISO will 
+not release the requested information unless it is directed to do so by the Furnishing 
+Entity(ies) or ordered to do so by a court or regulatory authority with jurisdiction over 
+such matters. If the Furnishing Entity(ies) directs the ISO to release the requested 
+information, the ISO will next determine whether the requested information is Strategic 
+Information as set forth in Section 3.1(c)(i)(B) below. The Furnishing Entity(ies) shall 
+bear any costs reasonably incurred by the ISO in opposing the issuance of such an order 
+requiring disclosure of the Furnishing Entity(ies)’ Confidential Information. 
+Notwithstanding the foregoing, upon the request of a regulatory agency, other than FERC 
+or its staff or the CFTC or its staff, having appropriate jurisdiction and subject to an 
+appropriate confidentiality order entered under such agency’s procedures sufficient to 
+preserve the confidential nature of the information submitted, and with advance notice to 
+the Furnishing Entity(ies), the ISO Information Contact may submit Confidential 
+Information to such agency.  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+(B)  
+If the information requested is Strategic Information, the ISO shall determine 
+whether to release the requested information, in consultation with the Independent 
+Market Advisor, NEPOOL counsel and/or the Furnishing Entity(ies), as the ISO deems 
+appropriate. If the ISO releases such information, it will do so by making the information 
+public.  
+ 
+(C)  
+If the information requested is neither Confidential Information nor Strategic 
+Information, the ISO shall determine whether to release the requested information; 
+provided that the Participants Committee, acting on the recommendation of an 
+appropriate Stakeholder Committee, may request the ISO to release the requested 
+information.  
+ 
+(ii)  
+If, after consultation with the Independent Market Advisor, NEPOOL counsel and/or the 
+Furnishing Entity, as appropriate, the ISO cannot, in its good faith judgment, determine the 
+classification status of requested information or otherwise believes that a Formal Information 
+Request raises policy questions that should be determined by the Governance Participants, then 
+the following procedure shall apply:  
+ 
+(A)  
+The ISO shall refer the request to the Participants Committee with its 
+recommendation for action.  
+ 
+(B)  
+The Participants Committee, acting on recommendation of a subcommittee or 
+working group, as appropriate, may approve of or suggest modifications to the 
+recommendation of the ISO. If the Participants Committee approves the ISO’s 
+recommendation, or if the ISO accepts the Participants Committee’s suggested 
+modifications, the Participants Committee’s decision shall determine the response to the 
+Formal Information Request; provided, however, that, to the extent that the information 
+requested is found to be Confidential Information, the ISO shall continue to maintain the 
+confidentiality of such information in accordance with the terms of this Information 
+Policy.  
+ 
+(g) 
+ Release of Information; Prioritization of Formal Information Requests  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(i)  
+The ISO shall reasonably attempt to comply with any Formal Information Request that 
+has been granted within thirty (30) days of the Initial Response or Follow-Up Response informing 
+the Requesting Entity that its request has been granted. The ISO may condition the release of any 
+information to a Requesting Entity upon payment of the ISO’s reasonable cost to identify and 
+prepare such information.  
+ 
+ (ii)  
+If the ISO does not have the resources available to comply with all outstanding Formal 
+Information Requests within the time provided in clause (i) above, the ISO will consult with the 
+Participants Committee or its designated subcommittee or working group to determine how such 
+Formal Information Requests should be prioritized.  
+ 
+(h) 
+ Definition of Strategic Information  
+For purposes of this Policy, Strategic Information means any information, except Public Information, that 
+would affect a Governance Participant’s bid or offer strategy in the New England electric markets 
+including information affecting the offer price for or cost of operation of a resource, the capacity or 
+availability of a resource, or any other offer parameter for a resource.  
+ 
+Strategic Information includes Confidential Information supplied by Governance Participants to the 
+extent such information would affect a Governance Participant’s bid or offer strategy such as, for 
+example:  
+ 
+ 
+All offer prices and parameters for particular resources including bid blocks and times.  
+ 
+ 
+Cost information regarding operation of one or more resources if and to the extent supplied to the 
+ISO.  
+ 
+ 
+Information regarding fuel availability for thermal resources or impoundment levels for hydroelectric 
+facilities.  
+ 
+ 
+Information regarding transmission outages, not otherwise made public, for scheduled maintenance or 
+otherwise that affects the availability of certain generating resources.  
+ 
+Strategic Information may also include information calculated or produced by the ISO such as:  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+Aggregate prices and quantities offered that are derived through the unit commitment process.  
+ 
+ 
+Information regarding which resources will run or have run during any particular market settlement 
+period.  
+ 
+ 
+Information derived through the unit commitment process or the market settlement system as to units 
+that run out of merit.  
+ 
+ 
+Information regarding the existence or location of certain short-term transmission constraints.  
+ 
+No Strategic Information that is Confidential Information will be released except in compliance with the 
+provisions of this Information Policy regarding Confidential Information.  
+ 
+3.2 
+ Disclosure to the Commission, and the CFTC, and in Response to a Cyber Security 
+Exigency  
+(a) 
+Procedures for Disclosure to the Commission 
+If the Commission or its staff, during the course of an investigation or otherwise, requests information 
+from the ISO that is Confidential Information or CEII, the ISO shall provide the requested information to 
+the Commission or its staff, within the time provided for in the request for information. In providing 
+Confidential Information to the Commission or its staff, the ISO shall, consistent with 18 C.F.R §§ 1b.20 
+and 388.112, request that the information be treated as confidential and non-public by the Commission 
+and its staff and that the information be withheld from public disclosure. The ISO shall notify any 
+affected Furnishing Entity(ies) (1) when it is notified by the Commission or its staff, that a request for 
+disclosure of Confidential Information has been received at which time the ISO and the affected 
+Furnishing Entity(ies) may respond before such information would be made public; and (2) when it is 
+notified by the Commission or its staff that a decision to disclose Confidential Information has been 
+made, at which time the ISO and the affected Furnishing Entity(ies) may respond before such information 
+would be made public. In providing CEII to the Commission or its staff, the ISO shall, consistent with 18 
+C.F.R. § 388.112, request that the information be treated as CEII by the Commission and its staff.  
+ 
+(b) 
+Procedures for Disclosure to the CFTC 
+Furnishing Entity(ies) permits the ISO to provide Confidential Information or CEII to the CFTC or its 
+staff in response to a subpoena or other request for information or documentation without notifying 
+Furnishing Entity(ies) prior to providing such information to the CFTC.  The ISO shall provide the 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+requested information or documentation to the CFTC or its staff within the time provided for in the 
+request for information or documentation.  In providing Confidential Information or CEII to the CFTC or 
+its staff, the ISO shall: (i) request, on behalf of the Furnishing Entity(ies), that the information be treated 
+as confidential and non-public by the CFTC and its staff, as provided in 17 C.F.R. § 145.9; and (ii) make 
+clear through the confidentiality legend required by 17 C.F.R. § 145.9 that both the ISO and the 
+Furnishing Entity(ies) are the submitters of the Confidential Information or CEII as provided under 17 
+C.F.R. § 145.9.  
+ 
+(c) 
+Procedures for Disclosure in Response to a Cyber Security Exigency 
+If the Electricity Information Sharing and Analysis Center (E-ISAC, a division of NERC), the 
+Cybersecurity and Infrastructure Security Agency (CISA, part of the Department of Homeland Security), 
+the Department of Energy, or a federal agency that has similar cybersecurity responsibilities under federal 
+law and/or regulations for the protection of entities outside the federal agency itself, or the staff of NERC 
+or such a federal agency, requests information that is Confidential Information of a Furnishing Entity(ies) 
+in response to a Cyber Security Exigency, or if a Cyber Security Exigency has occurred and the ISO 
+determines, in its reasonable discretion, that providing information that is Confidential Information of a 
+Furnishing Entity(ies) to NERC or such a federal agency, or the staff of NERC or such a federal agency, 
+is required to comply with the mandatory reporting requirements of NERC or such a federal agency 
+applicable to such Cyber Security Exigency, the ISO may provide such information to NERC or such a 
+federal agency, or the staff of NERC or such a federal agency, without prior notice to the applicable 
+Furnishing Entity(ies); provided that the ISO shall provide prompt notice to the applicable Furnishing 
+Entity(ies) following any such disclosure.  In so providing Confidential Information to NERC or such a 
+federal agency, or the staff of NERC or such a federal agency, the ISO shall take action consistent with 
+applicable laws and regulations, as well as the other applicable policies and procedures of NERC or such 
+a federal agency, and request that such information be treated as confidential and non-public by NERC or 
+such a federal agency, and by the staff of NERC or such a federal agency, and that such information be 
+withheld from public disclosure.  The ISO shall promptly notify any affected Furnishing Entity(ies) (1) 
+when it is notified by NERC or such a federal agency, or by the staff of NERC or such a federal agency, 
+that a request for disclosure of Confidential Information has been received, at which time the ISO and the 
+affected Furnishing Entity(ies) may respond before such information would be made public; and (2) when 
+it is notified by NERC or such a federal agency, or by the staff of NERC or such a federal agency, that a 
+decision to disclose Confidential Information has been made, at which time the ISO and the affected 
+Furnishing Entity(ies) may respond before such information would be made public. This paragraph shall 
+apply to the specified agencies/organizations and their successor agencies/organizations. 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+3.3  
+Disclosure to Authorized Persons and ISO/MMU Requesting Entities  
+ 
+(a) 
+ Definitions  
+For purposes of this Section 3.3, the following terms shall have the meanings set forth below:  
+ 
+“Affected Governance Participant” shall mean a Governance Participant, which, as a result of its 
+Participation in the markets administered by the ISO, provided Confidential Market Information to the 
+ISO, which Confidential Market Information is requested by or is disclosed to an Authorized Person 
+under a Non-Disclosure Agreement.  
+ 
+“Authorized Commission” shall mean a state public utility commission within the geographic limits of 
+the New England Control Area that regulates the distribution or supply of electricity to retail customers 
+and is legally charged with monitoring the operation of wholesale or retail markets serving retail suppliers 
+or customers within its state.  
+ 
+“Authorized Person” shall mean a person who has executed a Non-Disclosure Agreement, and is 
+authorized in writing by an Authorized Commission to receive and discuss Confidential Market 
+Information. Authorized Persons may include attorneys representing an Authorized Commission, 
+consultants and/or contractors directly employed by an Authorized Commission, provided; however, that 
+consultants or contractors may not initiate requests for Confidential Market Information from the ISO or 
+the External Market Monitor.  
+ 
+“Confidential Market Information” shall mean Confidential Information consisting of market data 
+relating to the markets administered by the ISO, including data supplied by Governance Participants and 
+aggregate data regularly compiled by the ISO. Confidential Market Information shall not include the 
+following categories of information without excluding any objective market data associated with them 
+that would otherwise be provided under the first sentence of this definition: (i) draft versions of reports 
+and analyses, (ii) internal ISO documents not related to market data, (iii) attorney-client communications, 
+(iv) attorney work-product privileged information, (v) communications about Confidential Market 
+Information between an Affected Governance Participant and the ISO/External  Market Monitor, except 
+to the extent that the communications become part of final written reports or final written analyses by the 
+ISO/External Market Monitor, (vi) communications between an Affected Governance Participant and the 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ISO made on a confidential basis as part of a settlement proceeding or negotiation; and (vii) information 
+provided to the ISO on a confidential basis as part of an Alternative Dispute Resolution proceeding.  
+ 
+“Information Request” shall mean a written request, in accordance with the terms of this Section 3.3 for 
+disclosure of Confidential Market Information pursuant to Section 3.3 of this Information Policy.  
+ 
+“ISO/MMU Requesting Entity” shall mean an independent system operator or regional transmission 
+organization subject to the Commission’s jurisdiction, or its market monitor, that is requesting 
+Confidential Market Information pursuant to Section 3.3(c) of this Information Policy. 
+ 
+“Non-Disclosure Agreement” shall mean an agreement between an Authorized Person and the ISO 
+pursuant to Section 3.3 of this Information Policy, the form of which is appended to this Information 
+Policy (Appendix A), wherein the Authorized Person is given access to otherwise restricted Confidential 
+Market Information, for the benefit of their respective Authorized Commission.  
+ 
+“State Certification” shall mean the Certification of an Authorized Commission, pursuant to Section 3.3 
+of this Information Policy, the form of which is appended to this Information Policy (Appendix B), 
+wherein the Authorized Commission identifies all Authorized Persons employed or retained by such 
+Authorized Commission, a copy of which shall be filed with the Commission.  
+ 
+“Third Party Request” shall mean any request or demand by any entity upon an Authorized Person, an 
+Authorized Commission or an ISO/MMU Requesting Entity for release or disclosure of Confidential 
+Market Information provided to the Authorized Person, Authorized Commission or ISO/MMU 
+Requesting Entity by the ISO, the Internal Market Monitor or the External Market Monitor. A Third Party 
+Request shall include, but shall not be limited to, any subpoena, discovery request, or other request for 
+Confidential Market Information made by any: (i) federal, state, or local governmental subdivision, 
+department, official, agency or court, or (ii) arbitration panel, business, company, entity or individual.  
+ 
+(b)  
+Procedures for Disclosures to Authorized Persons  
+(i)  
+Notwithstanding anything in this section to the contrary, the ISO and/or the External 
+Market Monitor shall disclose Confidential Market Information, otherwise required to be 
+maintained in confidence pursuant to this Information Policy, to an Authorized Person under the 
+following conditions:  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(1)  
+The Authorized Person has executed a Non-Disclosure Agreement with the ISO 
+representing and warranting that he or she:  (i) is an Authorized Person; (ii) is duly 
+authorized to enter into and perform the obligations of the Non-Disclosure Agreement; 
+(iii) has adequate procedures to protect against the release of any Confidential Market 
+Information received, (iv) is familiar with, and will comply with any applicable 
+procedures of the Authorized Commission which the Authorized Person represents, (v) 
+covenants and agrees on behalf of himself or herself not to disclose the Confidential 
+Market Information and to deny any Third Party Requests and defend against any legal 
+process which seeks the release of any Confidential Market Information received in 
+contravention of the terms of the Non-Disclosure Agreement, and (vi) is not in breach of 
+any Non-Disclosure Agreement entered into with the ISO.  
+ 
+(2) 
+ The Authorized Commission employing or retaining the Authorized Person has 
+provided the ISO with: (a) a final order of the Commission prohibiting the release by the 
+Authorized Person or the Authorized Commission of Confidential Market Information in 
+accordance with the terms of this Information Policy and the Non-Disclosure Agreement; 
+and (b) either an order of such Authorized Commission or a certification from counsel to 
+such Authorized Commission, confirming that the Authorized Commission (i) has 
+statutory authority to protect the confidentiality of any Confidential Market Information 
+received from public release or disclosure and from release or disclosure to any other 
+entity, (ii) will defend against any disclosure of Confidential Market Information 
+pursuant to any Third Party Request through all available legal process, including, but not 
+limited to, obtaining any necessary protective orders, (iii) will provide the ISO with 
+prompt notice of any such Third Party Request or legal proceedings and will consult with 
+the ISO and/or any Affected Governance Participant in its efforts to deny the Third Party 
+Request or defend against such legal process, (iv) in the event a protective order or other 
+remedy is denied, will direct Authorized Persons authorized by it to furnish only that 
+portion of the Confidential Market Information which their legal counsel advises the ISO 
+in writing is legally required to be furnished, (v) will exercise its best efforts to obtain 
+assurance that confidential treatment will be accorded to such Confidential Market 
+Information and (vi) has adequate procedures to protect against the release of such 
+Confidential Market Information; and (c) confirmation in writing that the Authorized 
+Person is authorized by the Commission to enter into the Non-Disclosure Agreement and 
+to receive Confidential Market Information under this Information Policy.  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+(3)  
+The Authorized Commission employing or retaining the Authorized Person has 
+provided the ISO with a State Certification.  
+ 
+(4)  
+The ISO and the External Market Monitor shall be expressly entitled to rely upon 
+such Commission and Authorized Commission orders, the State Certification and/or 
+certifications of counsel in providing Confidential Market Information to the Authorized 
+Person, and shall in no event be liable, or subject to damages or claims of any kind or 
+nature hereunder due to the ineffectiveness of the /Commission and/or Authorized 
+Commission orders, or the inaccuracy of such certification of counsel.  
+ 
+(5)  
+The Authorized Person may discuss Confidential Market Information with other 
+Authorized Persons who are parties to Non-Disclosure Agreements, provided; however, 
+that the ISO shall have confirmed in advance and in writing that it has previously 
+released the Confidential Market Information in question to such Authorized Persons.  
+The ISO shall respond to any written request for confirmation within two (2) business 
+days of its receipt.  
+ 
+(6) 
+ The ISO shall maintain a schedule of all Authorized Persons and the Authorized 
+Commissions they represent, which shall be made publicly available on the ISO’s 
+website or by written request. Such schedule shall be compiled by the ISO, based on 
+information provided by any Authorized Person and/or Authorized Commission.  The 
+ISO shall update the schedule promptly upon receipt of information from an Authorized 
+Person or Authorized Commission, but shall have no obligation to verify or corroborate 
+any such information, and shall not be liable or otherwise responsible for any 
+inaccuracies in the schedule due to incomplete or erroneous information conveyed to and 
+relied upon by the ISO in the compilation and/or maintenance of the schedule.  
+ 
+(ii)  
+The External Market Monitor or other designated representative of the ISO may, in the 
+course of discussions with any Authorized Person, orally disclose information otherwise required 
+to be maintained in confidence, without the need for a prior Information Request.  Such oral 
+disclosures shall provide enough information to enable the Authorized Person or their Authorized 
+Commission to determine whether additional Information Requests for information are 
+appropriate. The External Market Monitor or other representative of the ISO will not make any 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+written or electronic disclosures of Confidential Market Information to the Authorized Person 
+pursuant to this section. In any such discussions, the External Market Monitor or other 
+representative of the ISO shall ensure that the individual or individuals receiving such 
+Confidential Market Information are Authorized Persons as defined herein, request that the 
+Authorized Person describe the purpose of the inquiry, orally designate Confidential Market 
+Information that is disclosed, and refrain from identifying any specific Affected Governance 
+Participant whose information is disclosed.  The External Market Monitor or other representative 
+of the ISO shall also be authorized to assist Authorized Persons in interpreting Confidential 
+Market Information that is disclosed.  The External Market Monitor or representative of the ISO 
+shall provide any Affected Governance Participant and counsel for the Participants Committee 
+with oral notice of any oral disclosure immediately, but not later than one (1) business day after 
+the oral disclosure.  Such oral notice to the Affected Governance Participant shall include the 
+substance of the oral disclosure, but shall not reveal any Confidential Market Information of any 
+other Governance Participant and must be received by the Affected Governance Participant 
+before the name of the Affected Governance Participant is released to the Authorized Person, 
+provided; however, the identity of the Affected Party must be made to the Authorized Person 
+within two (2) business days of the initial oral disclosure.  The ISO shall provide an Affected 
+Governance Participant and counsel for the Participants Committee with written notice, which 
+shall include electronic communication, of any oral disclosure as soon as possible, but not later 
+than two (2) business days after the date of the oral disclosure.  
+ 
+(iii)  
+As regards Information Requests:  
+ 
+(1) 
+ Information Requests to the ISO shall be in writing, which shall include 
+electronic communications addressed to the External Market Monitor or other designated 
+representative of the ISO, and shall: (a) describe with particularity the information 
+sought; (b) provide a description of the purpose of the Information Request; (c) state the 
+time period for which Confidential Market Information is requested; and (d) re-affirm 
+that only the Authorized Person shall have access to the Confidential Market Information 
+requested.  The ISO shall provide an Affected Governance Participant and counsel for the 
+Participants Committee with written notice, which shall include electronic 
+communication, of an Information Request of the Authorized Person as soon as possible, 
+but not later than two (2) business days after the receipt of the Information Request.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(2)  
+Subject to the provisions of section (iii)(3), the ISO shall supply Confidential 
+Market Information to the Authorized Person in response to any Information Request 
+within five (5) business days of the receipt of the Information Request, to the extent that 
+the requested Confidential Market Information can be made available within such period, 
+provided; however, that in no event shall Confidential Market Information be released 
+prior to the end of the fourth (4th) business day without the express consent of the 
+Affected Governance Participant. To the extent that the ISO cannot reasonably prepare 
+and deliver the requested Confidential Market Information within such five (5) day 
+period, it shall, within such period, provide the Authorized Person with a written schedule 
+for the provision of such remaining Confidential Market Information.  Upon providing 
+Confidential Market Information to the Authorized Person, the ISO shall either provide a 
+copy of the Confidential Market Information to the Affected Governance Participant(s), 
+or provide a listing of the Confidential Market Information disclosed, provided; however, 
+that the ISO shall not reveal any Governance Participant’s Confidential Market 
+Information to any other Governance Participant.  
+ 
+(3)  
+Notwithstanding section (iii)(2), above, should the ISO, an Affected Governance 
+Participant, or the Participants Committee (with respect to an Information Request that 
+applies to multiple Governance Participants) object to an Information Request or any 
+portion thereof, any of them may, within four (4) business days following the ISO’s 
+receipt of the Information Request, request, in writing, a conference with the Authorized 
+Commission or the Authorized Commission’s authorized designee to resolve differences 
+concerning the scope or timing of the Information Request, provided; however, nothing 
+herein shall require the Authorized Commission to participate in any conference.  Any 
+party to the conference may seek assistance from the Commission staff in resolution of 
+the dispute.  Should such conference be refused by any participant, or not resolve the 
+dispute, then the ISO, the Affected Governance Participant, the Participants Committee 
+(with respect to an Information Request that applies to multiple Governance Participants) 
+or the Authorized Commission may initiate appropriate legal action at the Commission 
+within three (3) business days following receipt of written notice from any conference 
+participant terminating such conference. Any complaints filed at the Commission 
+objecting to a particular Information Request shall be designated by the party as a “fast 
+track” complaint and each party shall bear its own costs in connection with such 
+Commission proceeding. If no Commission proceeding regarding the Information 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Request is commenced within such three day period, the ISO shall utilize its best efforts 
+to respond to the Information Request promptly. During any pending Commission 
+proceeding regarding an Information Request, the ISO shall continue to maintain the 
+confidentiality of the Confidential Market Information subject to such Information 
+Request.  
+ 
+(iv)  
+In the event of any breach of a Non-Disclosure Agreement:  
+ 
+(1)  
+The Authorized Person and/or their respective Authorized Commission shall 
+promptly notify the ISO, who shall, in turn, promptly notify any Affected Governance 
+Participant and counsel for the Participants Committee of any inadvertent or intentional 
+release, or possible release, of Confidential Market Information provided pursuant to any 
+Non-Disclosure Agreement.  
+ 
+(2)  
+The ISO shall terminate such Non-Disclosure Agreement upon written notice to 
+the Authorized Person and his or her Authorized Commission, and all rights of the 
+Authorized Person thereunder shall thereupon terminate, provided; however, that the ISO 
+may restore an individual’s status as an Authorized Person after consulting with the 
+Affected Governance Participant and to the extent that: (i) the ISO determines that the 
+disclosure was not due to the intentional, reckless or negligent action or omission of the 
+Authorized Person; (ii) there were no harm or damage suffered by the Affected 
+Governance Participant; or (iii) similar good cause shown. Any appeal of the ISO’s 
+actions under this section shall be to the Commission.  
+ 
+(3)  
+The ISO, the Affected Governance Participant, and/or the Participants 
+Committee shall have the right to seek and obtain at least the following types of relief: (a) 
+an order from the Commission requiring any breach to cease and preventing any future 
+breaches; (b) temporary, preliminary, and/or permanent injunctive relief with respect to 
+any breach; and (c) the immediate return of all Confidential Market Information to the 
+ISO.  
+ 
+(4)  
+No Authorized Person shall have responsibility or liability whatsoever under the 
+Non-Disclosure Agreement or this Information Policy for any and all liabilities, losses, 
+damages, demands, fines, monetary judgments, penalties, costs and expenses caused by, 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+resulting from, or arising out of or in connection with the release of Confidential Market 
+Information to persons not authorized to receive it, provided that such Authorized Person 
+is an employee or member of an Authorized Commission at the time of such 
+unauthorized release. Nothing in this section (iv)(4) is intended to limit the liability of 
+any person who is not an employee of or a member of an Authorized Commission at the, 
+time of such unauthorized release for any and all economic losses, damages, demands, 
+fines, monetary judgments, penalties, costs and expenses caused by, resulting from, or 
+arising out of or in connection with such unauthorized release.  
+ 
+(5) 
+ Any dispute or conflict requesting the relief in section (iv)(2) or (iv)(3)(a) above, 
+shall be submitted to the Commission for hearing and resolution.  Any dispute or conflict 
+requesting the relief in section (4)(3)(c) above may be submitted to the Commission or 
+any court of competent jurisdiction for hearing and resolution.  
+ 
+(c) 
+Procedures for Disclosures to an ISO/MMU Requesting Entity 
+(i) 
+Notwithstanding anything in this section to the contrary, the ISO, the Internal Market 
+Monitor or the External Market Monitor shall disclose Confidential Market Information, 
+otherwise required to be maintained in confidence pursuant to this Information Policy, to an 
+ISO/MMU Requesting Entity under the following conditions: 
+ 
+(1) The ISO/MMU Requesting Entity has submitted to the ISO a written request for the 
+disclosure of Confidential Market Information. 
+ 
+(2) The written request explains why the requested Confidential Market Information is 
+necessary to an investigation that the ISO/MMU Requesting Entity is undertaking 
+pursuant to its tariff, other governing documents, or an applicable law or regulation to 
+determine (a) if a Market Violation is occurring or has occurred, (b) if market power 
+is being or has been exercised, or (c) if a market design flaw exists that affects either 
+the New England markets or the markets administered by the ISO/MMU Requesting 
+Entity. 
+ 
+(3) The written request either (x) demonstrates, by providing copies of the relevant 
+documentation, that the ISO/MMU Requesting Entity’s tariff or other governing 
+document limits further disclosure of the Confidential Market Information in a 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+manner that satisfies all of the requirements set forth in Section 3.3(c)(ii) below, or 
+(y) is accompanied by a non-disclosure agreement, which has been executed by both 
+the ISO/MMU Requesting Entity and the ISO, that incorporates all of the 
+requirements in Section 3.3(c)(ii) below, and a written certification that the 
+ISO/MMU Requesting Entity possesses the legal authority to enter into the non-
+disclosure agreement, to be bound by it, and to perform all of the obligations of the 
+non-disclosure agreement. 
+ 
+(4) If the ISO/MMU Requesting Entity is an independent system operator or regional 
+transmission organization that meets the conditions in this Section 3.3(c), then the 
+ISO shall also disclose the requested Confidential Market Information to the 
+ISO/MMU Requesting Entity’s market monitor, on condition that the receiving 
+market monitor satisfy the confidentiality requirements and obligations specified in 
+Section 3.3(c)(i)(3) above. 
+ 
+(ii) 
+The ISO/MMU Requesting Entity’s governing documents or non-disclosure agreement 
+must: 
+(1) Covenant and agree not to disclose and to protect from disclosure the Confidential 
+Market Information and to deny any Third Party Request and defend against any 
+legal process which seeks the release of Confidential Market Information, except 
+where disclosure is required by the Commission, by subpoena, or by other 
+compulsory process; 
+ 
+(2)  Represent and warrant that the ISO/MMU Requesting Entity has adequate 
+procedures to protect against the release of Confidential Market Information; 
+ 
+ 
+(3) Establish a legally enforceable obligation to treat Confidential Market Information as 
+confidential.  Such obligation must be of a continuing nature, and must survive the 
+rescission, termination or expiration of the tariff, other governing document or non-
+disclosure agreement; 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(4) Require that the ISO/MMU Requesting Entity use the Confidential Market 
+Information solely for the purpose of investigating (a) if a Market Violation is 
+occurring or has occurred, (b) if market power is being or has been exercised, or (c) if 
+a market design flaw exists that affects either the New England markets or the 
+markets administered by the ISO/MMU Requesting Entity; 
+ 
+(5) Require state commissions to request Confidential Market Information directly from 
+the ISO or the Internal Market Monitor, in a manner consistent with Section 3.3(b) of 
+this Information Policy, and promptly inform the ISO or the Internal Market Monitor 
+of any request received from a state commission for Confidential Market 
+Information; 
+ 
+(6) Require the ISO/MMU Requesting Entity (a) to defend against any disclosure of 
+Confidential Market Information pursuant to any Third Party Request through all 
+available legal process, including, but not limited to, obtaining any necessary 
+protective orders; (b) to provide the ISO, the Internal Market Monitor or the External 
+Market Monitor with prompt notice of any such Third Party Request or legal 
+proceedings, and consult with the ISO, the Internal Market Monitor or the External 
+Market Monitor in its efforts to deny the request or defend against such legal process; 
+(c) in the event a protective order or other remedy is denied, to furnish only that 
+portion of the Confidential Market Information which its legal counsel advises the 
+ISO, the Internal Market Monitor or the External Market Monitor in writing is legally 
+required to be furnished, and to exercise its best efforts to obtain assurance that 
+confidential treatment will be accorded to such Confidential Market Information; 
+ 
+(7) Require the ISO/MMU Requesting Entity to promptly notify the ISO, the Internal 
+Market Monitor or the External Market Monitor of any Third Party Requests for 
+additional disclosure of the Confidential Market Information where Confidential 
+Market Information has been disclosed to a court or regulatory body in response to a 
+subpoena or other compulsory process, and to seek appropriate relief to prevent or 
+limit further disclosure; 
+ 
+(8)  Require destruction of the Confidential Market Information at the earlier of (a) 
+five business days after a request from the ISO, the Internal Market Monitor or the 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+External Market Monitor for the return of the Confidential Market Information is 
+received, or (b) the conclusion or resolution of the investigation.  
+3.4 
+ Disclosure to Academic Institutions  
+Notwithstanding anything to the contrary set forth herein, the ISO may disclose Confidential Market 
+Information (as defined in Section 3.3), otherwise to be maintained in confidence pursuant to this 
+Information Policy, to a research university (an “Authorized Institution”), solely for the purpose of 
+academic research by Authorized Researchers (as defined below), under the following conditions:  
+ 
+(a)  
+The Authorized Institution has delivered an information request to the ISO in writing (the 
+“Academic Institution Information Request”), which shall include electronic communications 
+addressed to the External Market Monitor, and shall: (i) describe with particularity the 
+information sought; (ii) provide a description of the purpose of the Academic Institution 
+Information Request (“Proposed Research”); (iii) state the time period for which the Confidential 
+Market Information is requested; (iv) specify the individuals that will have access to such 
+Confidential Market Information (the “Authorized Researchers”) and (v) specify the source of 
+funding for the research to be performed with respect to the requested Confidential Market 
+Information.  
+ 
+(b)  
+The ISO shall review the merits of the Academic Institution Information Request and 
+may, in its sole discretion, reject such request without providing notice to affected Governance 
+Participants and the Participants Committee as required in subsection 3.4(c) below.  
+ 
+(c) 
+ In the event that the ISO does not initially reject the Academic Institution Information 
+Request pursuant to subsection 3.4(b) above, the ISO shall provide affected Governance 
+Participants and counsel to the Participants Committee with written notice, which shall include 
+electronic communication, of an Academic Institution Information Request as soon as possible, 
+but no later than five (5) business days after receipt of the Academic Institution Information 
+Request.  Such notice shall include all of the information contained in the Academic Institution 
+Information Request.  
+ 
+(d)  
+An authorized representative of the Authorized Institution has executed a non-disclosure 
+agreement in the form attached hereto as Appendix C (the “Academic Institution Non-Disclosure 
+Agreement“) in which the Authorized Institution (i) represents and warrants that the Authorized 
+Institution (w) will only share the Confidential Market Information with Authorized Researchers 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+identified in the Academic Institution Information Request, solely to be used for the purpose of 
+the Proposed Research; (x) is duly authorized to enter into and perform the obligations of the 
+Academic Institution Non-Disclosure Agreement; (y) has adequate procedures to protect against 
+the release of any Confidential Market Information received; and (z) is not in breach of any other 
+Academic Institution Non-Disclosure Agreement entered into with the ISO; and (ii) covenants 
+and agrees not to disclose the Confidential Market Information and to deny any third-party 
+requests for the Confidential Market Information and defend against any legal process that seeks 
+the release of any Confidential Market Information.  
+ 
+(e) 
+ The ISO shall provide affected Governance Participants and counsel to the Participants 
+Committee written notice, which shall include electronic communication, of its determination 
+whether to release Confidential Market Information in response to an Academic Institution 
+Information Request as soon as possible, but no later than five (5) business days following the 
+provision of the notice required in subsection (c) above. Notice of the ISO’s determination shall 
+also include all of the information contained in the Academic Institution Information Request, 
+and shall inform the affected Governance Participants of their right to object to such release, as 
+well as the deadline for any such objection and shall specifically state that in the event that the 
+affected Governance Participants do not object to such release, any information released by the 
+ISO pursuant to an Academic Institution Information Request may be subject to publication by 
+the Authorized Institution; provided that such publication may only be made (x) upon written 
+consent of the ISO and (y) if any material the Authorized Institution proposes to publish, which is 
+related to or that relies upon the Confidential Market Information, is sufficiently redacted or 
+summarized in a manner so that it may not be identified. The ISO shall not release Confidential 
+Market Information relating to any affected Governance Participant that objects to such release 
+within ten (10) business days of the ISO’s notice of its determination. Following the tenth (10th) 
+business day after providing such notice, the ISO may, in its sole discretion, release Confidential 
+Market Information relating to those affected Governance Participants that have not objected to 
+such release to the Authorized Institution, provided, however, that the ISO shall redact all 
+Confidential Market Information relating to any objecting affected Governance Participants, as 
+applicable.  
+ 
+(f) 
+ In the event that an Authorized Institution or any Authorized Researcher publishes any 
+material related to or that relies upon the Confidential Market Information, upon written consent 
+of the ISO in accordance with Section 2.3.4 of the Academic Institution Non-Disclosure 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Agreement, the ISO shall provide notice to the Participants Committee regarding the medium 
+(e.g., journal) in which the publication has been made.  
+ 
+ 
+APPENDIX A 
+FORM OF NON-DISCLOSURE AGREEMENT 
+ 
+THIS NON-DISCLOSURE AGREEMENT (the “Agreement”) is made this ______ day of 
+_______________, 2004, by and between _______________________, an Authorized Person, as defined 
+below, of __________________ (the “State Commission”) having jurisdiction within the State of 
+____________________, with offices at _________________________________ and ISO New England 
+Inc., a Delaware corporation, with offices at One Sullivan Road, Holyoke, Massachusetts, 01040-2841 
+(“ISO”). The State Commission and ISO shall be referred to herein individually as a “Party,” or 
+collectively as the “Parties.”  
+RECITALS  
+ 
+Whereas, ISO serves as the Regional Transmission Organization for the New England Control Area, and 
+operates and oversees wholesale markets for electricity pursuant to the requirements of the ISO Tariff, as 
+defined below; and  
+ 
+Whereas, the External Market Monitor (as defined below) serves as the independent market monitor for 
+ISO’s wholesale markets for electricity, and  
+ 
+Whereas, the ISO New England Information Policy requires that ISO and the External Market Monitor 
+maintain the confidentiality of Confidential Market Information; and  
+ 
+Whereas, the ISO New England Information Policy requires ISO and the External Market Monitor to 
+disclose Confidential Market Information to Authorized Persons upon satisfaction of conditions stated in 
+the ISO New England Information Policy, including, but not limited to, the execution of this Agreement 
+by the Authorized Person and the maintenance of the confidentiality of such information pursuant to the 
+terms of this Agreement; and  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Whereas, ISO desires to provide Authorized Persons with the broadest possible access to Confidential 
+Market Information, consistent with ISO’s and the External Market Monitor’s obligations and duties 
+under the ISO New England Information Policy, the ISO Tariff and other applicable FERC directives; and  
+ 
+Whereas, this Agreement is a statement of the conditions and requirements, consistent with the 
+requirements of the ISO New England Information Policy, whereby ISO and the External Market Monitor 
+may provide Confidential Market Information to the Authorized Person.  
+ 
+NOW, THEREFORE, intending to be legally bound, the Parties hereby agree as follows:  
+1. 
+ Definitions  
+ 
+1.1  
+Affected Governance Participant.  A Governance Participant, which as a result of its 
+participation in the markets administered by ISO, provided Confidential Market Information to ISO, 
+which Confidential Market Information is requested by, or is disclosed to an Authorized Person under this 
+Agreement.  
+ 
+1.2  
+Authorized Commission.  A State public utility commission within the geographic limits of the 
+New England Control Area (as that term in defined in the ISO Tariff) that regulates the distribution or 
+supply of electricity to retail customers and is legally charged with monitoring the operation of wholesale 
+or retail markets serving retail suppliers or customers within its State.  
+ 
+1.3  
+Authorized Person. A person , including the undersigned, which has executed this Agreement 
+and that is authorized in writing by an Authorized Commission to receive and discuss Confidential 
+Market Information.  Authorized Persons may include attorneys representing an Authorized Commission, 
+consultants and/or contractors directly employed or retained by an Authorized Commission, provided 
+however that consultants or contractors may not initiate requests for Confidential Market Information 
+from ISO or the External Market Monitor.  
+ 
+1.4  
+Confidential Market Information.  Shall mean Confidential Information (as defined in the ISO 
+New England Information Policy) consisting of market data relating to the markets administered by  ISO, 
+including data supplied by Governance Participants and aggregate data regularly compiled by ISO.  
+Confidential Market Information shall not include the following categories of information without 
+excluding any objective market data associated with them that would otherwise be provided under the 
+first sentence of this definition: (i) draft versions of reports and analyses, (ii) internal ISO documents not 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+related to market data, (iii) attorney-client communications,  (iv) attorney work-product privileged 
+information, (v) communications about Confidential Market Information between an Affected 
+Governance Participant and the ISO/External Market Monitor, except to the extent that the 
+communications become part of final written reports or final written analyses by the ISO/External Market 
+Monitor, (vi) communications between an Affected Governance Participant and ISO made on a 
+confidential basis as part of a settlement proceeding or negotiation; and (vii) information provided to ISO 
+on a confidential basis as part of an Alternative Dispute Resolution proceeding.  
+ 
+1.5  
+External Market Monitor. Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.6 
+FERC.  The Federal Energy Regulatory Commission.  
+ 
+1.7  
+Governance Participant.  Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.8 
+ISO New England Information Policy. Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.9 
+ Information Request. A written request, in accordance with the terms of this Agreement for 
+disclosure of Confidential Market Information pursuant to Section 3.3 of the ISO New England 
+Information Policy.  
+ 
+1.10 
+ ISO Tariff. ISO’s Transmission, Markets and Services Tariff, as it may be amended from time 
+to time.  
+ 
+1.11 
+ Third Party Request. Any request or demand by any entity upon an Authorized Person or an 
+Authorized Commission for release or disclosure of Confidential Market Information. A Third Party 
+Request shall include, but shall not be limited to, any subpoena, discovery request, or other request for 
+Confidential Market Information made by any: (i) federal, state, or local governmental subdivision, 
+department, official, agency or court, or (ii) arbitration panel, business, company, entity or individual.  
+ 
+2.  
+Protection of Confidentiality.  
+ 
+2.1  
+Duty to Not Disclose. The Authorized Person represents and warrants that he or she: (i) is 
+presently an Authorized Person as defined herein; (ii) is duly authorized to enter into and perform this 
+Agreement; (iii) has adequate procedures to protect against the release of Confidential Market 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Information, and (iv) is familiar with, and will comply with, all such applicable State Commission 
+procedures. The Authorized Person hereby covenants and agrees on behalf of himself or herself not to 
+disclose the Confidential Market Information and to deny any Third Party Request and defend against any 
+legal process which seeks the release of Confidential Market Information in contravention of the terms of 
+this Agreement.  
+ 
+2.2  
+Conditions Precedent. As a condition of the execution, delivery and effectiveness of this 
+Agreement by ISO and the continued provision of Confidential Market Information pursuant to the terms 
+of this Agreement, the Authorized Commission shall, prior to the initial oral or written request for 
+Confidential Market Information by an Authorized Person on its behalf, provide ISO with: (a) a final 
+order of FERC prohibiting the release by the Authorized Person or the State Commission of Confidential 
+Market Information in accordance with the terms of the Operating Agreement and this Agreement; and 
+(b) either an order of the State Commission or a certification from counsel to the State Commission, 
+confirming that the State Commission has statutory authority to protect the confidentiality of the 
+Confidential Market Information from public release or disclosure and from release or disclosure to any 
+other entity, and that it has adequate procedures to protect against the release of Confidential Market 
+Information; and (c) confirmation in writing that the Authorized Person is authorized by the State 
+Commission to enter into this Agreement and to receive Confidential Market Information under the ISO 
+New England Information Policy.  
+ 
+2.3 
+ Discussion of Confidential Market Information with other Authorized Persons.  The 
+Authorized Person may discuss Confidential Market Information with other Authorized Persons who 
+have executed non-disclosure agreements with ISO containing the same terms and conditions as this 
+Agreement; provided, however, that ISO shall have confirmed in advance and in writing that ISO has 
+previously released the Confidential Market Information in question to such Authorized Persons. ISO 
+shall respond to any written request for confirmation within two (2) business days of its receipt.  
+ 
+2.4 
+ Defense Against Third Party Requests.  The Authorized Person shall defend against any 
+disclosure of Confidential Market Information pursuant to any Third Party Request through all available 
+legal process, including, but not limited to, obtaining any necessary protective orders. The Authorized 
+Person shall provide ISO, and ISO shall provide each Affected Governance Participant and counsel for 
+the Participants Committee, with prompt notice of any such Third Party Request or legal proceedings, and 
+shall consult with ISO and/or any Affected Governance Participant in its efforts to deny the request or 
+defend against such legal process.  In the event a protective order or other remedy is denied, the 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Authorized Person agrees to furnish only that portion of the Confidential Market Information which their 
+legal counsel advises ISO (and of which ISO shall, in turn, advise any Affected Governance Participants) 
+in writing is legally required to be furnished, and to exercise their best efforts to obtain assurance that 
+confidential treatment will be accorded to such Confidential Market Information.  
+ 
+2.5  
+Care and Use of Confidential Market Information.  
+ 
+2.5.1  Control of Confidential Market Information. The Authorized Person(s) shall be the 
+custodian(s) of any and all Confidential Market Information received pursuant to the terms of this 
+Agreement from ISO or the External Market Monitor.  
+ 
+2.5.2  Access to Confidential Market Information. The Authorized Person shall ensure that 
+Confidential Market Information received by that Authorized Person is disseminated only to those 
+persons publicly identified as Authorized Persons on Exhibit “A” to the certification provided by the State 
+Commission pursuant to the procedures contained in Section 2.2 of this Agreement.  
+ 
+2.5.3  Schedule of  Authorized Persons. 
+(i)  
+The Authorized Person shall promptly notify ISO of any change that would affect the 
+Authorized Person’s status as an Authorized Person, and in such event shall request, in writing, 
+deletion from the schedule referred to in section (ii), below.  
+ 
+(ii)  
+ISO shall maintain a schedule of all Authorized Persons and the Authorized Commissions 
+they represent, which shall be made publicly available on ISO’s website and/or by written 
+request. Such schedule shall be compiled by ISO, based on information provided by any 
+Authorized Person and/or Authorized Commission. ISO shall update the schedule promptly upon 
+receipt of information from an Authorized Person or Authorized Commission, but shall have no 
+obligation to verify or corroborate any such information, and shall not be liable or otherwise 
+responsible for any inaccuracies in the schedule due to incomplete or erroneous information 
+conveyed to and relied upon by ISO in the compilation and/or maintenance of the schedule.  
+ 
+2.5.4 
+Use of Confidential Market Information. The Authorized Person and his or her Authorized 
+Commission shall use the Confidential Market Information solely for the purpose of assisting the 
+Authorized Commission in discharging its legal responsibility to monitor the wholesale and retail 
+electricity markets, operations, transmission planning and siting, and generation planning and siting 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+materially affecting retail customers within the State in which the Authorized Commission has regulatory 
+jurisdiction, and for no other purpose. Without limiting the foregoing, the Authorized Person and his or 
+her Authorized Commission shall not use its right to acquire Confidential Market Information as a means 
+of conducting discovery or providing evidence during an adversarial proceeding against an Affected 
+Governance Participant or any group of Participants. The Authorized Person and his or her Authorized 
+Commission, however, shall not be prevented from using in an adversarial proceeding Confidential 
+Market Information the Authorized Commission has obtained if: (i) such information becomes known in 
+that proceeding through disclosure by entities other than the Authorized Commission; and (ii) the 
+Authorized Commission discloses such Confidential Market Information consistent with the protections 
+and procedures governing the disclosure of Confidential Market Information to parties in that proceeding; 
+or (iii) the information being disclosed no longer meets the definition of Confidential Market Information. 
+ 
+2.5.5  Return of Confidential Market Information.  Upon completion of the inquiry or investigation 
+referred to in the Information Request, or for any reason the Authorized Person is, or will no longer be an 
+Authorized Person, the Authorized Person shall (a) return the Confidential Market Information and all 
+copies thereof to ISO, or (b) provide a certification that the Authorized Person has destroyed all paper 
+copies and deleted all electronic copies of the Confidential Market Information, unless such actions are 
+inconsistent with or prohibited by applicable state law, in which case the Authorized Person shall 
+continue to maintain the confidentiality of the Confidential Market Information in accordance with the 
+terms and conditions of this Agreement.  ISO may waive this condition in writing if such Confidential 
+Market Information has become publicly available or non-confidential in the course of business or 
+pursuant to the ISO Tariff or order of the Commission.  
+ 
+2.5.6  Notice of Disclosures. The Authorized Person, directly or through the Authorized Commission, 
+shall promptly notify ISO, and ISO shall promptly notify any Affected Governance Participant, of any 
+inadvertent or intentional release or possible release of the Confidential Market Information provided 
+pursuant to this Agreement.  The Authorized Person shall take all steps to minimize any further release of 
+Confidential Market Information, and shall take reasonable steps to attempt to retrieve any Confidential 
+Market Information that may have been released.  
+ 
+2.6  
+Ownership and Privilege.  Nothing in this Agreement, or incident to the provision of 
+Confidential Market Information to the Authorized Person pursuant to any Information Request, is 
+intended, nor shall it be deemed, to be a waiver or abandonment of any legal privilege that may be 
+asserted against, subsequent disclosure or discovery in any formal proceeding or investigation.  Moreover, 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+no transfer or creation of ownership rights in any intellectual property comprising Confidential Market 
+Information is intended or shall be inferred by the disclosure of Confidential Market Information by ISO, 
+and any and all intellectual property comprising Confidential Market Information disclosed and any 
+derivations thereof shall continue to be the exclusive intellectual property of ISO and/or the Affected 
+Governance Participant.  
+ 
+3. 
+ Procedure for Information Requests  
+ 
+3.1  
+Written Requests.  Information Requests to ISO shall be in writing, which shall include 
+electronic communications, addressed to the External Market Monitor or other ISO representatives as 
+specified by ISO, with a concurrent copy to ISO’s General Counsel, and shall: (a) describe with 
+particularity the information sought; (b) provide a description of the purpose of the Information Request; 
+(c) state the  time period for which information is requested; and (d) re-affirm that only the Authorized 
+Person shall have access to the Confidential Market Information requested. ISO shall provide an Affected 
+Governance Participant and counsel for the Participants Committee with written notice, which shall 
+include electronic communication, of an Information Request of the Authorized Person as soon as 
+possible, but not later than two (2) business days after the receipt of the Information Request.  
+ 
+3.2  
+Oral Disclosures by the External Market Monitor.  The External Market Monitor or other ISO 
+representatives as specified by ISO may, in the course of discussions with an Authorized Person, orally 
+disclose information otherwise required to be maintained in confidence, without the need for a prior 
+Information Request.  Such oral disclosures shall provide enough information to enable the Authorized 
+Person or the State Commission to determine whether additional Information Requests for information 
+are appropriate.  The External Market Monitor or other ISO representative will not make any written or 
+electronic disclosures of Confidential Market Information to the Authorized Person pursuant to this 
+section.  In any such discussions, the External Market Monitor or other ISO representative shall ensure 
+that the individual or individuals receiving such Confidential Market Information are Authorized Persons 
+under this Agreement, request that the Authorized Person describe the purpose of the inquiry, orally 
+designate Confidential Market Information that is disclosed and refrain from identifying any specific 
+Affected Governance Participant whose information is disclosed. The External Market Monitor or other 
+ISO representative shall also be authorized to assist Authorized Persons in interpreting Confidential 
+Market Information that is disclosed.  ISO or the External Market Monitor shall (i) maintain a written 
+record of oral disclosures pursuant to this section, which shall include the date of each oral disclosure and 
+the Confidential Market Information disclosed in each such oral disclosure, and (ii) provide any Affected 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Governance Participant and counsel for the Participants Committee with oral notice of any oral disclosure 
+immediately, but not later than one (1) business day after the oral disclosure. Such oral notice to the 
+Affected Governance Participant shall include the substance of the oral disclosure, but shall not reveal 
+any Confidential Market Information of any other Governance Participant and must be received by the 
+Affected Governance Participant before the name of the Affected Governance Participant is released to 
+the Authorized Person; provided however, the identity of the Affected Party must be made available to 
+the Authorized Person within two (2) business days of the initial oral disclosure.  ISO shall provide an 
+Affected Governance Participant and counsel for the Participants Committee with written notice, which 
+shall include electronic communication, of any oral disclosure as soon as possible, but not later than two 
+(2) business days after the date of the initial oral disclosure.  
+ 
+3.3  
+Response to Information Requests.  
+ 
+3.3.1 
+Subject to the provisions of Section 3.3.2 below, ISO shall supply Confidential Market 
+Information to the Authorized Person in response to any Information Request within five (5) business 
+days of the receipt of the Information Request, to the extent that the requested Confidential Market 
+Information can be made available within such period; provided however, that in no event shall 
+Confidential Market Information be released prior to the end of the fourth (4th) business day without the 
+express consent of the Affected Governance Participant. To the extent that ISO can not reasonably 
+prepare and deliver the requested Confidential Market Information within such five (5) day period, ISO 
+shall, within such period, provide the Authorized Person with a written schedule for the provision of such 
+remaining Confidential Market Information. Upon providing Confidential Market Information to the 
+Authorized Person, ISO shall either provide a copy of the Confidential Market Information to the 
+Affected Governance Participant(s), or provide a listing of the Confidential Market Information disclosed; 
+provided, however, that ISO shall not reveal any Governance Participant’s Confidential Market 
+Information to any other Governance Participant.  
+ 
+3.3.2 
+Notwithstanding section 3.3.1, above, should ISO or an Affected Governance Participant or the 
+Participants Committee (with respect to an Information Request that applies to multiple Governance 
+Participants) object to an Information Request or any portion thereof, ISO, the Affected Governance 
+Participant and/or the Participants Committee may, within four (4) business days following ISO’s receipt 
+of the Information Request, request, in writing (which shall include electronic communication) addressed 
+to the State Commission with a copy to either the Affected Governance Participant, ISO and/or counsel to 
+the Participants Committee, as the case may be, a conference with the State Commission or the State 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Commission’s authorized designee to resolve differences concerning the scope or timing of the 
+Information Request; provided, however, nothing herein shall require the State Commission to participate 
+in any conference. Any party to the conference may seek assistance from the Commission staff in 
+resolution of the dispute. Should such conference be refused by any participant, or not resolve the dispute, 
+then ISO, the Affected Governance Participant, the Participants Committee (with respect to an 
+Information Request that applies to multiple Governance Participants) or the State Commission may 
+initiate appropriate legal action at the Commission within three (3) business days following receipt of 
+written notice from any conference participant terminating such conference. Any complaints filed at the 
+Commission objecting to a particular Information Request shall be designated by the party as a “fast 
+track” complaint and each party shall bear its own costs in connection with such Commission proceeding. 
+If no Commission proceeding regarding the Information Request is commenced by ISO, the Affected 
+Governance Participant or the State Commission within such three day period, ISO shall utilize its best 
+efforts to respond to the Information Request promptly. During any pending Commission proceeding 
+regarding an Information Request, ISO shall continue to maintain the confidentiality of the Confidential 
+Market Information subject to such Information Request.  
+ 
+3.3.3  To the extent that a response to any Information Request requires disclosure of Confidential 
+Market Information of two or more Affected Governance Participants, ISO shall, to the extent possible, 
+segregate such information and respond to the Information Request separately for each Affected 
+Governance Participant.  
+ 
+4.  
+Remedies.  
+ 
+4.1  
+Material Breach. The Authorized Person agrees that release of Confidential Market Information 
+to persons not authorized to receive it constitutes a breach of this Agreement and may cause irreparable 
+harm to ISO and/or the Affected Governance Participant. In the event of a breach of this Agreement by 
+the Authorized Person, ISO shall terminate this Agreement upon written notice to the Authorized Person 
+and his or her Authorized Commission, and all rights of the Authorized Person hereunder shall thereupon 
+terminate; provided, however, that ISO may restore an individual’s status as an Authorized Person after 
+consulting with the Affected Governance Participant and to the extent that: (i) ISO determines that the 
+disclosure was not due to the intentional, reckless or negligent action or omission of the Authorized 
+Person; (ii) there were no harm or damages suffered by the Affected Governance Participant; or (iii) 
+similar good cause shown. Any appeal of ISO’s actions under this section shall be to the Commission.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+4.2  
+Judicial Recourse. In the event of any breach of this Agreement, ISO, the Affected Governance 
+Participant and/or the Participants Committee shall have the right to seek and obtain at least the following 
+types of relief: (a) an order from the Commission requiring any breach to cease and preventing any future 
+breaches; (b) temporary, preliminary, and/or permanent injunctive relief with respect to any breach; and 
+(c) the immediate return of all Confidential Market Information to ISO. The Authorized Person expressly 
+agrees that in the event of a breach of this Agreement, any relief sought properly includes, but shall not be 
+limited to, the immediate return of all Confidential Market Information to ISO.  
+ 
+4.3  
+Waiver of Monetary Damages. No Authorized Person shall have responsibility or liability 
+whatsoever under this Agreement for any and all liabilities, losses,  
+damages, demands, fines, monetary judgments, penalties, costs and expenses caused by, resulting from, or 
+arising out of, or in connection with, the release of Confidential Market Information to persons not 
+authorized to receive it, provided that such Authorized Person is an employee or Governance Participant 
+of an Authorized Commission at the time of such unauthorized release. Nothing in this Section 4.3 is 
+intended to limit the liability of any person who is not an employee of or a Governance Participant of an 
+Authorized Commission at the time of such unauthorized release for any and all economic losses, 
+damages, demands, fines, monetary judgments, penalties, costs and expenses caused by, resulting from, or 
+arising out of or in connection with such unauthorized release.  
+ 
+5. 
+Jurisdiction. The Parties agree that (i) any dispute or conflict requesting the relief in sections 4.1 
+and 4.2(a) above shall be submitted to the Commission for hearing and resolution; (ii) any dispute or 
+conflict requesting the relief in section 4.2(c) above may be submitted to the Commission or any court of 
+competent jurisdiction for hearing and resolution; and (iii) jurisdiction over all other actions and requested 
+relief shall lie in any court of competent jurisdiction.  
+ 
+6. 
+Notices. All notices required pursuant to the terms of this Agreement shall be in writing, and 
+served at the following addresses or email addresses:  
+ 
+If to the Authorized Person:  
+-
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+_____________________________________________________________________________________
+__ 
+(email address) 
+with a copy to 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+(email address) 
+If to Counsel for the Participants Committee:  
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+_ 
+(email address) 
+with a copy to 
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________
+_ 
+(email address) 
+If to ISO:  
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+(email address) 
+with a copy to 
+____________________________________________________________________________________ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+____________________________________________________________________________________ 
+____________________________________________________________________________________ 
+(email address) 
+7.  
+Severability and Survival. In the event any provision of this Agreement is determined to be 
+unenforceable as a matter of law, the Parties intend that all other provisions of this Agreement remain in 
+full force and effect in accordance with their terms. In the event of conflicts between the terms of this 
+Agreement and the Operating Agreement, the terms of the Operating Agreement shall in all events be 
+controlling. The Authorized Person acknowledges that any and all obligations of the Authorized Person 
+hereunder shall survive the severance or termination of any employment or retention relationship between 
+the Authorized Person and their respective Authorized Commission.  
+ 
+8.  
+Representations. The undersigned represent and warrant that they are vested with all necessary 
+corporate, statutory and/or regulatory authority to execute and deliver this Agreement, and to perform all 
+of the obligations and duties contained herein.  
+ 
+9.  
+Third Party Beneficiaries. The Parties specifically agree and acknowledge that each 
+Governance Participant is an intended third party beneficiary of this Agreement entitled to enforce its 
+provisions.  
+ 
+10.  
+Counterparts. This Agreement may be executed in counterparts and all such counterparts 
+together shall be deemed to constitute a single executed original.  
+ 
+11.  
+Amendment. This Agreement may not be amended except by written agreement executed by 
+authorized representatives of the Parties.  
+ 
+ 
+ISO NEW ENGLAND INC.  
+ 
+ 
+ 
+ 
+AUTHORIZED PERSON  
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:  
+________________________________________                        _________________________________ 
+Name:   
+ 
+ 
+ 
+ 
+ 
+ 
+Name:  
+Title:   
+ 
+ 
+ 
+ 
+ 
+ 
+Title:  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+APPENDIX B 
+FORM OF CERTIFICATION 
+ 
+This Certification (the “Certification”) is given this _____ day of ________________, 200_, by 
+_____________________________, a __________________________ (the “Authorized Commission”), 
+to and for the benefit of ISO New England Inc. (“ISO”) and its Governance Participants. The Authorized 
+Commission and ISO shall be referred to herein collectively as the “Parties”.  
+ 
+Whereas, the Authorized Commission has designated the individuals on attached Exhibit “A” (the 
+“Authorized Persons”) to receive Confidential Market Information from ISO, and  
+ 
+Whereas, the Authorized Persons and ISO have, or will, enter into non-disclosure agreements, governing 
+the rights and obligations of the Authorized Persons, ISO and others regarding the Authorized Persons’ 
+access to, provision of, use and control of the Confidential Market Information (the “Non-Disclosure 
+Agreements”), and  
+ 
+Whereas, as a condition precedent to the execution of the Non-Disclosure Agreements and provision of 
+Confidential Market Information to the Authorized Persons, the Authorized Commission is required to 
+make certain representations and warranties to ISO, and  
+ 
+Whereas, ISO agrees to provide Confidential Market Information to the Authorized Persons, in their 
+capacity as agents of the Authorized Commission, subject to the terms of this Certification, the Non-
+Disclosure Agreements, and an appropriate order of the Federal Energy Regulatory Commission 
+protecting the confidentiality of such data;  
+ 
+Whereas, the Parties desire to set forth those representations and warranties herein.  
+ 
+Now, therefore, the Authorized Commission hereby makes the following representations and warranties, 
+all of which shall be true and correct as of the date of execution of this Certification, and at all times 
+thereafter, and with the express understanding that ISO and any Affected Member shall rely on each 
+representation and/or warranty:  
+ 
+1. 
+Definitions. Terms contained, but not defined, herein shall have the definitions or meanings 
+ascribed to such terms in the Non-Disclosure Agreement or the ISO New England Information Policy.  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+2. 
+Requisite Authority.  
+a.  
+The Authorized Commission hereby certifies that it has all necessary legal authority to 
+execute, deliver, and perform the obligations in this Certification.  
+ 
+b.  
+Each Authorized Person is, at the time of the execution of this Certification, an employee 
+of, or consultant to, the Authorized Commission, and has not materially breached any existing or 
+past nondisclosure agreement or obligation, except as has been disclosed by the Authorized 
+Commission to ISO in writing.  
+ 
+c.  
+The Authorized Persons have, through all necessary action of the Authorized 
+Commission, been appointed and directed by the Authorized Commission to execute and deliver 
+the Non-Disclosure Agreements to ISO and receive Confidential Market Information on the 
+Authorized Commission’s behalf and for its benefit.  
+ 
+d.  
+The Authorized Commission will, at all times after the provision of Confidential Market 
+Information to the Authorized Persons, provide ISO with: (i) written notice of any changes in the 
+Authorized Persons’ qualification as an Authorized Person within two (2) business days of such 
+change; (ii) written confirmation to any inquiry by ISO regarding the status or identification of 
+any specific Authorized Person within two (2) business days of such request, and (iii) periodic 
+written updates, no less often than semi-annually, containing the names of all Authorized Persons 
+appointed by the Authorized Commission.  
+ 
+3.  
+Protection of Confidential Market Information.  
+a.  
+The Authorized Commission has adequate internal procedures, to protect against the 
+release of any Confidential Market Information by the Authorized Persons or other employee or 
+agent of the Authorized Commission, and the Authorized Commission and the Authorized 
+Persons will strictly enforce and periodically review all such procedures. In the event that ISO 
+terminates a Non-Disclosure Agreement with an Authorized Person, and does not restore such 
+individual’s status as an Authorized Person, then the Authorized Commission shall review such 
+internal procedures.  
+ 
+b.  
+The Authorized Commission has legal authority to protect the confidentiality of 
+Confidential Market Information from public release or disclosure and/or from release or 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+disclosure to any other person or entity, either by the Authorized Commission or the Authorized 
+Persons, as agents of the Authorized Commission.  
+ 
+c.  
+The Authorized Commission shall ensure that Confidential Market Information and shall 
+be maintained by, and accessible only to, the Authorized Persons.  
+ 
+d.  
+The Authorized Commission and its Authorized Person(s) shall not disclose the 
+Confidential Market Information.  
+ 
+4. 
+Defense Against Requests for Disclosure. The Authorized Commission shall defend against, 
+and will direct the Authorized Persons to defend against, disclosure of any Confidential Market 
+Information pursuant to any Third Party Request through all available legal process, including, but not 
+limited to, obtaining any necessary protective orders. The Authorized Commission shall provide ISO with 
+prompt notice of any such Third Party Request or legal proceedings, and shall consult with ISO and/or 
+any Affected Governance Participant in its efforts to deny the request or defend against such legal 
+process. In the event a protective order or other remedy is denied, the Authorized Commission agrees to 
+furnish only that portion of the Confidential Market Information which their legal counsel advises ISO 
+(and of which ISO shall, in turn, advise any Affected Member) in writing is legally required to be 
+furnished, and to exercise then-best efforts to obtain assurance that confidential treatment will be 
+accorded to such Confidential Market Information.  
+ 
+5. 
+Use and Destruction of Confidential Market Information.  
+a.  
+The Authorized Commission shall use, and allow the use of, the Confidential Market 
+Information solely for the purpose of assisting the Authorized Commission in discharging its 
+legal responsibility to monitor the wholesale and retail electricity markets, operations, 
+transmission planning and siting, and generation planning and siting materially affecting retail 
+customers within the State in which the Authorized Commission has regulatory jurisdiction, and 
+for no other purpose. Without limiting the foregoing, the Authorized Commission shall not use its 
+right to acquire Confidential Market Information as a means of conducting discovery or providing 
+evidence during an adversarial proceeding against an Affected Governance Participant or any 
+group of Participants. The Authorized Commission, however, shall not be prevented from using 
+in an adversarial proceeding Confidential Market Information the Authorized Commission has 
+obtained if: (i) such information becomes known in that proceeding through disclosure by entities 
+other than the Authorized Commission; and (ii) the Authorized Commission discloses such 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Confidential Market Information consistent with the protections and procedures governing the 
+disclosure of Confidential Market Information to parties in that proceeding; or (iii) the 
+information being disclosed no longer meets the definition of Confidential Market Information.  
+ 
+b.  
+Upon completion of the inquiry or investigation referred to in any Information Request 
+initiated by or on behalf of the Authorized Commission, or for any reason any Authorized Person 
+is, or will no longer be an Authorized Person, the Authorized Commission will ensure that such 
+Authorized Person either (a) returns the Confidential Market Information and all copies thereof to 
+ISO, or (b) provides a certification that the Authorized Person and/or the Authorized Commission 
+has destroyed all paper copies and deleted all electronic copies of the Confidential Market 
+Information, unless such actions are inconsistent with or prohibited by applicable state law, in 
+which case the Authorized Commission shall continue to maintain the confidentiality of the 
+Confidential Market Information in accordance with the terms and conditions of this 
+Certification.  
+ 
+6. 
+Notice of Disclosure of Confidential Market Information. The Authorized Commission shall 
+promptly notify ISO of any inadvertent or intentional release or possible release of the Confidential 
+Market Information provided to any Authorized Person, and shall take all available steps to minimize any 
+further release of Confidential Market Information and/or retrieve any Confidential Market Information 
+that may have been released.  
+ 
+7. 
+Ownership and Privilege. Nothing in this Certification, or incident to the provision of 
+Confidential Market Information to the Authorized Person pursuant to any Information Request, is 
+intended, nor shall it be deemed, to be a waiver or abandonment of any legal privilege that may be 
+asserted against subsequent disclosure or discovery in any formal proceeding or investigation. Moreover, 
+no transfer or creation of ownership rights in any intellectual property comprising Confidential Market 
+Information is intended or shall be inferred by the disclosure of Confidential Market Information by ISO, 
+and any and all intellectual property comprising Confidential Market Information disclosed and any 
+derivations thereof shall continue to be the exclusive intellectual property of ISO and/or the Affected 
+Governance Participant.  
+ 
+Executed, as of the date first set out above.  
+[Commission]  
+By:______________________________  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Its:_______________________________  
+[SEE NEXT PAGE]  
+ 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+EXHIBIT A 
+CERTIFICATION LIST OF AUTHORIZED PERSONS 
+Name of  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scope and 
+Authority  
+ 
+Mailing Address  
+ 
+Email   
+Tel #   
+Duration  
+ 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+APPENDIX C 
+FORM OF ACADEMIC INSTITUTION NON-DISCLOSURE AGREEMENT 
+ 
+THIS NON-DISCLOSURE AGREEMENT (the “Agreement”) is made this ______ day of 
+_______________, 200_, by and between _______________________, (the “Authorized Institution”), 
+with offices at _________________________________ and ISO New England Inc., a Delaware 
+corporation, with offices at One Sullivan Road, Holyoke, Massachusetts, 01040-2841 (the “ISO”). The 
+Authorized Institution and the ISO shall be referred to herein individually as a “Party,” or collectively as 
+the “Parties.”  
+RECITALS  
+ 
+Whereas, the ISO serves as the Regional Transmission Organization for the New England Control Area, 
+and operates and oversees wholesale markets for electricity pursuant to the requirements of the ISO 
+Tariff, as defined below; and  
+ 
+Whereas, the External Market Monitor (as defined below) serves as the independent market monitor for 
+ISO’s wholesale markets for electricity, and  
+ 
+Whereas, the ISO New England Information Policy requires that the ISO and the External Market 
+Monitor maintain the confidentiality of Confidential Market Information; and  
+ 
+Whereas, the ISO New England Information Policy permits the ISO and the External Market Monitor to 
+disclose Confidential Market Information to the Authorized Institution upon satisfaction of conditions 
+stated in the ISO New England Information Policy, including, but not limited to, the execution of this 
+Agreement by the Authorized Institution and the maintenance of the confidentiality of such information 
+by the Authorized Institution pursuant to the terms of this Agreement; and  
+ 
+Whereas, the ISO desires to provide the Authorized Institution with access to Confidential Market 
+Information, consistent with the ISO’s and the External Market Monitor’s obligations and duties under 
+the ISO New England Information Policy, the ISO Tariff and other applicable Commission directives; 
+and  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Whereas, this Agreement is a statement of the conditions and requirements, consistent with the 
+requirements of the ISO New England Information Policy, whereby the ISO may provide Confidential 
+Market Information to the Authorized Institution.  
+ 
+NOW, THEREFORE, intending to be legally bound, the Parties hereby agree as follows:  
+ 
+1.  
+Definitions. Capitalized terms not otherwise defined herein shall have the meanings ascribed 
+thereto in the ISO Tariff.  
+ 
+1.1  
+Affected Governance Participant.  A Governance Participant, which as a result of its 
+participation in the markets administered by the ISO, provided Confidential Market Information to the 
+ISO, which Confidential Market Information is requested by, or is disclosed to an Authorized Institution 
+under this Agreement.  
+ 
+1.2  
+Authorized Researcher. Shall have the meaning set forth in the ISO New England Information 
+Policy.  
+ 
+1.3 
+Confidential Market Information.  Shall mean Confidential Information (as defined in the ISO 
+New England Information Policy) consisting of market data relating to the markets administered by the 
+ISO, including data supplied by Governance Participants and aggregate data regularly compiled by the 
+ISO.  Confidential Market Information shall not include the following categories of information without 
+excluding any objective market data associated with them that would otherwise be provided under the 
+first sentence of this definition: (i) draft versions of reports and analyses, (ii) internal ISO documents not 
+related to market data, (iii) attorney-client communications,  (iv) attorney work-product privileged 
+information, (v) communications about Confidential Market Information between an Affected 
+Governance Participant and the ISO/External Market Monitor, except to the extent that the 
+communications become part of final written reports or final written analyses by the ISO/External Market 
+Monitor, (vi) communications between an Affected Governance Participant and the ISO made on a 
+confidential basis as part of a settlement proceeding or negotiation, and (vii) information provided to the 
+ISO on a confidential basis as part of an Alternative Dispute Resolution proceeding.  If the 
+aforementioned information in (i) through (vii) is furnished to the Authorized Institution, such 
+information shall be protected according to the terms of this Agreement, and the Authorized Institution 
+shall return such information to the ISO as promptly as possible.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+1.4 
+ Competitive Duty Personnel. Shall mean a person whose duties include (i) the marketing or 
+sale of electric power at wholesale; (ii) the purchase or resale of electric power at wholesale; (iii) the 
+direct supervision of any employee with duties specified in subparagraph (i) or (ii) of this paragraph; or 
+(iv) the provision of electricity marketing consulting services to entities engaged in the sale or purchase of 
+electric power at wholesale.  
+ 
+1.5  
+Commission.  The Federal Energy Regulatory Commission. 
+ 
+1.6  
+External Market Monitor. Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.7  
+Governance Participant.  Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.8 
+ ISO New England Information Policy. Shall have the meaning set forth in the ISO Tariff.  
+ 
+1.9 
+ Information Request. A written request by the Authorized Institution in accordance with the 
+terms of this Agreement for disclosure of Confidential Market Information pursuant to Section 3.4 of the 
+ISO New England Information Policy.  
+ 
+1.10 
+ ISO Tariff. The ISO’s Transmission, Markets and Services Tariff, as it may be amended from 
+time to time.  
+ 
+1.11  
+Non-Disclosure Certificate. Shall mean the certificate annexed hereto by which Authorized 
+Researchers who have been granted access to Confidential Market Information shall certify their 
+understanding that such access to Confidential Market Information is provided pursuant to the terms and 
+restrictions of this Agreement, that they are not Competitive Duty Personnel, and that they have read this 
+Agreement and agree to be bound by it.  
+ 
+1.12  
+Notes of Confidential Market Information. Shall mean memoranda, handwritten notes, or any 
+other form of information (including electronic form) which copies or discloses materials described in the 
+definition of Confidential Market Information set forth above. Notes of Confidential Market Information 
+are subject to the same restrictions provided in this Agreement for Confidential Market Information 
+except as specifically provided in this Agreement.  
+ 
+1.13  
+Proposed Research. Shall have the meaning set forth in Section 3.4 of the Information Policy.  
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+ 
+1.14 
+ Third Party Request. Any request or demand by any entity upon the Authorized Institution for 
+release or disclosure of Confidential Market Information. A Third Party Request shall include, but shall 
+not be limited to, any subpoena, discovery request, or other request for Confidential Market Information 
+made by any: (i) federal, state, or local governmental subdivision, department, official, agency or court, or 
+(ii) arbitration panel, business, company, entity or individual.  
+ 
+2.  
+Protection of Confidentiality.  
+ 
+2.1  
+Duty to Not Disclose. The Authorized Institution represents and warrants that it:  
+(i) is duly authorized to enter into and perform this Agreement; (ii) has adequate procedures to protect 
+against the release of Confidential Market Information; (iii) is familiar with, and will comply with, all 
+such applicable procedures; and (iv) is not in breach of any other Academic Institution Non-Disclosure 
+Agreement entered into with the ISO.  The Authorized Institution hereby covenants and agrees not to 
+disclose the Confidential Market Information and to deny any Third Party Request and defend against any 
+legal process that seeks the release of Confidential Market Information in contravention of the terms of 
+this Agreement.  
+ 
+2.2  
+Defense Against Third Party Requests.  The Authorized Institution shall defend against any 
+disclosure of Confidential Market Information pursuant to any Third Party Request through all available 
+legal process, including, but not limited to, obtaining any necessary protective orders. The Authorized 
+Institution shall provide the ISO, and the ISO shall provide each Affected Governance Participant and 
+counsel for the Participants Committee, with prompt notice of any such Third Party Request or legal 
+proceedings, and shall consult with the ISO and/or any Affected Governance Participant in its efforts to 
+deny the request or defend against such legal process.  In the event a protective order or other remedy is 
+denied, the Authorized Institution agrees to furnish only that portion of the Confidential Market 
+Information which its legal counsel advises the ISO (and of which the ISO shall, in turn, advise any 
+Affected Governance Participants) in writing is legally required to be furnished, and to exercise its best 
+efforts to obtain assurance that confidential treatment will be accorded to such Confidential Market 
+Information.  
+ 
+2.3  
+Care and Use of Confidential Market Information.  
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+2.3.1  Control of Confidential Market Information. The Authorized Institution shall be the custodian 
+of any and all Confidential Market Information received pursuant to the terms of this Agreement from the 
+ISO or the External Market Monitor.  
+ 
+2.3.2  Access to Confidential Market Information. The Authorized Institution shall ensure that 
+Confidential Market Information received by that Authorized Institution is disseminated only to those 
+persons publicly identified as Authorized Researchers in the applicable Information Request, and that 
+such Authorized Researchers have been advised of the confidential nature of the Confidential Market 
+Information and have agreed to abide by the terms of this Agreement by signing a Non-Disclosure 
+Certificate.  The Authorized Institution agrees that it shall be liable for any breach of this Agreement by 
+any of the Authorized Researchers.  
+ 
+2.3.3  Competitive Duty Personnel. If any person who has been an “Authorized Researcher” 
+subsequently becomes Competitive Duty Personnel, that person shall thereafter have no access to 
+Confidential Market Information, shall return all such materials to the Authorized Institution, and shall 
+continue to comply with the requirements set forth in this Non-Disclosure Agreement with respect to 
+Confidential Market Information to which such person previously had access.  
+ 
+2.3.4  Use of Confidential Market Information.  The Authorized Institution shall use the Confidential 
+Market Information solely for the purpose of the  Proposed Research. An Authorized Researcher may 
+make copies of Confidential Market Information, but such copies become Confidential Market 
+Information. An Authorized Researcher may make notes of Confidential Market Information, which shall 
+be treated as Notes of Confidential Market Information if they disclose the contents of Confidential 
+Market Information. In the event that the Authorized Institution or any Authorized Researcher desires to 
+publish any material related to or that relies upon the Confidential Market Information, the Authorized 
+Institution or Authorized Researcher must ensure that the Confidential Market Information is sufficiently 
+redacted or summarized so that it may not be identified. Any such publication must be approved in 
+writing by the ISO in advance of its release.  
+ 
+2.3.5  Return of Confidential Market Information. Upon completion of the Proposed Research, or 
+upon termination of this Agreement for any reason, the Authorized Institution shall (a) return the 
+Confidential Market Information and all copies thereof to the ISO, or (b) provide a certification that the 
+Authorized Institution has destroyed all paper copies and deleted all electronic copies of the Confidential 
+Market Information. The ISO may waive this condition in writing if such Confidential Market 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Information has become publicly available or non-confidential in the course of business or pursuant to the 
+ISO Tariff or order of the Commission.  
+ 
+2.3.6  Notice of Disclosures. The Authorized Institution shall promptly notify the ISO, and the ISO 
+shall promptly notify any Affected Governance Participant, of any inadvertent or intentional release or 
+possible release of the Confidential Market Information provided pursuant to this Agreement.  
+The Authorized Institution shall take all steps to minimize any further release of Confidential Market 
+Information, and shall take reasonable steps to attempt to retrieve any Confidential Market Information 
+that may have been released.  
+ 
+2.4  
+Ownership and Privilege. Nothing in this Agreement, or incident to the provision of 
+Confidential Market Information to the Authorized Institution pursuant to any Information Request, is 
+intended, nor shall it be deemed, to be a waiver or abandonment of any legal privilege that may be 
+asserted against, subsequent disclosure or discovery in any formal proceeding or investigation. Moreover, 
+no transfer or creation of ownership rights in any intellectual property comprising Confidential Market 
+Information is intended or shall be inferred by the disclosure of Confidential Market Information by the 
+ISO, and any and all intellectual property comprising Confidential Market Information disclosed and any 
+derivations thereof shall continue to be the exclusive intellectual property of the ISO and/or the Affected 
+Governance Participant.  
+ 
+3.  
+Remedies.  
+ 
+3.1  
+Material Breach. The Authorized Institution agrees that any release of Confidential Market 
+Information to persons not authorized to receive it or any publication of any material related to or that 
+relies upon the Confidential Market Information which is not (i) approved in writing by the ISO prior to 
+publication and (ii) redacted or summarized in such a manner that the Confidential Market Information 
+may not be identified shall constitute a breach of this Agreement and may cause irreparable harm to the 
+ISO and/or the Affected Governance Participant. In the event of a breach of this Agreement by the 
+Authorized Institution, the ISO may terminate this Agreement upon written notice to the Authorized 
+Institution, and all rights of the Authorized Institution hereunder shall thereupon terminate; provided, 
+however, that the ISO may restore status as an Authorized Institution after consulting with the Affected 
+Governance Participant and to the extent that: (i) the ISO determines that the disclosure was not due to the 
+intentional, reckless or negligent action or omission of the Authorized Institution; (ii) there were no harm 
+or damages suffered by the Affected Governance Participant; or (iii) similar good cause shown. 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+Notwithstanding the foregoing, the Authorized Institution hereby shall indemnify, save, hold harmless, 
+discharge, and release the ISO and each affected Governance Participant from and against any and all 
+payments, liabilities, damages, losses or costs and expenses paid or directly incurred by the ISO and/or 
+each affected Governance Participant arising from, based upon, related to, or associated with the breach 
+of, or failure to perform or satisfy, any obligation of the Authorized Institution set forth in this 
+Agreement.  
+ 
+3.2  
+Judicial Recourse. In the event of any breach of this Agreement, the ISO, the Affected 
+Governance Participant and/or the Participants Committee shall have the right to seek and obtain at least 
+the following types of relief: (a) temporary, preliminary, and/or permanent injunctive relief with respect 
+to any breach and (b) the immediate return of all Confidential Market Information to the ISO. The 
+Authorized Institution expressly agrees that in the event of a breach of this Agreement, any relief sought 
+properly includes, but shall not be limited to, the immediate return of all Confidential Market Information 
+to the ISO.  
+ 
+4. 
+Jurisdiction. The Parties agree that jurisdiction over all other actions and requested relief with 
+respect to the Agreement shall lie in any court of competent jurisdiction.  
+ 
+5. 
+Notices. All notices required pursuant to the terms of this Agreement shall be in writing, and 
+served at the following addresses or email addresses:  
+ 
+If to the Authorized Institution:  
+-
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+ (email address) 
+_____________________________________________________________________________________
+___ 
+_____________________________________________________________________________________
+___ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+_____________________________________________________________________________________
+___ 
+with a copy to 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+_____________________________________________________________________________________
+__ 
+(email address) 
+If to Counsel for the Participants Committee:  
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________
+_ 
+(email address) 
+with a copy to 
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________
+_ 
+_____________________________________________________________________________________ 
+(email address) 
+If to ISO:  
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+(email address) 
+with a copy to 
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+_____________________________________________________________________________________ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+(email address) 
+ 
+6.  
+Severability and Survival. In the event any provision of this Agreement is determined to be 
+unenforceable as a matter of law, the Parties intend that all other provisions of this Agreement remain in 
+full force and effect in accordance with their terms. The obligations of the Parties set forth in this 
+Agreement shall survive the termination or completion of this Agreement. 
+ 
+7.  
+Representations. The undersigned represent and warrant that they are vested with all necessary 
+corporate, statutory and/or regulatory authority to execute and deliver this Agreement, and to perform all 
+of the obligations and duties contained herein.  
+ 
+8.  
+Third Party Beneficiaries. The Parties specifically agree and acknowledge that each 
+Governance Participant is an intended third party beneficiary of this Agreement entitled to enforce its 
+provisions.  
+ 
+9.  
+Counterparts. This Agreement may be executed in counterparts and all such counterparts 
+together shall be deemed to constitute a single executed original.  
+ 
+10.  
+Amendment. This Agreement may not be amended except by written agreement executed by 
+authorized representatives of the Parties.  
+ 
+ISO NEW ENGLAND INC.  
+ 
+ 
+ 
+ 
+AUTHORIZED INSTITUTION  
+By:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:  
+_______________________________________                 _____________________________________ 
+Name:   
+ 
+ 
+ 
+ 
+ 
+ 
+Name:  
+Title:   
+ 
+ 
+ 
+ 
+ 
+ 
+Title:  
+ 
+ 
+ 
+Effective Date: 7/26/24 - Docket No. ER24-138-000 
+NON-DISCLOSURE CERTIFICATE 
+I hereby certify my understanding that access to Confidential Market Information is provided to me 
+pursuant to the terms and restrictions of the attached Non-Disclosure Agreement, that I have read such 
+Non-Disclosure Agreement, and that I agree to be bound by it. In addition, I hereby certify that I am not a 
+Competitive Duty Personnel as that term is defined in the Non-Disclosure Agreement. I understand that 
+the contents of the Confidential Market Information, any notes or other memoranda, or any other form of 
+information that copies or discloses Confidential Market Information shall not be disclosed to anyone 
+other than in accordance with that Non-Disclosure Agreement.  
+By: 
+_____________________________________ 
+Title: 
+______________________________________ 
+Representing: 
+______________________________________ 
+Date:__________________________________ 
+[NOTICE ADDRESS]  
+ 

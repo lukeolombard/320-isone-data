@@ -1,0 +1,4962 @@
+DMEAST #9695005 v1 
+ 
+ 
+ 
+December 29, 2006 
+ 
+ 
+VIA MESSENGER 
+ 
+Honorable Magalie Roman Salas, Secretary 
+Federal Energy Regulatory Commission 
+888 First Street, N.E. 
+Washington, D.C. 20426 
+ 
+Re: 
+ISO New England Inc. and NEPOOL Participants Committee,  
+Amendments to Schedule 2 – Reactive Power Supply and Voltage 
+Control of the ISO New England Inc. Open Access Transmission 
+Tariff ;  Docket No. ER07-___-000 
+ 
+ 
+Dear Secretary Salas: 
+ 
+ 
+Pursuant to Section 205 of the Federal Power Act (“FPA”),1 ISO New England 
+Inc. (the “ISO”) and New England Power Pool (“NEPOOL”) Participants Committee2 
+hereby jointly submit an original and six (6) copies of this transmittal letter and revised 
+tariff sheets reflecting proposed amendments to Schedule 2 – Reactive Supply and 
+Voltage Control from Generation Resource Service (“Schedule 2”) of the ISO Open 
+Access Transmission Tariff (“OATT”), including a Schedule 2 VAR Payment 
+Implementation Rule to be added to the OATT (collectively, the “Schedule 2 
+Amendments”).   
+ 
+The proposed Schedule 2 Amendments build upon the already existing rate 
+design, as approved by the Commission since 1999,3 to increase the ISO’s access to 
+reactive power resources and, thereby, enhance reliability in New England.  The 
+                                                 
+1 16 U.S.C. § 824(d) (2005). 
+ 
+2 Capitalized terms used but not defined in this filing have the meanings ascribed thereto in the ISO’s 
+Transmission, Markets and Services Tariff, FERC Electric Tariff No. 3 (the “Tariff”), the Second Restated 
+New England Power Pool Agreement and the Participants Agreement.  The OATT is Section II of the 
+Tariff.   
+ 
+3 New England Power Pool, 88 FERC ¶ 61,140 (1999). 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 2 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+Schedule 2 Amendments enhance reliability in New England by broadening the scope of 
+eligibility for payment under Schedule 2 of the OATT to include qualified non-generator 
+reactive power resources and by updating the rate paid for reactive power capability to 
+reflect the current mix of generation in New England.  These proposed amendments have 
+the overwhelming support of the NEPOOL Participants, as reflected in a vote of almost 
+90% in support by the Participants Committee.   
+ 
+ 
+For the reasons described below, the ISO and NEPOOL submit that the Schedule 
+2 Amendments are just and reasonable.  ISO and NEPOOL request that the Commission 
+accept the Schedule 2 Amendments, without modification, to become effective on  
+March 1, 2007, sixty (60) days after the date of this filing.   
+ 
+I.   
+OVERVIEW OF FILING 
+ 
+Based on NEPOOL Participant interest, the ISO and NEPOOL initiated a review 
+of the rules in New England governing the provision of reactive power and voltage 
+support, including eligibility of resources, compensation and testing to recommend 
+whether those rules should change and, if so, how they should change.4  The proposed 
+Schedule 2 Amendments, as described below, reflect the input from this review.  For 
+purposes of completeness, Section IV of this filing provides a brief history of the 
+development of the existing rate schedule, as initially approved by the Commission in 
+1999, and as subsequently revised.   
+ 
+The proposed Schedule 2 Amendments are described in Section V of this filing.  
+Specifically, Section V describes the proposed revisions to Schedule 2 to:  (1) extend the 
+current compensation for reactive power and voltage support to include non-generator 
+dynamic reactive power resources; (2) clarify the eligibility criteria for all dynamic 
+reactive power resources, including both generator and non-generator resources; (3) 
+update the Capacity Cost (“CC”) component of the rate design to account for changes in 
+the cost-basis and mix of reactive power resources in New England since 1998; (4) 
+expand the current testing program to include testing for leading capability; and (5) 
+identify alternative means under the ISO OATT by which a non-generator dynamic 
+reactive power resource can receive payment under the ISO OATT if it does not elect to 
+recover its costs under Schedule 2.  Additionally, Section V describes the required 
+revisions to the operational and testing rules in order to accommodate the 
+recommendations to expand the class of resources eligible for Schedule 2 payments to 
+include non-generator dynamic resources, update the fixed CC charge for VAR capacity 
+                                                 
+4 As further discussed in Section VI of this filing, in December 2004, the Transmission Committee 
+established a VAR Working Group (the “VWG”) to review the rules in New England governing the 
+provision of reactive power and voltage support, including eligibility of resources, compensation and 
+testing to recommend whether those rules should change and, if so, how they should change.  The 
+Transmission Committee is a Standing Committee under Section 8.2.1 of the Participants Agreement, 
+which is an agreement between the ISO and NEPOOL that is part of the RTO arrangements for New 
+England. 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 3 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+and modify the application of the CC Rate to recognize leading as well as lagging VAR 
+capability.  Section V also addresses the proposed phased-in implementation schedule for 
+the Schedule 2 Amendments, which provides that commencing:  
+ 
+• March 1, 2007 – Cross Sound Cable will be accepted into the program as a 
+Qualified Non-Generator Reactive Resource eligible for the CC Rate 
+payment provided that it has satisfied all criteria specified in Section II.B, 
+including a requirement that operating protocols for provision of reactive 
+power voltage support from such equipment have been agreed to, in 
+writing, between the ISO and the Cross Sound Cable operator. 
+ 
+• June 1, 2007 – The Base CC Rate will increase from $1.05/kVAR-year to 
+$2.32/kVAR-year for the lagging capabilities of all dynamic reactive 
+resources that have been accepted into the program.  At this time, the ISO 
+also will initiate the testing for the leading capabilities; that is, all 
+Qualified Generator and Non-Generator Reactive Resource seeking to be 
+compensated under Schedule 2 will be required to provide the appropriate 
+data necessary to test for leading capability and the first set of these 
+resources will perform leading capability tests during the 2007 leading 
+capability test period. 
+ 
+• January 1, 2008 – The Adjusted Base CC Rate will be applied to reflect 
+leading and lagging capability.  Also, on this date, all other non-generator 
+dynamic reactive resources that have demonstrated their compliance with 
+the eligibility criteria established in Section II.B will be eligible to receive 
+the CC payment under Schedule 2.        
+ 
+The proposed Amendments have been incorporated in Schedule 2 of the OATT in 
+the following manner: 
+ 
+Section I – This Section has been added to Schedule 2 to provide definitions of the new 
+terms used throughout the rate schedule.  
+ 
+Section II – This Section has been added to provide the specific criteria that “Qualified 
+Generator Reactive Resources” and “Qualified Non-Generator Reactive Resources” must 
+meet to be eligible for CC Rate payments under Schedule 2.  Section II also includes a 
+provision addressing the treatment of Non-Dynamic Reactive Resources for purposes of 
+compensation. 
+ 
+Section III – This Section provides the formula applied to determine the payments to be 
+made by Transmission Customers for VAR Service provided under Schedule 2.  The 
+provisions set forth in Section III are provided in Section I of the currently effective 
+Schedule 2.  The revisions reflected in this section clarify the provision of VAR Service, 
+and add consistency in the terminology used.  
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 4 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+Section IV – This Section has been added to define the cost allocation for VAR Service 
+costs.  Section IV does not change the existing cost allocation approach provided under 
+the current rate schedule.     
+ 
+Section V – This Section sets forth the elements of the Schedule 2 rate design, as 
+provided in Section II of the currently effective Schedule 2.  As Section V reflects, while 
+the existing Schedule 2 rate design remains unchanged, each element has been modified 
+to recognize the addition of Qualified Non-Generator Reactive Resources.  The 
+provisions regarding the CC Rate have also been revised to provide for the update of the 
+amount paid for the CC component, and to provide payment to resources based on their 
+leading as well as their lagging capability.   
+ 
+Section VI – This Section has been added to provide alternative methods of payment for 
+Qualified Non-Generator Reactive Resources that cannot recover their costs under 
+Schedule 2. 
+ 
+Schedule 2 VAR Implementation Rule – The Implementation Rule has been added to 
+describe the methodology for calculating and allocating dynamic reactive power capacity 
+cost payments over a full range of leading and lagging capability. 
+ 
+II.   
+COMMUNICATIONS 
+ 
+ 
+The ISO is the private, non-profit entity that serves as the regional transmission 
+organization (“RTO”) for New England.  The ISO operates the New England bulk power 
+system and administers New England’s wholesale electricity markets pursuant to the 
+Tariff and the Transmission Operating Agreements with the New England Transmission 
+Owners.  In its capacity as an RTO, the ISO has the responsibility to protect the short-
+term reliability of the New England Area and to operate the system according to 
+reliability standards established by the Northeast Power Coordinating Council (“NPCC”) 
+and the North American Electric Reliability Council (“NERC”).   
+ 
+ 
+NEPOOL is a voluntary association organized in 1971 pursuant to the New 
+England Power Pool Agreement.  NEPOOL has grown to include over 300 members, and 
+is the principal stakeholder organization of the New England RTO.  The Participants 
+include all of the electric utilities rendering or receiving services under the Tariff, as well 
+as independent power generators, marketers, load aggregators, brokers, consumer-owned 
+utility systems, demand response providers, end users and a merchant transmission 
+provider.  Pursuant to revised governance provisions accepted by the Commission in ISO 
+New England Inc. et al., 109 FERC ¶ 61,147 (2004), the Participants act through the 
+NEPOOL Participants Committee.  The Participants Committee is authorized by Section 
+6.1 of the Second Restated NEPOOL Agreement and Section 8.1.3(c) of the Participants 
+Agreement to represent NEPOOL in proceedings before the Commission.  
+ 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 5 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+All correspondence and communications in this proceeding should be addressed 
+to the undersigned for the ISO as follows: 
+ 
+Raymond W. Hepper 
+Monica Gonzalez* 
+ISO New England Inc. 
+One Sullivan Road 
+Holyoke, MA 01040-2841 
+Tel:  (413) 535-4178 
+Fax: (413) 535-4379 
+Email: mgonzalez@iso-ne.com  
+Howard H. Shafferman* 
+Daniel R. Simon  
+Ballard Spahr Andrews & Ingersoll, LLP 
+601 13th Street, NW 
+Suite 1000 South 
+Washington, DC 20005-3807 
+Tel:  (202) 661-2200 
+Fax: (202) 661-2299 
+Email: hhs@ballardspahr.com  
+ 
+ 
+And to NEPOOL as follows: 
+ 
+David T. Doot 
+Eric K. Runge* 
+Day, Berry & Howard LLP 
+One International Place 
+Boston, MA 02110 
+Tel: (617) 345-4735 
+Fax: (617) 345-4745 
+Email: ekrunge@dbh.com 
+  
+*Persons designated for service. 
+ 
+III.   
+STANDARD OF REVIEW 
+ 
+The ISO submits the Schedule 2 Amendments pursuant to Section 205 of the 
+FPA, which “gives a utility the right to file rates and terms for services rendered with its 
+assets.”5  Under Section 205, the Commission “plays ‘an essential passive and reactive’ 
+role”6 whereby it “can reject [a filing] only if it finds that the changes proposed by the 
+public utility are not “just and reasonable.”7  The Commission limits this inquiry “into 
+whether the rates proposed by a utility are reasonable – and [this inquiring does not] 
+extend to determining whether a proposed rate schedule is more or less reasonable than 
+alternative rate designs.”8  The changes proposed herein “need not be the only reasonable 
+                                                 
+5 Atlantic City Elec. Co. v. FERC, 295 F.3d 1, 9 (D.C. Cir. 2002). 
+ 
+6 Id. at 10 (quoting City of Winnfield v. FERC, 744 F.2d 871, 876 (D.C. Cir 1984). 
+ 
+7 Id. 
+ 
+8 See ISO New England Inc., 114 FERC ¶ 61,315 at P 33 and n.35 (2005), citing Pub. Serv. Co. of New 
+Mexico v. FERC, 832 F.2d 1201, 1211 (10th Cir. 1987) and City of Bethany v. FERC, 727 F.2d 1131, 1136 
+(D.C. Cir. 1984) (“City of Bethany”), cert. denied, 469 U.S. 917 (1984). 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 6 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+methodology, or even the most accurate.”9  As a result, even if an intervenor or the 
+Commission develops an alternate proposal, the Commission must accept the ISO’s 
+Section 205 filing if it finds it is just and reasonable.10 
+ 
+IV.   
+BACKGROUND 
+ 
+ 
+In order to maintain transmission voltages on the New England Transmission 
+System within acceptable limits, generation facilities may be directed from time to time 
+by the ISO, as the System Operator, to operate to produce or absorb reactive power.  
+Schedule 2 of the OATT sets forth the rules that govern eligibility for compensation and 
+payment for reactive power supply and voltage control service in New England.  To the 
+extent a generation facility is directed by the ISO to produce or absorb reactive power, 
+that facility is compensated under Schedule 2 for its provision of reactive power and for 
+the energy costs associated with the reactive power provided.  A brief history of the 
+development of Schedule 2 sets the framework for the Schedule 2 Amendments that are 
+the subject of the instant filing.   
+ 
+On December 31, 1996, NEPOOL filed a comprehensive restructuring proposal, 
+which included the Restated NEPOOL Agreement and the NEPOOL Open Access 
+Transmission Tariff (“NEPOOL Tariff”).11  Schedule 2 to the NEPOOL Tariff provided a 
+formula for quantifying and recovering the costs of reactive power supply and voltage 
+control from generation resources.  NEPOOL’s initial filing of Schedule 2 included a 
+number of changes to the pro forma Order No. 888 OATT.  These changes were related 
+to the rate design and payments for reactive power under Schedule 2.  The justness and 
+reasonableness of Schedule 2, among other issues, was set for hearing pursuant to a 
+Commission Order issued on April 20, 1998.12  The issues relating to Schedule 2, other 
+than the calculation of a non-$0 CC component of the formula for compensation defined 
+in Schedule 2, were resolved in a settlement agreement reached by the parties on April 5, 
+1999, and approved by the Commission on July 30, 1999.13   
+ 
+Pursuant to that settlement agreement, the costs for providing reactive power from 
+generators in the NEPOOL Control Area are recovered exclusively through Schedule 2 of 
+the NEPOOL Tariff and shared by transmission customers on a pro rata basis according 
+                                                 
+9 Oxy USA, Inc. v. FERC, 64 F.3d 679, 692 (D.C. Cir. 1995). 
+ 
+10 Cf. Southern California Edison C o., et al., 73 FERC ¶ 61,219 at 61,608 n. 73 (1995) (“Having found the 
+Plan to be just and reasonable, there is no need to consider in any detail the alternative plans proposed by 
+the Joint Protesters.” (citing City of Bethany, 727 F.2d at 1136)). 
+ 
+11 Prior to the February 1, 2005 implementation date for the New England RTO, NEPOOL had the filing 
+rights for the NEPOOL OATT, which went into effect on March 1, 1997. 
+ 
+12 New England Power Pool, 83 FERC ¶ 61,045 (1998).   
+ 
+13 New England Power Pool, 88 FERC ¶ 61,140 (1999). 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 7 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+to their shares of regional network load and reserved capacity for Through or Out 
+Service.  As initially filed, Schedule 2 provided for reactive power compensation based 
+on three cost components:  (1) the Lost Opportunity Cost (“LOC”) component, which 
+compensates for the value of a generator’s lost opportunity in the energy market in 
+situations in which a generator that would otherwise be economically dispatched as 
+directed by the ISO to reduce real power output to provide more reactive power; (2) the 
+cost of energy consumed (“SCL”) component, which compensates for the cost of energy 
+consumed by a generator solely to provide reactive power support, such as the energy 
+required to “motor” a hydroelectric generating unit; and (3) the CC component, which 
+compensates for the fixed capital costs incurred by a generator associated with the 
+installation and maintenance of the capability of providing reactive power.  The charge 
+for the CC component was originally set at $0 to reflect an agreement among the parties.   
+ 
+Subsequently, in 2001, NEPOOL further revised the compensation formula to 
+include an additional component labeled “PC” and defined as “the portion of the amount 
+paid to Market Participants for the hour for Energy produced by a generating unit that is 
+considered under [Schedule 2] to be paid for VAR support.”14  The PC charges address 
+the circumstances where a generator that was not economically dispatched is directed to 
+come on line or increase power above its economic loading point to provide reactive 
+power.  This component compensates the generator for the difference between the 
+locational marginal price (“LMP”) and its offer price, if the LMP is lower than the offer 
+price, for each hour the generator provides reactive power.15  Also, in 2001, NEPOOL 
+filed its Seventy-Third Agreement Amending the Restated NEPOOL Agreement 
+(“Seventy-Third Agreement”) amending the CC component that was originally set at $0 
+to allow for a non-$0 charge, which would compensate a “Qualified Generator” for 
+maintaining a generator’s capability to provide reactive power support.16  In that filing, 
+NEPOOL also described the calculations for each of the elements of the Schedule 2 rate 
+design.   
+ 
+The existing rate design under Schedule 2 of the OATT consists of the same 
+elements described in the Seventy-Third Amendment filing – the fixed CC component 
+                                                 
+14 This revision to the Schedule 2 formula was directed by the Commission by order dated June 28, 2000, 
+Docket Nos. EL00-62-000, et al., ISO New England Inc., 91 FERC ¶ 61,311 (2000) (“CSM/MSS Order”), 
+and subsequently approved on June 13, 2001 in ISO New England Inc., 95 FERC ¶ 61,384 (2001). 
+ 
+15 On April 27, 2001, NEPOOL filed the Seventy-Second Agreement Amending the Restated NEPOOL 
+Agreement (“Seventy-Second Agreement”), which proposed conforming changes in light of a order issued 
+by the Commission on April 26, 2001, accepting market rule changes implementing three-part bidding and 
+net commitment period compensation (“NCPC”) in the NEPOOL Control Area.  New England Power Pool, 
+95 FERC ¶ 61,123 (2001).  The NCPC methodology approved by the Commission applied to the 
+calculation of the PC charge component of Schedule 2.  The Commission accepted the Seventy-Second 
+Amendment in an unpublished letter order issued on June 1, 2001, in Docket No. ER01-1891-000. 
+ 
+16 This Agreement was accepted by the Commission in an unpublished letter order issued on June 28, 2001, 
+in Docket No. ER01-2161-000.   
+ 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 8 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+and the variable components of LOC, SCL and PC.  As described in the Seventy-Third 
+Amendment, Schedule 2 of the OATT compensates “Qualified Generators” for the 
+equipment needed to provide VAR Service as directed by the ISO.  Such compensation, 
+however, is based on the lagging capability provided only by such “Qualified 
+Generators,” defined as “any generator that is in the Market System and provides 
+measurable voltage support, as determined from time to time by the ISO to the New 
+England Control Area.”  Non-generator dynamic reactive power sources are not eligible 
+for compensation under Schedule 2.  Moreover, the charge paid under the CC component 
+reflects a negotiated rate based on the carrying costs associated with generator reactive 
+power equipment owned by transmission owners in 1998 and has not been updated to 
+account for changes in the cost-basis or mix of reactive resources now available and 
+providing reactive support in New England.17      
+ 
+V.   
+DESCRIPTION OF THE SCHEDULE 2 AMENDMENTS  
+ 
+ 
+The proposed Schedule 2 Amendments include the modifications to Schedule 2 of 
+the OATT as approved by the Participants Committee.  As further described below, the 
+Schedule 2 Amendments:  (1) expand eligibility for payment under Schedule 2 to non-
+generator dynamic reactive power resources; (2) make eligibility criteria clear for all 
+dynamic reactive power resources; (3) update the CC rate from $1.05/kVAR-year (the 
+current amount paid under the CC rate) to $2.32/kVAR-year to account for changes in the 
+cost-basis or mix of reactive resources in New England since 1998; (4) use both leading 
+and lagging VAR capability to determine the CC component payments; and (5) identify an 
+alternative means under the OATT by which a non-generator dynamic reactive power 
+resources can receive compensation if it does not elect to recover its costs under Schedule 
+2.     
+ 
+A.  Proposed Changes to Eligibility Requirements for Compensation  
+ 
+1. Expanding Compensation Eligibility to Include Qualified Non-
+Generator Reactive Resources 
+ 
+Based on the fact that non-generator dynamic reactive power devices are capable 
+of providing reactive power support to the New England Transmission System, the ISO 
+and NEPOOL submit that eligibility for compensation under Schedule 2 should be 
+broadened to include such resources that have dynamic reactive power capability, meet 
+certain specific eligibility requirements, and are not being compensated for the capability 
+elsewhere.  Currently, only “Qualified Generators” are eligible for reactive power 
+compensation under Schedule 2.  The largest, current single example of a non-generator 
+dynamic reactive power resource is the Cross-Sound Cable, but other facilities may well 
+qualify. 
+                                                 
+17 See Transmittal Letter of the Seventy-Third Agreement at 7 (describing the Base CC Rate values as “a 
+series of negotiated rates based on a number of estimates of the carrying costs per kVAR to generators 
+associated with the equipment to provide VAR support”).      
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 9 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+Specifically, the Schedule 2 Amendments incorporate a new term – “Qualified 
+Non-Generator Reactive Resource” – defined in Section I (Definitions) as “any non-
+generator source of dynamic reactive power that meets the criteria specified in Section II 
+of the revised Schedule 2.”  Additionally, proposed Section II.B sets forth the criteria that 
+reflect necessary conditions, which include:   
+ 
+1. the entity owning or controlling the reactive power capability of the non-
+generator reactive power resource is a Market Participant; 
+ 
+2. the non-generator reactive power equipment provides measurable dynamic 
+reactive power voltage support to the New England Transmission System, as 
+determined from time-to-time by the ISO; 
+ 
+3. the type of dynamic reactive power equipment is within a category of reactive 
+power equipment that has been approved by the ISO, with advisory input from 
+the Reliability Committee; 
+ 
+4. the dynamic reactive power equipment is subject to the operating authority of 
+the ISO and all necessary operating protocols for provision of reactive power 
+voltage support from such equipment have been agreed to, in writing, between 
+the ISO and the non-generator reactive power resource; 
+ 
+5. such equipment is interconnected to the New England Transmission System 
+and metered and dispatchable by the ISO or otherwise subject to operational 
+control by the ISO, and has its automatic voltage regulator status and control 
+mode (including power factor, reactive power output and voltage control) 
+telemetered to the ISO and the applicable Local Control Center; provided that 
+the non-generator reactive resource shall have until January 1, 2009 to have 
+the necessary telemetering equipment installed and operating;  
+ 
+6. the non-generator reactive resource meets the reactive power testing 
+requirements applicable to such non-generators, as determined from time-
+to-time by the ISO and specified in the ISO New England Operating 
+Documents; and 
+ 
+7. the installation of such equipment shall have been approved in accordance 
+with the requirements of Section I.3.9 of the Tariff or its predecessor 
+provisions under the New England regional transmission arrangements.  
+       
+Moreover, Qualified Non-Generator Reactive Resources will be eligible to 
+receive the same fixed CC rate as generator resources.  The application of the non-CC 
+elements of the Schedule 2 rate design – lost opportunity cost, cost of consumed energy, 
+and cost of energy produced – to Qualified Non-Generator Reactive Resources, however, 
+will be determined on a case-by-case basis, and subject to filings being made pursuant to 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 10 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+Section 205 of the Federal Power Act, at the time the particular category of equipment is 
+approved for compensation under Schedule 2.   
+ 
+Since Schedule 2 may not appropriately compensate (a) a non-operating, non-
+dispatchable generator that functions as a synchronous condenser and (b) an operating 
+generator that utilizes a clutch device to operate as both a real power generator and a 
+synchronous condenser, Section VI of Schedule 2 permits a separate schedule and filing 
+for compensation of the first type of resource.  Schedule 2 does not provide separate 
+treatment for operating generators that utilize a clutch device to operate as both a real 
+power generator and a synchronous condenser because of potential market rule and 
+operational impacts.  If alternative treatment is warranted, changes will be examined by 
+the ISO and NEPOOL through the stakeholder process.  Until the time that alternative 
+treatment is determined and filed, operating generators that have the ability to utilize a 
+clutch device to operate as both a real power generator and a synchronous condenser will 
+receive Schedule 2 compensation based on its generator reactive capability only. 
+ 
+2. Clarification of Eligibility Criteria Applicable to All Dynamic 
+Reactive Power Sources 
+ 
+Schedule 2 is amended to memorialize and clarify the criteria for new generator 
+eligibility for CC Rate payments.  Currently, Section II.1.1 of Schedule 2 defines a 
+“Qualified Generator” as “any generator that is in the Market System and provides 
+measurable voltage support, as determined from time to time by the ISO to the New 
+England Control Area.”  As with Qualified Non-Generator Reactive Resources, the 
+proposed amendments to Schedule 2 provide specific criteria that new generators must 
+satisfy to be eligible for CC Rate payments under Schedule 2.   
+ 
+The Schedule 2 Amendments include a new Section II.A, which sets forth the 
+criteria that new generators that elect to join the Schedule 2 program after June 1, 2007 
+(i.e., “Qualified Generator Reactive Resources” also defined in Section I, Definitions) 
+must meet in order to qualify for CC Rate payments under Schedule 2.  The criteria are as 
+follows: 
+ 
+1. the entity owning or controlling the reactive power capability of the generator 
+reactive resource is a Market Participant;  
+ 
+2. the generator is: (a) interconnected to the New England Transmission System 
+or (b) interconnected to the distribution system but participating in the New 
+England Markets and (c) is metered and dispatchable by the ISO or otherwise 
+subject to operational control by the ISO;  
+ 
+3. the generator provides measurable reactive power voltage support to the New 
+England Transmission System, as determined from time-to-time by the ISO, 
+and has its automatic voltage regulator status and control mode (including 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 11 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+power factor, reactive power output and voltage control) telemetered to the 
+ISO and the applicable Local Control Center; provided that the generator shall 
+have until January 1, 2009 to have the necessary telemetering equipment 
+installed and operating;  
+ 
+4. the generator meets the reactive power testing requirements applicable to 
+generators, as determined from time-to-time by the ISO and specified in the 
+ISO New England Operating Documents; and  
+ 
+5. the installation of the generator shall have been approved in accordance with 
+the requirements of Section I.3.9 of the Tariff or its predecessor or successor 
+provisions under the New England regional transmission arrangements. 
+  
+These criteria apply to new or existing generators that are not in the program as of June 1, 
+2007 that elect to join the Schedule 2 program after June 1, 2007.  Any generator that is 
+receiving “VAR Payments”18 under Schedule 2 on June 1, 2007 shall be deemed to be 
+a Qualified Generator Reactive Resource as of that date, provided that it continues to 
+meet the criteria specified in (1), (3) and (4), above and meets certain informational 
+requirements of the ISO as specified in the Schedule 2 Amendments.  As is currently 
+the case, under the Schedule 2 Amendments any generator that is run by the ISO to 
+provide reactive power support to the New England Transmission System will be paid its 
+variable costs in accordance with the non-CC Rate components of Schedule 2.   
+ 
+B.  Proposed Changes to Compensation for VAR Services  
+ 
+1. Elements of the Schedule 2 Rate Design 
+ 
+The existing rate design for reactive power compensation consists of four 
+components – the capacity cost (“CC”), lost opportunity cost (“LOC”), cost of energy 
+consumed (“SCL”), and cost of energy produced (“PC”).  Under the proposed 
+amendments, the existing elements of the Schedule 2 rate design remain intact.  The 
+proposed expansion of Schedule 2 eligibility to include non-generator dynamic resources 
+does not require any changes to the components of the compensation formula as currently 
+approved.  However, each element has been expanded to apply to both generators and 
+non-generator dynamic reactive power sources, as appropriate.  Importantly, and as fully 
+explained below, the existing rate design and the rate paid under the CC component 
+(currently, $1.05/kVAR-year) are being modified and updated.  Finally, as a matter of 
+terminology, the acronyms for the cost of energy consumed and cost of energy produced 
+have been modified, respectively, to “CEC” and “CEP” to avoid confusion regarding the 
+meaning of these acronyms.   
+ 
+                                                 
+18 The Schedule 2 Amendments provide a new definition of “VAR Payments” – “the payment made to 
+Qualified Reactive Resources for VAR Service Capability under Section V.A of this Schedule 2” – in 
+Section I, Definitions.     
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 12 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+2. Proposed Revisions to the CC Component  
+ 
+a. Revisions to Update the Rate Paid Under the CC 
+Component 
+ 
+With regard to the CC component, the VWG played an important role in updating 
+the rate paid under this component to account for changes in the cost-basis or mix of 
+reactive resources in the New England since 1998.  As provided in Section II.1.4 of 
+Schedule 2, the current CC Rate is $1.05/kVAR-year, which is based upon pre-1998 cost 
+data, and further resulted from a negotiated settlement.  The VWG considered a number 
+of different means of updating the CC component, including developing unit-specific 
+revenue requirements as well as using the so-called “AEP methodology”19 applied to a 
+proxy unit.  Ultimately, the VWG recommended updating the CC Rate through a 
+negotiated rate based on a weighted-average blend of the costs of older generators in New 
+England and the costs of newer generators as reflected in the AEP methodology filings in 
+PJM Interconnection, LLC (“PJM”).  The VWG recommended that the ratio for the blend 
+of those costs would be two-thirds to one-third, which would reflect the approximate ratio 
+of megawatts of pre-market generation (roughly 20,000 MWs) and added post-market 
+generation (roughly 10,000 MWs) currently existing in New England.20   
+ 
+In order to calculate the updated CC Rate using this blended approach, the VWG 
+had to obtain data for pre- and post-market generation.  The data used for the pre-market 
+(i.e., pre-1998) generation was already available as it was used to develop the current CC 
+revenue requirement, as described in NEPOOL’s Seventy-Third Agreement.  The cost-
+based average revenue requirement of those generators was $1.38/kVAR-year. 21  Most of 
+the new generation that has been added in New England is combined cycle gas-fired 
+technology, and because it has been built under a market regime and not under a cost-of-
+service regime, cost data related to the generators was not easily accessible.  A sub-group 
+of the VWG, however, was able to gather data from AEP methodology filings made by 
+generators in PJM since 2000.22  Using data from this set of generators is reasonable, 
+                                                 
+19 See American Electric Power Service Corporation, 88 FERC ¶ 61,141 (1999) (the initial case 
+establishing the “AEP methodology”).  The AEP methodology determines the cost of the generator, exciter 
+and step-up transformer, allocates a portion to VAR capability and levelizes that cost over the life of the 
+unit to get a VAR cost of service rate. 
+ 
+20 The competitive bid-based markets commenced in New England in 1998.  A substantial amount of new 
+generation started to be built beginning in 1998. 
+ 
+21 See Transmittal Letter of Seventy-Third Agreement at 7 (describing the agreed-upon value for the CC 
+charge). 
+ 
+22 The data compiled by the sub-group of the VWG is appended herein behind Attachment 3.  While this 
+data is based on generators in PJM, the use of this data as a proxy for the costs of newer generators is 
+reasonable because the generators are a similar vintage and technology, and in most cases have the same 
+manufacturer as the majority of the post-market generators in New England; and (2) the revenue 
+requirement numbers had undergone scrutiny through the FERC approval process.    
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 13 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+because:  (1) the generators are a similar vintage and technology (i.e., post-1998 
+combined cycle gas-fired generators), and in most cases have the same manufacturer as 
+the majority of the post-market generators in New England; and (2) the revenue 
+requirement numbers had undergone scrutiny through the FERC approval process.  The 
+rate calculated for the average revenue requirement for those generators is $4.20/kVAR-
+year.  Using a blend of the pre- and post-market generation resulted in a blended revenue 
+requirement of $2.32/kVAR-year or ((2 * $1.38) + $4.20) /3 = $2.32.   
+ 
+Assuming that the current qualified generator reactive resource mix stays constant 
+and Cross Sound Cable receives CC payments in 2007, it is estimated that the impact of 
+increasing the CC Rate from $1.05 kVAR-year to $2.32 kVAR-year will increase the 
+total Schedule 2 fixed payments in the second half of 2007 from roughly $1.015 
+million/month (which equates to $12.2 million/year) to roughly $2.3 million/month 
+(which equates $27.3 million/year).23   
+ 
+The Schedule 2 Amendments incorporate the blended rate of $2.32/kVAR-year in 
+new Section V.4 of Schedule 2, which provides the cost components for Qualified 
+Reactive Resource’s Payments, previously provided in Section II of Schedule 2.  This 
+blended rate of $2.32/kVAR-year on a net lagging basis is reasonable when compared to 
+the numbers from the pre-market generation in New England and the post-2000 
+combined cycle, gas-fired generators from PJM.  Further, the use of this approach 
+provides the same benefits of simplicity and avoidance of administrative burden or 
+regulatory litigation as would the use of a proxy unit, while at the same time being 
+grounded in reasonable cost data for the reactive power equipment.24  In addition, new 
+Section V.4 provides for the updated CC Rate to remain in effect for five years and to be 
+revisited near the end of the five years to determine whether another adjustment to the 
+rate is appropriate then in light of any changes to the mix of reactive resources in New 
+England, especially, as new generators are added or older generators are retired. 
+ 
+One issue that surfaced during the development of the updated CC Rate was how 
+payment of the CC Rate should be reconciled with payments to generators under the 
+Forward Capacity Market (“FCM”) when it is fully implemented at the end of the 
+transition period (i.e., 2010) such that there would not be any double payment.  ISO and 
+NEPOOL have agreed that any measures needed to ensure that there will not be such 
+double payment will be addressed in the development of the final FCM rules rather than 
+through new provisions in Schedule 2 of the OATT. 
+                                                 
+23 A spreadsheet containing the historical Schedule 2 VAR costs over a twelve-month period used to 
+calculate the impact of increasing the CC Rate from $1.05/kVAR-year to $2.32/kVAR-year is included 
+herein behind Attachment 4. 
+ 
+24 See Transmittal Letter of Seventy-Third Agreement at 7 (describing the use of an agreed-upon proxy 
+value – the Base VAR Rate – for defining the carrying costs associated with providing capability for VAR 
+Support as administratively efficient and simple).  As noted above, the Commission accepted the Seventy-
+Third Agreement in an unpublished letter order issued on June 28, 2001, in Docket No. ER01-2161-000. 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 14 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+b. Application of the CC Rate Over the Full Range of Leading 
+and Lagging Capability 
+ 
+The Schedule 2 Amendments include proposed revisions to Schedule 2 to allow 
+the application of the CC payment over the full range of a reactive power resource’s 
+leading and lagging capability.  As described in more detail below and as reflected in new 
+Section V.4 of Schedule 2, such revisions also will provide an incentive to reactive 
+resources to test in both the leading and lagging mode.  Currently under Schedule 2, 
+generators are compensated for their VAR capability based on lagging capability only, 
+which is physically determined by testing the lagging VAR capability of each generator.  
+The proposed amendments are structured to ensure that the total of the leading and 
+lagging payments equal the general CC component rate of $2.32/kVAR-year which, as 
+further discussed below, is initially to be paid solely on a net lagging basis.  
+ 
+Establishing a CC payment that is based on both leading and lagging capability 
+provides (a) reactive resources the incentive to perform VAR tests to prove their leading 
+and lagging capability, and (b) the ISO and the Local Control Centers with actual 
+operational-based VAR resource data that can be used to more accurately support the 
+planning and real-time operation of the transmission system.  Attaching the CC Rate 
+compensation mechanism to the VAR testing requirement (and associated test results) 
+provides a number of additional benefits that the VAR testing requirement by itself will 
+not accomplish.  Some of the primary benefits of attaching the CC Rate compensation 
+mechanism to the VAR testing criteria are: 
+ 
+1. Such criteria provide additional incentive to the owners of the dynamic 
+reactive resources to perform both the leading and lagging VAR tests.  
+(Knowing that CC Rate compensation is based on the leading and lagging 
+test results provides the financial incentive to the generator owner to test in 
+both the lead and the lag to the best of the resource’s abilities). 
+ 
+2. The testing recognizes the dynamic reactive resources’ strengths or 
+weaknesses related to its ability to produce and absorb VARs and then bases 
+the compensation on the entire voltage control range.  To the extent that a 
+dynamic reactive resource can produce and absorb VARs the CC Rate will 
+fairly compensate the resource for its actual leading and lagging 
+capabilities.25   
+ 
+                                                 
+25 For example, if a facility, based on its testing results, has the ability to produce many VARs (e.g., 210 
+MVAR Lag), but cannot absorb many VARs (e.g., 75 MVAR), the resource will be paid for 285 MVAR.  
+If the testing requirement is maintained, but the tie to compensation is removed, the sum of the incentive 
+that encourages the resource to prove to what extent it can really produce or absorb VARs is removed. 
+ 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 15 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+3. Applying the testing criteria results in payment for what the dynamic 
+reactive resources can actually produce or absorb, rather than what the 
+dynamic reactive resources might be able to perform as provided on paper. 
+ 
+4. As a result of testing, the ISO and the Local Control Centers have more 
+accurate data to support planning and real-time operations. 
+ 
+To properly implement VAR compensation for leading and lagging capability and 
+tie the VAR compensation mechanism to the VAR testing requirement, there needs to be 
+a conversion of the Base CC Rate, which is calculated based upon lagging values, into an 
+Adjusted CC Rate that recognizes both leading and lagging VAR capability within the 
+program, and maintains a revenue distribution consistent with what the resources would 
+have been paid under the Base CC Rate times their lagging VAR capability.  The 
+conversion of the Base CC Rate to the Adjusted CC Rate maintains the Base CC Rate and 
+its lagging capability determinants as the foundation of the Adjusted CC Rate calculation.  
+The Adjusted CC Rate calculation then modifies the Base CC Rate into a blended rate 
+that recognizes the leading and lagging MVARs of the dynamic reactive resources in the 
+Schedule 2 program in a manner such that – if one were to take the composite resource 
+that was reflected in the Base CC Rate calculation and compensate it based on either (a) 
+the Base CC Rate times its lagging capability or (b) the Adjusted CC Rate times its 
+lagging and leading capability – the resulting payment would be about the same.  This 
+calculation results in a comparable distribution of Adjusted CC Rate compensation to that 
+which would have been paid under a straight Base CC Rate compensation mechanism, 
+which is already in place under the current Schedule 2. 
+ 
+The conversion of the “Base CC Rate” -- $2.32/kVAR-year – into an Adjusted 
+CC Rate, expressed in the form of $kVAR/year, representing the amount to be paid for 
+leading and lagging capability, is set forth in Section V.4 of Schedule 2.    As further 
+described in the Schedule 2 VAR Implementation Rule, which, as indicated above, will 
+be added to Schedule 2 of the OATT, 26 the CC rate conversion methodology that was 
+developed to allow for the payment of both leading and lagging capability converts the 
+Base CC Rate of $2.32/kVAR-year into a “blended lead/lag” rate (the Adjusted CC Rate) 
+on an annual basis.  The “blended lead/lag” rate recognizes the tested dynamic reactive 
+resources capability as inputs, and applies an increase/decrease limiter during a three-year 
+transition period to avoid drastic changes in annual rate caused by a rush of recognized 
+MVARs into or out of the program. 
+ 
+As proposed in Section V.3, the Adjusted CC Rate will be calculated in 
+accordance with the following formula:  Adjusted CC Rate (CCRateadjusted) shall equal: 
+                                                 
+26 The Schedule 2 VAR Payment Implementation Rule describes the basis for each element of the Adjusted 
+CC Rate formula and the methodology for the calculation.  As proposed in Section V.5, the details of the 
+Schedule 2 VAR Implementation Rule may be modified by the ISO without a further filing under the FPA 
+provided that such modifications are consistent with the requirements of Schedule 2, and are supported by 
+at least two-thirds of the voting percentage of the Transmission Committee members. 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 16 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+(the Base CC Rate (CCRatebase) * Current Total Aggregate lagging VARs) / (Current 
+Total Aggregate Lagging VARs + Current Total Aggregate Leading VARs).  The 
+Total Aggregate Leading and Lagging VAR values reflect the untested and tested 
+values of all dynamic reactive resources that are in the program at the beginning of 
+each calendar year.  During the first three years of the program, the dynamic reactive 
+resources that are currently in the program will be required to have completed leading 
+and lagging VAR tests.  As dynamic reactive resources that are added to the program 
+will have one calendar year to perform both leading and lagging VAR tests, by the 
+end of the transition period in year three, almost every dynamic reactive resource will 
+have performed both leading and lagging VAR tests.  At that point the only dynamic 
+reactive resources that would not have tested would be those resources that joined the 
+VAR program in year three of the transition period.   
+ 
+There is a concern that the addition or removal of too many dynamic reactive 
+resources into or out of the VAR program in any one year would cause a dramatic change 
+in the Adjusted CC Rate calculation.  In addition, if all dynamic reactive resources were 
+to fail to test in one direction (e.g., the leading direction) then the resulting Adjusted CC 
+Rate would be based solely on lagging capability and result in a value of $2.32/kVAR-
+year.  This would result in a number of things, particularly: (a) only compensating 
+dynamic reactive resources for their one side of their VAR capability (in the example, 
+lagging capability); (b) providing a disincentive of resources in the program to fully test 
+their VAR capability in the other direction (in the example, in the leading direction); and 
+(c) providing a disincentive to new dynamic reactive resources to join the program (in the 
+example, new resources that have primarily leading VAR capability).  To restrict this 
+from occurring and to maintain payment incentives if there were to be a withdrawal of 
+VAR capability primarily in one direction, increase and decrease limiters are applied to 
+the Adjusted CC Rate calculation.  These limiters mitigate the potential impact of major 
+increases or decreases of VAR capability within the program during the three-year 
+transition period and afterwards.  The extent by which these limiters can impact the 
+Adjusted CC Rate calculation is more restrictive during the transition period as compared 
+to how they are applied afterwards. 
+ 
+c. Inclusion of Non-Generator Reactive Resources in the 
+Measurement of the CC Rate Payment Cap  
+ 
+Currently, Section II.1.3 of Schedule 2 provides a megawatt-based CC Rate 
+Payment Cap that is applied to the annual CC Rate at the beginning of the year on a 
+prospective basis for that calendar year.  The CC Rate Payment Cap formula does not 
+need to be revised to accommodate the inclusion of non-generator reactive power 
+sources, but the measured total capability of the system should be based on both 
+generators and non-generator dynamic reactive power sources, and MVARs of the non-
+generator sources should be converted to MWs.  The Schedule 2 Amendments include 
+this change in proposed Section V.7 of Schedule 2.  As that section provides, a “Qualified 
+Non-Generator Reactive Resource’s Seasonal Claimed Capability” shall be calculated by 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 17 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+taking 2.5 times the maximum dynamic reactive power capability on a lagging basis 
+demonstrated by the Qualified Non-Generator Reactive Resource during the testing of its 
+VAR Service capability consistent with ISO New England Operating Procedures for 
+measurement of such capability.     
+ 
+C.  Proposed Revisions to Operational Procedures and Requirements 
+ 
+The appropriate operational and testing rules associated with reactive supply and 
+voltage control will be amended to incorporate the other changes proposed herein.  
+Currently, Schedule 2 provides for “Qualified Generators” to receive a “VAR Payment,” 
+which equals the “VAR Rate” multiplied by the Qualified Generator’s “Qualified 
+VARs.”  The Qualified VARs is a Generator’s actual lagging VAR capability at its point 
+of delivery to the New England Transmission System.  The Qualified VARs for each 
+Qualified Generator are determined through a testing process, the details of which are set 
+forth in ISO New England Operating Procedures.  Currently, this testing process only 
+evaluates a Qualified Generator’s lagging VAR capability.  Accordingly, the “lagging 
+only” VAR testing program will be replaced with an expanded test that includes 
+generators and non-generator dynamic reactive resources and a leading VAR capability 
+test.27  This expanded reactive resource testing program will recognize the current 
+lagging VAR testing mechanism requirements as well as the recently issued NERC 
+standard requiring generators to prove their reactive control capability, which becomes 
+effective on January 1, 2007.28   
+ 
+The operational and business procedures dealing with reactive supply and voltage 
+control will be amended to ensure that a non-generator reactive resource operates its 
+reactive power equipment with automatic voltage regulator (“AVR”) or other similar 
+equipment that ensures dynamic response to system voltage needs.29  The Schedule 2 
+Amendments include metering requirements for AVR telemetering to the ISO and Local 
+Control Center control rooms as one of the criteria that must be satisfied by January 1, 
+2009 for any reactive resource to be deemed (or continue to be deemed) a “Qualified 
+Reactive Resource.”   
+ 
+D.  Proposed Implementation of Schedule 2 Amendments 
+ 
+In order to accommodate the functionalities reflected in the Schedule 2 
+Amendments, the software and business processes associated with VAR compensation 
+under Schedule 2 will require extensive revisions.  For instance, the implementation of 
+the Schedule 2 Amendments will require:  (1) recognition of newly included non-
+generator dynamic reactive power resources as registered assets within the ISO system; 
+                                                 
+27 The applicable ISO New England Operating Procedures are referenced in Section V.10 of Schedule 2. 
+ 
+28 NERC Standard MOD-025-1 “Verification of Generator Gross and Net Reactive Power Capability.” 
+ 
+29 The applicable ISO New England Operating Procedures are referenced in Section II of Schedule 2. 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 18 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+(2) revisions to the associated business processes within ISO Settlements and System 
+Operations; (3) modification of the ISO-developed stand-alone software that supports the 
+administration and billing of VAR Services under Schedule 2; (4) inclusion of AVR 
+telemetered data within the ISO control room; and (5) development and administration of 
+the expanded VAR testing program.  These changes also will require the availability of 
+new data and likely require revisions or replacement of the current ISO-developed stand-
+alone software supporting the administration, including dynamic reactive resource testing 
+and billing, of VAR Services under Schedule 2.  Such revisions will implicate many of 
+the ISO departments, primarily impacting the Customer Service, System Operations, 
+System Operation Support, Settlements, Audit and IT departments.   
+ 
+Because the ISO’s IT, system and market development personnel are currently 
+engaged in the implementation of other important, large-impact projects with fixed 
+deadlines,30 the ISO proposed, and the stakeholders agreed to, a phased-in approach for 
+the implementation of the Schedule 2 Amendments.  Under this transition schedule, upon 
+the effective date of the changes to Schedule 2 (i.e., March 1, 2007), Cross Sound Cable 
+will become eligible to receive payment of the CC Rate under the currently effective rate 
+of $1.05/kVAR-year provided that Cross Sound Cable has met all of the eligibility 
+criteria specified in new Section II.B of Schedule 2 at that time.  Commencing June 1, 
+2007, the ISO will apply the updated Base CC Rate ($2.32/kVAR-year) to payments for 
+Qualified Reactive Resources’ (including Cross Sound Cable) lagging capability, as is 
+currently the case under Schedule 2.  The ISO then will apply the Adjusted CC Rate to 
+compensate resources for the full leading and lagging range of the VAR capability 
+commencing January 1, 2008, which is the earliest date by which the ISO expects system 
+changes to track leading VAR capability to be implemented.  Other non-generator 
+dynamic reactive resources will be eligible for VAR payments commencing January 1, 
+2008.  
+ 
+The Schedule 2 Amendments revise Schedule 2 to reflect the following phased-in 
+implementation schedule:   
+ 
+• March 1, 2007 – Cross Sound Cable will be accepted into the program as a 
+Qualified Non-Generator Reactive Resource eligible for the CC rate 
+payment provided that it has satisfied all criteria specified in Section II.B, 
+including a requirement that operating protocols for provision of reactive 
+power voltage support from such equipment have been agreed to, in 
+writing, between the ISO and the Cross Sound Cable operator. 
+                                                 
+30 These include:  (1) the completion of the market rules and supporting design for the Forward Capacity 
+Market settlement both for the transition period by December, 2006, and the long-term market by February, 
+2007; (2) developing an implementation proposal for Long-Term Firm Transmission Rights in compliance 
+with the Commission’s Final Rule issued in Order No. 681 by January, 2007; and (3) the implementation of 
+Appendix H of the Market Rule 1 implementation, Winter Readiness project, pricing of external nodes, 
+combined cycle modeling and implementation of new Daylight Savings Time measures in system, which 
+are scheduled for implementation over the next several months.   
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 19 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+• June 1, 2007 – The Base CC Rate will increase from $1.05/kVAR-year to 
+$2.32/kVAR-year for the lagging capabilities of all dynamic reactive 
+resources that have been accepted into the program.  At this time, the ISO 
+will also initiate the formal testing for leading capabilities; that is, all 
+generators seeking to be paid under Schedule 2 will be required to provide 
+the appropriate data necessary to test for leading capability and the first set 
+of generators will perform leading capability tests during the 2007 leading 
+capability test period. 
+ 
+• January 1, 2008 – The Adjusted Base CC Rate will be modified to reflect 
+leading and lagging capability.  Also, on this date, all other non-generator 
+dynamic reactive resources that have demonstrated their compliance with 
+the eligibility criteria established in Section II.B will be eligible to receive 
+the CC payment under Schedule 2.        
+ 
+VI. 
+STAKEHOLDER PROCESS 
+ 
+A. Review of the Rules Governing Eligibility and Compensation for Reactive 
+Power in New England  
+ 
+In December 2004, the Transmission Committee established the VWG to review 
+the rules in New England governing the provision of reactive power and voltage support, 
+including eligibility of resources, compensation and testing to recommend whether those 
+rules should change and, if so, how they should change.  Per the Transmission 
+Committee’s directive, the VWG conducted an in-depth review of:  (1) the use of reactive 
+power in New England; (2) what resources should be eligible for compensation; (3) how 
+eligible resources are compensated now under the ISO OATT; (4) how, if at all, such 
+compensation should change; (5) how reactive power costs should be allocated; and (6) 
+the appropriate operational and testing rules associated with items 1-5 above.31   
+ 
+ 
+On April 25, 2006, the VWG presented to the Transmission Committee its 
+recommendations with respect to each of the issues numbered above for potential 
+modifications to Schedule 2 of the OATT.  Following the VWG’s presentation, the 
+Transmission Committee requested that the VWG recommend potential modifications to 
+Schedule 2 consistent with its recommendations.  The Schedule 2 Amendments reflect 
+the recommendations of the VWG, as discussed in Section IV above. 
+ 
+                                                 
+31 The VWG held monthly meetings from January 2005 to April 2006 to review and develop 
+recommendations with respect to the rules governing eligibility for reactive power compensation in New 
+England.  These meetings were well-attended by representatives of the various sectors of NEPOOL 
+Participants,  representatives of the ISO, state regulatory staff, reactive power equipment developers and 
+other interested persons. 
+ 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 20 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+B. NEPOOL Support for the Schedule 2 Amendments 
+ 
+The Schedule 2 Amendments reflect the overwhelming support of the NEPOOL 
+Participants in New England.  At its September 19, 2006 meeting, the Transmission 
+Committee voted approximately 93% in favor, with no abstentions, to recommend 
+Participants Committee support for the filing of the Schedule 2 Amendments.  At that 
+time, the Schedule 2 Amendments did not include an implementation schedule.  At its 
+October 13, 2006 meeting, the Participants Committee voted approximately 88% in 
+support of filing the Schedule 2 Amendments, subject to further recommendation by the 
+Transmission Committee on a specific implementation schedule for the amendments to 
+Schedule 2 and further Participants Committee action on the recommendations.  In 
+response, the ISO worked with the Transmission Committee in developing an 
+implementation schedule for the Schedule 2 Amendments.  That implementation 
+schedule, as reflected in the Schedule 2 Amendments, was unanimously supported by the 
+Transmission Committee, and subsequently by the Participants Committee.   
+ 
+While the Schedule 2 Amendments reflect the overwhelming support of the 
+Participants in New England, two areas of disagreement remain that warrant some 
+discussion.  The first area of disagreement is whether generators should be paid the CC 
+Rate for VARs produced between a power factor range of 0.95 leading and 0.95 lagging.  
+The vast majority of NEPOOL Participants expressed the view that they want to maintain 
+the status quo under Schedule 2 and provide payment to generators for the VAR 
+capability within this power factor range, recognizing that even if interconnected 
+generators are required by way of their interconnection agreements to operate within this 
+range to control voltage they should still be compensated for the reactive power they 
+provide.  The proponents of the change, however, proposed to recognize a generator’s 
+interconnection agreement requirements by applying a “deadband” in this power factor 
+range for which generators would not be able to receive payment (the “CC Rate 
+Deadband Proposal”), arguing that generators should not be paid for providing a service 
+they have to provide as a requirement of interconnection to the system.  Each of these 
+proposals was considered by the Transmission Committee at its September 19, 2006 
+meeting.  The existing CC Rate proposal contained in the Schedule 2 Amendments 
+received approximately 85% support and the CC Rate Deadband Proposal received 
+approximately 16% support.32  
+ 
+The second area of disagreement among the Participants involved the allocation 
+of Schedule 2 costs to entities who utilize Schedule 2 services.  Currently, reactive power 
+payments under Schedule 2 are paid for by all regional transmission customers (i.e., 
+regional network load and reserved capacity for Through or Out Service).  As briefly 
+noted above, this method has been in effect since 1999, and is the same allocation used 
+for non-generator dynamic reactive resources that are owned by the Participating 
+                                                 
+32 The CC Rate Deadband Proposal was also presented at the October 13, 2006 Participants Committee 
+meeting and failed to receive Participants Committee support as reflected by a show of hands vote. 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 21 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+Transmission Owners and recovered through regional transmission rates.  In its review, 
+the VWG considered two alternatives for the allocation of Schedule 2 costs:  (1) to keep 
+the current Commission-approved method of allocating Schedule 2 costs to all regional 
+transmission customers; or (2) to change the cost allocation so that the CC component 
+costs would be allocated under the current method to all transmission customers but the 
+variable costs under Schedule 2  (i.e., the lost opportunity cost, cost of energy produced 
+and cost of energy consumed) would be allocated on a localized basis to transmission 
+customers within the Reliability Region(s) where voltage support is required – the 
+“Reliability Region Cost Allocation Proposal.”33  The latter alternative to localize some 
+costs was considered by the Transmission Committee at the September 19 meeting, but 
+only obtained support of 45% in a straw poll,34 whereas the former alternative to maintain 
+the status quo for cost allocation received supermajority support.35       
+ 
+VII.   REQUESTED EFFECTIVE DATE 
+ 
+ 
+The ISO and NEPOOL request that the Commission accept the Schedule 2 
+Amendments as reflected in the appended tariff sheets to become effective March 1, 
+2007. 
+ 
+VIII. ADDITIONAL SUPPORTING INFORMATION 
+ 
+Section 35.13 of the Commission’s regulations generally requires public utilities 
+to file certain cost and other information related to an examination of traditional cost-of-
+service rates.36  However, the changes included in the Schedule 2 Amendments are not 
+traditional “rates” and the ISO is not a traditional investor-owned utility.  Therefore, to 
+the extent necessary, the ISO requests waiver of Section 35.13 of the Commission’s 
+regulations.  Notwithstanding its request for waiver, the ISO submits the following 
+                                                 
+33 To put in context, the costs of the fixed component (i.e., the CC costs) over the last 12 calendar months 
+total $12,183,512.83.  The variable costs (i.e., the PC, LOC and SCL costs) over the last 12 calendar 
+months total $23,255,938.71. 
+ 
+34 The Reliability Region Cost Allocation Proposal was also presented to the Participants Committee at the 
+October 13th meeting as a motion to amend the main motion on the substance of Schedule 2, but failed 
+with approximately a 60% vote in favor (a two-thirds or better vote was required to pass the proposed 
+amendment) and thus, is not included in the Schedule 2 Amendments filed herein.   
+ 
+35 Although the current cost allocation method under Schedule 2 remains unchanged by the Schedule 2 
+Amendments submitted herein, the ISO intends to address this issue further in its currently established cost 
+allocation working group.  The ISO will initiate this effort following the conclusion of the ongoing review 
+of the cost allocation for Local Second Contingency Protection Resources.  Once this review is completed, 
+the ISO will discuss the issue with the working group to evaluate the current and potential alternative 
+methods, the underlying policies and implementation requirements, for allocating Schedule 2 costs and to 
+determine whether any changes should be proposed to the current just and reasonable method for allocating 
+such costs within New England. 
+ 
+36 18 C.F.R. § 35.13 (2005). 
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 22 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+additional information in substantial compliance with relevant provisions of Section 
+35.13. 
+ 
+35.13(b)(1) - Materials included herewith are as follows:  
+• This transmittal letter; 
+• Attachment 1: Redlined Tariff sheets reflecting the changes proposed by 
+this filing;37 
+• Attachment 2: Clean revised Tariff sheets reflecting the changes proposed 
+by this filing; 
+• Attachment 3:  A spreadsheet containing data from AEP methodology 
+filings made by generators in PJM since 2000 used in the development of 
+the updated CC Rate; 
+• Attachment 4:  A spreadsheet containing the historical Schedule 2 VAR 
+costs used to calculate the impact of increasing the CC Rate; and 
+• Attachment 5:  List of governors and utility regulatory agencies in 
+Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and 
+Vermont to which a copy of this filing has been sent. 
+ 
+35.13(b)(2) - As set forth in Section VI above, the ISO and NEPOOL request that 
+the proposed changes become effective March 1, 2007. 
+ 
+35.13(b)(3) - Pursuant to Section 17.11(e) of the Participants Agreement, 
+Governance Participants are being served electronically rather than by paper copy.  The 
+names and addresses of the Governance Participants are posted on the ISO’s website at 
+http://www.iso-ne.com/regulatory/ferc/nepool/gov_prtcpnts_eserved.pdf.  A paper copy 
+of this transmittal letter and the accompanying materials have also been sent to the 
+governors and electric utility regulatory agencies for the six New England states that 
+comprise the New England Control Area, and to the New England Conference of Public 
+Utility Commissioners, Inc.  The names and addresses of these governors and regulatory 
+agencies are shown in Attachment 3.  In accordance with Commission rules and practice, 
+there is no need for the Governance Participants or the entities identified on Attachment 3 
+to be included on the Commission’s official service list in the captioned proceeding 
+unless such entities become intervenors in this proceeding. 
+                                                 
+37 Because the changes to Schedule 2 are so extensive, in some places the substance of existing portions of 
+the schedule have shifted to different tariff sheets from where they previously appeared.  To make it easier 
+for the Commission to discern the substance of the changes, the redlines in Attachment 1 show the changes 
+in substance rather than the changes to each individual tariff sheet.      
+Honorable Magalie R. Salas 
+December 29, 2006 
+Page 23 of 24 
+ 
+ 
+DMEAST #9695005 v1 
+35.13(b)(4) - A description of the materials submitted pursuant to this filing is 
+contained in Section IV of this transmittal letter.  
+35.13(b)(5) - The reasons for this filing are discussed in Sections I and IV of this 
+transmittal letter. 
+35.13(b)(6) - The ISO’s approval of these changes is evidenced by this filing.  
+These changes reflect the results of the Participant Processes required by the Participants 
+Agreement and reflect the support of Participants Committee. 
+35.13(b)(7) – Neither the ISO nor NEPOOL has knowledge of any relevant 
+expenses or costs of service that have been alleged or judged in any administrative or 
+judicial proceeding to be illegal, duplicative, or unnecessary costs that are demonstrably 
+the product of discriminatory employment practices. 
+ 
+  
+Attachment 1 
+ 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 735 
+FERC Electric Tariff No. 3 
+Superseding Original 735 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+SCHEDULE 2 
+ 
+REACTIVE SUPPLY AND VOLTAGE CONTROL FROM 
+GENERATION SOURCESQUALIFIED REACTIVE RESOURCES SERVICE 
+In order to maintain transmission voltages on the New England Transmission System (for 
+voltage constraints that are reflected in the ISO’s systems for operating the New England 
+Transmission System or in the ISO’s operating procedures New England Operating Procedures) 
+within acceptable limits, generation facilitiesQualified Reactive Resources (as defined below) 
+are operated to produce (or absorb) reactive power.  Thus, Reactive Supply and Voltage Control 
+from Generation Sources ServiceThus, VAR Service (as defined below) must be provided for 
+each transactionto support Regional Network Service and Through or Out Service on the New 
+England Transmission System (forboth of which services have a direct impact on voltage 
+constraints that are reflected in the ISO’s systems for operating the New England Transmission 
+System or in the ISO’s operating procedures New England Operating Procedures).  The amount 
+of Reactive Supply and Voltage Control from Generation SourcesVAR Service that must be 
+supplied with respect to a Transmission Customer’s transactionRegional Network Service and 
+Through or Out Service will be determined based on the degree of dynamic reactive power 
+support necessary to maintain transmission voltages within limits that are generally accepted in 
+the region and consistently adhered to byin the operation of the New England Transmission 
+OwnersSystem.  Additional information regarding the processes used to collect data and 
+calculate amounts due or payable under this Schedule 2 can be found in the Ancillary Service 
+Schedule 2 Business Procedure posted on the ISO website.  Local level service may be provided 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 735 
+FERC Electric Tariff No. 3 
+Superseding Original 735 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+by the PTOs under Schedule 21 ofTransmission Customers taking Local Service, MTF Service 
+or OTF Service may also need to acquire voltage support services not otherwise provided under 
+this Schedule 2 pursuant to Schedules 18, 20A, 20B or 21 to this OATT, as appropriate.
+ISO New England Inc. 
+1st RevOriginal Sheet No. 736 
+FERC Electric Tariff No. 3 
+Superseding Original 736 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+I. 
+DETERMINING THE AMOUNT TO BE PAID FOR SERVICE UNDER THIS 
+SCHEDULE 
+Reactive Supply and Voltage Control from Generation Sources Service is to be provided through 
+the ISO and the Transmission Customer must purchase through the ISO service for voltage 
+support capability provided by Qualified Generators and service when the ISO (or applicable 
+Local Control Center dispatching center) determines, in the exercise of its discretion, that it is 
+necessary to direct a generating unit to alter its operations in an hour in order to provide such 
+service.  The charge for such service shall be paid by each Transmission Customer which 
+receives either Regional Network Service or Through or Out Service and shall be determined in 
+accordance with the following formula: 
+CH 
+=    (CC + LOC + SCL + PC) 
+RC
+HL
+RC
+HL
++
++
+1
+1
+ 
+in which 
+CH 
+= 
+the amount to be paid by the Transmission Customer for 
+the hour; 
+I. 
+DEFINITIONS 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 736 
+FERC Electric Tariff No. 3 
+Superseding Original 736 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+Qualified Generator Reactive Resource(s):  means any generator source of dynamic 
+reactive power that meets the criteria specified in Section II of this Schedule 2. 
+Qualified Non-Generator Reactive Resource(s):  means any non-generator source of 
+dynamic reactive power that meets the criteria specified in Section II of this Schedule 2. 
+Qualified Reactive Resource(s):  means any Qualified Generator Reactive Resource 
+and/or Qualified Non-Generator Reactive Resource. 
+VAR Service:  means the provision of reactive power voltage support to the New 
+England Transmission System by a Qualified Reactive Resource or by other generators that are 
+dispatched by the ISO to provide dynamic reactive power. 
+VAR Payment:  means the payment made to Qualified Reactive Resources for VAR 
+Service capability under Section V.A. of this Schedule 2. 
+VAR CC Rate:  means the CC Rate paid to Qualified Reactive Resources for VAR 
+Service capability under Section V.A. of this Schedule 2. 
+ 
+ISO New England Inc. 
+Original Sheet No. 736A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+II. 
+ELIGIBILITY FOR PAYMENT UNDER SCHEDULE 2 
+A. 
+Qualified Generator Reactive Resources 
+Qualified Generator Reactive Resources shall be eligible for VAR Payments under this 
+Schedule 2.  In addition, any generator that is dispatched by ISO-NE for the purpose of providing 
+voltage support to the New England Transmission System shall be eligible to recover its Lost 
+Opportunity Costs (“LOC”), Cost of Energy Consumed (“CEC”), and Cost of Energy Produced 
+(“CEP”) pursuant to Sections V.B-D of this Schedule 2. 
+A generator shall be deemed a Qualified Generator Reactive Resource if it meets the following 
+criteria: 
+1. 
+the entity owning or controlling the reactive power capability of the 
+generator reactive resource is a Market Participant;  
+2. 
+the generator is: (a) interconnected to the New England Transmission 
+System or (b) interconnected to the distribution system but participating in the 
+New England Markets and (c) is metered and dispatchable by the ISO or 
+otherwise subject to operational control by the ISO; 
+ISO New England Inc. 
+Original Sheet No. 736B 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+3. 
+the generator provides measurable reactive power voltage support to the 
+New England Transmission System, as determined from time-to-time by the 
+ISO, and has its automatic voltage regulator status and control mode (including 
+power factor, reactive power output and voltage control) telemetered to the ISO 
+and the applicable Local Control Center; provided that the generator shall have 
+until January 1, 2009 to have the necessary telemetering equipment installed and 
+operating;  
+4. 
+the generator meets the reactive power testing requirements applicable 
+to generators, as determined from time-to-time by the ISO and specified in the 
+ISO New England Operating Documents; and  
+5. 
+the installation of the generator shall have been approved in accordance 
+with the requirements of Section I.3.9 of the Tariff or its predecessor or successor 
+provisions under the New England regional transmission arrangements. 
+Any generator that has been receiving VAR Payments under Schedule 2 prior to June 1, 2007 
+shall be deemed to be a Qualified Generator Reactive Resource as of that date, provided that 
+it continues to meet the criteria specified in Section II, A. (1), (3) and (4), above; provided 
+that, commencing June 1, 2007, generators that are Qualified Generator 
+ISO New England Inc. 
+Original Sheet No. 736C 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+Reactive Resources as of June 1, 2007 but that do not submit an updated NX-12 form with 
+leading VAR data prior to June 1, 2007 will not receive VAR Payments until the beginning 
+of the year following the submittal of their updated NX-12 leading VAR data.  
+Additionally, following June 1, 2007 each generator seeking to be newly designated as a 
+Qualified Generator Reactive Resource shall submit information to the ISO regarding its 
+capability to provide leading VAR Service prior to receiving any leading VAR Payments 
+under Schedule 2.  Such information shall be submitted in the form and within the 
+timeframe prescribed in the Ancillary Service Schedule 2 Business Procedure and/or the 
+Schedule 2 VAR Payment Implementation Rule. 
+B. 
+Qualified Non-Generator Reactive Resources 
+Qualified Non-Generator Reactive Resources shall be eligible for VAR Payments under this 
+Schedule 2 commencing on January 1, 2008, except for the Cross Sound Cable, which shall be 
+eligible for VAR Payments commencing March 1, 2007, provided that Cross Sound Cable has 
+satisfied all of the eligibility criteria specified below in this Section B.  However, to the extent 
+that cost recovery for the dynamic reactive power capability of a non-generator resource could 
+occur under the PTF cost recovery mechanism, it shall occur only under such cost recovery 
+mechanism and not under this Schedule 2.
+ISO New England Inc. 
+Original Sheet No. 736D 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+A non-generator shall be deemed a Qualified Non-Generator Reactive Resource if it meets the 
+following criteria: 
+1. 
+the entity owning or controlling the reactive power capability of the non-
+generator reactive power resource is a Market Participant; 
+2. 
+the non-generator reactive power equipment provides measurable dynamic 
+reactive power voltage support to the New England Transmission System, as 
+determined from time-to-time by the ISO; 
+3. 
+the type of dynamic reactive power equipment is within a category of 
+equipment that has been approved by the ISO, with advisory input from the 
+Reliability Committee; 
+4. 
+the dynamic reactive power equipment is subject to the operating authority 
+of the ISO and all necessary operating protocols for provision of reactive power 
+voltage support from such equipment have been agreed to, in writing, between the 
+ISO and the non-generator reactive power resource; 
+5. 
+such equipment is interconnected to the New England Transmission 
+System and metered and dispatchable by the ISO or otherwise subject to 
+operational control by the ISO, and has its automatic voltage regulator status and 
+ISO New England Inc. 
+Original Sheet No. 736E 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+control mode (including power factor, reactive power output and voltage control) 
+telemetered to the ISO and the applicable Local Control Center; provided that the 
+non-generator shall have until January 1, 2009 to have the necessary 
+telemetering equipment installed and operating; 
+6. 
+the non-generator reactive resource meets the reactive power testing 
+requirements applicable to such non-generators, as determined from time-to-time 
+by the ISO and specified in the ISO New England Operating Documents; and 
+7. 
+the installation of such equipment shall have been approved in accordance 
+with the requirements of Section I.3.9 of the Tariff or its predecessor provisions 
+under the New England regional transmission arrangements. 
+C. 
+Non-Dynamic Reactive Resources 
+Nothing in this Schedule 2 is intended to preclude, or provide support for, the cost recovery 
+under a separate schedule to the Tariff, filed with the Commission pursuant to the 
+requirements of Sections 205 or 206 of the Federal Power Act, for non-generator, non-
+dynamic reactive resources that are interconnected to and provide VAR Service to the New 
+England Transmission System but do not meet the criteria to be deemed either Qualified 
+Non-Generator Reactive Resources or PTF. 
+ISO New England Inc. 
+Original Sheet No. 736F 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+III. 
+DETERMINING THE AMOUNT TO BE PAID FOR SERVICE UNDER THIS 
+SCHEDULE 
+Reactive Supply and Voltage Control from Generation Sources Service is toVAR Service under 
+this Schedule 2 shall be provided through the ISO. and the  Transmission Customers must 
+purchase VAR Service through the ISO service for voltage support capability provided by 
+Qualified Generators and service when the ISO (or applicable Local Control Center dispatching 
+center) determines, in the exercise of its discretion, that it is necessary to direct a generating unit 
+to alter its operations in an hour in order to provide such service.  The charge for such service 
+shall be paid by each Transmission Customer which receives either Regional Network Service or 
+Through or Out Service andfor the support of transmission voltages on the New England 
+Transmission System.  The charge for VAR Service shall be determined in accordance with the 
+following formula: 
+CH 
+=    (CC + LOC + SCL + PCCEC + CEP) 
+RC
+HL
+RC
+HL
++
++
+1
+1
+ 
+in which: 
+CH 
+= 
+the amount to be paid by the Transmission Customer for 
+the hour;
+ISO New England Inc. 
+1st RevOriginal Sheet No. 737 
+FERC Electric Tariff No. 3 
+Superseding Original 737 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+CC 
+= 
+the capacity costs for the hour shall be the VAR Revenue 
+Requirement determined as set forth herein divided by the 
+number of hours in the month; 
+LOC = 
+the lost opportunity costs for the hour to be paid to Market 
+Participants who provide VAR supportfor a dynamic 
+reactive power resource that provides VAR Service to meet 
+reliability criteria within one or more Reliability Regions; 
+CEPPC 
+= 
+the cost of energy produced which is the portion of 
+the amount paid to Market Participants for the hour for 
+Energy produced by a generating unit that is considered 
+under this Schedule 2 to be paid for VAR supportdynamic 
+reactive power resource for VAR Service to meet reliability 
+criteria within one or more Reliability Regions; 
+CECSCL 
+= 
+the cost of energy consumed which is the cost of 
+energy used in the hour by generating facilities, 
+synchronous condensers or static controlled VAR 
+regulatorsa dynamic reactive power resource in order to 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 737 
+FERC Electric Tariff No. 3 
+Superseding Original 737 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+provide VAR support to the transmission systemService to 
+meet reliability crieria within one or more Reliability 
+Regions; 
+HL1 
+= 
+the Regional Network Load of the Transmission Customer 
+for the hour; 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 738 
+FERC Electric Tariff No. 3 
+Superseding Original 738 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+HL 
+= 
+the aggregate of the Regional Network Loads of all 
+Transmission Customer for the hour; 
+RC1 
+= 
+the Reserved Capacity for Through or Out Service of the 
+Transmission Customers for the hour; and 
+RC 
+= 
+the aggregate Reserved Capacity for Through or Out 
+Service of all Transmission Customers for the hour. 
+IV. 
+ALLOCATION OF VAR SERVICE COSTS 
+The charge for VAR Service shall be paid by each Transmission Customer that receives either 
+Regional Network Service or Through or Out Service. 
+VII. 
+DETERMINING A GENERATOR’S COMPENSATION FOR PROVIDING 
+SERVICEQUALIFIED REACTIVE RESOURCE’S PAYMENT UNDER THIS 
+SCHEDULE 
+The compensation to be paid to generatorsresources providing Schedule 2VAR sService shall be 
+based on the four componentsas set forth below. 
+1A. 
+Capacity Cost (CC) 
+1.1. 
+A Qualified GeneratorReactive Resource shall be eligible to 
+receive compensation for the capability to deliver VARs to the system (a 
+“VAR Payments”) under the Capacity Cost component of this Schedule 2 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 738 
+FERC Electric Tariff No. 3 
+Superseding Original 738 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+measurable voltage support, as determined from time to time by the ISO to 
+the New England Control Areafor the capability to provide VAR 
+Service.as provided herein.  A “Qualified Generator” is any generator that 
+is in the Market System and provides 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 739 
+FERC Electric Tariff No. 3 
+Superseding Original 739 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+1.2. 
+The VAR Payment for VAR Service associated with lagging capability is 
+not intended to compensate a Qualified Generator for losses associated 
+with station use and energizing the generator leads andReactive Resource 
+for reactive power absorbed by the generator step-up transformer.  
+Payment for VAR Service associated with leading capability is intended to 
+compensate a Qualified Generator Reactive Resource for reactive power 
+absorbed by the generator step-up transformer. 
+1.3. 
+The “VAR CC Rate” will be established each year as of January 1 on a 
+prospective basis for that calendar year and shall be the Base 
+VARAdjusted CC Rate * Min (1, (1.2*Forecast Peak Adjusted Reference 
+Load for the year/(SUM of all (Qualified Generator’sReactive Resources’ 
+Summer Seasonal Claimed Capability))). 
+1.4. 
+The “Base VAR Rate” shall be $0.90/kVAR-yr in 2001; $0.95/kVAR-yr 
+in 2002; $1.00/kVAR-yr in 2003 and $1.05/kVAR-yr in 2004 and 
+thereafter.The “Base CC Rate” shall be $1.05/kVAR-yr before June 1, 
+2007 and shall be $2.32/kVAR-yr commencing June 1, 2007 and shall not 
+be changed pursuant to Section 205 of the Federal Power Act until January 
+1, 2012.  An examination of the Base CC Rate shall be completed no later 
+than July 1, 2011; such examination shall determine whether the Base CC 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 739 
+FERC Electric Tariff No. 3 
+Superseding Original 739 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+Rate is still appropriate or whether it should be changed commencing 
+January 1, 2012.
+ISO New England Inc. 
+Original Sheet No. 739A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+5. 
+Commencing January 1, 2008, the Adjusted CC Rate shall be a single 
+rate applied over the full range of leading and lagging capability of a 
+Qualified Reactive Resource and shall be determined as described 
+below.  Until then, the Adjusted CC Rate shall be applicable only for 
+lagging capability and shall equal the Base CC Rate.  Commencing 
+January 1, 2008, on an annual basis, the Base CC Rate shall be 
+converted into an Adjusted CC Rate, expressed in the form of $/kVAR-
+yr, representing the amount to be paid for leading and lagging 
+capability.  From that time forward, the Adjusted CC Rate shall be 
+calculated in accordance with the following formula:  Adjusted CC 
+Rate (CCRateadjusted) shall equal: (the Base CC Rate (CCRatebase) * 
+Current Total Aggregate lagging VARs) / (Current Total Aggregate 
+Lagging VARs + Current Total Aggregate Leading VARs).  The basis 
+of each such formula element and methodology for calculation is set 
+forth in the Schedule 2 VAR Payment Implementation Rule.  The 
+details of the Schedule 2 VAR Payment Implementation Rule may be 
+modified by the ISO without a filing under the Federal Power Act, 
+provided that: (i) the modifications are consistent with the requirements 
+of this Schedule 2; and (ii) the modifications receive the support of at 
+least two-thirds of the voting percentage of the Transmission 
+Committee members.
+ISO New England Inc. 
+1st Rev Original Sheet No. 740 
+FERC Electric Tariff No. 3 
+Superseding Original 740 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+1.56. The “Forecast Peak Adjustment Reference Load” shall be the value 
+published in the then-most recently published Forecast Report of Capacity, 
+Energy, Loads and Transmission (the “CELT rReport”) at the time the 
+VAR CC Rate is established for a year. 
+7. 
+“Seasonal Claimed Capability” for Qualified Reactive Resources shall 
+be determined as follows: 
+a.1.6. A “Qualified Generator Reactive Resource’s Seasonal Claimed 
+Capability” shall be the Seasonal Claimed Capability of each 
+Qualified Generator applicable for the season in which the ISO 
+Forecast Peak Adjusted Load is forecast to occur.  The Seasonal 
+Claimed Capability (SCC) represents the Summer (SCC-S) and 
+Winter (SCC-W) Claimed Capability of a generating unit (or 
+ISO approved combination of units in accordance with ISO New 
+England Operating Procedures).  Claimed Capability Ratings are 
+the maximum dependable load carrying ability, in megawatts to 
+three decimal places, of such unit or units, excluding capacity 
+required for station use.  SCC-S and SCC-W are the MW values 
+of the Resource that will be used as billing determinants under 
+this Tariff. 
+ISO New England Inc. 
+Original Sheet No. 740A 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+A “Qualified Non-Generator Reactive Resource’s Seasonal 
+Claimed Capability” shall be 2.5 times the maximum dynamic 
+reactive power capability on a lagging basis demonstrated by the 
+Qualified Non-Generator Reactive Resource during the testing 
+of its VAR Service capability consistent with ISO Procedures 
+for measurement of such capability. 
+1.7. 
+The “VAR Revenue Requirement” shall be the sum over a month of all 
+Qualified Reactive Resources’ VAR PaymentsSUM (Qualified 
+Generator’s VAR Payment). 
+1.8. 
+A Qualified GeneratorReactive Resource’s VAR Payment shall equal the 
+(1/12) * (VAR CC Rate*Qualified VARs). 
+1.8.1. The VAR Rate is determined pursuant to paragraph 1.3 above. 
+1.8.29. Qualified GeneratorsReactive Resources will be paid their VAR Rate 
+under this Section for each month of a calendar year starting with the 
+month in which this Section becomes effectivethe resource is approved as 
+a Qualified Reactive Resource. 
+ISO New England Inc. 
+Original Sheet No. 740A 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+1.9. 
+“Qualified VARs” shall be: 
+1.9.1. Qualified VARs of an untested unit shall be equal to the 
+Lagging VAR capability at Seasonal Claimed Capability for the 
+season of forecasted peak as indicated on the Qualified Generator’s 
+NX-12D form that is then in effect adjusted for losses to station 
+service and energizing the generator leads and generator step-up 
+transformer. 
+10. 
+“Qualified VARs” shall be determined as follows: 
+(a)1.9.2. 
+As soon as practicable, but in no event longer than two 
+years from the effective date of this Section,In accordance with the 
+ISO New England Operating Procedures, the Qualified VARs of a 
+Qualified GeneratorReactive Resource initially 
+ISO New England Inc. 
+Original Sheet No. 740B 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+shall be determined at its point of delivery to the system,through an 
+actual testing in accordance with the then-applicable Operating 
+ProceduresVAR testing procedures set forth in the ISO New 
+England Operating Procedures.  At least every five (5) years after 
+that initial test, an ongoing test of the VAR capability of a 
+Qualified Generator across its full operating range shall be 
+conductedReactive Resource to supply VAR Service in both 
+leading and lagging capability shall be conducted.  Prior to January 
+1, 2008, the Qualified VARs of a Qualified Reactive Resource 
+shall equal the lagging VAR capability of the resource as 
+determined pursuant to this section.  On and after January 1, 2008, 
+the Qualified VARs of a Qualified Reactive Resource shall equal 
+the sum total of the absolute values of the leading and lagging 
+VAR capability of the resource determined pursuant to this section. 
+(b) 
+Prior to January 1, 2008: 
+• the Qualified VARs of an untested Qualified Generator 
+Reactive Resource shall be equal to the lagging VAR 
+ISO New England Inc. 
+Original Sheet No. 740B 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+capability at the Summer Seasonal Claimed Capability as 
+indicated on the Qualified Generator Reactive Resource's 
+ISO New England Inc. 
+Original Sheet No. 740C 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+NX-12D form that is then in effect adjusted (downward for 
+lagging capability) for reactive power absorbed by the 
+generator step-up transformer.  
+• The Qualified VARs of an untested Qualified Non Generator 
+Reactive Resource shall be equal to the lagging VAR 
+capability at the corresponding Summer Seasonal Claimed 
+Capability or an equivalent point as indicated on the 
+Qualified Non-Generator Reactive Resource's NX-12D form 
+that is then in effect adjusted for reactive power absorbed by 
+its step-up transformer.  
+(c) 
+On and after January 1, 2008: 
+• the Qualified VARs of an untested Qualified Generator 
+Reactive Resource shall be equal to the sum of the absolute 
+values of the lagging VAR capability at the Summer 
+Seasonal Claimed Capability and the leading VAR capability 
+at the EcoMin point as indicated on the Qualified Generator 
+Reactive Resource's NX-12D form that is then in effect 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 741 
+FERC Electric Tariff No. 3 
+Superseding Original 741 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+adjusted (downward for lagging capability and upward for 
+leading capability) for reactive power absorbed by the 
+generator step-up transformer. 
+• The Qualified VARs of an untested Qualified Non-Generator 
+Reactive Resource shall be equal to the sum of the absolute 
+values of the lagging VAR capability at the corresponding 
+Summer Seasonal Claimed Capability or an equivalent point 
+and the leading VAR capability at the corresponding EcoMin 
+point or an equivalent point as indicated on the Qualified 
+Non-Generator Reactive Resource's NX-12D form that is 
+then in effect adjusted for reactive power absorbed by its 
+step-up transformer.  
+2B. 
+Lost Opportunity Cost (LOC) 
+2.1. 
+The Lost Opportunity Cost for hydro, pumped storage and thermal 
+generating units The LOC for generators that are dispatched down by, or 
+at the request of, the ISO, or a PTO’s Local Control Center, or PTO 
+dispatch center for the purpose of providing reactive supply and voltage 
+controlVAR Service will be calculated pursuant to Market Rule 1. 
+ISO New England Inc. 
+Original Sheet No. 741A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+2. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the LOC for Qualified Non-
+Generator Reactive Resources that are dispatched down (pursuant to 
+the authority established within written operating protocols developed 
+under Section II.B.4) at the request of the ISO or a Local Control 
+Center for the purpose of providing VAR Service.  The LOC of such 
+Qualified Non-Generator Reactive Resources will be calculated 
+pursuant to procedures established at the time of approval of the 
+equipment type pursuant to Section II.B and filed with the Commission 
+pursuant to the requirements of Section 205 of the Federal Power Act. 
+ 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 742 
+FERC Electric Tariff No. 3 
+Superseding Original 742 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+C3. 
+Cost of Energy Consumed (CECSCL) 
+3.1. 
+Motoring Hydro or Pumped Storage Generating Units.  The CECSCL 
+associated with hydro and pumped storage generating units that are 
+motoring at the request of the ISO, or a PTO’s Local Control Center, or 
+PTO dispatch center for the purpose of providing reactive supply and 
+voltage controlVAR Service will equal the cost of energy to motor and 
+will be calculated in each hour as follows: CECSCL = (MWhUnit * (ECP 
+or LMP or Aactual energy cost), where the MWh Unit are calculated 
+pursuant to the Ancillary Service Schedule 2 Business Procedure.  The 
+Aactual energy cost applies only if motoring energy is purchased through 
+a bilateral contract. 
+3.2. 
+Synchronous Condensers and Static Controlled VAR Regulators 
+(SC/SCV).  The SCLFor the Chester SCV, the CEC will be set to zero 
+($0), and the cost of energy to supply reactive supply and voltage control 
+from the Chester SCV will be treated as losses on the New England 
+Transmission System.  This treatment will be revisited by the ISO on an 
+as-needed basis (e.g., upon the addition of a new SC or SCV within the 
+New England Control Area). 
+3. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the CEC incurred by 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 742 
+FERC Electric Tariff No. 3 
+Superseding Original 742 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+Qualified Non-Generator Reactive Resources for the purpose of 
+providing VAR Service (pursuant to the authority established within 
+written operating protocols developed under Section II.B.4).  The CEC 
+of such Qualified Non-Generator Reactive Resources shall be measured 
+pursuant to procedures established at the time of approval of the 
+equipment type pursuant to Section II.B and filed with the Commission 
+pursuant to the requirements of Section 205 of the Federal Power Act. 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 743 
+FERC Electric Tariff No. 3 
+Superseding Original 743 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+4. 
+Cost of Energy Produced (CEPPC) 
+4.1. 
+Thermal Generating Units.  The CEPPC associated with thermal 
+generating units that are brought on-line by the ISO, or a PTO’s Local 
+Control Center, or PTO dispatch center for the purpose of providing 
+reactive supply and voltage controlVAR Service shall equal the portion of 
+the total uplift to be paid that resource for a day that is attributed to the 
+hour(s) during which the resource is run to provide this serviceVAR 
+Service in accordance with Market Rule 1 and the ISO System RulesNew 
+England Operating Documents. 
+4.2. 
+Hydro and Pumped Storage Generating Units.  The PCThe CEP associated 
+with hydro or pumped storage generating units that are producing real 
+power and that have also been brought on-line by the ISO, or a PTO’s 
+Local Control Center, or PTO dispatch center to provide reactive supply 
+and voltage control VAR Service shall equal the portion of the total uplift 
+to be paid that resource for a day that is attributed to the hour(s) during 
+which the resource is run to provide this serviceVAR Service in 
+accordance with Market Rule 1 and the ISO System RulesNew England 
+Operating Documents. 
+3. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the CEP incurred by 
+ISO New England Inc. 
+1st RevOriginal Sheet No. 743 
+FERC Electric Tariff No. 3 
+Superseding Original 743 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007With notice, on or after February 1, 2005 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 292, 20064 
+DMEAST #5143539 v18 
+Qualified Non-Generator Reactive Resources for the purpose of 
+providing VAR Service (pursuant to the authority established within 
+ISO New England Inc. 
+Original Sheet No. 743A 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+written operating protocols developed under Section II.B.4).  The 
+CEP of such Qualified Non-Generator Reactive Resources shall be 
+measured pursuant to procedures established at the time of approval 
+of the equipment type pursuant to Section II.B and filed with the 
+Commission pursuant to the requirements of Section 205 of the 
+Federal Power Act. 
+VI. 
+ALTERNATIVE PAYMENT FOR VAR SERVICE 
+Where a non-generator source of VAR Service (i) responds to identified needs for 
+dynamic reactive power on the New England Transmission System, as identified in the Regional 
+System Plan, and (ii) is confirmed by the ISO as a dynamic reactive power resource that will 
+meet the identified need, and (iii) such non-generator source of VAR Service meets the criteria to 
+be a Qualified Non-Generator Reactive Resource but cannot recover its costs of providing 
+dynamic reactive power under Schedule 2, such non-generator may submit a separate schedule to 
+the ISO OATT to be filed with the Commission pursuant to the requirements of Section 205 of 
+the Federal Power Act for a rate to be paid to allow such resource to recover its costs related to 
+providing VAR Service.  In such case, it shall not be considered a Qualified Non-Generator 
+Reactive Resource under this Schedule 2 and its provision of VAR Service and payment shall be 
+governed solely by such separate schedule filed with the Commission.
+ISO New England Inc. 
+Original Sheet No. 743B 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+SCHEDULE 2 VAR PAYMENT IMPLEMENTATION RULE  
+This rule describes the steps to be taken to calculate the VAR CC Rate on or after 
+January 1, 2008 in accordance with Section V.A. of Schedule 2.  Applicable to that time forward 
+on an annual basis, the Base CC Rate shall be converted into a VAR CC Rate, expressed in the 
+form of $/kVAR-yr, representing the amount to be paid for leading and lagging capability. 
+The following calculations shall be done in December of each year to calculate the VAR 
+CC Rate for the next year of VAR Payments for leading and lagging reactive power capability in 
+the following year. As described below, the VAR CC Rate shall be updated on an annual basis 
+utilizing the most current leading and lagging test results, and it is expected to take three years to 
+test all of the Qualified Reactive Resources in leading mode. 
+1. 
+Calculate the “Current Total Aggregate Lagging VARs”, which shall equal the 
+“Current Net Aggregate Tested Lagging VARs” plus the “Current Net Aggregate 
+Non-Tested Lagging VARs”; 
+Where: 
+a. 
+the Current Net Aggregate Tested Lagging VARs shall equal the total of 
+Net Lagging kVARs for all Schedule 2 Qualified Reactive Resources that 
+have completed a successful lagging VAR test, as reflected in the most 
+current monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the lagging kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its lagging VAR test results adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+lagging VARs test results adjusted down for losses); and
+ISO New England Inc. 
+Original Sheet No. 743C 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+the Current Net Aggregate Non-Tested lagging VARs shall equal the total 
+of net lagging kVARs for all Schedule 2 Qualified Reactive Resources 
+that have not yet completed a successful lagging VAR test, as reflected in 
+the most current monthly VAR Status Report that is posted on the ISO 
+website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the lagging kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its NX-12D (and NX-9B, where needed to calculate generator 
+step-up transformer losses) data at EcoMin adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+lagging VARs NX-12D data at SCC adjusted down for losses). 
+c. 
+Increase and decrease limiters shall be applied to potential increases or 
+decreases in the Current Total Aggregate Lagging VARs as follows: 
+i. 
+Current Total Aggregate Lagging VARs Limiters for Year 1 
+(2008) and Year 3 (2010): 
+• The Current Total Aggregate Lagging VARs value shall not be 
+limited for Year 1 and Year 3. 
+ii. 
+Current Total Aggregate Lagging VARs Limiters for Year 2 
+(2009): 
+• Current Total Aggregate Lagging VARs Increase Limiter for Year 
+2: the calculated Current Total Aggregate Lagging VARs will be 
+limited to no greater than 110% of the Current Total Aggregate 
+Lagging VARs value used in the determination of CCRateadjusted 
+for the prior year (Year 1); and 
+• Current Total Aggregate Lagging VARs Decrease Limiter for Year 
+2: the calculated Current Total Aggregate Lagging VARs will be 
+limited to no less than 90% of the Current Total Aggregate 
+Lagging VARs value used in the determination of CCRateadjusted 
+for the prior year (Year 1). 
+iii. 
+Current Total Aggregate Lagging VARs Limiters for Year 4 
+(2011) and beyond: 
+• Current Total Aggregate Lagging VARs Increase Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Lagging 
+VARs will be limited to no greater than 130% of the Current Total 
+Aggregate Lagging VARs value used in the determination of 
+CCRateadjusted for Year 3; and 
+ISO New England Inc. 
+Original Sheet No. 743D 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+• Current Total Aggregate Lagging VARs Decrease Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Lagging 
+VARs will be limited to no less than 70% of the Current Total 
+Aggregate Lagging VARs value used in the determination of 
+CCRateadjusted for Year 3. 
+2. 
+Calculate the Current Total Aggregate Leading VARs which shall equal the 
+Current Net Aggregate Tested Leading VARs plus the Current Net Aggregate 
+Non-Tested Leading VARs; 
+Where: 
+a. 
+the Current Net Aggregate Tested Leading VARs shall equal the total of 
+Net Leading kVARs for all Schedule 2 Qualified Reactive Resources that 
+have completed a successful Leading VAR Test, as reflected in the most 
+current monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the Leading kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its leading VAR test results adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+leading VARs test results adjusted up for losses); 
+b. 
+the Current Net Aggregate Non-Tested Leading VARs: shall equal the 
+total of Net Leading kVARs for all Schedule 2 Qualified Reactive 
+Resources that have not yet completed a successful Leading VAR Test, as 
+reflected in the most current monthly VAR Status Report that is posted on 
+the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). This value will 
+reflect the Leading kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its NX-12D (and NX-9B, where needed to calculate generator 
+step-up transformer losses) data at EcoMin adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+leading VARs NX-12D data at EcoMin adjusted up for losses). 
+c. 
+Current Total Aggregate Leading VARs Limiters 
+i. 
+Current Total Aggregate Leading VARs Limiters for Year 1 and 
+Year 4: 
+• The Current Total Aggregate Leading VARs value shall not be 
+limited for Year 1 (2008) and Year 3 (2010) . 
+ISO New England Inc. 
+Original Sheet No. 743E 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+ii. 
+Current Total Aggregate Leading VARs Limiters for Year 2 
+(2009) : 
+• Current Total Aggregate Leading VARs Increase Limiter for Year 
+2: the calculated Current Total Aggregate Leading VARs will be 
+limited to no greater than 110% of the Current Total Aggregate 
+Leading VARs value used in the determination of CCRateadjusted for 
+the prior year (Year 1); and 
+• Current Total Aggregate Leading VARs Decrease Limiter for Year 
+2: the calculated Current Total Aggregate Leading VARs will be 
+limited to no less than 90% of the Current Total Aggregate 
+Leading VARs value used in the determination of CCRateadjusted for 
+the prior year (Year 1). 
+iii. 
+Current Total Aggregate Leading VARs Limiters for Year 4 and 
+beyond: 
+• Current Total Aggregate Leading VARs Increase Limiter for Year 
+4 (2011) and beyond: the calculated Current Total Aggregate 
+Leading VARs will be limited to no greater than 130% of the 
+Current Total Aggregate Leading VARs value used in the 
+determination of CCRateadjusted for Year 3; and 
+• Current Total Aggregate Leading VARs Decrease Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Leading 
+VARs will be limited to no less than 70% of the Current Total 
+Aggregate Leading VARs value used in the determination of 
+CCRateadjusted for Year 3. 
+3. 
+Calculate the Adjusted CC Rate (CCRateadjusted): shall equal (the Base CC Ratee * 
+Current Total Aggregate Lagging VARs) / (Current Total Aggregate Lagging 
+VARs + Current Total Aggregate Leading VARs) where the Base CC Rate shall 
+equal $2.32/kVAR-yr unless changed as provided for under Schedule 2. 
+4. 
+VAR CC Rate (“VARCCRate”): shall equal (the Adjusted CC Rate) * (the lesser 
+of 1 or (1.2 * “Forecast Peak Adjusted Reference Load” for the year / the sum of 
+the “Qualified Reactive Resources’ Seasonal Claimed Capability”)); 
+ISO New England Inc. 
+Original Sheet No. 743F 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+Where: 
+a. 
+the “Forecast Peak Adjusted Reference Load” for the year shall equal the 
+amount specified as “Adjusted Reference Load” for the applicable year in 
+Section I.1 - Summaries – Summer from the most current Forecast Report 
+of Capability, Energy, Loads and Transmission (CELT Report) 
+(http://www.iso-ne.com/trans/celt/report/index.html); 
+b. 
+The sum of the “Qualified Reactive Resources’ Seasonal Claimed 
+Capability” shall equal the Qualified Generator Reactive Resources’ 
+Seasonal Claimed Capability plus the Qualified Non-Generator Reactive 
+Resources’ Adjusted Seasonal Claimed Capability; 
+Where: 
+i. 
+the Qualified Generator Reactive Resources’ Seasonal Claimed 
+Capability: shall equal the total of the “Summer Seasonal Claimed 
+Capability” column of all Qualified Generator VAR Resources 
+from the most current VAR Status Report (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); and 
+ii. 
+the Qualified Non-Generator Reactive Resources’ Adjusted 
+Seasonal Claimed Capability shall equal 2.50 times the total of the 
+“Summer Seasonal Claimed Capability” column of all Qualified 
+non-Generator VAR Resources from the most current VAR Status 
+Report (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). 
+5. 
+Monthly VAR Payment for a Qualified Reactive Resource in a particular month 
+shall equal the (VARCCRate / 12 * (its Monthly Net Lagging VARs for that 
+month + its Monthly Net Leading VARs for that month)), as reflected in the 
+applicable monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html).  
+a. 
+Monthly Net Lagging VARs:  Qualified Reactive Resource’s Monthly Net 
+Lagging VARs value shall equal its VAR value based on (a) its most 
+recent successful Lagging VAR test or (b) if it has not yet completed such 
+a test, its VAR value at SCC based on its submitted and ISO accepted NX-
+12D and NX-9B data.  The Qualified VAR Resource’s Monthly Net 
+Lagging VARs value shall be reflected in the applicable monthly VAR 
+Status Report that is posted on the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). 
+ISO New England Inc. 
+Original Sheet No. 743G 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+Monthly Net Leading VARs:  a Qualified Reactive Resource’s Monthly 
+Net Leading VARs value shall equal its VAR value based on (a) its most 
+recent successful Leading VAR test or (b) if it has not yet completed such 
+a test, its VAR value at EcoMin based on its submitted and ISO accepted 
+NX-12D and NX-9B data.  The Qualified Reactive Resource’s Monthly 
+Net Leading VARs value shall be reflected in the applicable monthly VAR 
+Status Report that is posted on the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html).
+  
+Attachment 2 
+ 
+ISO New England Inc. 
+1st Rev Sheet No. 735 
+FERC Electric Tariff No. 3 
+Superseding Original 735 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+SCHEDULE 2 
+ 
+REACTIVE SUPPLY AND VOLTAGE CONTROL FROM 
+QUALIFIED REACTIVE RESOURCES SERVICE 
+In order to maintain transmission voltages on the New England Transmission System (for 
+voltage constraints that are reflected in the ISO’s systems for operating the New England 
+Transmission System or in the ISO New England Operating Procedures) within acceptable 
+limits, Qualified Reactive Resources (as defined below) are operated to produce (or absorb) 
+reactive power.  Thus, VAR Service (as defined below) must be provided to support Regional 
+Network Service and Through or Out Service on the New England Transmission System (both of 
+which services have a direct impact on voltage constraints that are reflected in the ISO’s systems 
+for operating the New England Transmission System or in the ISO New England Operating 
+Procedures).  The amount of VAR Service that must be supplied with respect to a Transmission 
+Customer’s Regional Network Service and Through or Out Service will be determined based on 
+the degree of dynamic reactive power support necessary to maintain transmission voltages within 
+limits that are consistently adhered to in the operation of the New England Transmission System.  
+Additional information regarding the processes used to collect data and calculate amounts due or 
+payable under this Schedule 2 can be found in the Ancillary Service Schedule 2 Business 
+Procedure posted on the ISO website.  Transmission Customers taking Local Service, MTF 
+Service or OTF Service may also need to acquire voltage support services not otherwise 
+provided under this Schedule 2 pursuant to Schedules 18, 20A, 20B or 21 to this OATT, as 
+appropriate.
+ISO New England Inc. 
+1st Rev Sheet No. 736 
+FERC Electric Tariff No. 3 
+Superseding Original 736 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+I. 
+DEFINITIONS 
+Qualified Generator Reactive Resource(s):  means any generator source of dynamic 
+reactive power that meets the criteria specified in Section II of this Schedule 2. 
+Qualified Non-Generator Reactive Resource(s):  means any non-generator source of 
+dynamic reactive power that meets the criteria specified in Section II of this Schedule 2. 
+Qualified Reactive Resource(s):  means any Qualified Generator Reactive Resource 
+and/or Qualified Non-Generator Reactive Resource. 
+VAR Service:  means the provision of reactive power voltage support to the New 
+England Transmission System by a Qualified Reactive Resource or by other generators that are 
+dispatched by the ISO to provide dynamic reactive power. 
+VAR Payment:  means the payment made to Qualified Reactive Resources for VAR 
+Service capability under Section V.A. of this Schedule 2. 
+VAR CC Rate:  means the CC Rate paid to Qualified Reactive Resources for VAR 
+Service capability under Section V.A. of this Schedule 2. 
+ 
+ISO New England Inc. 
+Original Sheet No. 736A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+II. 
+ELIGIBILITY FOR PAYMENT UNDER SCHEDULE 2 
+A. 
+Qualified Generator Reactive Resources 
+Qualified Generator Reactive Resources shall be eligible for VAR Payments under this 
+Schedule 2.  In addition, any generator that is dispatched by ISO-NE for the purpose of providing 
+voltage support to the New England Transmission System shall be eligible to recover its Lost 
+Opportunity Costs (“LOC”), Cost of Energy Consumed (“CEC”), and Cost of Energy Produced 
+(“CEP”) pursuant to Sections V.B-D of this Schedule 2. 
+A generator shall be deemed a Qualified Generator Reactive Resource if it meets the following 
+criteria: 
+1. 
+the entity owning or controlling the reactive power capability of the 
+generator reactive resource is a Market Participant;  
+2. 
+the generator is: (a) interconnected to the New England Transmission 
+System or (b) interconnected to the distribution system but participating in the 
+New England Markets and (c) is metered and dispatchable by the ISO or 
+otherwise subject to operational control by the ISO; 
+ISO New England Inc. 
+Original Sheet No. 736B 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+3. 
+the generator provides measurable reactive power voltage support to the 
+New England Transmission System, as determined from time-to-time by the 
+ISO, and has its automatic voltage regulator status and control mode (including 
+power factor, reactive power output and voltage control) telemetered to the ISO 
+and the applicable Local Control Center; provided that the generator shall have 
+until January 1, 2009 to have the necessary telemetering equipment installed and 
+operating;  
+4. 
+the generator meets the reactive power testing requirements applicable 
+to generators, as determined from time-to-time by the ISO and specified in the 
+ISO New England Operating Documents; and  
+5. 
+the installation of the generator shall have been approved in accordance 
+with the requirements of Section I.3.9 of the Tariff or its predecessor or successor 
+provisions under the New England regional transmission arrangements. 
+Any generator that has been receiving VAR Payments under Schedule 2 prior to June 1, 2007 
+shall be deemed to be a Qualified Generator Reactive Resource as of that date, provided that 
+it continues to meet the criteria specified in Section II, A. (1), (3) and (4), above; provided 
+that, commencing June 1, 2007, generators that are Qualified Generator 
+ISO New England Inc. 
+Original Sheet No. 736C 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+Reactive Resources as of June 1, 2007 but that do not submit an updated NX-12 form with 
+leading VAR data prior to June 1, 2007 will not receive VAR Payments until the beginning 
+of the year following the submittal of their updated NX-12 leading VAR data.  
+Additionally, following June 1, 2007 each generator seeking to be newly designated as a 
+Qualified Generator Reactive Resource shall submit information to the ISO regarding its 
+capability to provide leading VAR Service prior to receiving any leading VAR Payments 
+under Schedule 2.  Such information shall be submitted in the form and within the 
+timeframe prescribed in the Ancillary Service Schedule 2 Business Procedure and/or the 
+Schedule 2 VAR Payment Implementation Rule. 
+B. 
+Qualified Non-Generator Reactive Resources 
+Qualified Non-Generator Reactive Resources shall be eligible for VAR Payments under this 
+Schedule 2 commencing on January 1, 2008, except for the Cross Sound Cable, which shall be 
+eligible for VAR Payments commencing March 1, 2007, provided that Cross Sound Cable has 
+satisfied all of the eligibility criteria specified below in this Section B.  However, to the extent 
+that cost recovery for the dynamic reactive power capability of a non-generator resource could 
+occur under the PTF cost recovery mechanism, it shall occur only under such cost recovery 
+mechanism and not under this Schedule 2.
+ISO New England Inc. 
+Original Sheet No. 736D 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+A non-generator shall be deemed a Qualified Non-Generator Reactive Resource if it meets the 
+following criteria: 
+1. 
+the entity owning or controlling the reactive power capability of the non-
+generator reactive power resource is a Market Participant; 
+2. 
+the non-generator reactive power equipment provides measurable dynamic 
+reactive power voltage support to the New England Transmission System, as 
+determined from time-to-time by the ISO; 
+3. 
+the type of dynamic reactive power equipment is within a category of 
+equipment that has been approved by the ISO, with advisory input from the 
+Reliability Committee; 
+4. 
+the dynamic reactive power equipment is subject to the operating authority 
+of the ISO and all necessary operating protocols for provision of reactive power 
+voltage support from such equipment have been agreed to, in writing, between the 
+ISO and the non-generator reactive power resource; 
+5. 
+such equipment is interconnected to the New England Transmission 
+System and metered and dispatchable by the ISO or otherwise subject to 
+operational control by the ISO, and has its automatic voltage regulator status and 
+ISO New England Inc. 
+Original Sheet No. 736E 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+control mode (including power factor, reactive power output and voltage control) 
+telemetered to the ISO and the applicable Local Control Center; provided that the 
+non-generator shall have until January 1, 2009 to have the necessary 
+telemetering equipment installed and operating; 
+6. 
+the non-generator reactive resource meets the reactive power testing 
+requirements applicable to such non-generators, as determined from time-to-time 
+by the ISO and specified in the ISO New England Operating Documents; and 
+7. 
+the installation of such equipment shall have been approved in accordance 
+with the requirements of Section I.3.9 of the Tariff or its predecessor provisions 
+under the New England regional transmission arrangements. 
+C. 
+Non-Dynamic Reactive Resources 
+Nothing in this Schedule 2 is intended to preclude, or provide support for, the cost recovery 
+under a separate schedule to the Tariff, filed with the Commission pursuant to the 
+requirements of Sections 205 or 206 of the Federal Power Act, for non-generator, non-
+dynamic reactive resources that are interconnected to and provide VAR Service to the New 
+England Transmission System but do not meet the criteria to be deemed either Qualified 
+Non-Generator Reactive Resources or PTF. 
+ISO New England Inc. 
+Original Sheet No. 736F 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+III. 
+DETERMINING THE AMOUNT TO BE PAID FOR SERVICE UNDER THIS 
+SCHEDULE 
+VAR Service under this Schedule 2 shall be provided through the ISO.  Transmission Customers 
+must purchase VAR Service through the ISO for the support of transmission voltages on the 
+New England Transmission System.  The charge for VAR Service shall be determined in 
+accordance with the following formula: 
+CH 
+=    (CC + LOC + CEC + CEP) 
+RC
+HL
+RC
+HL
++
++
+1
+1
+ 
+in which: 
+CH 
+= 
+the amount to be paid by the Transmission Customer for 
+the hour;
+ISO New England Inc. 
+1st Rev Sheet No. 737 
+FERC Electric Tariff No. 3 
+Superseding Original 737 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+CC 
+= 
+the capacity costs for the hour shall be the VAR Revenue 
+Requirement determined as set forth herein divided by the 
+number of hours in the month; 
+LOC = 
+the lost opportunity costs for the hour to be paid for a 
+dynamic reactive power resource that provides VAR 
+Service to meet reliability criteria within one or more 
+Reliability Regions; 
+CEP 
+= 
+the cost of energy produced which is the portion of the 
+amount paid for the hour for Energy produced by a 
+dynamic reactive power resource for VAR Service to meet 
+reliability criteria within one or more Reliability Regions; 
+CEC 
+= 
+the cost of energy consumed which is the cost of energy 
+used in the hour by a dynamic reactive power resource in 
+order to provide VAR Service to meet reliability crieria 
+within one or more Reliability Regions; 
+HL1 
+= 
+the Regional Network Load of the Transmission Customer 
+for the hour; 
+ISO New England Inc. 
+1st Rev Sheet No. 738 
+FERC Electric Tariff No. 3 
+Superseding Original 738 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+HL 
+= 
+the aggregate of the Regional Network Loads of all 
+Transmission Customer for the hour; 
+RC1 
+= 
+the Reserved Capacity for Through or Out Service of the 
+Transmission Customers for the hour; and 
+RC 
+= 
+the aggregate Reserved Capacity for Through or Out 
+Service of all Transmission Customers for the hour. 
+IV. 
+ALLOCATION OF VAR SERVICE COSTS 
+The charge for VAR Service shall be paid by each Transmission Customer that receives either 
+Regional Network Service or Through or Out Service. 
+V. 
+DETERMINING A QUALIFIED REACTIVE RESOURCE’S PAYMENT UNDER 
+THIS SCHEDULE 
+The compensation to be paid to resources providing VAR Service shall be as set forth below. 
+A. 
+Capacity Cost (CC) 
+1. 
+A Qualified Reactive Resource shall be eligible to receive VAR 
+Payments under the Capacity Cost component of this Schedule 2 for the 
+capability to provide VAR Service.
+ISO New England Inc. 
+1st Rev Sheet No. 739 
+FERC Electric Tariff No. 3 
+Superseding Original 739 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+2. 
+Payment for VAR Service associated with lagging capability is not 
+intended to compensate a Qualified Generator Reactive Resource for 
+reactive power absorbed by the generator step-up transformer.  Payment 
+for VAR Service associated with leading capability is intended to 
+compensate a Qualified Generator Reactive Resource for reactive power 
+absorbed by the generator step-up transformer. 
+3. 
+The “VAR CC Rate” will be established each year as of January 1 on a 
+prospective basis for that calendar year and shall be the Adjusted CC Rate 
+* Min (1, (1.2*Forecast Peak Adjusted Reference Load for the year/(SUM 
+of all Qualified Reactive Resources’ Summer Seasonal Claimed 
+Capability))). 
+4. 
+The “Base CC Rate” shall be $1.05/kVAR-yr before June 1, 2007 and 
+shall be $2.32/kVAR-yr commencing June 1, 2007 and shall not be 
+changed pursuant to Section 205 of the Federal Power Act until January 1, 
+2012.  An examination of the Base CC Rate shall be completed no later 
+than July 1, 2011; such examination shall determine whether the Base CC 
+Rate is still appropriate or whether it should be changed commencing 
+January 1, 2012.
+ISO New England Inc. 
+Original Sheet No. 739A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+5. 
+Commencing January 1, 2008, the Adjusted CC Rate shall be a single 
+rate applied over the full range of leading and lagging capability of a 
+Qualified Reactive Resource and shall be determined as described 
+below.  Until then, the Adjusted CC Rate shall be applicable only for 
+lagging capability and shall equal the Base CC Rate.  Commencing 
+January 1, 2008, on an annual basis, the Base CC Rate shall be 
+converted into an Adjusted CC Rate, expressed in the form of $/kVAR-
+yr, representing the amount to be paid for leading and lagging 
+capability.  From that time forward, the Adjusted CC Rate shall be 
+calculated in accordance with the following formula:  Adjusted CC 
+Rate (CCRateadjusted) shall equal: (the Base CC Rate (CCRatebase) * 
+Current Total Aggregate lagging VARs) / (Current Total Aggregate 
+Lagging VARs + Current Total Aggregate Leading VARs).  The basis 
+of each such formula element and methodology for calculation is set 
+forth in the Schedule 2 VAR Payment Implementation Rule.  The 
+details of the Schedule 2 VAR Payment Implementation Rule may be 
+modified by the ISO without a filing under the Federal Power Act, 
+provided that: (i) the modifications are consistent with the requirements 
+of this Schedule 2; and (ii) the modifications receive the support of at 
+least two-thirds of the voting percentage of the Transmission 
+Committee members.
+ISO New England Inc. 
+1st Rev Sheet No. 740 
+FERC Electric Tariff No. 3 
+Superseding Original 740 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+6. 
+The “Forecast Peak Adjustment Reference Load” shall be the value 
+published in the then-most recently published Forecast Report of Capacity, 
+Energy, Loads and Transmission (the “CELT Report”) at the time the 
+VAR CC Rate is established for a year. 
+7. 
+“Seasonal Claimed Capability” for Qualified Reactive Resources shall 
+be determined as follows: 
+a. 
+A “Qualified Generator Reactive Resource’s Seasonal Claimed 
+Capability” shall be the Seasonal Claimed Capability of each 
+Qualified Generator applicable for the season in which the ISO 
+Forecast Peak Adjusted Load is forecast to occur.  The Seasonal 
+Claimed Capability (SCC) represents the Summer (SCC-S) and 
+Winter (SCC-W) Claimed Capability of a generating unit (or 
+ISO approved combination of units in accordance with ISO New 
+England Operating Procedures).  Claimed Capability Ratings are 
+the maximum dependable load carrying ability, in megawatts to 
+three decimal places, of such unit or units, excluding capacity 
+required for station use.  SCC-S and SCC-W are the MW values 
+of the Resource that will be used as billing determinants under 
+this Tariff. 
+ISO New England Inc. 
+Original Sheet No. 740A 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+A “Qualified Non-Generator Reactive Resource’s Seasonal 
+Claimed Capability” shall be 2.5 times the maximum dynamic 
+reactive power capability on a lagging basis demonstrated by the 
+Qualified Non-Generator Reactive Resource during the testing 
+of its VAR Service capability consistent with ISO Procedures 
+for measurement of such capability. 
+7. 
+The “VAR Revenue Requirement” shall be the sum over a month of all 
+Qualified Reactive Resources’ VAR Payments. 
+8. 
+A Qualified Reactive Resource’s VAR Payment shall equal (1/12) * (VAR 
+CC Rate*Qualified VARs). 
+9. 
+Qualified Reactive Resources will be paid their VAR Rate under this 
+Section for each month of a calendar year starting with the month in which 
+the resource is approved as a Qualified Reactive Resource. 
+10. 
+“Qualified VARs” shall be determined as follows: 
+(a) 
+In accordance with the ISO New England Operating Procedures, 
+the Qualified VARs of a Qualified Reactive Resource initially 
+ISO New England Inc. 
+Original Sheet No. 740B 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+shall be determined through an actual testing in accordance with 
+the then-applicable VAR testing procedures set forth in the ISO 
+New England Operating Procedures.  At least every five (5) years 
+after that initial test, an ongoing test of the capability of a Qualified 
+Reactive Resource to supply VAR Service in both leading and 
+lagging capability shall be conducted.  Prior to January 1, 2008, the 
+Qualified VARs of a Qualified Reactive Resource shall equal the 
+lagging VAR capability of the resource as determined pursuant to 
+this section.  On and after January 1, 2008, the Qualified VARs of 
+a Qualified Reactive Resource shall equal the sum total of the 
+absolute values of the leading and lagging VAR capability of the 
+resource determined pursuant to this section. 
+(b) 
+Prior to January 1, 2008: 
+• the Qualified VARs of an untested Qualified Generator 
+Reactive Resource shall be equal to the lagging VAR 
+capability at the Summer Seasonal Claimed Capability as 
+indicated on the Qualified Generator Reactive Resource's 
+ISO New England Inc. 
+Original Sheet No. 740C 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+NX-12D form that is then in effect adjusted (downward for 
+lagging capability) for reactive power absorbed by the 
+generator step-up transformer.  
+• The Qualified VARs of an untested Qualified Non Generator 
+Reactive Resource shall be equal to the lagging VAR 
+capability at the corresponding Summer Seasonal Claimed 
+Capability or an equivalent point as indicated on the 
+Qualified Non-Generator Reactive Resource's NX-12D form 
+that is then in effect adjusted for reactive power absorbed by 
+its step-up transformer.  
+(c) 
+On and after January 1, 2008: 
+• the Qualified VARs of an untested Qualified Generator 
+Reactive Resource shall be equal to the sum of the absolute 
+values of the lagging VAR capability at the Summer 
+Seasonal Claimed Capability and the leading VAR capability 
+at the EcoMin point as indicated on the Qualified Generator 
+Reactive Resource's NX-12D form that is then in effect 
+ISO New England Inc. 
+1st Rev Sheet No. 741 
+FERC Electric Tariff No. 3 
+Superseding Original 741 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+adjusted (downward for lagging capability and upward for 
+leading capability) for reactive power absorbed by the 
+generator step-up transformer. 
+• The Qualified VARs of an untested Qualified Non-Generator 
+Reactive Resource shall be equal to the sum of the absolute 
+values of the lagging VAR capability at the corresponding 
+Summer Seasonal Claimed Capability or an equivalent point 
+and the leading VAR capability at the corresponding EcoMin 
+point or an equivalent point as indicated on the Qualified 
+Non-Generator Reactive Resource's NX-12D form that is 
+then in effect adjusted for reactive power absorbed by its 
+step-up transformer.  
+B. 
+Lost Opportunity Cost (LOC) 
+1. 
+The LOC for generators that are dispatched down by, or at the request of, 
+the ISO, or a Local Control Center for the purpose of providing VAR 
+Service will be calculated pursuant to Market Rule 1. 
+ISO New England Inc. 
+Original Sheet No. 741A 
+FERC Electric Tariff No. 3 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+2. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the LOC for Qualified Non-
+Generator Reactive Resources that are dispatched down (pursuant to 
+the authority established within written operating protocols developed 
+under Section II.B.4) at the request of the ISO or a Local Control 
+Center for the purpose of providing VAR Service.  The LOC of such 
+Qualified Non-Generator Reactive Resources will be calculated 
+pursuant to procedures established at the time of approval of the 
+equipment type pursuant to Section II.B and filed with the Commission 
+pursuant to the requirements of Section 205 of the Federal Power Act. 
+ 
+ISO New England Inc. 
+1st Rev Sheet No. 742 
+FERC Electric Tariff No. 3 
+Superseding Original 742 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+C. 
+Cost of Energy Consumed (CEC) 
+1. 
+The CEC associated with hydro and pumped storage generating units that 
+are motoring at the request of the ISO or a Local Control Center for the 
+purpose of providing VAR Service will equal the cost of energy to motor 
+and will be calculated in each hour as follows: CEC = (MWhUnit * (LMP 
+or actual energy cost), where the MWh Unit are calculated pursuant to the 
+Ancillary Service Schedule 2 Business Procedure.  The actual energy cost 
+applies only if motoring energy is purchased through a bilateral contract. 
+2. 
+For the Chester SCV, the CEC will be set to zero ($0), and the cost of 
+energy to supply reactive supply and voltage control from the Chester 
+SCV will be treated as losses on the New England Transmission System. 
+3. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the CEC incurred by 
+Qualified Non-Generator Reactive Resources for the purpose of 
+providing VAR Service (pursuant to the authority established within 
+written operating protocols developed under Section II.B.4).  The CEC 
+of such Qualified Non-Generator Reactive Resources shall be measured 
+pursuant to procedures established at the time of approval of the 
+equipment type pursuant to Section II.B and filed with the Commission 
+pursuant to the requirements of Section 205 of the Federal Power Act. 
+ISO New England Inc. 
+1st Rev Sheet No. 743 
+FERC Electric Tariff No. 3 
+Superseding Original 743 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+4. 
+Cost of Energy Produced (CEP) 
+1. 
+The CEP associated with thermal generating units that are brought on-line 
+by the ISO or a Local Control Center for the purpose of providing VAR 
+Service shall equal the portion of the total uplift to be paid that resource 
+for a day that is attributed to the hour(s) during which the resource is run 
+to provide VAR Service in accordance with Market Rule 1 and the ISO 
+New England Operating Documents. 
+2. 
+The CEP associated with hydro or pumped storage generating units that 
+are producing real power and that have also been brought on-line by the 
+ISO or a Local Control Center to provide VAR Service shall equal the 
+portion of the total uplift to be paid that resource for a day that is 
+attributed to the hour(s) during which the resource is run to provide VAR 
+Service in accordance with Market Rule 1 and the ISO New England 
+Operating Documents. 
+3. 
+Commencing January 1, 2008, Qualified Non-Generator Reactive 
+Resources shall be eligible for payment of the CEP incurred by 
+Qualified Non-Generator Reactive Resources for the purpose of 
+providing VAR Service (pursuant to the authority established within 
+ISO New England Inc. 
+Original Sheet No. 743A 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 - Reactive Supply and Voltage Control from Generation Sources Service 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+written operating protocols developed under Section II.B.4).  The 
+CEP of such Qualified Non-Generator Reactive Resources shall be 
+measured pursuant to procedures established at the time of approval 
+of the equipment type pursuant to Section II.B and filed with the 
+Commission pursuant to the requirements of Section 205 of the 
+Federal Power Act. 
+VI. 
+ALTERNATIVE PAYMENT FOR VAR SERVICE 
+Where a non-generator source of VAR Service (i) responds to identified needs for 
+dynamic reactive power on the New England Transmission System, as identified in the Regional 
+System Plan, and (ii) is confirmed by the ISO as a dynamic reactive power resource that will 
+meet the identified need, and (iii) such non-generator source of VAR Service meets the criteria to 
+be a Qualified Non-Generator Reactive Resource but cannot recover its costs of providing 
+dynamic reactive power under Schedule 2, such non-generator may submit a separate schedule to 
+the ISO OATT to be filed with the Commission pursuant to the requirements of Section 205 of 
+the Federal Power Act for a rate to be paid to allow such resource to recover its costs related to 
+providing VAR Service.  In such case, it shall not be considered a Qualified Non-Generator 
+Reactive Resource under this Schedule 2 and its provision of VAR Service and payment shall be 
+governed solely by such separate schedule filed with the Commission.
+ISO New England Inc. 
+Original Sheet No. 743B 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+SCHEDULE 2 VAR PAYMENT IMPLEMENTATION RULE  
+This rule describes the steps to be taken to calculate the VAR CC Rate on or after 
+January 1, 2008 in accordance with Section V.A. of Schedule 2.  Applicable to that time forward 
+on an annual basis, the Base CC Rate shall be converted into a VAR CC Rate, expressed in the 
+form of $/kVAR-yr, representing the amount to be paid for leading and lagging capability. 
+The following calculations shall be done in December of each year to calculate the VAR 
+CC Rate for the next year of VAR Payments for leading and lagging reactive power capability in 
+the following year. As described below, the VAR CC Rate shall be updated on an annual basis 
+utilizing the most current leading and lagging test results, and it is expected to take three years to 
+test all of the Qualified Reactive Resources in leading mode. 
+1. 
+Calculate the “Current Total Aggregate Lagging VARs”, which shall equal the 
+“Current Net Aggregate Tested Lagging VARs” plus the “Current Net Aggregate 
+Non-Tested Lagging VARs”; 
+Where: 
+a. 
+the Current Net Aggregate Tested Lagging VARs shall equal the total of 
+Net Lagging kVARs for all Schedule 2 Qualified Reactive Resources that 
+have completed a successful lagging VAR test, as reflected in the most 
+current monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the lagging kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its lagging VAR test results adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+lagging VARs test results adjusted down for losses); and
+ISO New England Inc. 
+Original Sheet No. 743C 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+the Current Net Aggregate Non-Tested lagging VARs shall equal the total 
+of net lagging kVARs for all Schedule 2 Qualified Reactive Resources 
+that have not yet completed a successful lagging VAR test, as reflected in 
+the most current monthly VAR Status Report that is posted on the ISO 
+website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the lagging kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its NX-12D (and NX-9B, where needed to calculate generator 
+step-up transformer losses) data at EcoMin adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+lagging VARs NX-12D data at SCC adjusted down for losses). 
+c. 
+Increase and decrease limiters shall be applied to potential increases or 
+decreases in the Current Total Aggregate Lagging VARs as follows: 
+i. 
+Current Total Aggregate Lagging VARs Limiters for Year 1 
+(2008) and Year 3 (2010): 
+• The Current Total Aggregate Lagging VARs value shall not be 
+limited for Year 1 and Year 3. 
+ii. 
+Current Total Aggregate Lagging VARs Limiters for Year 2 
+(2009): 
+• Current Total Aggregate Lagging VARs Increase Limiter for Year 
+2: the calculated Current Total Aggregate Lagging VARs will be 
+limited to no greater than 110% of the Current Total Aggregate 
+Lagging VARs value used in the determination of CCRateadjusted 
+for the prior year (Year 1); and 
+• Current Total Aggregate Lagging VARs Decrease Limiter for Year 
+2: the calculated Current Total Aggregate Lagging VARs will be 
+limited to no less than 90% of the Current Total Aggregate 
+Lagging VARs value used in the determination of CCRateadjusted 
+for the prior year (Year 1). 
+iii. 
+Current Total Aggregate Lagging VARs Limiters for Year 4 
+(2011) and beyond: 
+• Current Total Aggregate Lagging VARs Increase Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Lagging 
+VARs will be limited to no greater than 130% of the Current Total 
+Aggregate Lagging VARs value used in the determination of 
+CCRateadjusted for Year 3; and 
+ISO New England Inc. 
+Original Sheet No. 743D 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+• Current Total Aggregate Lagging VARs Decrease Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Lagging 
+VARs will be limited to no less than 70% of the Current Total 
+Aggregate Lagging VARs value used in the determination of 
+CCRateadjusted for Year 3. 
+2. 
+Calculate the Current Total Aggregate Leading VARs which shall equal the 
+Current Net Aggregate Tested Leading VARs plus the Current Net Aggregate 
+Non-Tested Leading VARs; 
+Where: 
+a. 
+the Current Net Aggregate Tested Leading VARs shall equal the total of 
+Net Leading kVARs for all Schedule 2 Qualified Reactive Resources that 
+have completed a successful Leading VAR Test, as reflected in the most 
+current monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); this value will 
+reflect the Leading kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its leading VAR test results adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+leading VARs test results adjusted up for losses); 
+b. 
+the Current Net Aggregate Non-Tested Leading VARs: shall equal the 
+total of Net Leading kVARs for all Schedule 2 Qualified Reactive 
+Resources that have not yet completed a successful Leading VAR Test, as 
+reflected in the most current monthly VAR Status Report that is posted on 
+the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). This value will 
+reflect the Leading kVARs of Schedule 2 Qualified Reactive Resources as 
+taken from its NX-12D (and NX-9B, where needed to calculate generator 
+step-up transformer losses) data at EcoMin adjusted for losses incurred for 
+such VARs to reach the high side of the step-up transformer (i.e., gross 
+leading VARs NX-12D data at EcoMin adjusted up for losses). 
+c. 
+Current Total Aggregate Leading VARs Limiters 
+i. 
+Current Total Aggregate Leading VARs Limiters for Year 1 and 
+Year 4: 
+• The Current Total Aggregate Leading VARs value shall not be 
+limited for Year 1 (2008) and Year 3 (2010) . 
+ISO New England Inc. 
+Original Sheet No. 743E 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+ii. 
+Current Total Aggregate Leading VARs Limiters for Year 2 
+(2009) : 
+• Current Total Aggregate Leading VARs Increase Limiter for Year 
+2: the calculated Current Total Aggregate Leading VARs will be 
+limited to no greater than 110% of the Current Total Aggregate 
+Leading VARs value used in the determination of CCRateadjusted for 
+the prior year (Year 1); and 
+• Current Total Aggregate Leading VARs Decrease Limiter for Year 
+2: the calculated Current Total Aggregate Leading VARs will be 
+limited to no less than 90% of the Current Total Aggregate 
+Leading VARs value used in the determination of CCRateadjusted for 
+the prior year (Year 1). 
+iii. 
+Current Total Aggregate Leading VARs Limiters for Year 4 and 
+beyond: 
+• Current Total Aggregate Leading VARs Increase Limiter for Year 
+4 (2011) and beyond: the calculated Current Total Aggregate 
+Leading VARs will be limited to no greater than 130% of the 
+Current Total Aggregate Leading VARs value used in the 
+determination of CCRateadjusted for Year 3; and 
+• Current Total Aggregate Leading VARs Decrease Limiter for Year 
+4 and beyond: the calculated Current Total Aggregate Leading 
+VARs will be limited to no less than 70% of the Current Total 
+Aggregate Leading VARs value used in the determination of 
+CCRateadjusted for Year 3. 
+3. 
+Calculate the Adjusted CC Rate (CCRateadjusted): shall equal (the Base CC Ratee * 
+Current Total Aggregate Lagging VARs) / (Current Total Aggregate Lagging 
+VARs + Current Total Aggregate Leading VARs) where the Base CC Rate shall 
+equal $2.32/kVAR-yr unless changed as provided for under Schedule 2. 
+4. 
+VAR CC Rate (“VARCCRate”): shall equal (the Adjusted CC Rate) * (the lesser 
+of 1 or (1.2 * “Forecast Peak Adjusted Reference Load” for the year / the sum of 
+the “Qualified Reactive Resources’ Seasonal Claimed Capability”)); 
+ISO New England Inc. 
+Original Sheet No. 743F 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+Where: 
+a. 
+the “Forecast Peak Adjusted Reference Load” for the year shall equal the 
+amount specified as “Adjusted Reference Load” for the applicable year in 
+Section I.1 - Summaries – Summer from the most current Forecast Report 
+of Capability, Energy, Loads and Transmission (CELT Report) 
+(http://www.iso-ne.com/trans/celt/report/index.html); 
+b. 
+The sum of the “Qualified Reactive Resources’ Seasonal Claimed 
+Capability” shall equal the Qualified Generator Reactive Resources’ 
+Seasonal Claimed Capability plus the Qualified Non-Generator Reactive 
+Resources’ Adjusted Seasonal Claimed Capability; 
+Where: 
+i. 
+the Qualified Generator Reactive Resources’ Seasonal Claimed 
+Capability: shall equal the total of the “Summer Seasonal Claimed 
+Capability” column of all Qualified Generator VAR Resources 
+from the most current VAR Status Report (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html); and 
+ii. 
+the Qualified Non-Generator Reactive Resources’ Adjusted 
+Seasonal Claimed Capability shall equal 2.50 times the total of the 
+“Summer Seasonal Claimed Capability” column of all Qualified 
+non-Generator VAR Resources from the most current VAR Status 
+Report (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). 
+5. 
+Monthly VAR Payment for a Qualified Reactive Resource in a particular month 
+shall equal the (VARCCRate / 12 * (its Monthly Net Lagging VARs for that 
+month + its Monthly Net Leading VARs for that month)), as reflected in the 
+applicable monthly VAR Status Report that is posted on the ISO website 
+(http://www.iso-ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html).  
+a. 
+Monthly Net Lagging VARs:  Qualified Reactive Resource’s Monthly Net 
+Lagging VARs value shall equal its VAR value based on (a) its most 
+recent successful Lagging VAR test or (b) if it has not yet completed such 
+a test, its VAR value at SCC based on its submitted and ISO accepted NX-
+12D and NX-9B data.  The Qualified VAR Resource’s Monthly Net 
+Lagging VARs value shall be reflected in the applicable monthly VAR 
+Status Report that is posted on the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html). 
+ISO New England Inc. 
+Original Sheet No. 743G 
+FERC Electric Tariff No. 3 
+ 
+Open Access Transmission Tariff 
+Section II – Schedule 2 VAR Payment Implementation Rule 
+ 
+ 
+ 
+ 
+ 
+Issued by: 
+Kathleen A. Carrigan, 
+Effective:  March 1, 2007 
+ 
+Senior Vice President and General Counsel 
+Issued on: 
+December 29, 2006 
+DMEAST #5143539 v18 
+b. 
+Monthly Net Leading VARs:  a Qualified Reactive Resource’s Monthly 
+Net Leading VARs value shall equal its VAR value based on (a) its most 
+recent successful Leading VAR test or (b) if it has not yet completed such 
+a test, its VAR value at EcoMin based on its submitted and ISO accepted 
+NX-12D and NX-9B data.  The Qualified Reactive Resource’s Monthly 
+Net Leading VARs value shall be reflected in the applicable monthly VAR 
+Status Report that is posted on the ISO website (http://www.iso-
+ne.com/stlmnts/iso_rto_tariff/schd2/var_status/index.html).
+  
+Attachment 3 
+ 
+Zone
+Generator
+ Annual Reactive 
+Power Service 
+Revenue 
+Requirement 
+ Monthly 
+Reactive Power 
+Service Revenue 
+Requirement 
+Ferc Docket
+Fuel/Turbine
+Claimed 
+Real 
+Power 
+Capability 
+(MW)
+Net MVAR 
+@ 0.9pf
+Effective Net 
+Voltage 
+Support Rate 
+($/MVAR-yr)
+Online 
+Year
+ Fixed 
+Capability 
+Component 
+ Heating 
+Losses 
+Component 
+Fixed 
+Capability 
+Component 
+in $/MVAR-
+yr 
+AE
+Atlantic City Electric Company
+3,712,750
+$         
+309,396
+$           
+Conectiv Energy Supply, Inc.
+1,140,535
+$         
+95,045
+$             
+TXU Pedricktown Cogeneration Company
+263,515
+$            
+21,960
+$             
+APS
+Allegheny Energy Supply Company, LLC
+11,704,576
+$       
+975,381
+$           
+Armstrong Energy Limited Partnership
+1,435,113
+$         
+119,593
+$           
+ER03-229
+Gas Peaker
+600
+291
+4,939
+$          
+Pleasants Energy, LLC
+722,906
+$            
+60,242
+$             
+ER03-451
+Gas Peaker
+300
+145
+4,975
+$          
+Duke Energy Fayette, LLC
+2,312,572
+$         
+192,714
+$           
+ER03-794-002
+Gas Peaker
+620
+300
+7,701
+$          
+Monongahela Power Company
+3,193,690
+$         
+266,141
+$           
+Allegheny Energy Supply Company, LLC
+1,354,022
+$         
+112,835
+$           
+Monongahela Power Company
+403,763
+$            
+33,647
+$             
+BGE
+Constellation Power Source, Inc.
+8,344,846
+$         
+695,404
+$           
+ISG Sparrows Point, Inc.
+319,464
+$            
+26,622
+$             
+ER03-852
+Gas Peaker
+152
+74
+4,340
+$          
+DPL
+Conectiv Energy Supply, Inc.
+3,756,981
+$         
+313,082
+$           
+NRG Power Marketing, Inc.
+1,957,059
+$         
+163,088
+$           
+Commonwealth Chesapeake Company
+1,270,890
+$         
+105,908
+$           
+ER02-2520
+Gas Peaker
+342
+166
+7,673
+$          
+JCPL
+Jersey Central Power & Light Company
+3,009,853
+$         
+250,821
+$           
+Calpine Energy Services, LP (Parlin)
+693,132
+$            
+57,761
+$             
+ER04-889
+Gas CC
+114
+55
+12,554
+$        
+1991
+Ocean Peaking Power, L.L.C.
+952,555
+$            
+79,380
+$             
+ER05-289
+Gas Peaker
+330
+160
+5,960
+$          
+FPL Energy Power Marketing, Inc. NJEA
+515,329
+$            
+42,944
+$             
+ER05-845
+Gas Cogen
+300
+145
+3,547
+$          
+METED
+Metropolitan Edison Company
+2,038,623
+$         
+169,885
+$           
+Reliant Energy Hunterstown, LLC
+2,027,683
+$         
+168,974
+$           
+ER03-1164-000 Gas CC
+830
+402
+5,044
+$          
+2003
+1,749,489
+$  
+278,193
+$   
+4,352
+$       
+Calpine Energy Services, (Ontelaunee)
+1,176,052
+$         
+98,004
+$             
+ER03-624-000
+Gas CC
+573
+278
+4,238
+$          
+2002
+1,105,962
+$  
+70,089
+$     
+3,985
+$       
+PENELEC
+Pennsylvania Electric Company
+2,061,826
+$         
+171,819
+$           
+First Energy Solutions Corp.
+47,432
+$              
+3,953
+$               
+Allegheny Electric Cooperative Inc.
+21,416
+$              
+1,785
+$               
+Handsome Lake Energy, LLC
+370,304
+$            
+30,859
+$             
+ER03-269-000
+Gas Peaker
+250
+121
+3,058
+$          
+Reliant Energy Seward, LLC
+1,142,356
+$         
+95,196
+$             
+ER04-1164
+Coal
+521
+252
+4,527
+$          
+PECO
+Exelon Generation Company, LLC
+8,695,200
+$         
+724,600
+$           
+FPL Energy Power Marketing, Inc.
+393,182
+$            
+32,765
+$             
+Liberty Electric Power, LLC
+2,222,473
+$         
+185,206
+$           
+ER03-1209-000 Gas CC
+521
+252
+8,808
+$          
+2002
+2,042,120
+$  
+180,352
+$   
+8,093
+$       
+Fairless Energy, LLC
+3,146,914
+$         
+262,243
+$           
+ER04-797
+Gas CC
+1,268
+614
+5,124
+$          
+2004
+1,250,696
+$  
+104,216
+$   
+2,037
+$       
+FPL Energy Power Marketing, Inc.
+1,500,000
+$         
+125,000
+$           
+ER05-316-000
+Gas CC
+750
+363
+4,129
+$          
+2005
+CED Rock Springs, LLC
+766,570
+$            
+63,881
+$             
+ER05-288
+Gas Peaker
+355
+172
+4,459
+$          
+Old Dominion Electric Cooperative
+654,639
+$            
+54,553
+$             
+ER05-682
+Gas Peaker
+317
+154
+4,264
+$          
+PPL
+PPL EnergyPlus, LLC
+9,040,000
+$         
+753,333
+$           
+Allegheny Electric Cooperative, Inc.
+898,115
+$            
+74,843
+$             
+Sunbury Generation, L.L.C.
+450,000
+$            
+37,500
+$             
+ER02-2362
+Coal
+389
+188
+2,389
+$          
+WPS Westwood Generation, LLC
+103,950
+$            
+8,663
+$               
+ER02-2361
+Coal
+30
+15
+7,154
+$          
+Safe Harbor Water Power Corporation
+2,149,747
+$         
+179,146
+$           
+ER03-423
+Hydro
+400
+194
+11,097
+$        
+Conectiv Bethlehem, LLC
+2,699,389
+$         
+224,949
+$           
+ER04-231-002
+Gas CC
+885
+429
+6,298
+$          
+2003
+1,783,970
+$  
+310,282
+$   
+4,162
+$       
+Lower Mount Bethel Energy, LLC
+1,086,303
+$         
+90,525
+$             
+ER04-1142
+Gas CC
+600
+291
+3,738
+$          
+2004
+849,298
+$     
+237,005
+$   
+2,923
+$       
+PEPCO
+Mirant Potomac River, LLC
+4,733,477
+$         
+394,456
+$           
+Potomac Power Resources, Inc.
+721,723
+$            
+60,144
+$             
+PSEG
+PSEG Energy Resources & Trade, LLC
+8,587,290
+$         
+715,608
+$           
+Calpine Energy Services, LP (Newark)
+478,818
+$            
+39,901
+$             
+ER04-978
+Gas CC
+56
+27
+17,654
+$        
+1991
+Newmarket Power Company, LLC
+1,778,283
+$         
+148,190
+$           
+ER05-1058
+Gas Peaker
+149
+72
+8,784
+$          
+(Bayonne, Camden & Newark)
+ER05-1059
+Gas Peaker
+146
+71
+8,784
+$          
+ER05-1060
+Gas Peaker
+123
+60
+8,784
+$          
+ComEd
+Exelon Generation
+10,227,259
+$       
+852,272
+$           
+Midwest Generation, LLC
+2,295,784
+$         
+191,315
+$           
+ER04-190
+Coal
+9,287
+4,290
+535
+$             
+University Park Energy, LLC
+543,304
+$            
+45,275
+$             
+ER04-765
+Gas Peaker
+300
+145
+3,739
+$          
+Duke Energy Lee, LLC
+1,500,000
+$         
+125,000
+$           
+ER04-641
+Gas Peaker
+640
+310
+4,839
+$          
+PPL University Park, LLC
+1,504,414
+$         
+125,368
+$           
+ER04-911
+Gas Peaker
+540
+262
+5,752
+$          
+Reliant Energy Aurora, LP
+1,490,000
+$         
+124,167
+$           
+ER04-1066
+Gas Peaker
+873
+423
+3,524
+$          
+AEP
+AEP East Operating Cos.
+26,091,131
+$       
+2,174,261
+$        
+Big Sandy Peaker Plant, LLC
+525,904
+$            
+43,825
+$             
+ER04-1103
+Gas Peaker
+300
+145
+3,620
+$          
+Wolf Hills Energy, LLC
+442,023
+$            
+36,835
+$             
+ER04-1102
+Gas Peaker
+250
+121
+3,651
+$          
+Rolling Hills Generating, L.L.C.
+1,100,000
+$         
+91,667
+$             
+ER04-1098
+Gas Peaker
+800
+387
+2,839
+$          
+Riverside Generating Company, L.L.C.
+1,702,765
+$         
+141,897
+$           
+ER05-328
+Gas Peaker
+820
+397
+4,288
+$          
+Buckeye Power, Inc.
+1,215,129
+$         
+101,261
+$           
+EL05-20
+Coal
+1,066
+516
+2,354
+$          
+Duke Energy Hanging Rock, LLC
+3,429,356
+$         
+285,780
+$           
+ER05-567
+Gas CC
+1,240
+601
+5,710
+$          
+2003
+3,328,957
+$  
+100,398
+$   
+5,543
+$       
+Duke Energy Washington LLC
+1,569,806
+$         
+130,817
+$           
+ER05-623
+Gas CC
+620
+300
+5,228
+$          
+2002
+1,519,992
+$  
+49,813
+$     
+5,062
+$       
+Indiana Municipal Power Agency
+489,001
+$            
+40,750
+$             
+ER05-971
+Gas Peaker
+251
+122
+4,023
+$          
+Twelvepole Creek LLC
+1,457,832
+$         
+121,486
+$           
+ER04-1166
+Gas Peaker
+458
+222
+6,572
+$          
+Dayton
+The Dayton Power and Light Company
+6,692,774
+$         
+557,731
+$           
+Dominion
+Virginia Electric and Power Company
+22,222,702
+$       
+1,851,892
+$        
+Tenaska Virginia Partners, L.P.
+1,385,697
+$         
+115,475
+$           
+ER04-680
+Gas CC
+885
+429
+3,233
+$          
+2004
+1,179,258
+$  
+206,439
+$   
+2,751
+$       
+FPL Energy Power Marketing, (Doswell)
+1,341,384
+$         
+111,782
+$           
+ER05-1119
+Gas CC
+600
+291
+4,616
+$          
+2000
+1,269,111
+$  
+72,272
+$     
+4,367
+$       
+FPL Energy Power Marketing, (Doswell)
+268,440
+$            
+22,370
+$             
+ER05-1119
+Gas CT
+170
+82
+3,260
+$          
+2000
+PJM
+TOTAL
+197,800,726
+$     
+16,483,394
+$      
+MISO Filings
+IP/MIOS
+Dynegy Mid West Generation Inc
+7,584,800
+$         
+632,067
+$           
+ER05-270
+Coal
+4,042
+1,958
+3,874
+$          
+ATSI/MISO
+Calpine Fox Energy Center
+1,352,081
+$         
+112,673
+$           
+ER05-1361-000 Gas CC
+600
+291
+4,653
+$          
+2005
+1,352,081
+$  
+-
+$           
+4,653
+$       
+FE/MISO
+Troy Energy, LLC
+1,498,920
+$         
+124,910
+$           
+ER03-1396-000 Gas Peaker
+620
+300
+4,992
+$          
+ATSI/MISO
+Calpine Riverside Energy Center
+1,205,900
+$         
+100,492
+$           
+ER04-1055
+Gas CC
+603
+292
+4,129
+$          
+2004
+1,074,616
+$  
+131,284
+$   
+3,680
+$       
+ATSI/MISO
+Calpine Rockgen
+622,400
+$            
+51,867
+$             
+ER04-1059
+Gas Peaker
+475
+230
+2,705
+$          
+MISO
+Duke Vermillion
+1,100,000
+$         
+91,667
+$             
+ER05-123
+Gas Peaker
+640
+310
+3,549
+$          
+AMRN/MISO
+Holland Energy
+1,065,200
+$         
+88,767
+$             
+ER04-1075
+Gas CC
+650
+315
+3,384
+$          
+2002
+1,029,527
+$  
+35,673
+$     
+3,270
+$       
+FE/MISO
+Orion Power Midwest
+2,056,255
+$         
+171,355
+$           
+ER04-717
+Coal
+1,310
+634
+3,241
+$          
+IN/MISO
+IMPA Georgetown
+166,176
+$            
+13,848
+$             
+EL05-134
+Gas Peaker
+170
+82
+2,018
+$          
+CMS/MISO
+MI Power Livingston & Kalamazoo
+415,000
+$            
+34,583
+$             
+ER05-341
+Gas Peaker
+200
+97
+4,284
+$          
+KY/MISO
+Renaissance Power
+881,000
+$            
+73,417
+$             
+ER04-992
+Gas Peaker
+680
+329
+2,675
+$          
+COMBINED CYCLE AVERAGES
+4,966
+$          
+4,221
+$       
+ 
+  
+Attachment 4 
+ 
+Schedule 2 Costs from 05/05 through 10/06
+- Corrected after Settlements review
+(18 months)
+Variable
+Fixed
+May-05
+15,903,321.65
+           
+1,034,788.43
+          
+Jun-05
+6,040,456.72
+             
+1,048,417.05
+          
+Jul-05
+2,925,783.61
+             
+1,044,618.74
+          
+Aug-05
+1,159,770.96
+             
+1,029,508.10
+          
+Sep-05               3,600,306.98 
+1,016,535.31
+          
+(12 months)
+Oct-05
+1,931,910.18
+             
+1,016,535.31
+          
+Variable
+Fixed
+Nov-05
+3,000,807.17
+             
+1,016,535.31
+          
+Nov-05
+3,000,807.17
+          
+1,016,535.31
+          
+Dec-05
+1,076,721.74
+             
+1,016,535.31
+          
+Dec-05
+1,076,721.74
+          
+1,016,535.31
+          
+Jan-06
+2,712,756.80
+             
+1,016,535.31
+          
+Jan-06
+2,712,756.80
+          
+1,016,535.31
+          
+Feb-06
+1,814,888.20
+             
+1,016,535.31
+          
+Feb-06
+1,814,888.20
+          
+1,016,535.31
+          
+Mar-06
+1,363,754.76
+             
+1,024,426.83
+          
+Mar-06
+1,363,754.76
+          
+1,024,426.83
+          
+Apr-06
+2,365,682.30
+             
+1,024,426.83
+          
+Apr-06
+2,365,682.30
+          
+1,024,426.83
+          
+May-06
+1,165,467.37
+             
+1,024,426.83
+          
+May-06
+1,165,467.37
+          
+1,024,426.83
+          
+Jun-06
+1,307,725.62
+             
+1,024,426.83
+          
+Jun-06
+1,307,725.62
+          
+1,024,426.83
+          
+Jul-06
+3,202,213.31
+             
+1,022,112.37
+          
+Jul-06
+3,202,213.31
+          
+1,022,112.37
+          
+Aug-06
+3,418,803.33
+             
+1,022,112.37
+          
+Aug-06
+3,418,803.33
+          
+1,022,112.37
+          
+Sep-06
+1,144,950.40
+             
+1,022,112.37
+          
+Sep-06
+1,144,950.40
+          
+1,022,112.37
+          
+Oct-06
+682,167.71
+                
+953,327.15
+             
+Oct-06
+682,167.71
+             
+953,327.15
+             
+18 mo Total
+54,817,488.81
+    
+18,373,915.76
+  
+12 mo Total
+23,255,938.71
+12,183,512.82
+  
+Mo Avg
+3,045,416.05
+      
+1,020,773.10
+    
+Mo Avg
+1,937,994.89
+  
+1,015,292.74
+    
+ Denotes numbers used in 
+Schedule 2 Filing 
+2nd half of 2007 calc
+Fixed
+CSC
+Fixed=X*2.32
+2,260,558.97
+          
+1
+       CSC=75*2.32
+14,500
+   
+    /1.05+CSC
+2,260,558.97
+          
+2
+    
+       *1000/12
+14,500
+   
+2,260,558.97
+          
+3
+    
+14,500
+   
+2,260,558.97
+          
+4
+    
+14,500
+   
+2,277,995.47
+          
+5
+    
+14,500
+   
+2,277,995.47
+          
+6
+    
+14,500
+   
+2,277,995.47
+          
+7
+    
+14,500
+   
+2,277,995.47
+          
+8
+    
+14,500
+   
+2,272,881.62
+          
+9
+    
+14,500
+   
+2,272,881.62
+          
+10
+  
+14,500
+   
+2,272,881.62
+          
+11
+  
+14,500
+   
+estimated
+2,274,500.00
+          
+12
+  
+14,500
+ 
+12 mo Total
+27,247,362.62
+  
+12 mo Total
+174,000
+Mo Avg
+2,270,613.55
+    
+ 
+  
+Attachment 5 
+ 
+  
+New England Governors 
+and Utility Regulatory 
+and Related Agencies      
+ 
+ 
+December 28, 2006 
+ 
+Connecticut 
+ 
+The Honorable M. Jodi Rell  
+ 
+Connecticut Department of Public Utility Control 
+State Capitol  
+ 
+ 
+ 
+10 Franklin Square 
+210 Capitol Ave. 
+ 
+ 
+ 
+New Britain, CT  06051-2605 
+Hartford, CT  06106  
+ 
+ 
+ 
+ 
+Maine 
+ 
+The Honorable John E. Baldacci  
+ 
+Maine Public Utilities Commission 
+One State House Station 
+ 
+ 
+State House, Station 18 
+Rm. 236 
+ 
+ 
+ 
+ 
+242 State Street 
+Augusta, ME  04333-0001 
+ 
+ 
+Augusta, ME  04333-0018 
+ 
+Massachusetts 
+ 
+The Honorable Mitt Romney  
+ 
+Massachusetts Department of Telecommunications 
+Office of the Governor 
+ 
+ 
+and Energy 
+Rm. 360 State House  
+ 
+ 
+One South Station 
+Boston, MA  02133 
+ 
+ 
+ 
+Boston, MA 02110 
+ 
+New Hampshire 
+ 
+The Honorable John H. Lynch    
+ 
+New Hampshire Public Utilities Commission 
+State House 
+ 
+ 
+ 
+ 
+21 South Fruit Street 
+25 Capitol Street 
+ 
+ 
+ 
+Suite 10 
+Concord, NH  03301  
+ 
+ 
+Concord, NH  03301-2429 
+ 
+Rhode Island 
+ 
+The Honorable Donald L. Carcieri 
+ 
+Rhode Island Public Utilities Commission 
+State House Room 115 
+ 
+ 
+89 Jefferson Boulevard 
+Providence, RI  02903 
+ 
+ 
+Warwick, RI  02888 
+ 
+Vermont 
+ 
+The Honorable James H. Douglas 
+ 
+Vermont Public Service Board 
+109 State Street, Pavilion 
+ 
+ 
+112 State Street, Drawer 20 
+Montpelier, VT  05609 
+ 
+ 
+Montpelier, VT  05620-2701 
+  
+ 
+ 
+ 
+New England Governors 
+and Utility Regulatory 
+and Related Agencies      
+ 
+ 
+December 28, 2006 
+ 
+Anne C. George, President 
+New England Conference of 
+  Public Utilities Commissioners, Inc. 
+c/o Connecticut Department of Public 
+  Utility Control 
+10 Franklin Square  
+New Britain, CT  06051-2605 
+ 
+William M. Nugent 
+Executive Director 
+New England Conference of  
+  Public Utilities Commissioners, Inc. 
+500 U.S. Route 1, Suite 21C 
+Yarmouth, ME  04096  
+ 
+Harvey L. Reiter, Esq. 
+Counsel for New England Conference  
+   of Public Utilities Commissioners, Inc. 
+c/o Stinson Morrison Hecker LLP 
+1150 18th Street, NW, Suite 800 
+Washington, DC  20036-3816 
+ 
+Power Planning Committee 
+New England Governors’ Conference, Inc. 
+76 Summer Street, 2nd Floor 
+Boston, MA  02110-1226 
+ 
+ 

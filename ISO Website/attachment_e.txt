@@ -1,0 +1,526 @@
+ 
+ 
+ATTACHMENT E 
+SERVICE AGREEMENTS 
+ 
+ 
+ 
+ 
+ 
+SERVICE AGREEMENT NO. 1 
+ 
+UNEXECUTED 
+MARKET PARTICIPANT SERVICE AGREEMENT 
+ 
+ 
+ 
+ 
+ 
+The entities for whom an unexecuted Market Participant Service Agreement is on file with the Commission 
+(see Docket No. ER05-521-000) are identified in the ISO’s Electric Quarterly Reports (“EQRs”) as having 
+a “contract_service_agreement_id” of “Service Agreement No. 1.”  The EQRs are available for download 
+at http://www.ferc.gov/docs-filing/eqr.asp.  The form of Service Agreement No. 1 immediately follows 
+this page. 
+ 
+ 
+ 
+ 
+ 
+MARKET PARTICIPANT SERVICE AGREEMENT 
+ 
+This MARKET PARTICIPANT SERVICE AGREEMENT is dated this _____ day of _______, _____ and 
+is entered into by and between:  
+ 
+[Name of Market Participant] having its registered and principal place of business located at 
+[Address] (the “Market Participant”);   
+ 
+and   
+ 
+ISO New England Inc., a Delaware corporation having its principal place of business located at 
+One Sullivan Road, Holyoke, MA 01040-2841, and acting as the Regional Transmission 
+Organization for New England (“ISO”).  
+ 
+The Market Participant and the ISO are sometimes hereinafter referred to individually as a “Party” and 
+collectively as the “Parties.”   
+ 
+BACKGROUND  
+ 
+1. 
+The ISO operates the New England Transmission System pursuant to a certain Transmission 
+Operating Agreement dated February 1, 2005, and other agreements entered into with merchant and other 
+transmission owners.  The ISO’s operation of the New England Transmission System is intended to insure 
+the reliability of the New England Transmission System.  Subject to the requirements of bulk power 
+supply reliability, the ISO provides non-discriminatory, open access to the New England Transmission 
+System pursuant to the ISO’s Transmission, Markets and Services Tariff on file with the Federal Energy 
+Regulatory Commission (the “Commission”) (as amended from time to time, the “Tariff”).  
+ 
+2. 
+The ISO operates competitive markets for the purchase and sale of energy, capacity, FTRs, certain 
+demand response services, and certain Ancillary Services.  The ISO also offers other related products, 
+services and transactions pursuant to the Tariff.  The ISO is the Counterparty with respect to transactions 
+involving these markets, products, and services. Accordingly, the ISO seeks to create and sustain open, 
+non-discriminatory, competitive, unbundled markets for energy, capacity, and ancillary services (including 
+Operating Reserves) that operate efficiently consistent with proper standards of reliability and the 
+long-term sustainability of competitive markets.   
+ 
+ 
+ 
+3. 
+The ISO operates purchase programs for certain Ancillary Services that are not procured through 
+competitive markets. The ISO seeks to operate purchase programs for such services at rates that are 
+intended to compensate sellers at not less than the incremental cost of providing such services and to attract 
+and sustain adequate supplies of such services.  
+ 
+4. 
+The ISO seeks to provide transparency with respect to the operation of and the pricing in markets 
+and purchase programs to allow informed participation and encourage ongoing market improvements.  
+ 
+5. 
+The ISO seeks to provide access to competitive markets within the New England Control Area and 
+to neighboring regions.  
+ 
+6. 
+The Market Participant made an application to the ISO to be eligible to participate in the markets 
+and purchase programs for energy, capacity ancillary services and related products and services 
+administered by the ISO.  
+ 
+7. 
+The ISO has accepted the Market Participant’s application.  
+ 
+8. 
+The Market Participant and the ISO wish to set forth the terms and conditions upon which the ISO 
+will provide services and the Market Participant may participate in the markets and programs administered 
+by the ISO.  
+ 
+AGREEMENTS 
+ 
+In consideration of the mutual covenants set forth herein, the Parties, intending to be legally bound, agree as 
+follows: 
+ 
+ARTICLE 1 
+DEFINITIONS, INTERPRETATIONS AND OBJECTIVES 
+ 
+1.1 
+Definitions.  Capitalized terms not defined herein shall have the meanings given them in the Tariff  
+ 
+1.2 
+Interpretation.  In this Agreement, unless otherwise indicated or otherwise required by the 
+context, the following rules of interpretation shall apply:  
+ 
+ 
+ 
+(a) 
+Reference to and the definition of any document or specific section thereof (including this 
+Agreement and the ISO New England Operating Documents) shall be deemed a reference to such document 
+as it may be amended, supplemented, revised or modified from time to time and any document that is a 
+successor thereto.  Nothing herein shall limit the ISO’s right to modify the ISO New England Operating 
+Documents as expressly provided in the Tariff and the laws and regulations governing the adoption and 
+amendment of the ISO New England Operating Documents. 
+ 
+(b) 
+The article and section headings and other captions in this Agreement are for the purpose of 
+reference only and do not limit or affect its meaning.  
+ 
+(c) 
+Defined terms in the singular shall include the plural and vice versa, and the masculine, 
+feminine or neuter gender shall include all genders.  
+ 
+(d) 
+The term “including” when used herein shall be by the way of example only and shall not 
+be considered in any way a limitation.  
+ 
+(e) 
+Unless the context otherwise requires, any reference to a Party includes a reference to its 
+permitted successors and assigns.  
+ 
+1.3 
+Mission of the ISO.  The mission of the ISO is (through means including but not limited to 
+planning, central dispatching, coordinated maintenance of electric supply and demand-side resources and 
+transmission facilities, obtaining emergency power for Market Participants from other Control Areas, 
+system restoration (when required), the development of market rules, the provision of an open access 
+regional transmission tariff and the provision of a means for effective coordination with other control areas 
+and utilities situated in the United States and Canada):  
+ 
+(a) 
+to assure the bulk power supply within the New England Control Area conforms to proper 
+standards of reliability;  
+ 
+(b) 
+to create and sustain open, non-discriminatory, competitive, unbundled markets for energy, 
+capacity, and ancillary services (including Operating Reserves) that are (i) economically efficient and 
+balanced between buyers and sellers, and (ii) provide an opportunity for a participant to receive 
+compensation through the market for a service it provides, in a manner consistent with proper standards of 
+ 
+ 
+reliability and the long-term sustainability of competitive markets;  
+ 
+(c) 
+to provide market rules that (i) promote a market based on voluntary participation, (ii) 
+allow market participants to manage the risks involved in offering and purchasing services, and (iii) 
+compensate at fair value (considering both benefits and risks) any required service, subject to FERC’s 
+jurisdiction and review; 
+ 
+(d) 
+to allow informed participation and encourage ongoing market improvements;  
+ 
+(e) 
+to provide transparency with respect to the operation of and the  pricing in markets and 
+purchase programs;  
+ 
+(f) 
+to provide access to competitive markets within the New England Control Area and to 
+neighboring regions; and  
+ 
+(g) 
+to provide for an equitable allocation of costs, benefits and responsibilities among market 
+participants.  
+ 
+In fulfilling this mission and consistent with the preceding principles, the ISO shall strive to perform all its 
+functions and services in a cost-effective manner, for the benefit of all those served by the ISO.  To assist 
+stakeholders in evaluating any major ISO initiative that affects market design, system planning or operation 
+of the New England bulk power system, the ISO will provide quantitative and qualitative information on 
+the need for and the impacts, including costs, of the initiative. 
+ 
+ARTICLE 2 
+TERM AND TERMINATION 
+ 
+2.1 
+Effective Date.  This Agreement shall be effective February 1, 2005.  This Agreement shall 
+remain in full force and effect until terminated pursuant to Section 2.2 or 2.3 of this Agreement.  
+ 
+2.2 
+Termination by the ISO.  The ISO may terminate this Agreement, upon the Market Participant 
+committing any material default under this Agreement as provided in the ISO New England Operating 
+Documents.  With respect to any termination pursuant to this Section, the ISO must file a notice of 
+termination with the Commission.  This Agreement shall terminate upon acceptance by the Commission of 
+ 
+ 
+such notice of termination.  
+ 
+2.3 
+Termination by Market Participant.  In the event that the Market Participant no longer wishes 
+to participate in the New England Markets or provide or receive services through the New England 
+Transmission System with respect to any Asset then subject to this Agreement it may terminate this 
+Agreement by complying with applicable provisions of the ISO New England Operating Documents, 
+including Sections 3.9 and 3.10 of Section I of the Tariff, as well as all other legal or regulatory 
+requirements applicable to the Market Participant.  
+ 
+2.4 
+Other Remedies.  Nothing in Section 2.2 shall limit the remedies of the ISO under applicable law 
+or the ISO New England Operating Documents, Including the right as applicable, to suspend the rights of 
+one or more Assets to submit Bids, Schedules, Supply Offers or supply offers for Ancillary Services in the 
+New England Markets or otherwise provide or receive services through the New England Transmission 
+System. 
+ 
+2.5 
+Survival of Obligations.  Notwithstanding any termination of this Agreement, any accrued 
+obligations under this Agreement or the ISO New England Operating Documents, including obligations for 
+the payment of money or obligations to provide information regarding operations or activities conducted 
+prior to termination, shall survive the termination of this Agreement.   
+ 
+ARTICLE 3 
+GENERAL TERMS AND CONDITIONS 
+  
+3.1 
+ISO Services.    
+ 
+(a) 
+The ISO agrees to operate the New England Control Area, provide transmission service 
+through the New England Transmission System, and administer the New England Markets all in 
+accordance with the ISO New England Operating Documents.  
+ 
+(b) 
+The ISO will monitor the New England Markets in accordance with the ISO New England 
+Operating Documents.  
+ 
+(c) 
+The ISO will maintain procedures for interconnection of Assets with the New England 
+Transmission System in accordance with the New England Operating Documents.  
+ 
+ 
+ 
+(d) 
+The ISO does not provide Local Service.  Local Service is acquired through a separate 
+transmission service agreement with the applicable PTO.    
+ 
+3.2 
+Service Under the Tariff.  The Market Participant accepts service under the Tariff as a 
+participant in the New England Markets.  Market Participant agrees to be bound by the terms of the ISO 
+New England Operating Documents and to make timely payment of all amounts due under the ISO New 
+England Operating Documents.  
+ 
+3.3 
+Registration of Assets. 
+ 
+(a) 
+The Market Participant must register each Asset of which it is the Owner that seeks 
+eligibility to sell or purchase services in the New England Markets by complying with the requirements of 
+the ISO New England Operating Documents including, as applicable, registration information required by 
+Section 12.2 of ISO New England Manual 28, approval of an interconnection application required by 
+Section I, Section 3.9 of the Tariff, compliance with the metering requirements of ISO New England 
+Operating Procedure No. 18, and providing the electrical operating information required by ISO New 
+England Operating Procedure No. 14.  Market Participant must also register its contractual interest in any 
+Load Asset which it has transferred to a new Owner without a corresponding transfer of legal title to the 
+Load Asset (whether or not the Market Participant is the holder of the legal title).  
+ 
+(b) 
+The ISO shall be entitled to inspect and verify all registration information, including 
+technical specifications, provided pursuant to Section 3.3.  
+ 
+(c) 
+The Market Participant shall provide written notice to the ISO of any proposed changes to 
+the registration information as required by the ISO New England Operating Documents.  
+ 
+(d) 
+The Market Participant may withdraw Assets from the provision of particular services in 
+accordance with the procedures set forth in the ISO New England Operating Documents.  
+ 
+3.4 
+Market Participant Operating Responsibilities.  The Market Participant shall direct, physically 
+operate, repair and maintain all metering and interconnection equipment under its control and all Assets 
+providing services through the New England Transmission System (a) consistent with New England 
+Transmission System reliability; (b) in accordance with (i) this Agreement, (ii) all applicable provisions of 
+ 
+ 
+the ISO New England Operating Documents and (iii) all applicable reliability guidelines, policies, 
+standards, rules, regulations, orders, license requirements and all other requirements of NERC, NPCC, 
+other applicable reliability organizations’ reliability rules and all applicable requirements of federal or state 
+laws or regulatory authorities; and (c) in such a manner as to maintain safe operations, including the 
+enforcement of rules and procedures to ensure the safety of personnel.  
+ 
+3.5 
+Reserved Rights. 
+ 
+(a) 
+Except for obligations and limitations specifically imposed by the ISO New England 
+Operating Documents, the Market Participant retains all rights that it otherwise has incident to its 
+ownership of and legal and equitable title to, its Assets, including all land and land rights and the right to 
+build, acquire, sell, lease, merge, dispose of, retire, use as security, or otherwise transfer or convey all or any 
+part of its Assets.  
+ 
+(b) 
+The Market Participant has the right to adopt and implement procedures, consistent with 
+Good Utility Practice, and to take such actions as it deems necessary to protect its facilities from physical 
+damage or to prevent injury or damage to persons or property.  
+ 
+(c) 
+Nothing contained in this agreement is intended to alter or waive any rights that the ISO or 
+the Market Participant may have to make filings with the Commission under the Federal Power Act.  
+ 
+3.6 
+Participants Agreement.  By entering into this Agreement, the Market Participant agrees to be 
+bound by the Participants Agreement, through NEPOOL or individually, as the case may be, and to pay the 
+fees and charges specified therein.  The Participants Agreement provides processes for stakeholder input, 
+individually and collectively, into revisions of certain provisions of ISO New England Operating 
+Documents and the planning process for the New England Transmission System.  
+ 
+ARTICLE 4 
+PROVISIONS RELATING TO BUYERS AND SELLERS 
+  
+4.1 
+Purchases and Sales.  Market Participant’s purchases from, and sales to, the ISO will be made 
+pursuant to the terms of the ISO New England Operating Documents.  
+ 
+4.2 
+Participation in Markets and Programs.  In connection with submitting schedules, demand 
+ 
+ 
+bids, and supply offers or withdrawing energy from the system in Real-Time or otherwise offering to 
+provide or providing services, or offering to buy or receive services,  through the New England Markets, 
+the Market Participant agrees at all times to comply with the ISO New England Operating Documents.  
+The Market Participant hereby warrants to the ISO that, unless the ISO New England Operating Documents 
+specifically permit supply offers unrelated to physical parameters, whenever it submits a Supply Offer for 
+Energy or supply offer for Ancillary Services or a demand response service, it has the capability and the 
+intention to provide that service in accordance with the ISO New England Operating Documents and it will 
+comply with ISO dispatch instructions for the provisions of service in accordance with the ISO New 
+England Operating Documents. 
+ 
+4.3 
+Rate Authority.  Market Participant warrants that, at any time it has registered one or more 
+Assets, it either (a) has on file with the Commission for each such Asset market-based rate authority or 
+other Commission-approved basis for setting prices for services offered by means of the New England 
+Transmission System by such Asset or (b) is exempt from the requirement to have rates for services on file 
+with the Commission.  
+ 
+4.4 
+Central Dispatch.  The Market Participant shall, to the extent scheduled or otherwise obligated 
+under the ISO New England Operating Documents, either individually or through the Second Restated 
+NEPOOL Agreement, as provided therein, subject each of the Assets it owns or operates to central dispatch 
+by the ISO, provided, however, that each Market Participant shall at all times be the sole judge as to 
+whether or not and to what extent safety requires that at any time any of such Assets will be operated at less 
+than their full capacity or not at all.  
+ 
+4.5 
+Disputes.  All disputes regarding amounts payable for services purchased will be handled in 
+accordance with the ISO New England Operating Documents. 
+ 
+ARTICLE 5 
+[RESERVED] 
+ 
+ 
+ARTICLE 6 
+FORCE MAJEURE; INDEMNIFICATION AND LIABILITIES 
+ 
+6.1 
+Force Majeure Event.  An event of Force Majeure shall be as set forth in the Tariff.  
+ 
+ 
+ 
+6.2 
+Reasonable Efforts to Perform and Notice.  When the performance of either Party under this 
+Agreement is hindered by an event of Force Majeure, that Party shall make all reasonable efforts to perform 
+its obligations under this Agreement, and shall promptly notify the other Party and any affected 
+Transmission Customers, if appropriate, of the commencement and end of each event of Force Majeure in 
+accordance with the ISO New England Operating Documents.  
+ 
+6.3 
+Indemnification and Liabilities.  The indemnification responsibilities of the Parties, to the extent 
+permitted by law, shall be as set forth in the Tariff.   
+ 
+ARTICLE 7 
+MISCELLANEOUS PROVISIONS 
+ 
+7.1 
+Commission Filing.  The ISO shall file this Agreement with, or electronically report this 
+Agreement to, as applicable, the Commission.  
+ 
+7.2 
+Notices.  Unless otherwise expressly specified or permitted by the terms hereof, all 
+communications and notices provided for herein shall be in writing and any such communication or notice 
+shall become effective (a) upon personal delivery thereof, including by overnight mail or courier service, 
+(b) in the case of notice by United States mail, certified or registered, postage prepaid, return receipt 
+requested, upon receipt thereof, or (c) in the case of notice by facsimile, upon receipt thereof; provided that 
+such transmission is promptly confirmed by either of the methods set forth in clauses (a) or (b) above, in 
+each case addressed to each Party hereto at its address(es) set forth below or, at such other address(es) as 
+such Party may from time to time designate by written notice to the other Party hereto; further provided that 
+a notice given in connection with this Section 7.2 but received on a day other than a business day, or after 
+business hours in the situs of receipt, will be deemed to be received on the next business day: 
+ 
+ 
+MARKET PARTICIPANT: 
+ 
+ 
+ISO New England Inc.: 
+ 
+ 
+[Name, Address, Tel., Fax of  
+[Name, Address, Tel., Fax of ISO 
+Market Participant Representative]   
+Representative]  
+ 
+ 
+7.3 
+Other Agreements.  In the event of a conflict between this Agreement and other agreements with 
+ 
+ 
+respect to subjects addressed in this Agreement, this Agreement shall govern.   
+ 
+7.4 
+Waiver.  Any term or condition of this Agreement may be waived at any time by the Party that is 
+entitled to the benefit thereof, but no such waiver shall be effective unless set forth in a written instrument 
+duly executed by or on behalf of the Party waiving such term or condition.  No waiver by any Party of any 
+term or condition of this Agreement, in any one or more instances, shall be deemed to be or construed as a 
+waiver of the same or any other term or condition of this Agreement on any future occasion.  All remedies, 
+either under this Agreement or by applicable law or otherwise afforded, shall be cumulative and not 
+alternative.  
+ 
+7.5 
+Amendment.  Except as otherwise specifically provided herein, this Agreement shall not be 
+subject to modification or amendment unless agreed to in writing by both Parties hereto.  Notwithstanding 
+the foregoing, nothing in this Agreement shall restrict in any way the rights of either Party to submit an 
+application under Section 206 of the Federal Power Act for revisions to this Agreement.  
+ 
+The Parties acknowledge that this Agreement is entered into subject to the approval and continuing 
+jurisdiction of the Commission.  The ISO will notify the Market Participant of any changes to this 
+Agreement required or approved by the Commission.  Any such changes will take effect at the times and in 
+the manner specified by the Commission in its order requiring or approving such changes.  The Market 
+Participant may, subject to the procedures referenced in Section 2.3, terminate this Agreement rather than 
+accept any such changes.  
+ 
+7.6 
+No Third Party Beneficiaries.  It is not the intention of this Agreement or of the Parties to confer 
+a third party beneficiary status or rights of action upon any Person or entity whatsoever other than the 
+Parties and nothing contained herein, either express or implied, shall be construed to confer upon any 
+Person or entity other than the Parties any rights of action or remedies either under this Agreement or in any 
+manner whatsoever.  
+ 
+7.7 
+No Assignment..  Neither this Agreement nor any right, interest or obligation hereunder may be 
+assigned by a Party (including by operation of law) without the prior written consent of each other Party in 
+its sole discretion and any attempt at assignment in contravention of this Section 7.7 shall be void. 
+ 
+7.8 
+Governing Law.  This Agreement shall be governed by and construed in accordance with the 
+laws of the State of Delaware, including all matters of construction, validity and performance without 
+ 
+ 
+regard to the conflicts-of-laws provisions thereof.  
+ 
+7.9 
+Consent to Service of Process.  Each of the Parties hereby consents to service of process by 
+registered mail, Federal Express or similar courier at the address to which notices to it are to be given, it 
+being agreed that service in such manner shall constitute valid service upon such party or its respective 
+successors or assigns in connection with any such action or proceeding; provided, however, that nothing in 
+this Section 7.9 shall affect the right of any such Parties or their respective successors and permitted assigns 
+to serve legal process in any other manner permitted by applicable law or affect the right of any such Parties 
+or their respective successors and assigns to bring any action or proceeding against any other one of such 
+Parties or its respective property in the courts of other jurisdictions.  
+ 
+7.10 
+Dispute Resolution.  The Parties shall resolve their disputes relating to this Agreement utilizing 
+the dispute resolution provisions of the Tariff.  
+ 
+7.11 
+Invalid Provisions.  If any provision of this Agreement is held to be illegal, invalid or 
+unenforceable under any present or future law, and if the rights or obligations of any Party under this 
+Agreement shall not be materially and adversely affected thereby, (a) such provision shall be fully 
+severable, (b) this Agreement shall be construed and enforced as if such illegal, invalid or unenforceable 
+provision had never comprised a part hereof, (c) the remaining provisions of this Agreement shall remain in 
+full force and effect and shall not be affected by the illegal, invalid or unenforceable provision or by its 
+severance herefrom, and (d) the court holding such provision to be illegal, invalid or unenforceable may in 
+lieu of such provision add as a part of this Agreement a legal, valid and enforceable provision as similar in 
+terms to such illegal, invalid or unenforceable provision as it deems appropriate.  
+ 
+7.11 
+Relationship of the Parties.  Nothing in this Agreement is intended to create a partnership, joint 
+venture or other joint legal entity making either Party jointly or severally liable for the acts or omissions of 
+the other Party. 
+ 
+7.12 
+Confidentiality.  Confidential information acquired by either Party pursuant to this Agreement 
+shall be governed by the ISO New England Operating Documents.  
+ 
+7.13 
+Counterparts.  This Agreement may be executed in any number of counterparts, each of which 
+shall be deemed an original, but all of which together shall constitute but one and the same instrument.  
+The Parties hereto agree that any document or signature delivered by facsimile transmission shall be 
+ 
+ 
+deemed an original executed document for all purposes hereof.  
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed on behalf of each 
+by and through their authorized representatives as of the date hereinabove written.  
+ 
+Market Participant: 
+The ISO: 
+ 
+[NAME OF MARKET PARTICIPANT] 
+ISO New England Inc. 
+ 
+By: _____________________________ 
+By: ____________________________ 
+Name: 
+Name: 
+Title: 
+Title: 
+Date: 
+Date: 
+[for Munis: Town of __________________, 
+Acting by and through its Municipal Light 
+Department as it is a member of NEPOOL] 
+ 
+ 
+ 
+ 
+ 
+ 

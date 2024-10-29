@@ -1,0 +1,1928 @@
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+EXHIBIT ID 
+ISO NEW ENGLAND BILLING POLICY 
+ 
+Table of Contents 
+ 
+SECTION 1 – OVERVIEW 
+SECTION 2 – TIMING AND CONTENT OF STATEMENTS  
+SECTION 3 – PAYMENT PROCEDURES 
+SECTION 4 – LATE PAYMENT CHARGES; LATE PAYMENT ACCOUNTS  
+SECTION 5 – SHORTFALL FUNDING ARRANGEMENT; PAYMENT DEFAULT SHORTFALL  
+ 
+FUND 
+SECTION 6 – BILLING DISPUTE PROCEDURES 
+SECTION 7 – WEEKLY BILLING PRINCIPLES FOR NON-HOURLY CHARGES  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ 
+EXHIBIT ID ISO NEW ENGLAND BILLING POLICY 
+ 
+SECTION 1 – OVERVIEW  
+ 
+Section 1.1 – Scope. The objective of this ISO New England Billing Policy is to define the billing 
+and payment procedures to be utilized in administering charges and payments due under the 
+Transmission, Markets and Services Tariff and the ISO Participants Agreement, in each case as 
+amended, modified, supplemented and restated from time to time (collectively, the “Governing 
+Documents”).  Capitalized terms used but not defined in the ISO New England Billing Policy 
+shall have the meanings specified in Section I.  The ISO New England Billing Policy applies to 
+the ISO, the Market Participants, Non-Market Participant Transmission Customers, PTOs, and 
+Market Participants that transact only in the FTR Auction (“FTR-Only Customers”) (referred to 
+herein collectively as the “Covered Entities” and individually as a “Covered Entity”) for billing 
+and payments procedures for  amounts due under the Governing Documents, including without 
+limitation those procedures related to the New England Markets. As reflected and specified in 
+Section 3 hereof, the ISO’s obligation to make Payments (as defined below) is contingent on its 
+receipt of sufficient aggregate Charges (as defined below) (or in cases of defaults in Covered 
+Entities’ payments of Charges, on the ISO’s drawdowns under the ISO New England Financial 
+Assurance Policy or recovery using the mechanisms specified in Section 3, 4 and 5 hereof).  
+ 
+Section 1.2 – Financial Transaction Conventions. The following conventions have been adopted  
+in defining sums of money to be paid or received under the ISO New England Billing Policy:  
+ 
+a)  
+The term “Charge” refers to a sum of money due from a Covered Entity to the 
+ISO, either in its individual capacity or as billing and collection agent for 
+NEPOOL pursuant to the Participants Agreement.  
+ 
+b)  
+The term “Payment” refers to a sum of money due to a Covered Entity from the 
+ISO.  Amounts due to and from the ISO include amounts collected and paid by 
+the ISO as billing and collection agent for NEPOOL pursuant to the Participants 
+Agreement.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+c)  
+Where a Covered Entity’s total Charges exceed its total Payments for all amounts 
+being billed together in a billing period, the ISO shall issue an “Invoice” for the 
+net Charge owed by such Covered Entity.  
+ 
+d) 
+Where a Covered Entity’s total Payments exceed its total Charges for all amounts 
+being billed together in a billing period, the ISO shall issue a “Remittance 
+Advice” for the net Payment owed to the Covered Entity. Invoices and 
+Remittance Advices are collectively referred to herein as “Statements.”  
+ 
+Section 1.3 – General Process. Except for special billings, as described in Section 1.4 below, the 
+billing process is performed (i) twice weekly for each complete-day settlement amount for the 
+hourly charges and payments for Real-Time Energy and Day-Ahead Energy and for each 
+complete-day settlement amount for the hourly charges and payments for Real-Time Operating 
+Reserve, Forward Reserves, Regulation service, Emergency Sales, Emergency Purchases, Net 
+Commitment Period Compensation, daily Forward Capacity Market charges and payments 
+(“Daily FCM Charges”), and Inventoried Energy Program charges and payments under Section 
+III, Appendix K of the ISO Transmission, Markets and Services Tariff (all such charges and 
+payments described in this clause (i) being referred to collectively as the “Hourly Charges”); (ii) 
+monthly for all other charges and payments, including without limitation charges relating to the 
+monthly markets, the monthly Forward Capacity Market (exclusive of settlements included in the 
+Hourly Charges) and other ancillary services, Participant Expenses, charges under Section IV of 
+the ISO Transmission, Markets and Services Tariff, monthly meter adjustments, Qualification 
+Process Cost Reimbursement Deposits (including the annual true-up of those Qualification 
+Process Cost Reimbursement Deposits), state sales tax and related charges, any pass-through 
+charges where the ISO acts as agent (including communications related charges, Open Access 
+Same-Time Information System related charges, and fees related to the Shortfall Funding 
+Arrangement), and charges under the OATT (other than charges arising under Schedules 1, 8, 
+and 9 to the OATT, which charges are addressed in clause (iii) below) (all such charges and 
+payments described in this clause (ii) being referred to collectively as (“Non-Hourly Charges” 
+and, together with Hourly Charges, as “ISO Charges”), except in the case of Covered Entities 
+who have requested and received a weekly payment arrangement for Non-Hourly Charges under 
+the ISO New England Financial Assurance Policy that is Exhibit IA to Section I of the ISO 
+Transmission, Markets and Services Tariff (the “ISO New England Financial Assurance Policy”); 
+and (iii) monthly for all charges and payments under Schedules 1, 8 and 9 to the OATT (all such 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+charges and payments described in this clause (iii) being referred to collectively as “Transmission 
+Charges”).  There are two major steps in the billing process:  
+ 
+a)  
+Statement Issuance. The ISO will issue an Invoice or Remittance Advice 
+showing the net amounts due from or owed to a Covered Entity.  This Statement 
+is determined from the preliminary statements of the New England Markets, 
+applicable the ISO Charges and/or Transmission Charges due under the 
+Governing Documents (including amounts due under the ISO New England 
+Financial Assurance Policy), as well as applicable adjustments.    Prior to January 
+1 of any calendar year, the ISO will post or make available a list of the dates in 
+the new calendar year on which Statements will be issued, due and paid.  Billing 
+and payment holidays will be the same as the ISO’s settlement holidays, as listed 
+on the ISO’s website from time to time.  
+ 
+b)  
+Electronic Funds Transfer (“EFT”). EFTs related to Invoices and Remittance 
+Advices are performed in a two-step process, as described below, in which all 
+Invoices are paid first and all Remittance Advices are paid later.  
+ 
+Section 1.4  – Special Billings. In addition to the regular billing process described above, the ISO 
+will issue special, extraordinary Statements as and when required under the Governing 
+Documents or in order to adjust for special circumstances.  Such Statements shall be payable in 
+accordance with the instructions set forth therein.  
+ 
+Section 1.5  – Conflicts with Governing Documents. Except as set forth herein, to the extent any 
+provision hereof conflicts with any provision of any Governing Document, the provision in the 
+Governing Document shall govern.  
+ 
+SECTION 2 - TIMING AND CONTENT OF STATEMENTS.  
+ 
+Section 2.1  –  Statements for Hourly Charges. On each Monday and each Wednesday or on the 
+following Business Day if such Monday or Wednesday is not a Business Day, the ISO shall 
+provide electronically to each Covered Entity a Statement showing all complete-day settlement 
+amounts for each of the Hourly Charges incurred and not reflected on a previously issued 
+Statement.  Each such Statement will cover only days with complete settled data.  Accordingly, 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+some Statements may have fewer days of settled data for certain Hourly Charges if fewer days 
+have been settled for those Hourly Charges on the morning of the day that such Statements are 
+issued; a following Statement may have more days of settled data for those Hourly Charges when 
+it becomes possible to catch up on the settled data.  Statements will include contiguous month-to-
+month hourly market billing data and will have separate line items for any hourly market data that 
+may cross calendar months.  For example, if a Statement’s billing period includes May 30 
+through June 2, and all of those days are fully settled, the June 8 Statement would have one line 
+item for the period May 30 to May 31 and one line item for the period June 1 to June 2. The Job 
+Aid on the ISO web site will be updated weekly for any information necessary to be distributed 
+through that medium.  
+ 
+Section 2.2  – Monthly Statements for Non-Hourly Charges. The first Statement issued on a 
+Monday after the ninth of a calendar month will include both the Hourly Charges for the relevant 
+billing period and Non-Hourly Charges for the immediately preceding calendar month 
+(hereinafter sometimes referred to as a “Monthly Statement”).  Resettlements determined in 
+accordance with the procedures set forth in Market Rule 1 will be included in the monthly 
+Statement for Non-Hourly Charges.  
+ 
+Section 2.3  –  Statements for Weekly Billing Non-Hourly Charges. The ISO shall implement any 
+weekly billing arrangements for Non-Hourly Charges effected under the ISO New England 
+Financial Assurance Policy in accordance therewith and with the procedures set forth in Section 7 
+below.  
+ 
+Section 2.4  – Contents of Statements. Each Statement for Hourly and Non-Hourly Charges will 
+include all of the following line items that are applicable to the Covered Entity receiving such 
+Statement for the period to which such Statement relates:  
+ 
+a)  
+Invoice or Remittance Advice Amount. The net amount of all Charges and 
+Payments owed by or due to a Covered Entity for the relevant Statement.  The 
+ISO shall issue an Invoice where the Covered Entity owes monies.  The ISO shall 
+issue a Remittance Advice where the Covered Entity is owed monies.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+b)  
+OATT Charges and Payments. The Charges owed by and the Payments owed to 
+the Covered Entity under the OATT other than Transmission Charges, which are 
+billed separately under Section 2.5 below.  
+ 
+c)  
+ISO Self-Funding Charges. The Charges owed by the Covered Entity under 
+Section IV of the Transmission, Markets and Services Tariff, categorized by the 
+section or schedule under which such Charges arise.  
+ 
+d)  
+Markets Charges and Payments. The Hourly Charges owed by and the Payments 
+for Hourly Charges owed to the Covered Entity as a result of transactions in each 
+of the New England Markets administered by the ISO under Section III of the 
+Transmission, Markets and Services Tariff.  
+ 
+e)  
+Monthly Forward Capacity Market Charges and Payments.  The Non-Hourly 
+Charges owed by and the Payments for Non-Hourly Charges owed to the 
+Covered Entity as a result of Capacity Performance Payments and other 
+transactions in the Forward Capacity Market.  
+ 
+f)  
+Participant Expenses. As defined in the Participants Agreement, the Covered 
+Entity’s share of costs and expenses that are incurred pursuant to authorization of 
+the Participants Committee and are not considered costs and expenses of ISO.  
+ 
+g)  
+[Reserved for Future Use]  
+ 
+h)  
+Other Amounts due under the Participants Agreement. The Charges owed by or 
+the Payments owed to the Covered Entity under the Participants Agreement to 
+the extent that those amounts are not included in items (b)-(g) above.  
+ 
+i)  
+Other Non-Hourly Charges, Payments or Adjustments. Any other Non-Hourly 
+Charges, Payments for Non-Hourly Charges, or adjustments owed by or to the 
+Covered Entity that are not included in items (b)-(h) above.  These items may be 
+due to retroactive billing adjustments, late payment fees, penalties or other items 
+collectible under the Governing Documents.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+j)  
+Billing Periods. The billing period (from and to dates) covered for each line item 
+on the Statement.  The billing periods for the various line items are not 
+necessarily the same because of differences in timing of settlements and because 
+of retroactive adjustments.  
+ 
+k) 
+Payment Due Date and Time. If the Statement is an Invoice, the date and time on 
+which the net amount due is to be received by the ISO.   
+ 
+l) 
+Wire Transfer Instructions. Details including the account number, bank name, 
+routing number and electronic transfer instructions which, in the case of an 
+Invoice, will be for the ISO account to which ISO Charges owed by the Covered 
+Entity are to be paid or, in the case of a Remittance Advice, will be for the 
+Covered Entity’s account to which the ISO shall remit Payments for ISO Charges 
+owed to that Covered Entity (as previously provided to the ISO by such Covered 
+Entity).   
+ 
+Section 2.5  – Monthly Statements for Transmission Charges.  On the same date when each 
+Monthly Statement is issued, the ISO shall provide electronically to each Covered Entity owing 
+or owed any Transmission Charges for the preceding month a Statement (which may be 
+combined with that Monthly Statement) showing all of the Transmission Charges for that 
+Covered Entity for that preceding month (hereinafter sometimes referred to as a “Transmission 
+Statement”).  Any resettlements of Transmission Charges will also be included on the 
+Transmission Statement.  Each Transmission Statement will also include: (i) the billing month 
+covered by the Transmission Statement; (ii) if the Transmission Statement is an Invoice, the date 
+and time on which the net amount due is to be received by the ISO; and (iii) details including the 
+account number, bank name, routing number and electronic transfer instructions which, in the 
+case of an Invoice, will be for the ISO account to which Transmission Charges owed by the 
+Covered Entity are to be paid or, in the case of a Remittance Advice, will be for the Covered 
+Entity’s account to which the ISO shall remit Payments for Transmission Charges owed to that 
+Covered Entity (as previously provided to the ISO by such Covered Entity). 
+ 
+Section 2.6  – Certain Subsequent Adjustments to Previously Issued Statements.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+a) 
+Adjustments Requested by Covered Entities.  Covered Entities supplying 
+Regional Network Load and other input data to the ISO for use by the ISO in 
+developing Statements shall use reasonable care to assure that the data supplied is 
+complete and accurate.  Should a Covered Entity supplying input data 
+subsequently determine that the data supplied was incorrect, that Covered Entity 
+shall notify the ISO promptly of the error and submit corrected data as soon as 
+practicable.  All errors in input data for a calendar month shall be corrected in 
+one submission.  If the error is detected and corrected data is provided within the 
+time frames set forth below, the ISO will issue corrected Statements to reflect the 
+newly supplied data. 
+ 
+ 
+ 
+ 
+Type of Adjustment 
+Corrected Data Must be Submitted By 
+Adjustments to Monthly Regional Network Load 
+Submissions 
+20th day of the fourth (4th) month after the Regional 
+Network Load Month 
+Adjustments to Annual Revenue Requirements 
+Submissions 
+Annually during the rate development process, which is 
+administered by the PTO Working Group 
+Adjustments to Annual Transmission, Markets and 
+Services Tariff Section II, Schedule I Submissions 
+Annually during the rate development process, which is 
+administered by the PTO Working Group 
+ 
+If the data correction is not submitted within the applicable time frame set forth 
+above, the obligation of the ISO to issue corrected Statements reflecting that 
+adjustment shall be as set forth in a written re-billing protocol, developed in 
+consultation with the NEPOOL Budget and Finance Subcommittee, and as may 
+be amended from time to time in consultation with the NEPOOL Budget and 
+Finance Subcommittee, and posted on the ISO website.  The re-billing protocol 
+shall provide, for each category of adjustment listed above, whether and to what 
+extent the adjustment shall be prospective or retroactive and the timing of the 
+adjustment.  If the corrected data is not submitted within the applicable time 
+frame, the ISO may assess each Covered Entity submitting corrected data on an 
+untimely basis its costs in generating and issuing the corrected Statement.  The 
+written re-billing protocol shall include a fee schedule for this purpose.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+b) 
+Adjustments Triggered by ISO Audit. The ISO will review the results of internal 
+and outsourced audits with the PTO Administrative Committee and the 
+Participants Committee or its delegee.  The reasonable costs to the ISO of the re-
+billing shall be allocated to Schedule 1 of Section IV of the Transmission, 
+Markets and Services Tariff.  
+ 
+c)  
+Adjustments Reflecting Compliance with an Order of the Commission or other 
+Regulatory or Judicial Authority With Jurisdiction. Adjustments required to 
+effect compliance with an order of the Commission (or any other regulatory or 
+judicial authority with jurisdiction to interpret and/or enforce the provisions of 
+the Governing Documents) shall be completed by the ISO in compliance with 
+such order.  The costs of any such re-billing to the ISO shall be allocated among 
+the Covered Entities in accordance with the provisions of the Transmission, 
+Markets and Services Tariff.  
+ 
+d)  
+Nothing in this Section 2.6 shall affect resettlements of the New England 
+Markets under Market Rule 1.  
+ 
+SECTION 3 – PAYMENT PROCEDURES.  
+ 
+All Payments (including prepayments as described in Section 3.1(e) below) made by the ISO will in all 
+instances be made by EFT or in immediately available funds payable to the account designated to the ISO 
+by the Covered Entity to which such Payment is due.  Payments made by Covered Entities shall be made 
+by EFT to the account designated by the ISO.  
+ 
+Section 3.1  – Invoice Payments.  
+ 
+a) 
+Payment Date. Except in the case of special billings, all Charges due shall be 
+paid to and received by the ISO not later than the second (2nd) Business Day 
+after the Invoice on which they appeared was issued (the “Invoice Date”) so long 
+as the ISO issues such Invoice to the Covered Entities by 11:00 a.m. Eastern 
+Time on the Invoice Date.  If the ISO issues an Invoice after 11:00 a.m. Eastern 
+Time on the Invoice Date, the charges on such Invoice will be paid not later than 
+the third (3rd) Business Day after such Invoice Date.  Notwithstanding the 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+foregoing, a Non-Market Participant Transmission Customer will in no event be 
+required to make a payment on an Invoice any sooner than provided in Section II 
+of the Transmission, Markets and Services Tariff.  
+ 
+b) 
+Right to Alter Payment Date. The ISO may establish the dates on which 
+payments are due in the case of a special billing; provided, however, that, (i) 
+payment on any special billing invoice shall not be due prior to the second (2nd) 
+Business Day after the Invoice is issued, and (ii) a Non-Market Participant 
+Transmission Customer shall not be required to make a payment on an Invoice 
+any sooner than provided in Section II of the Transmission, Markets and Services 
+Tariff.  
+ 
+c) 
+Payments Received by the ISO. Each Covered Entity owing monies to the ISO, 
+either in the ISO’s individual capacity, or as agent for NEPOOL, shall remit the 
+amount shown on its Invoice no later than the date such payment is due.  
+Disputed Amounts shall be paid in accordance with clause (d) below.  All 
+Invoices shall be paid by EFT, except that (i) Covered Entities (other than 
+Unqualified New Market Participants and Returning Market Participants under 
+the ISO New England Financial Assurance Policy that are not Provisional 
+Members) may, and any Provisional Member must, pay any Invoice for ISO 
+Charges (but not for Transmission Charges)  by instructing the ISO (either on a 
+case-by-case basis or pursuant to a standing instruction) in writing to draw on 
+collateral maintained in a shareholder account created pursuant to the ISO New 
+England Financial Assurance Policy provided by such Covered Entity under the 
+ISO New England Financial Assurance Policy for such Invoice, provided that the 
+failure of a Provisional Member to provide such an instruction to the ISO shall 
+not, in and of itself, be deemed to be a default under the ISO New England 
+Billing Policy and (ii) any Covered Entity may instruct the ISO to auto-debit an 
+account identified by that Covered Entity to pay all Invoices issued by the ISO 
+and in such case the Covered Entity will direct the bank or other institution 
+holding that account to permit the ISO to auto-debit that account to pay all such 
+Invoices on the date they are due.  Any instruction to pay any Invoice by drawing 
+on collateral maintained in a shareholder account or to auto-debit an account 
+must be received by at least 5:00 p.m. (Eastern Time) on the day that is two 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Business Days prior to the Invoice Date.  The amount of a Covered Entity’s 
+collateral maintained in a shareholder account will immediately be reduced by 
+the amount drawn to pay an Invoice for ISO Charges pursuant to a standing 
+instruction.  Nothing set forth in this section will reduce the financial assurance 
+obligation otherwise applicable to any Covered Entity that instructs the ISO to 
+draw on collateral maintained in a shareholder account or to auto-debit an 
+account to pay an Invoice, and the ISO is not liable for any default resulting from 
+a draw on collateral maintained in a shareholder account to pay an Invoice or for 
+any overdraft charges resulting from any auto-debit.  
+ 
+d) 
+Payments Pending Resolution of a Dispute. Any Covered Entity that disputes the 
+amount due, including an amount due for Participant Expenses, on any Invoice 
+for service other than transmission service under Section II of the Transmission, 
+Markets and Services Tariff shall pay to the ISO all amounts due on such 
+Invoice, including any such Disputed Amounts.  Such payment shall in no way 
+prejudice the right of such Covered Entity to seek reimbursement of such 
+Disputed Amounts, including accrued interest on such amounts at the 
+Commission’s standard rate, set forth in 18 C.F.R.  Section 35.19, pursuant to the 
+Billing Dispute Resolution Procedures provided in Section 6 below.  
+ 
+Any Covered Entity that disputes the amount due on any Invoice for transmission 
+service under the Transmission, Markets and Services Tariff shall pay to the ISO 
+all amounts not in dispute in accordance with the ISO New England Billing 
+Policy and shall pay (or, in the case of an auto-debit payment or a payment for 
+ISO Charges pursuant to a standing instruction, as described above, direct the 
+ISO to pay) such Disputed Amounts into an independent escrow account 
+designated by the ISO, which account shall be established at a banking institution 
+acceptable to the ISO and the Covered Entity challenging the amount due and 
+shall accrue interest at a prevailing market rate.  Such amount in dispute shall be 
+held in escrow pending the resolution of such dispute in accordance with the 
+applicable Governing Document(s).  The shortfall of funds available to pay 
+Remittance Advices resulting from the amount in dispute being held in an escrow 
+account shall be allocated among the Covered Entities according to the two-step 
+allocation process described in Section 3.3 (for ISO Charges) and in Section 3.4 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+(for Transmission Charges) for the applicable type of Covered Entity disputing 
+the Charges, subject to payment to all Covered Entities being allocated a portion 
+of the shortfall, with applicable interest (if any), once the dispute is resolved with 
+the funds in such escrow account or with other amounts provided by the Covered 
+Entity losing such dispute.  
+ 
+e) 
+Prepayments. A Covered Entity may prepay any Invoice, in whole or in part, 
+according to the following procedures: 
+ 
+(i)  
+only two such prepayments shall be made by any Covered Entity in any calendar 
+week; only five such prepayments shall be made in any rolling 365-day period;  
+and no prepayments shall be made on a Friday;  
+(ii)  
+each prepayment will be applied only to the next subsequent Invoice issued;  
+(iii)  
+prepayments and payments for issued Invoices must be made in separate wire 
+transfers;  
+(iv)  
+for purposes of calculating a Covered Entity’s financial assurance obligations 
+under the ISO New England Financial Assurance Policy, prepayments will be 
+applied first to Hourly Charges, then any remaining prepayment will offset the 
+Covered Entity’s financial assurance obligations on a dollar-for-dollar basis;  
+(v) 
+if ISO Charges and Transmission Charges are billed on separate Invoices, then 
+separate prepayments must be made for those ISO Charges and Transmission 
+Charges (the ISO will account for each prepayment separately and will only 
+apply each prepayment to the designated Charges); 
+(vi)  
+if a prepayment exceeds the amount due on the next subsequent Invoice issued, 
+then the prepayment will be applied to that Invoice first, and then to the extent 
+any amount is left after paying that Invoice, the Covered Entity making that 
+prepayment may direct at the time of the prepayment that the excess be deposited 
+with its collateral maintained in a shareholder account created pursuant to the 
+ISO New England Financial Assurance Policy, and if the Covered Entity does 
+not direct the ISO to make that deposit, the excess will be returned to the 
+Covered Entity. Under either circumstance, the deposit to the shareholder 
+account or the return of excess funds will occur on the next date when the ISO 
+pays Remittances; and  
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+(vii)  
+all prepayments will be held in the ISO’s settlement account until the Invoice 
+payments are due, and no interest will be paid to any Covered Entity on any 
+prepayments provided by it.  
+ 
+Section 3.2 – ISO Payment of Remittance Advice Amounts. The Payment Date for a Remittance 
+Advice shall be the fourth (4th) Business Day following the date on which the Remittance Advice 
+was issued (the “Remittance Advice Date”) so long as the ISO issues such Remittance Advice by 
+11:00 a.m. Eastern Time on the Remittance Advice Date.  If the ISO issues a Remittance Advice 
+after 11:00 a.m. Eastern Time on the Remittance Advice Date, the Payment Date for that 
+Remittance Advice shall be the fifth (5th) Business Day after the Remittance Advice Date.  
+ 
+Section 3.3 -Payment Default for ISO Charges. If the ISO, in its reasonable opinion, believes that 
+all or any part of any amount of ISO Charges due to be paid to the ISO by any Covered Entity 
+will not or has not been paid when due (other than in the case of (i) a payment dispute for any 
+amount due for transmission service under the OATT or (ii) any amounts due for NEPOOL GIS 
+API Fees) (the “Default Amount”), then the following procedures shall apply:  
+ 
+a) 
+Priority of Payments. The ISO shall use moneys received by it from Covered 
+Entities for an Invoice for ISO Charges to pay all amounts due to the ISO under 
+Section IV of the Transmission, Markets and Services Tariff, all amounts due to 
+NEPOOL for Participant Expenses, and all amounts due to the ISO for acting as 
+Project Manager for the generation information system (the “NEPOOL GIS”) 
+before making any payments to any Covered Entities.  After paying all amounts 
+due to the ISO and NEPOOL but prior to making any payments to any Covered 
+Entities, the ISO shall use moneys received by it from Covered Entities for ISO 
+Charges to pay all amounts due from NEPOOL to the entity or entities that 
+develop, administer, operate and maintain the NEPOOL GIS (the “NEPOOL GIS 
+Administrator”) for those services (other than NEPOOL GIS API Fees).  After 
+paying all amounts due to the ISO and NEPOOL for Participant Expenses and all 
+amounts due to the NEPOOL GIS Administrator for the development, 
+administration, operation and maintenance of the NEPOOL GIS but prior to 
+making any payments to any Covered Entities, the ISO shall use moneys 
+received by it from Covered Entities for ISO Charges to pay any and all amounts 
+due with respect to the Shortfall Funding Arrangement. NEPOOL GIS API Fees 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+shall only be paid to the NEPOOL GIS Administrator to the extent that each 
+Covered Entity or NEPOOL Participant owing such NEPOOL GIS API Fees has 
+paid the full amount of all ISO Charges due on the Statement on which such 
+NEPOOL GIS API Fees appear.  
+ 
+b) 
+Use of Set-Offs. The ISO shall use any and all rights of set-off it has under the 
+Governing Documents, including the ISO New England Financial Assurance 
+Policy and the ISO New England Billing Policy against a defaulting Covered 
+Entity with respect to ISO Charges due to that Covered Entity to the extent 
+necessary to pay the Default Amount, together with any interest accrued thereon 
+and any late charges assessed under the Governing Documents, including the ISO 
+New England Financial Assurance Policy, due from such Covered Entity.  
+ 
+c) 
+Enforcing the Security of a Defaulting Party. If and to the extent that the 
+procedure described in clause (b) above is insufficient to effect payment of the 
+Default Amount and all interest accrued thereon and late charges assessed under 
+the Governing Documents, including the ISO New England Financial Assurance 
+Policy, the ISO shall use the financial assurance(s) provided by the defaulting 
+Covered Entity under the ISO New England Financial Assurance Policy to the 
+extent necessary to pay the Default Amount and such interest and late charges.  
+Any use of financial assurance(s) shall be undertaken in compliance with the ISO 
+New England Financial Assurance Policy.  
+ 
+d) 
+Action Against a Defaulting Party. If and to the extent that the procedures 
+described in clauses (b) and (c) above are insufficient to effect payment of the 
+Default Amount and all interest accrued thereon and late charges assessed under 
+the Governing Documents, including the ISO New England Financial Assurance 
+Policy, the ISO shall take appropriate actions to recover the Default Amount and 
+such accrued interest and late charges, which actions may include, without 
+limitation, initiating proceedings in accordance with the appropriate dispute 
+resolution mechanisms or actions with Covered Entities or before the 
+Commission or a court of competent jurisdiction against the defaulting Covered 
+Entity.  Before initiating any such proceedings, the ISO shall consult with the 
+Chair of the NEPOOL Budget and Finance Subcommittee or NEPOOL counsel.  
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Any amounts incurred by the ISO or any Market Participant in connection with 
+any such action or proceeding shall be paid by the defaulting Covered Entity.  
+ 
+e) 
+Late Payment Account. If and to the extent that the procedures described in 
+clauses (b), (c) and (d) above are insufficient to effect payment of the Default 
+Amount (but not interest accrued thereon and late charges assessed under the 
+Governing Documents, including the ISO New England Financial Assurance 
+Policy) by the time the corresponding Payment to the Covered Entities is due, the 
+ISO shall withdraw from the Late Payment Account, as that term is defined in 
+Section 4 of the ISO New England Billing Policy, an amount equal to such 
+unpaid Default Amount, to the extent that such amount is available in the Late 
+Payment Account, and shall apply such amount to any shortfall in Payments 
+resulting from the Default Amount not being paid.  To the extent that the amount 
+on deposit in the Late Payment Account on any date is insufficient to pay all 
+Unsecured Default Amounts and Uncovered Default Amounts (each as defined 
+below) on that date, the amount in the Late Payment Account shall first be 
+applied to Uncovered Default Amounts on that date and, once cash has been 
+applied to all Uncovered Default Amounts, then such amount shall be applied to 
+Unsecured Default Amounts on that date, in each case pro rata based on the total 
+Uncovered Default Amounts on or total Unsecured Default Amounts 
+outstanding.  Amounts withdrawn from the Late Payment Account and applied 
+toward any shortfall resulting from the Default Amount shall not relieve the 
+defaulting Covered Entity of its obligation to pay such Default Amount.  If and to 
+the extent that such Default Amount, interest thereon and/or late charges with 
+respect thereto are subsequently collected (including as a result of the use of a 
+financial assurance under the ISO New England Financial Assurance Policy or 
+through actions or proceedings against the defaulting Covered Entity), such 
+amounts shall first be used to pay Covered Entities for the amount of such 
+Default Amount allocated to them under clauses (h), (i) and (j) below, with 
+interest thereon, and then, after all such amounts have been paid to Covered 
+Entities, such Default Amount, interest and/or late charges shall be deposited into 
+the Late Payment Account in accordance with Section 4 of the ISO New England 
+Billing Policy.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+f) 
+Payment Default Shortfall Fund. To the extent that the procedures described in 
+clauses (b), (c), (d) and (e) above are insufficient to effect payment of the Default 
+Amount (but not interest accrued thereon and late charges assessed under the 
+Governing Documents, including the ISO New England Financial Assurance 
+Policy) the ISO will draw on the Shortfall Funding Arrangement to the extent the 
+Shortfall Funding Arrangement is available at the time, and to the extent the 
+Shortfall Funding Arrangement is not available at the time, the ISO will 
+withdraw from the Payment Default Shortfall Fund, an amount equal to such 
+unpaid Default Amount and shall apply such amount to the shortfall in Payments 
+resulting from the Default Amount not being paid.  To the extent that the amount 
+on deposit in the Payment Default Shortfall Fund on any date is insufficient to 
+pay all Unsecured Default Amounts, Uncovered Default Amounts, Unsecured 
+Transmission Default Amounts and Uncovered Transmission Default Amounts 
+(each as defined below) on that date (after applying all amounts in the Late 
+Payment Account for defaults on ISO Charges and all amounts in the 
+Transmission Late Payment Account for defaults on Transmission Charges on 
+that date), the amount in the Payment Default Shortfall Fund on that date shall 
+first be applied to Uncovered Default Amounts on that date and, once cash has 
+been applied to all Uncovered Default Amounts, then such amount shall be 
+applied to Unsecured Default Amounts on that date and, once cash has been 
+applied to all Uncovered Default Amounts and all Unsecured Default Amounts, 
+then such amount shall be applied to Uncovered Transmission Default Amounts 
+on that date and, once cash has been applied to all Uncovered Default Amounts, 
+Unsecured Default Amounts and Uncovered Transmission Default Amounts, 
+then such amount shall be applied to Unsecured Transmission Default Amounts 
+on that date, in each case pro rata based on the total Uncovered Default Amounts, 
+total Unsecured Default Amounts, total Uncovered Transmission Default 
+Amounts or total Unsecured Transmission Default Amounts outstanding. 
+Amounts drawn on the Shortfall Funding Arrangement and/or withdrawn from 
+the Payment Default Shortfall Fund and applied to any shortfall resulting from 
+the Default Amount shall not relieve the defaulting Covered Entity of its 
+obligation to pay such Default Amount.  If and to the extent that a Default 
+Amount which is paid through a draw on the Shortfall Funding Arrangement 
+and/or through a withdrawal from the Payment Default Shortfall Fund, interest 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+on such a Default Amount and/or late charges with respect to such a Default 
+Amount are subsequently collected (including as a result of the use of a financial 
+assurance under the ISO New England Financial Assurance Policy or through 
+actions or proceedings against the Covered Entity), such amounts shall be paid to 
+certain of the Covered Entities as set forth in Section 5.4 below.  
+ 
+g) 
+Congestion Revenue Fund. If during any billing period congestion payments 
+exceed congestion charges under Manual 28 (hereinafter a “Congestion 
+Shortfall”), such that there is a shortfall in the total settlement for that week due 
+to congestion, the ISO will draw from the Congestion Revenue Fund established 
+and funded under Manual 28 to make up for the shortfall.  To the extent there are 
+insufficient funds in the Congestion Revenue Fund to cover that Congestion 
+Shortfall, the ISO will recover the uncovered Congestion Shortfall pursuant to 
+the allocation process set forth in Manual 28, Section 6.  The ISO will true-up 
+amounts drawn for Congestion Shortfalls on a monthly basis and reflect that true-
+up in the Statements reflecting Non-Hourly Charges.  
+ 
+h) 
+Reduction of Payments and Increases in Charges for Unsecured Municipal 
+Market Participants  
+ 
+(i) 
+If and to the extent that (A) the defaulting Covered Entity is a Municipal Market 
+Participant (as defined in the ISO New England Financial Assurance Policy) with 
+a Market Credit Limit or a Transmission Credit Limit of greater than $0 under 
+the ISO New England Financial Assurance Policy (an “Unsecured Municipal 
+Market Participant”) and (B) the procedures described in clauses (b), (c), (d), (e), 
+(f) and (g) above do not yield sufficient funds to pay all Remittance Advice 
+amounts for ISO Charges in full (after payment of amounts due to the ISO, to 
+NEPOOL for Participant Expenses, and to the NEPOOL GIS Administrator for 
+amounts due to the NEPOOL GIS Administrator other than for NEPOOL GIS 
+API Fees and after payment of any amounts due with respect to the Shortfall 
+Funding Arrangement, in accordance with clause (a) above) on the date such 
+Payments are due, the ISO shall reduce Payments to all Unsecured Municipal 
+Market Participants owed monies for ISO Charges for the billing period to which 
+the payment default relates (the “Default Period”), pro rata based on the ISO 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Charges owed to those Unsecured Municipal Market Participants, to the extent 
+necessary to clear its accounts for ISO Charges due to Unsecured Municipal 
+Market Participants by the close of banking business on the date such Payments 
+are due; provided, however, that the total amount of reduced Payments under this 
+Section 3.3(h)(i) shall not exceed the defaulting Unsecured Municipal Market 
+Participant’s Market Credit Limit under the ISO New England Financial 
+Assurance Policy (such total amount of reduced Payments being referred to as 
+the “Unsecured Municipal Default Amount”).  As funds attributable to an 
+Unsecured Municipal Default Amount are received by the ISO (including 
+amounts received through financial assurances provided under the ISO New 
+England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) prior to the next billing 
+period’s Statements being distributed, such funds, together with any interest and 
+late charges collected on the applicable Unsecured Municipal Default Amount, 
+shall be distributed pro rata to the Unsecured Municipal Market Participants that 
+did not receive the full amount of their Payments as a result of such Unsecured 
+Municipal Default Amount not being paid, up to the full amount that such 
+Unsecured Municipal Market Participants did not receive as a result of such 
+Unsecured Municipal  Default Amount not being paid, with interest thereon.  
+(ii)  
+To the extent that any Unsecured Municipal Default Amount remains unpaid to 
+Unsecured Municipal Market Participants on the date that Statements are 
+distributed to Covered Entities in the billing period immediately following the 
+Default Period, the Unsecured Municipal Default Amount remaining unpaid shall 
+be reallocated among all of the Unsecured Municipal Market Participants 
+receiving Statements for ISO charges for the Default Period (other than the 
+Unsecured Municipal Market Participant defaulting on its payment obligations), 
+pro rata based, for each Unsecured Municipal Market Participant being allocated 
+a share of the Unsecured Municipal Default Amount remaining unpaid, on the 
+sum of (i) all ISO Charges due from such Unsecured Municipal Market 
+Participant that are reflected on its Statement for the Default Period and (ii) all 
+Payments for ISO Charges due to such Unsecured Municipal Market Participant 
+that are reflected on its Statement for the Default Period, without giving any 
+effect to the process of netting Charges against Payments on each Statement that 
+is the result of the ISO’s single billing system.  Thus, by way of example, an 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Unsecured Municipal Market Participant with $2,000 of ISO Charges and no 
+Payments on its Statement for the Default Period and an Unsecured Municipal 
+Market Participant with $1,000 of Charges and $1,000 of Payments for ISO 
+Charges on its Statement for the Default Period would be allocated an equal 
+share of the unpaid Unsecured Municipal Default Amount under this clause 
+(h)(ii).  Each Unsecured Municipal Market Participant that received a Statement 
+for the Default Period shall have the amount of its Invoice or Remittance Advice 
+in the billing period immediately following the Default Period adjusted as 
+necessary to reflect its obligation for the Unsecured Municipal Default Amount 
+remaining unpaid under this clause (h)(ii).  As funds attributable to an Unsecured 
+Municipal Default Amount are received by the ISO (including amounts received 
+through financial assurances provided under the ISO New England Financial 
+Assurance Policy or through actions or proceedings commenced against the 
+defaulting Covered Entity) after such adjusted Statements are distributed, such 
+funds, together with any interest and late charges collected on the applicable 
+Unsecured Municipal Default Amount, shall be distributed to the Unsecured 
+Municipal Market Participants pro rata based on their allocation of the Unsecured 
+Municipal Default Amount under this clause (h)(ii), up to the full amount of such 
+Unsecured Municipal Default Amount allocated to each such Unsecured 
+Municipal Market Participant, with interest thereon.  
+(iii) 
+An Unsecured Municipal Market Participant will not be allocated any Unsecured 
+Municipal Default Amounts under this Section 3.3(h) for any Default Period if, at 
+the start of the calendar year in which the applicable Default Period occurred, 
+that Unsecured Municipal Market Participant provided the ISO with a written 
+request to opt out of that allocation of Unsecured Municipal Default Amounts 
+and that Unsecured Municipal Market Participant provides the ISO with 
+additional financial assurance in the full amount of all of its “Financial Assurance 
+Obligations” under the ISO New England Financial Assurance Policy at all times 
+during that calendar year. 
+ 
+i) 
+Reduction of Payments and Increases in Charges for Unsecured Non-Municipal 
+Covered Entities. 
+(i)   
+If and to the extent that (A) the defaulting Covered Entity (x) is not a Municipal 
+Market Participant or a Non-Market Participant Transmission Customer and (y) 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+has a Market Credit Limit or Transmission Credit Limit of greater than $0 under 
+the ISO New England Financial Assurance Policy (each such Covered Entity 
+being referred to herein as an “Unsecured Non-Municipal Covered Entity”) and 
+(B) the procedures described in clauses (b), (c), (d), (e), (f), and (g) above do not 
+yield sufficient funds to pay all Remittance Advice amounts for ISO Charges in 
+full (after payment of amounts due to the ISO, to NEPOOL for Participant 
+Expenses, and to the NEPOOL GIS Administrator for amounts due to the 
+NEPOOL GIS Administrator other than for NEPOOL GIS API Fees and after 
+payment of any amounts due with respect to the Shortfall Funding Arrangement, 
+in accordance with clause (a) above) on the date such Payments are due, the ISO 
+shall reduce Payments to all Unsecured Non-Municipal Covered Entities owed 
+monies for ISO Charges for the applicable Default Period, pro rata based on the 
+ISO Charges owed to those Unsecured Non-Municipal Covered Entities, to the 
+extent necessary to clear its accounts for ISO Charges due to Unsecured Non-
+Municipal Covered Entities by the close of banking business on the date such 
+Payments are due; provided, however, that the total amount of reduced Payments 
+under this Section 3.3(i)(i) shall not exceed the defaulting Unsecured Non-
+Municipal Covered Entity’s Market Credit Limit under the ISO New England 
+Financial Assurance Policy (such total amount of reduced Payments being 
+referred to as the “Unsecured Non-Municipal Default Amount”).  As funds 
+attributable to an Unsecured Non-Municipal Default Amount are received by the 
+ISO (including amounts received through financial assurances provided under the 
+ISO New England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) prior to the next billing 
+period’s Statements being distributed, such funds, together with any interest and 
+late charges collected on the applicable Unsecured Non-Municipal Default 
+Amount, shall be distributed pro rata to the Unsecured Non-Municipal Covered 
+Entities that did not receive the full amount of their Payments as a result of such 
+Unsecured Non-Municipal Default Amount not being paid, up to the full amount 
+that such Unsecured Non-Municipal Covered Entities did not receive as a result 
+of such Unsecured Non-Municipal Default Amount not being paid, with interest 
+thereon. 
+(ii) 
+To the extent that any Unsecured Non-Municipal Default Amount remains 
+unpaid to Unsecured Non-Municipal Covered Entities on the date that Statements 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+are distributed to Covered Entities in the billing period immediately following 
+the Default Period, the Unsecured Non-Municipal Default Amount remaining 
+unpaid shall be reallocated among all of the Unsecured Non-Municipal Covered 
+Entities receiving Statements for ISO Charges for the Default Period (other than 
+the Unsecured Non-Municipal Covered Entity defaulting on its payment 
+obligations), pro rata based, for each Unsecured Non-Municipal Covered Entity 
+being allocated a share of the Unsecured Non-Municipal Default Amount 
+remaining unpaid, on the sum of (i) all ISO Charges due from such Unsecured 
+Non-Municipal Covered Entity that are reflected on its Statement for the Default 
+Period and (ii) all Payments for ISO Charges due to such Unsecured Non-
+Municipal Covered Entity that are reflected on its Statement for the Default 
+Period, without giving any effect to the process of netting Charges against 
+Payments on each Statement that is the result of the ISO’s single billing system.  
+Thus, by way of example, an Unsecured Non-Municipal Covered Entity with 
+$2,000 of ISO Charges and no Payments on its Statement for the Default Period 
+and an Unsecured Non-Municipal Covered Entity with $1,000 of Charges and 
+$1,000 of Payments for ISO Charges on its Statement for the Default Period 
+would be allocated an equal share of the unpaid Unsecured Non-Municipal 
+Default Amount under this clause (i)(ii).  Each Unsecured Non-Municipal 
+Covered Entity that received a Statement for the Default Period shall have the 
+amount of its Invoice or Remittance Advice in the billing period immediately 
+following the Default Period adjusted as necessary to reflect its obligation for the 
+Unsecured Non-Municipal Default Amount remaining unpaid under this clause 
+(i)(ii).  As funds attributable to an Unsecured Non-Municipal Default Amount are 
+received by the ISO (including amounts received through financial assurances 
+provided under the ISO New England Financial Assurance Policy or through 
+actions or proceedings commenced against the defaulting Covered Entity) after 
+such adjusted Statements are distributed, such funds, together with any interest 
+and late charges collected on the applicable Unsecured Non-Municipal Default 
+Amount, shall be distributed to the Unsecured Non-Municipal Covered Entities 
+pro rata based on their allocation of the Unsecured Non-Municipal Default 
+Amount under this clause (i)(ii), up to the full amount of such Unsecured Non-
+Municipal Default Amount allocated to each such Unsecured Non-Municipal 
+Covered Entity, with interest thereon. 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+(iii) 
+An Unsecured Non-Municipal Covered Entity will not be allocated any 
+Unsecured Non-Municipal Default Amounts under this Section 3.3(i) for any 
+Default Period if, at the start of the calendar year in which the applicable Default 
+Period occurred, that Unsecured Non-Municipal Covered Entity provided the 
+ISO with a written request to opt out of that allocation of Unsecured Non-
+Municipal Default Amounts and that Unsecured Non-Municipal Covered Entity 
+provides the ISO with additional financial assurance in the full amount of all of 
+its “Financial Assurance Obligations” under the ISO New England Financial 
+Assurance Policy at all times during that calendar year.  
+ 
+j)  
+Reduction of Payments and Increase in Charges for Other Covered Entities.  
+(i) 
+If and to the extent that (A) the defaulting Covered Entity is not an Unsecured 
+Municipal Market Participant or an Unsecured Non-Municipal Covered Entity 
+(referred to together herein as an “Unsecured Covered Entity”) or the Default 
+Amount exceeds the Unsecured Municipal Default Amount or the Unsecured 
+Non-Municipal Default Amount (referred to together herein as the “Unsecured 
+Default Amount”) for that Covered Entity and (B) the procedures described in 
+clauses (b), (c), (d), (e), (f), (g), and (h) or (i) (if applicable) above do not yield 
+sufficient funds to pay all Remittance Advice amounts for ISO Charges in full 
+(after payment of amounts due to the ISO, to NEPOOL for Participant Expenses, 
+and to the NEPOOL GIS Administrator for amounts due to the NEPOOL GIS 
+Administrator other than for NEPOOL GIS API Fees and after payment of any 
+amounts due with respect to the Shortfall Funding Arrangement, in accordance 
+with clause (a) above) on the date such Payments are due, the ISO shall reduce 
+Payments to those Covered Entities owed monies for ISO Charges for that 
+Default Period, pro rata based on the amounts owed to all Covered Entities, to the 
+extent necessary to clear its accounts for ISO Charges by the close of banking 
+business on the date such Payments are due (after giving effect to clause (h) or (i) 
+above if applicable) (the amount of such reduction in Payments for ISO Charges 
+after giving effect to clause (h) or (i) above (if applicable) is referred to herein as 
+the “Uncovered Default Amount”).  For the avoidance of doubt, the Uncovered 
+Default Amount is equal to the Default Amount minus any Unsecured Default 
+Amount.  As funds attributable to an Uncovered Default Amount are received by 
+the ISO (including amounts received through financial assurances provided under 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+the ISO New England Financial Assurance Policy or through actions or 
+proceedings commenced against the defaulting Covered Entity) prior to the next 
+billing period’s Statements being distributed, such funds, together with any 
+interest and late charges collected on the applicable Default Amount, shall be 
+distributed pro rata to the Covered Entities that did not receive the full amount of 
+their Payments as a result of such Uncovered Default Amount not being paid, up 
+to the full amount that such Covered Entities did not receive as a result of such 
+Uncovered Default Amount not being paid, with interest thereon.  
+(ii) 
+To the extent that any amount of an Uncovered Default Amount remains unpaid 
+to Covered Entities on the date that Statements are distributed to Covered Entities 
+in the billing period immediately following the Default Period, the Uncovered 
+Default Amount remaining unpaid shall be reallocated among all of the Covered 
+Entities receiving Statements for ISO Charges for the Default Period (other than 
+the Covered Entity defaulting on its payment obligations), pro rata based, for 
+each Covered Entity being allocated a share of the Uncovered Default Amount 
+remaining unpaid, on the sum of (i) all ISO Charges due from such Covered 
+Entity that are reflected on its Statement for the Default Period and (ii) all 
+Payments for ISO Charges due to such Covered Entity that are reflected on its 
+Statement for the Default Period, without giving any effect to the process of 
+netting Charges against Payments on each Statement that is the result of the 
+ISO’s single billing system.  Thus, by way of example, a Covered Entity with 
+$2,000 of ISO Charges and no Payments on its Statement for the Default Period 
+and a Covered Entity with $1,000 of ISO Charges and $1,000 of Payments for 
+ISO Charges on its Statement for the Default Period would be allocated an equal 
+share of the unpaid Uncovered Default Amount under this clause (j)(ii).  Each 
+Covered Entity that received a Statement for the Default Period shall have the 
+amount of its Invoice or Remittance Advice in the billing period immediately 
+following the Default Period adjusted as necessary to reflect its obligation for the 
+Uncovered Default Amount remaining unpaid under this clause (j)(ii).  As funds 
+attributable to an Uncovered Default Amount are received by the ISO (including 
+amounts received through financial assurance provided under the ISO New 
+England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) after such adjusted 
+Statements are distributed, such funds, together with any interest and late charges 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+collected on the applicable Uncovered Default Amount, shall be distributed to the 
+Covered Entities pro rata based on their allocation of the Uncovered Default 
+Amount under this clause (j) (ii), up to the full amount of such Uncovered 
+Default Amount allocated to each such Covered Entity, with interest thereon.        
+ 
+k) 
+Order of Settlement. As amounts on Default Amounts are received by the ISO, 
+the oldest outstanding ISO Charges will be settled first in the order of the 
+creation of such debts. 
+ 
+l)    
+Notwithstanding the other provisions of this Section 3.3, an unpaid amount shall 
+not be considered a “Default Amount,” and the ISO will not take any of the 
+actions described in the suspension provisions of the ISO New England Financial 
+Assurance Policy or in this Section 3.3 with respect to that unpaid amount, if the 
+total unpaid amount is attributable to Qualification Process Cost Reimbursement 
+Deposits (including any annual true-up of those amounts) and/or NEPOOL GIS 
+API Fees.  To the extent that a Covered Entity or a NEPOOL Participant pays 
+only a part of an Invoice that includes a Charge for a Qualification Process Cost 
+Reimbursement Deposit and/or a Charge for NEPOOL GIS API Fees, the unpaid 
+amount shall first be allocated to the unpaid NEPOOL GIS API Fees, and then to 
+that Qualification Process Cost Reimbursement Deposit, and other Charges on 
+that Invoice will only be considered not to have been paid if the unpaid amount 
+exceeds the amount of the Qualification Process Cost Reimbursement Deposit 
+and any unpaid NEPOOL GIS API Fees. The sole consequence of a Covered 
+Entity’s or a NEPOOL Participant’s failure to pay NEPOOL GIS API Fees, after 
+application of any set-off rights against the Covered Entity or NEPOOL 
+Participant and any financial assurance provided by that Covered Entity or 
+NEPOOL Participant, shall be denial to that Covered Entity or NEPOOL 
+Participant of access to any application programming interface pursuant to Rule 
+3.9(b) of the operating rules of the NEPOOL GIS.  
+ 
+Section 3.4 – Payment Default for Transmission Charges.  If the ISO, in its reasonable opinion, 
+believes that all or any part of any amount of Transmission Charges due to be paid to the ISO by 
+any Covered Entity will not or has not been paid when due (the “Transmission Default Amount”), 
+then the following procedures shall apply: 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ 
+a) 
+Use of Set-Offs.  The ISO shall use any and all rights of set-off it has under the 
+Governing Documents, including the ISO New England Financial Assurance 
+Policy and the ISO New England Billing Policy, against a defaulting Covered 
+Entity with respect to Transmission Charges due to that Covered Entity to the 
+extent necessary to pay the Default Amount, together with any interest accrued 
+thereon and any late charges assessed under the Governing Documents, including 
+the ISO New England Financial Assurance Policy, due from such Covered 
+Entity. 
+ 
+b) 
+Enforcing the Security of a Defaulting Party.  If and to the extent that the 
+procedure described in clause (a) above is insufficient to effect payment of the 
+Transmission Default Amount and all interest accrued thereon and late charges 
+assessed under the Governing Documents, including the ISO New England 
+Financial Assurance Policy, the ISO shall use the financial assurance(s) provided 
+by the defaulting Covered Entity under the ISO New England Financial 
+Assurance Policy to the extent necessary to pay the Transmission Default 
+Amount and such interest and late charges.  Any use of financial assurance(s) 
+shall be undertaken in compliance with the ISO New England Financial 
+Assurance Policy. 
+ 
+c) 
+Action Against a Defaulting Party.  If and to the extent that the procedures 
+described in clauses (a) and (b) above are insufficient to effect payment of the 
+Transmission Default Amount and all interest accrued theron and late charges 
+assessed under the Governing Documents, including the ISO New England 
+Financial Assurance Policy, the ISO shall take appropriate actions to recover the 
+Transmission Default Amount and such accrued interest and late charges, which 
+actions may include, without limitation, initiating proceedings in accordance with 
+the appropriate dispute resolution mechanisms or actions with Covered Entities 
+or before the Commission or a court of competent jurisdiction against the 
+defaulting Covered Entity.  Before initiating any such proceedings, the ISO shall 
+consult with the Chair of the NEPOOL Budget and Finance Subcommittee or 
+NEPOOL counsel.  Any amounts incurred by the ISO or any Market Participant 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+in connection with any such action or proceeding shall be paid by the defaulting 
+Covered Entity. 
+ 
+d) 
+Transmission Late Payment Account.  If and to the extent that the procedures 
+described in clauses (a), (b) and (c) above are insufficient to effect payment of 
+the Transmission Default Amount (but not interest accrued thereon and late 
+charges assessed under the Governing Documents, including the ISO New 
+England Financial Assurance Policy) by the time the corresponding Payment to 
+the Covered Entities is due, the ISO shall withdraw from the Transmission Late 
+Payment Account, as that term is defined in Section 4 of the ISO New England 
+Billing Policy, an amount equal to such unpaid Transmission Default Amount, to 
+the extent that such amount is available in the Transmission Late Payment 
+Account, and shall apply such amount to any shortfall in Payments resulting from 
+the Transmission Default Amount not being paid.  To the extent that the amount 
+on deposit in the Transmission Late Payment Account on any date is insufficient 
+to pay all Unsecured Transmission Default Amounts and Uncovered 
+Transmission Default Amounts (each as defined below) on that date, the amount 
+in the Transmission Late Payment Account shall first be applied to Uncovered 
+Transmission Default Amounts on that date and, once cash has been applied to 
+all Uncovered Transmission Default Amounts,  then such amount shall be 
+applied to Unsecured Transmission Default Amounts on that date, in each case 
+pro rata based on the total Uncovered Transmission Default Amounts or total 
+Unsecured Transmission Default Amounts outstanding.  Amounts withdrawn 
+from the Transmission Late Payment Account and applied toward any shortfall 
+resulting from the Transmission Default Amount shall not relieve the defaulting 
+Covered Entity of its obligation to pay such Transmission Default Amount.  If 
+and to the extent that such Transmission Default Amount, interest thereon and/or 
+late charges with respect thereto are subsequently collected (including as a result 
+of the use of a financial assurance under the ISO New England Financial 
+Assurance Policy or through actions or proceedings against the defaulting 
+Covered Entity), such amounts shall first be used to pay Covered Entities for the 
+amount of such Transmission Default Amount allocated to them under clause (f), 
+(g) and (h) below, with interest thereon, and then, after all such amounts have 
+been paid to Covered Entities, such Transmission Default Amount, interest 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+and/or late charges shall be deposited into the Transmission Late Payment 
+Account in accordance with Section 4 of the ISO New England Billing Policy. 
+ 
+e) 
+Payment Default Shortfall Fund  To the extent that the procedures described in 
+clauses (a), (b), (c) and (d) above are insufficient to effect payment of the 
+Transmission Default Amount (but not interest accrued thereon and late charges 
+assessed under the Governing Documents, including the ISO New England 
+Financial Assurance Policy), the ISO will draw on the Shortfall Funding 
+Arrangement to the extent the Shortfall Funding Arrangement is available at the 
+time, and to the extent the Shortfall Funding Arrangement is not available at the 
+time, the ISO will withdraw from the Payment Default Shortfall Fund, an amount 
+equal to such unpaid Transmission Default Amount and shall apply such amount 
+to the shortfall in Payments resulting from the Transmission Default Amount not 
+being paid.  To the extent that the amount on deposit in the Payment Default 
+Shortfall Fund on any date is insufficient to pay all Unsecured Default Amounts, 
+Uncovered Default Amounts, Unsecured Transmission Default Amounts and 
+Uncovered Transmission Default Amounts (each as defined herein) on that date 
+(after applying all amounts in the Late Payment Account for defaults on ISO 
+Charges and all amounts in the Transmission Late Payment Account for defaults 
+on Transmission Charges on that date), the amount in the Payment Default 
+Shortfall Fund on that date shall first be applied to Uncovered Default Amounts 
+on that date and, once cash has been applied to all Uncovered Default Amounts, 
+then such amount shall be applied to Unsecured Default Amounts on that date 
+and, once cash has been applied to all Uncovered Default Amounts and all 
+Unsecured Default Amounts, then such amount shall be applied to Uncovered 
+Transmission Default Amounts on that date and, once cash has been applied to 
+all Uncovered Default Amounts, Unsecured Default Amounts and Uncovered 
+Transmission Default Amounts, then such amount shall be applied to Unsecured 
+Transmission Default Amounts on that date, in each case pro rata based on the 
+total Uncovered Default Amounts, total Unsecured Default Amounts, total 
+Uncovered Transmission Default Amounts or total Unsecured Transmission 
+Default Amounts outstanding.  Amounts drawn on the Shortfall Funding 
+Arrangement and/or withdrawn from the Payment Default Shortfall Fund and 
+applied to any shortfall resulting from the Transmission Default Amount shall 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+not relieve the defaulting Covered Entity of its obligation to pay such 
+Transmission Default Amount.  If and to the extent that a Transmission Default 
+Amount which is paid through a draw on the Shortfall Funding Arrangement 
+and/or through a withdrawal from the Payment Default Shortfall Fund, interest 
+on such a Transmission Default Amount and/or late charges with respect to such 
+a Transmission Default Amount are subsequently collected (including as a result 
+of the use of a financial assurance under the ISO New England Financial 
+Assurance Policy or through actions or proceedings against the Covered Entity), 
+such amounts shall be paid to certain of the Covered Entities as set forth in 
+Section 5.4 below. 
+ 
+f) 
+Reduction of Payments and Increases in Transmission Charges for Unsecured 
+Municipal Market Participants. 
+(i) 
+If and to the extent that (A) the defaulting Covered Entity is an Unsecured 
+Municipal Market Participant and (B) the procedures described in clauses (a), 
+(b), (c), (d), and (e) above do not yield sufficient funds to pay all Remittance 
+Advice amounts for Transmission Charges in full on the date such Payments are 
+due, the ISO shall reduce Payments to all Unsecured Municipal Market 
+Participants owed monies for Transmission Charges for that billing period (the 
+“Transmission Default Period”), pro rata based on the Transmission Charges 
+owed to those Unsecured Municipal Market Participants, to the extent necessary 
+to clear its accounts for Transmission Charges due to Unsecured Municipal 
+Market Participants by the close of banking business on the date such Payments 
+are due; provided, however, that the total amount of reduced Payments under this 
+Section 3.4(f) shall not exceed the defaulting Unsecured Municipal Market 
+Participant’s Transmission Credit Limit under the ISO New England Financial 
+Assurance Policy (such total amount of reduced Payments being referred to as 
+the “Unsecured Municipal Transmission Default Amount”).  As funds 
+attributable to an Unsecured Municipal Transmission Default Amount are 
+received by the ISO (including amounts received through financial assurances 
+provided under the ISO New England Financial Assurance Policy or through 
+actions or proceedings commenced against the defaulting Covered Entity) prior 
+to the next billing period’s Transmission Statements being distributed, such 
+funds, together with any interest and late charges collected on the applicable 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Unsecured Transmission Default Amount, shall be distributed pro rata to the 
+Unsecured Municipal Market Participants that did not receive the full amount of 
+their Payments as a result of such Unsecured Municipal Transmission Default 
+Amount not being paid, up to the full amount that such Unsecured Municipal 
+Market Participants did not receive as a result of such Unsecured Municipal 
+Transmission Default Amount not being paid, with interest thereon. 
+(ii) 
+To the extent that any Unsecured Municipal Transmission Default Amount 
+remains unpaid to Unsecured Municipal Market Participants on the date that 
+Transmission Statements are distributed to Covered Entities in the billing period 
+immediately following the Transmission Default Period, the Unsecured 
+Municipal Transmission Default Amount remaining unpaid shall be reallocated 
+among all of the Unsecured Municipal Market Participants receiving 
+Transmission Statements for Transmission Charges for the Transmission Default 
+Period (other than the Unsecured Municipal Market Participant defaulting on its 
+payment obligations), pro rata based, for each Unsecured Municipal Market 
+Participant being allocated a share of the Unsecured Municipal Transmission 
+Default Amount remaining unpaid, on the sum of (i) all Transmission Charges 
+due from such Unsecured Municipal Market Participant that are reflected on its 
+Transmission Statement for the Transmission Default Period and (ii) all 
+Payments for Transmission Charges due to such Unsecured Municipal Market 
+participant that are reflected on its Transmission Statement for the Transmission 
+Default Period, without giving any effect to the process of netting Charges 
+against Payments on each Transmission Statement that is the result of the ISO’s 
+single billing system.  Thus, by way of example, an Unsecured Municipal Market 
+Participant with $2,000 of Transmission Charges and no Payments on its 
+Transmission Statement for the Transmission Default Period and an Unsecured 
+Municipal Market Participant with $1,000 of Transmission Charges and $1,000 
+of Payments for Transmission Charges on its Transmission Statement for the 
+Transmission Default Period would be allocated an equal share of the unpaid 
+Unsecured Municipal Transmission Default Amount under this clause (f)(ii).  
+Each Unsecured Municipal Market Participant that received a Transmission 
+Statement for the Transmission Default Period shall have the amount of its 
+Invoice or Remittance Advice in the billing period immediately following the 
+Transmission Default Period adjusted as necessary to reflect its obligation for the 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Unsecured Municipal Transmission Default Amount remaining unpaid under this 
+clause (f)(ii).  As funds attributable to an Unsecured Municipal Transmission 
+Default Amount are received by the ISO (including amounts received through 
+financial assurances provided under the ISO New England Financial Assurance 
+Policy or through actions or proceedings commenced against the defaulting 
+Covered Entity) after such adjusted Transmission Statements are distributed, 
+such funds, together with any interest and late charges collected on the applicable 
+Unsecured Municipal Transmission Default Amount, shall be distributed to the 
+Unsecured Municipal Market Participants pro rata based on their allocation of the 
+Unsecured Municipal Transmission Default Amount under this clause (f)(ii), up 
+to the full amount of such Unsecured Municipal Transmission Default Amount 
+allocated to each such Unsecured Municipal Market Participant, with interest 
+thereon. 
+(iii) 
+An Unsecured Municipal Market Participant will not be allocated any Unsecured 
+Municipal Transmission Default Amounts under this Section 3.4(f) for any 
+Transmission Default Period if, at the start of the calendar year in which the 
+applicable Transmission Default Period occurred, that Unsecured Municipal 
+Market Participant provided the ISO with a written request to opt out of that 
+allocation of Unsecured Municipal Transmission Default Amounts and that 
+Unsecured Municipal Market Participant provides the ISO with additional 
+financial assurance in the full amount of all of its “Transmission Obligations” 
+under the ISO New England Financial Assurance Policy at all times during that 
+calendar year. 
+ 
+g) 
+Reduction of Payments and Increases in Transmission Charges for Unsecured 
+Non-Municipal Covered Entities. 
+(i) 
+If and to the extent that (A) the defaulting Covered Entity is an Unsecured Non-
+Municipal Covered Entity and (B) the procedures described in clauses (a), (b), 
+(c), (d), and (e) above do not yield sufficient funds to pay all Remittance Advice 
+amounts for Transmission Charges in full on the date such Payments are due, the 
+ISO shall reduce Payments to all Unsecured Non-Municipal Covered Entities 
+owed monies for the applicable Transmission Default Period, pro rata based on 
+the Transmission Charges owed to those Unsecured Non-Municipal Covered 
+Entities, to the extent necessary to clear its accounts for Transmission Charges 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+due to Unsecured Non-Municipal Covered Entities by the close of banking 
+business on the date such Payments are due; provided, however, that the total 
+amount of reduced Payments under this Section 3.4(g) shall not exceed the 
+defaulting Unsecured Non-Municipal Covered Entity’s Transmission Credit 
+Limit under the ISO New England Financial Assurance Policy (such total amount 
+of reduced Payments being referred to as the “Unsecured Non-Municipal 
+Transmission Default Amount”).  As funds attributable to an Unsecured Non-
+Municipal Transmission Default Amount are received by the ISO (including 
+amounts received through financial assurances provided under the ISO New 
+England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) prior to the next billing 
+period’s Transmission Statements being distributed, such funds, together with 
+any interest and late charges collected on the applicable Unsecured Non-
+Municipal Transmission Default Amount, shall be distributed pro rata to the 
+Unsecured Non-Municipal Covered Entities that did not receive the full amount 
+of their Payments as a result of such Unsecured Non-Municipal Transmission 
+Default Amount not being paid, up to the full amount that such Unsecured Non-
+Municipal Covered Entities did not receive as a result of such Unsecured Non-
+Municipal Transmission Default Amount not being paid, with interest thereon. 
+(ii) 
+To the extent that any Unsecured Non-Municipal Transmission Default Amount 
+remains unpaid to Unsecured Non-Municipal Covered Entities on the date that 
+Transmission Statements are distributed to Covered Entities in the billing period 
+immediately following the Transmission Default Period, the Unsecured Non-
+Municipal Transmission Default Amount remaining unpaid shall be reallocated 
+among all of the Unsecured Non-Municipal Covered Entities receiving 
+Transmission Statements for Transmission Charges for the Transmission Default 
+Period (other than the Unsecured Non-Municipal Covered Entity defaulting on its 
+payment obligations), pro rata based, for each Unsecured Non-Municipal 
+Covered Entity being allocated a share of the Unsecured Non-Municipal 
+Transmission Default Amount remaining unpaid, on the sum of (i) all 
+Transmission Charges due from such Unsecured Non-Municipal Covered Entity 
+that are reflected on its Transmission Statement for the Transmission Default 
+Period and (ii) all Payments for Transmission Charges due to such Unsecured 
+Non-Municipal Covered Entity that are reflected on its Transmission Statement 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+for the Transmission Default Period, without giving any effect to the process of 
+netting Charges against Payments on each Transmission Statement that is the 
+result of the ISO’s single billing system.  Thus, by way of example, an 
+Unsecured Non-Municipal Covered Entity with $2,000 of Transmission Charges 
+and no Payments on its Transmission Statement for the Transmission Default 
+Period and an Unsecured Non-Municipal Covered Entity with $1,000 of 
+Transmission Charges and $1,000 of Payments for Transmission Charges on its 
+Transmission Statement for the Transmission Default Period would be allocated 
+an equal share of the unpaid Unsecured Non-Municipal Transmission Default 
+Amount under this clause (g)(ii).  Each Unsecured Non-Municipal Covered 
+Entity that received a Transmission Statement for the Transmission Default 
+Period shall have the amount of its Invoice or Remittance Advice in the billing 
+period immediately following the Transmission Default Period adjusted as 
+necessary to reflect its obligation for the Unsecured Non-Municipal Transmission 
+Default Amount remaining unpaid under this clause (g)(ii).  As funds attributable 
+to an Unsecured Non-Municipal Transmission Default Amount are received by 
+the ISO (including amounts received through financial assurances provided under 
+the ISO New England Financial Assurance Policy or through actions or 
+proceedings commenced against the defaulting Covered Entity) after such 
+adjusted Transmission Statements are distributed, such funds, together with any 
+interest and late charges collected on the applicable Unsecured Non-Municipal 
+Transmission Default Amount, shall be distributed to the Unsecured Non-
+Municipal Covered Entities pro rata based on their allocation of the Unsecured 
+Non-Municipal Transmission Default Amount under this clause (g)(ii), up to the 
+full amount of such Unsecured Non-Municipal Transmission Default Amount 
+allocated to each such Unsecured Non-Municipal Covered Entity, with interest 
+thereon. 
+(iii) 
+An Unsecured Non-Municipal Covered Entity will not be allocated any 
+Unsecured Non-Municipal Transmission Default Amounts under this Section 
+3.4(g) for any Transmission Default Period if, at the start of the calendar year in 
+which the applicable Transmission Default Period occurred, that Unsecured Non-
+Municipal Covered Entity provided the ISO with a written request to opt out of 
+that allocation of Unsecured Non-Municipal Transmission Default Amounts and 
+that Unsecured Non-Municipal Covered Entity provides the ISO with additional 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+financial assurance in the full amount of all of its “Transmission Obligations” 
+under the ISO New England Financial Assurance Policy all times during that 
+calendar year. 
+ 
+h) 
+Reduction of Payments and Increases in Transmission Charges for Other 
+Covered Entities. 
+(i) 
+If and to the extent that (A) the defaulting Covered Entity is not an Unsecured 
+Covered Entity or the Transmission Default Amount for that Covered Entity 
+exceeds the Unsecured Municipal Transmission Default Amount or the 
+Unsecured Non-Municipal Transmission Default Amount (referred to together 
+herein as the “Unsecured Transmission Default Amount”) for that Covered Entity 
+and (B) the procedures described in clauses (a), (b), (c), (d), (e) and (f) or (g) (if 
+applicable) above do not yield sufficient funds to pay all Remittance Advice 
+amounts for Transmission Charges in full on the date such Payments are due, the 
+ISO shall reduce Payments to those Covered Entities owed monies for 
+Transmission Charges for that Transmission Default Period, pro rata based on the 
+amounts owed to all Covered Entities, to the extent necessary to clear its 
+accounts for Transmission Charges by the close of banking business on the date 
+such Payments are due (after giving effect to clauses (f) and (g) above if 
+applicable) (the amount of such reduction in Payments for Transmission Charges 
+after giving effect to clauses (f) and (g) above (if applicable) is referred to herein 
+as the “Uncovered Transmission Default Amount”).  For the avoidance of doubt, 
+the Uncovered Transmission Default Amount is equal to the Transmission 
+Default Amount minus any Unsecured Transmission Default Amount.  As funds 
+attributable to an Uncovered Transmission Default Amount are received by the 
+ISO (including amounts received through financial assurance provided under the 
+ISO New England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) prior to the next billing 
+period’s Transmission Statements being distributed, such funds, together with 
+any interest and late charges collected on the applicable Transmission Default 
+Amount, shall be distributed pro rata to the Covered Entities that did not receive 
+the full amount of their Payments as a result of such Uncovered Transmission 
+Default Amount not being paid, up to the full amount that such Covered Entities 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+did not receive as a result of such Uncovered Transmission Default Amount not 
+being paid, with interest thereon. 
+(ii) 
+To the extent that any amount of an Uncovered Transmission Default Amount 
+remains unpaid to Covered Entities on the date that Transmission Statements are 
+distributed to Covered Entities in the billing period immediately following the 
+Transmission Default Period, the Uncovered Transmission Default Amount 
+remaining unpaid shall be reallocated among all the Covered Entities receiving 
+Transmission Statements for Transmission Charges for the Transmission Default 
+Period (other than the Covered Entity defaulting on its payment obligations), pro 
+rata based, for each Covered Entity being allocated a share of the Uncovered 
+Transmission Default Amount remaining unpaid, on the sum of (i) all 
+Transmission Charges due from such Covered Entity that are reflected on its 
+Transmission Statement for the Transmission Default Period and (ii) all 
+Payments due to such Covered Entity that are reflected on its Transmission 
+Statement for the Transmission Default Period, without giving any effect to the 
+process of netting Charges against Payments on each Transmission Statement 
+that is the result of the ISO’s single billing system.  Thus, by way of example, a 
+Covered Entity with $2,000 of Transmission Charges and no Payments on its 
+Transmission Statement for the Transmission Default Period and a Covered 
+Entity with $1,000 of Transmission Charges and $1,000 of Payments on its 
+Transmission Statement for the Transmission Default Period would be allocated 
+an equal share of the unpaid Uncovered Transmission Default Amount under this 
+clause (h)(ii).  Each Covered Entity that received a Transmission Statement for 
+the Default Period shall have the amount of its Invoice or Remittance Advice in 
+the billing period immediately following the Transmission Default Period 
+adjusted as necessary to reflect its obligation for the Uncovered Transmission 
+Default Amount remaining unpaid under this clause (h)(ii).  As funds attributable 
+to an Uncovered Transmission Default Amount are received by the ISO 
+(including amounts received through financial assurances provided under the ISO 
+New England Financial Assurance Policy or through actions or proceedings 
+commenced against the defaulting Covered Entity) after such adjusted 
+Transmission Statements are distributed, such funds, together with any interest 
+and late charges collected on the applicable Uncovered Transmission Default 
+Amount, shall be distributed to the Covered Entities pro rata based on their 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+allocation of the Uncovered Transmission Default Amount under this clause 
+(h)(ii), up to the full amount of such Uncovered Transmission Default Amount 
+allocated to each such Covered Entity, with interest thereon. 
+ 
+i) 
+Order of Settlement. 
+As amounts on Transmission Default Amounts are received by the ISO, the 
+oldest outstanding Transmission Charges will be settled first in the order of the 
+creation of such debts. 
+ 
+Section 3.5 -Enforcement of Payment Obligations Against Defaulting Covered Entities.  Each 
+Covered Entity that shared in any shortfall in payments under Section 3.3 or Section 3.4 shall 
+have an independent right to seek and obtain payment and recovery of the amount of its share of 
+such shortfall (the “Allocated Assessment”) from the defaulting Covered Entity.  Each Covered 
+Entity consents to other Covered Entities’ having this independent right.  Any Covered Entity that 
+recovers any portion of its Allocated Assessment from a defaulting Covered Entity shall promptly 
+so notify the ISO, and such Covered Entity’s share of any recovery of a shortfall in payments 
+hereunder shall be reduced by the amount of its Allocated Assessment that it recovers on its own.  
+In addition to any amounts in default, the defaulting Covered Entity shall be liable to the ISO and 
+each other Covered Entity for all reasonable costs incurred in enforcing the defaulting Covered 
+Entity’s obligations. 
+ 
+Section 3.6 – Set-Off. The ISO shall apply any amount to which any defaulting Covered Entity is 
+or will be entitled for ISO Charges or Transmission Charges toward the satisfaction of any of that 
+defaulting Covered Entity’s debts to NEPOOL or to the ISO for ISO Charges or Transmission 
+Charges which are incurred under the Governing Documents, including the ISO New England 
+Financial Assurance Policy; provided that amounts due for ISO Charges will first be applied to 
+ISO Charges then, to the extent of any excess, to Transmission Charges, and amounts due for 
+Transmission Charges will be first applied to Transmission Charges then, to the extent of any 
+excess, to ISO Charges. 
+ 
+Section 3.7 – Notice and Suspension.  Without limiting any of the other remedies described 
+above, in the event that the ISO, in its reasonable opinion, believes that all or any part of any 
+amount due to be paid by any Covered Entity for ISO Charges (other than NEPOOL GIS API 
+Fees) or Transmission Charges will not be or has not been paid when due, the ISO (on its own 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+behalf or on behalf of the Covered Entities) may (but shall not be required to) notify such 
+Covered Entity in writing, electronically and by first class mail sent in each case to such Covered 
+Entity’s billing contact, of such payment default.  If a payment default (other than a payment 
+default relating solely to NEPOOL GIS API Fees) is not cured by 10:00 a.m. Eastern Time on the 
+Business Day immediately following the Business Day when such payment was originally due, 
+the ISO shall notify such Market Participant, the NEPOOL Budget and Finance Subcommittee, 
+all members and alternates of the Participants Committee, the New England governors and utility 
+regulatory agencies and the credit and billing contacts for all Market Participants of (i) the 
+identity of the Covered Entity receiving such notice, (ii) whether such notice relates to a payment 
+default, (iii) whether the defaulting Covered Entity has a registered load asset, and (iv) the actions 
+the ISO plans to take and/or has taken in response to such payment default.  In addition, the ISO 
+will provide any additional information with respect to such payment default as may be required 
+under the ISO New England Information Policy.  If a payment default (other than a payment 
+default relating solely to NEPOOL GIS API Fees) is not cured by 8:30 a.m., Eastern Time, of the 
+second Business Day after the date when such payment was originally due, the defaulting 
+Covered Entity shall be suspended pursuant to the suspension provisions of the ISO New England 
+Financial Assurance Policy (which will apply to the defaulting Covered Entity regardless of 
+whether it is a “Municipal Market Participant” or a “Non-Municipal Market Participant” under 
+the ISO New England Financial Assurance Policy).  Such defaulting Covered Entity shall be 
+suspended as described in the ISO New England Financial Assurance Policy until such payment 
+default has been cured in full. If the ISO has issued a notice that a Covered Entity has defaulted 
+on a payment obligation and that Covered Entity subsequently cures that payment default, such 
+Covered Entity may request the ISO to issue a notice stating such fact; provided, however, that 
+the ISO shall not be required to issue that notice unless, in its sole discretion, the ISO determines 
+that such payment default has been cured and such Covered Entity has no other outstanding 
+payment defaults. 
+ 
+If either (x) a Covered Entity is suspended from the New England Markets as a result of a 
+payment default as described in this Section  3.7 as a result of a payment default involving ISO 
+Charges or (y) a Covered Entity receives more than five notices of payment defaults with respect 
+to ISO Charges in any rolling 12-month period, then such Covered Entity shall pay a $1,000 
+penalty for such suspension and for each notice after the fifth notice in a rolling 12-month period.  
+All penalties paid under this paragraph shall be deposited in the Late Payment Account. 
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Section 3.8– Bankruptcy Filings.  In the event any Covered Entity files a voluntary or involuntary 
+petition in bankruptcy or commences a proceeding under the United States Bankruptcy Code or 
+any other applicable law concerning insolvency, reorganization or bankruptcy by or against such 
+Covered Entity as debtor (the “Bankruptcy Event”) and the ISO is required to return any 
+payments made by such Covered Entity to the bankruptcy court having jurisdiction over such 
+Bankruptcy Event, the ISO may avail itself of any emergency funding provisions in the 
+Transmission, Markets and Services Tariff to collect the amounts returned by the ISO. 
+ 
+Section 3.9 – Partial Payments of Combined Invoices.  If ISO Charges and Transmission Charges 
+are included on the same Invoice and the Covered Entity pays only a portion of the Charges 
+included in that Invoice, then the ISO shall use monies received by it from that Covered Entity (i) 
+first to pay all amounts due from that Covered Entity to the ISO under Section IV of the 
+Transmission, Markets and Services Tariff, to NEPOOL for Participant Expenses, and to the ISO 
+for acting as Project Manager for the NEPOOL GIS before making any payments to any Covered 
+Entities, then (ii) then to pay all amounts due for that Covered Entity’s share, if any, of the 
+amounts due to the NEPOOL GIS Administrator (other than NEPOOL GIS API Fees), (iii) then 
+to pay all amounts due from that Covered Entity with respect to the Shortfall Funding 
+Arrangement, and (iv) then, to the extent of any remaining amounts received from that Covered 
+Entity, those amounts will be allocated to the ISO Charges and Transmission Charges on that 
+Invoice pro rata based on the total amount of each set of Charges on that Invoice, subject to 
+Section 3.3(l) with respect to Charges for Qualification Process Cost Reimbursement Deposits 
+and/or Charges for NEPOOL GIS API Fees.  Notwithstanding the foregoing, a partial payment of 
+any Invoice shall be a payment default. 
+ 
+3.10 – Sharing of Financial Assurance.  If the financial assurance(s) provided by a Covered Entity 
+under the ISO New England Financial Assurance Policy are insufficient to effect payment of all 
+ISO Charges and Transmission Charges that are due on the same date and which have not been 
+paid by that Covered Entity, the ISO shall allocate the amounts available under those financial 
+assurance(s) as follows: 
+ 
+i.   
+first to pay all amounts due from that Covered Entity to the ISO under Section IV 
+of the Transmission, Markets and Services Tariff, to NEPOOL for Participant 
+Expenses, and to the ISO for acting as Project Manager of the NEPOOL GIS; 
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ii. 
+second, to pay all amounts due for that Covered Entity’s share, if any, of the 
+amounts due to the NEPOOL GIS Administrator (other than NEPOOL GIS API 
+Fees); 
+ 
+iii. 
+third, to pay all amounts due from that Covered Entity with respect to the 
+Shortfall Funding Arrangement; 
+ 
+iv. 
+fourth, to the Covered Entity’s Charges for FTR transactions, up to the FTR 
+Financial Assurance Requirements calculated for that Covered Entity by the ISO 
+on the last day of the billing period for which the payment default has occurred; 
+and 
+ 
+v. 
+fifth, to the remaining unpaid ISO Charges and the unpaid Transmission Charges 
+owed by that Covered Entity pro rata based on the total amount of each set of 
+Charges due, subject to Section 3.3(l) with respect to Charges for Qualification 
+Process Cost Reimbursement Deposits and/or Charges for NEPOOL GIS API 
+Fees. 
+ 
+Section 3.11 – Allocation of Payment Defaults to Other Groups.  In some cases, the Default 
+Amount or the Transmission Default Amount may exceed the amounts owed to the specified 
+Covered Entities that are to receive less than the full Payments due to them pursuant to Section 
+3.3(h)(i), Section 3.3(i)(i), Section 3.4(f)(i) or Section 3.4(g)(i).  In such an event, the ISO will 
+reduce the Payments due to Covered Entities pursuant to Section 3.3(j)(i) (for ISO Charges) or 
+Section 3.4(h)(i) (for Transmission Charges) to the extent necessary for the ISO to clear its 
+accounts for ISO Charges or Transmission Charges by the close of banking business on the date 
+the applicable Payments are due.  Any amount allocated to Covered Entities under the preceding 
+sentence will be invoiced to and collected from the appropriate Covered Entities under Section 
+3.3(h)(ii), Section 3.3(i)(ii), Section 3.4(f)(ii) or Section 3.4(g)(ii) in the billing period 
+immediately following the billing period in which that allocation occurred.  
+ 
+Section 3.12 – Other Rights Against Defaulting Parties. Nothing set forth in the ISO New 
+England Billing Policy shall nullify, restrict or otherwise limit the rights and remedies of the ISO, 
+NEPOOL and the Covered Entities against a defaulting Covered Entity that are set forth in the 
+Governing Documents, including the ISO New England Financial Assurance Policy or otherwise, 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+including without limitation any late payment charges or rights to terminate or limit trading rights 
+of the defaulting Covered Entity, to the extent such rights and remedies otherwise exist.  
+ 
+SECTION 4 – LATE PAYMENT CHARGE; LATE PAYMENT ACCOUNT  
+ 
+Section 4.1 -Late Payment Charge.  
+ 
+(a) 
+If a Covered Entity is delinquent two or more times within any period of 12 
+months in paying on time its ISO Charges, such Covered Entity shall pay, in 
+addition to interest on each such late payment, a late payment charge for its 
+second failure to pay on time, and for each subsequent failure to pay on time 
+within the same 12-month period (a “Late Payment Charge”) in an amount equal 
+to the greater of (i) two percent (2%) of the total amount of such late payment or 
+(ii) $500.00.  In the case of a former Market Participant that applies again for 
+membership in the ISO, a determination of delinquency shall be based on the 
+Market Participant’s history of payment of its ISO Charges in its last 12 months 
+of membership.  
+ 
+(b) 
+If a Covered Entity is delinquent two or more times within any period of 12 
+months in paying on time its Transmission Charges, such Covered Entity shall 
+pay, in addition to interest on each such late payment, a late payment charge for 
+its second failure to pay on time, and for each subsequent failure to pay on time 
+within the same 12-month period (a “Transmission Late Payment Charge”) in an 
+amount equal to the greater of (i) two percent (2%) of the total amount of such 
+late payment or (ii) $500.00.  In the case of a former Market Participant that 
+applies again for membership in the ISO, a determination of delinquency shall be 
+based on the Market Participant’s history of payment of its Transmission Charges 
+in its last 12 months of membership. 
+ 
+Section 4.2 -Late Payment Account; Transmission Late Payment Account.   
+ 
+(a) 
+Interest collected on late payments of ISO Charges shall be allocated and paid to 
+the Covered Entities to whom such late payments are due, pro rata in accordance 
+with the amount due to each such Covered Entity.  Late Payment Charges that 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+are collected and not distributed to the Covered Entities under the ISO New 
+England Billing Policy and penalties collected under the ISO New England 
+Financial Assurance Policy shall be deposited by the ISO into a segregated 
+interest-bearing account (the “Late Payment Account”) for disbursement in 
+accordance with Section 3.3 of the ISO New England Billing Policy; provided, 
+however, that in no event shall the amount in the Late Payment Account, 
+including interest accrued thereon, at any time exceed $1,000,000 or other 
+amount determined from time to time by the Participants Committee (the “Late 
+Payment Account Limit”).  Any amount in the Late Payment Account (including 
+interest thereon) in excess of the Late Payment Account Limit shall be distributed 
+to the Market Participants, no more frequently than quarterly, pro rata based on 
+their ISO Charges in the month preceding the month in which such distribution is 
+to be made; provided, however that no amount from the Late Payment Account 
+shall be distributed to any Market Participant in payment default at the time of 
+such distribution.  
+ 
+(b) 
+Interest collected on late payments of Transmission Charges shall be allocated 
+and paid to the Covered Entities to whom such late payments are due, pro rata in 
+accordance with the amount due to each such Covered Entity.  Transmission Late 
+Payment Charges that are collected and not distributed to the Covered Entities 
+under the ISO New England Billing Policy shall be deposited by the ISO into a 
+segregated interest-bearing account (the “Transmission Late Payment Account”) 
+for disbursement in accordance with Section 3.4 of the ISO New England Billing 
+Policy; provided, however, that in no event shall the amount in the Transmission 
+Late Payment Account, including interest accrued thereon, at any time exceed 
+$1,000,000 or other amount determined from time to time by the Participants 
+Committee (the “Transmission Late Payment Account Limit”).  Any amount in 
+the Transmission Late Payment Account (including interest thereon) in excess of 
+the Transmission Late Payment Account Limit shall be distributed to the Market 
+Participants, no more frequently than quarterly, pro rata based on their 
+Transmission Charges in the month preceding the month in which such 
+distribution is to be made; provided, however that no amount from the 
+Transmission Late Payment Account shall be distributed to any Market 
+Participant in payment default at the time of such distribution. 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ 
+SECTION 5 – SHORTFALL FUNDING ARRANGEMENTS:  PAYMENT DEFAULT 
+SHORTFALL FUND  
+ 
+Section 5.1 – Purpose and Creation of the Shortfall Funding Arrangement and the Payment 
+Default Shortfall Fund. The ISO, acting in consultation with the NEPOOL Budget and Finance  
+Subcommittee and NEPOOL’s Independent Financial Advisor, will arrange separate financing 
+(the “Shortfall Funding Arrangement”) that can be used to make up any non-congestion related 
+differences between ISO Charges received on Invoices and amounts due for ISO Charges in any 
+week and as set forth in Sections 3.3 and 3.4.  The Shortfall Funding Arrangement may be 
+effected through third-party financing, through the creation of a special purpose funding entity, 
+through Participant-provided funds or through some other arrangement agreed upon by the ISO, 
+the NEPOOL Budget and Finance Subcommittee and NEPOOL’s Independent Financial Advisor.  
+If and to the extent that, at any time, the Shortfall Funding Arrangement is not available (because, 
+solely for example, it has not been arranged, it does not have sufficient funds available, it has 
+expired or it has been terminated prior to its maturity), the ISO shall create a Payment Default 
+Shortfall Fund that will provide for such non-congestion related difference between ISO Charges 
+received on Invoices and amounts due for ISO Charges in any week and for payments in 
+accordance with Section 3.3 and 3.4.  The Shortfall Funding Arrangement and/or the Payment 
+Default Shortfall Fund shall be in addition to and not a replacement for the Late Payment 
+Account or the Transmission Late Payment Account described above.  
+ 
+Section 5.2 -Participant Rights with respect to a Participant Financial Payment Default Shortfall 
+Fund. To the extent that the Payment Default Shortfall Fund is in existence at any time, each 
+Participant funding the Payment Default Shortfall Fund at such time would retain title to its share 
+of amounts in the Payment Default Shortfall Fund and any interest accrued on those amounts on a 
+pro rata basis based on the funds in the Payment Default Shortfall Fund provided by it.  Each 
+Participant will receive a monthly report that will identify the amount of funds in the Payment 
+Default Shortfall Fund that belong to that Participant and the amount of interest accrued thereon.  
+As Participants withdraw from or otherwise terminate membership in the ISO, the ISO would pay 
+to such Participants their share, if any, of the amounts in the Payment Default Shortfall Fund, 
+with interest.  To the extent that the balance in the Payment Default Shortfall Fund exceeds the 
+Required Balance, the excess will be refunded to Participants on a quarterly basis pro rata based 
+on their share of the funds in the Payment Default Shortfall Fund.  
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ 
+Section 5.3 – Available Amount of Shortfall Funding Arrangement; Initial Funding of the 
+Payment Default Shortfall Fund. The available amount of the Shortfall Funding Arrangement, 
+combined with any amount on deposit in the Payment Default Shortfall Fund, shall be equal to 
+the amount of a hypothetical Invoice at the 97th percentile of the average amounts due on 
+Invoices rendered to Market Participants over the six calendar months preceding the calculation 
+or a lesser amount as set by the ISO from time to time in consultation with the NEPOOL Budget 
+and Finance Subcommittee (the “Required Balance”), which amount shall be calculated and 
+adjusted by the ISO on a quarterly basis.  To the extent that on any Business Day immediately 
+following the date on which Payments for Non-Hourly Charges are due, either the Shortfall 
+Funding Arrangement has not been established or the available amount of the Shortfall Funding 
+Arrangement is less than the Required Balance, the ISO shall establish the Payment Default 
+Shortfall Fund, and the Participants shall be responsible for initially funding the Payment Default 
+Shortfall Fund in an amount equal to the Required Balance less the available amount, if any, of 
+the Shortfall Funding Arrangement on such date (the “Participant Required Balance”).  The ISO, 
+in consultation with NEPOOL’s Independent Financial Advisor, shall notify the Market 
+Participants promptly if they believe that the available amount of the Shortfall Funding 
+Arrangement is not, or is reasonably likely not to be, at least equal to the Required Balance, and 
+the ISO will endeavor to arrange a supplement to any existing Shortfall Funding Arrangement at 
+least to the extent required to fund such shortfall.  The Market Participant Required Balance shall 
+initially be funded by the Market Participants pro rata in accordance with the methodology used 
+for the shortfall allocation process in Section 3.3(j)(ii) and Section 3.4(h)(ii) of the ISO New 
+England Billing Policy (but based on Charges and Payments due over the three months 
+immediately preceding the establishment of the Payment Default Shortfall Fund).  A Participant’s 
+Payment Default Shortfall Fund payment obligation shall be identified as a separate line item on 
+its Statements and Transmission Statements. 
+ 
+Section 5.4  Continued Shortfall Fund Funding Obligations; Payments on Shortfall Funding  
+Arrangement.  
+(a) 
+The ISO will reallocate the Market Participants’ overall obligation with respect 
+to the amounts in the Payment Default Shortfall Fund, if any, annually on each 
+anniversary of the Effective Date in accordance with the methodology used for 
+shortfall allocation process in Section 3.3(j)(ii) and Section 3.4(h)(ii) of the ISO 
+New England Billing Policy (but based on the Charges and Payment due in the 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+preceding calendar year), with payments from and refunds to Market Participants 
+that have underfunded or overfunded, respectively, the Payment Default Shortfall 
+Fund based on that annual reallocation.  
+ 
+(b) 
+If the sum of the available amount of the Shortfall Funding Arrangement and the 
+balance in the Payment Default Shortfall Fund (the “Total Available Amount”) 
+drops below 90 percent of the Required Balance at any time because of Market 
+Participant terminations (but not because of draws on the Shortfall Funding 
+Arrangement or the Payment Default Shortfall Fund or adjustments to the 
+Required Balance), each Market Participant would be required to contribute a 
+share of the funds needed to restore the Total Available Amount to the Required 
+Balance.  A Market Participant’s pro rata share of that obligation would be 
+determined in accordance with the methodology used for shortfall allocation 
+process in Section 3.3(j)(ii) and Section 3.4(h)(ii) of the ISO New England 
+Billing Policy (but based on Charges and Payments due for the three months 
+immediately preceding the date of that funding). 
+ 
+(c) 
+ If (i) the ISO draws on the Shortfall Funding Arrangement and/or the Payment 
+Default Shortfall Fund and the amount drawn, together with interest and fees 
+thereon, is not replaced through payments on the payment default by the date on 
+which the ISO next issues an Invoice that includes Non-Hourly Charges, or (ii) 
+the Required Balance is increased as a result of quarterly adjustments, that next 
+Invoice for Non-Hourly Charges will include a charge for Covered Entities 
+necessary to restore the Total Available Amount to the Required Balance.  That 
+charge will be allocated among the Covered Entities according to the 
+methodology used for the shortfall allocation process in Section 3.3(j)(ii) and 
+Section 3.4(h)(ii) of the ISO New England Billing Policy with respect to the 
+specific payment default.  If payments on a payment default are received after the 
+amount drawn from the Shortfall Funding Arrangement and/or the Payment 
+Default Shortfall Fund for that payment default has been refunded, the amount of 
+the payment default so received shall be allocated and paid to the Covered 
+Entities providing that funding according to the methodology of Section 3.3(j)(ii) 
+and Section 3.4(h)(ii) of the ISO New England Billing Policy.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+(d) 
+In addition to the other obligations described in this Section 5.4, each Market 
+Participant shall be charged a pro rata share of all interest, fees and other 
+expenses incurred in connection with the Shortfall Funding Arrangement to the 
+extent that such interest, fees and expenses are not paid by a Covered Entity with 
+respect to a payment default.  The pro rata allocation of fees and expenses 
+described herein shall be made on the same basis as set forth in Section 5.4(c) 
+above.  A Market Participant’s obligation with respect to the Shortfall Funding 
+Arrangement shall be identified as a separate line item on its statements.  
+ 
+(e) 
+Without limiting the generality of Section 3.3 and Section 3.4, to the extent that a 
+Covered Entity fails to pay an Invoice, requiring a draw on the Shortfall Funding 
+Arrangement, that Covered Entity shall be required to pay the amount of such 
+draw, plus any interest accrued thereon and premium or other fees or expenses 
+with respect thereto.  
+ 
+Section 5.5 -Payment Default Shortfall Fund Account. Funds collected as Market Participant 
+contributions to the Payment Default Shortfall Fund shall be deposited by the ISO into a 
+segregated interest-bearing account.  
+ 
+SECTION 6 -BILLING DISPUTE PROCEDURES.  
+ 
+Section 6.1 -Requested Billing Adjustments Eligible for Resolution under Billing Dispute 
+Procedures. Any Covered Entity may dispute the amount due on any fully paid monthly Invoice 
+and/or any amount believed to be due or owed on a Remittance Advice (a “Disputed Amount”).  
+Such party (a “Disputing Party”) shall seek to recover such Disputed Amount, including accrued 
+interest, pursuant to this Section 6, by first submitting a request for billing adjustment to the ISO 
+(a “Requested Billing Adjustment” or “RBA”) in accordance with the procedures provided in this 
+Section 6.  A Disputing Party may seek resolution of a Requested Billing Adjustment under this 
+Section 6 concerning any Disputed Amount resulting from the determination of a market clearing 
+price or Transmission, Markets and Services Tariff rate by the ISO that allegedly either violates 
+or is otherwise inconsistent with the Transmission, Markets and Services Tariff, or results from 
+error by the ISO, and provided that a request for a correction of a Meter Data Error shall not be 
+considered a Requested Billing Adjustment for purposes of the ISO New England Billing Policy, 
+and requests for corrections of Meter Data Errors will be handled exclusively through the 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+procedures set out in Market Rule 1.  Notwithstanding the foregoing, a Requested Billing 
+Adjustment must involve a requested change in an amount owed or believed to be owed in a 
+Remittance Advice that is not covered by another alternative dispute resolution procedure under 
+the Transmission, Markets and Services Tariff.  Furthermore, a Requested Billing Adjustment 
+must not involve Disputed Amounts paid on an Invoice for Non-Hourly Charges pursuant to the 
+ISO New England Financial Assurance Policy, provided, however, that this provision shall not 
+preclude a Disputing Party from submitting a Requested Billing Adjustment for a Disputed 
+Amount on a fully paid monthly Invoice for Non-Hourly Charges which has been paid pursuant 
+to an Invoice for Non-Hourly Charges in that month.  
+ 
+Section 6.2 -Effect of the ISO New England Billing Policy on Rights of Market Participant, PTO, 
+or Non-Market Participant Transmission Customer with Respect to a Disputed Amount.  Except 
+as otherwise set forth in this Section 6.2, nothing in this Section 6 shall in any way abridge the 
+right of any Covered Entity to seek legal or equitable relief under the Federal Power Act and/or 
+any other applicable laws with respect to any Disputed Amount.  Prior to commencing a 
+proceeding before the Commission or other regulatory or judicial authority with jurisdiction to 
+resolve the dispute which is the subject of the Requested Billing Adjustment, the Disputing Party 
+must first submit the Requested Billing Adjustment to the ISO for review pursuant to Section 6.3 
+of the ISO New England Billing Policy.  
+ 
+Section 6.3 – ISO Review of Requested Billing Adjustment.  
+ 
+Section 6.3.1 – Submission of Requested Billing Adjustment to the ISO; Required Contents of 
+Requested Billing Adjustment. A Disputing Party shall submit a Requested Billing Adjustment in 
+writing to Participant Support and Solutions at the ISO via its support system.  A Requested 
+Billing Adjustment will be deemed received once an acknowledgement and/or a case number has 
+been assigned and transmitted to the Disputing Party.  In its Requested Billing Adjustment, the 
+Disputing Party must specify:  (a) the Disputed Amount at issue, (b) the instance of alleged error 
+at issue, including a statement detailing the specific provisions of all applicable governing 
+documents that support the Requested Billing Adjustment, and (c) the specific person or persons 
+to whom all communications to the Disputing Party regarding the Requested Billing Adjustment 
+are to be addressed.  A Disputing Party must submit its Requested Billing Adjustment within 
+three months of the date that the Invoice or Remittance Advice containing the Disputed Amount 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+was issued by the ISO unless the Disputing Party could not have reasonably known of the 
+existence of the alleged error within such time.   
+ 
+Section 6.3.2 – Notice of ISO Review of Requested Billing Adjustment. Within three Business 
+Days of the receipt ISO Participant Support and Solutions by of a Requested Billing Adjustment, 
+the ISO shall prepare and submit to all Covered Entities and to the Chair of the NEPOOL Budget 
+and Finance Subcommittee a notice of the Requested Billing Adjustment (“Notice of RBA”), 
+including, subject to the protection of Confidential Information, the specifics of the Requested 
+Billing Adjustment.  The Notice of RBA shall identify a specific representative of the ISO to 
+whom all communications regarding the Requested Billing Adjustment are to be sent.  
+ 
+Section 6.3.3 – ISO Review of Requested Billing Adjustments. The ISO shall complete its review 
+of a Requested Billing Adjustment received pursuant to Section 6.3 within twenty (20) Business 
+Days of the date the ISO distributes the Notice of RBA.  To the extent that either party makes 
+such a request and both parties agree to such request, the ISO and Disputing Party may meet or 
+otherwise confer during this period in an effort to resolve the Requested Billing Adjustment.   
+ 
+Section 6.3.4 – Comment Period. Any Covered Entity which desires to do so, or NEPOOL if it 
+desires to do so, may submit to the ISO’s designated representative, on or before the tenth (10th) 
+Business Day following the date the ISO distributes the Notice of RBA, written comments to the 
+ISO with respect to the Requested Billing Adjustment.  Any such comments are to be transmitted 
+simultaneously to the Disputing Party.  The Disputing Party may respond to any such comments 
+by submitting a written response to the ISO’s designated representative and to the commenting 
+party on or before the fifteenth (15th) Business Day following the date the ISO distributes the 
+Notice of RBA.  In determining the action it will take with respect to the Requested Billing 
+Adjustment, the ISO shall consider the written response filed by the Disputing Party.  The ISO 
+may but is not required to consider any written comments that are filed by any other interested 
+party.  
+ 
+Section 6.3.5 – ISO Action on Requested Billing Adjustment. The ISO shall provide to the 
+Disputing Party and to the Chair of the NEPOOL Budget and Finance Subcommittee a written 
+decision (the “RBA Decision”) accepting or denying a Requested Billing Adjustment received 
+pursuant to this Section 6.3 within twenty (20) Business Days of the date the ISO distributes the 
+Notice of RBA, unless some later date is agreed upon by the Disputing Party and the ISO.  The 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ISO shall provide written notice and a copy of each RBA Decision to each Covered Entity either 
+eligible for reimbursement, denied reimbursement of a Disputed Amount or required to provide 
+reimbursement of a Disputed Amount because of an RBA Decision (hereafter referred to as an 
+“Affected Party” or the “Affected Parties”) within five (5) Business Days of the date the RBA 
+Decision is rendered.  In providing such notice to any Affected Party required to provide 
+reimbursement of a Disputed Amount, the ISO shall specify the amount to be reimbursed by such 
+Affected Party and the calculations supporting the determination of such reimbursement amount.  
+Subsequent to the provision of the written notice of the RBA Decision as set forth above, the ISO 
+shall provide each Affected Party with respect to that RBA Decision a monthly report of the 
+status of such RBA Decision within the dispute resolution process set forth in this Section 6, 
+including a statement of the accounting treatment of the disputed amount owed by or to that 
+Affected Party with respect to that RBA Decision in accordance with the most recent decision 
+issued pursuant to Sections 6.3.6 or 6.4 of the ISO New England Billing Policy, whichever 
+applies, with respect to that RBA Decision.  For purposes of this Section, the term “Affected 
+Parties” shall also include the Disputing Party.  
+ 
+Section 6.3.6 – Finality of ISO Action on Requested Billing Adjustment. Except as otherwise 
+provided in this Section 6.3.6, the RBA Decision shall become final and binding on the Affected 
+Parties and shall not be appealable in any forum on the twenty-first (21st) Business Day after the 
+notice of the specific RBA Decision at issue was provided to the Affected Parties as set forth in 
+Section 6.3.5 above.  The RBA Decision shall not become final or binding if, on or before the 
+twentieth (20th) Business Day after the notice of the specific RBA Decision at issue was provided 
+to the Affected Parties as set forth in Section 6.3.5 above, an Affected Party has appealed the 
+RBA Decision by commencing a proceeding before the Commission or other regulatory or 
+judicial authority with jurisdiction over the dispute, or has filed an appeal pursuant to Section 6.4 
+of the ISO New England Billing Policy.  If a proceeding is commenced before the Commission or 
+other regulatory or judicial authority with jurisdiction over the dispute, the Affected Party 
+commencing that proceeding shall simultaneously transmit a copy of its initial pleading in that 
+proceeding to the ISO’s designated representative for that particular RBA Decision, and to the 
+Chair of the NEPOOL Budget and Finance Subcommittee and shall also submit to the ISO’s 
+designated representative for that particular RBA a copy of the final order or decision in that 
+proceeding resolving the dispute. If any such appeal is filed pursuant to Section 6.4 of the ISO 
+New England Billing Policy, the RBA Decision shall have no force or effect unless or until it is 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+affirmed or upheld upon completion of the appeal process selected by the Affected Party and as 
+provided for in the ISO New England Billing Policy.  
+ 
+Section 6.4 – Right of Affected Party to Review of ISO RBA Decision by AAA.  
+ 
+Section 6.4.1 – Right to Further Review. An Affected Party may seek review of an RBA Decision 
+by an independent third party neutral by submitting, on or before the twentieth (20th) Business 
+Day after the notice of the specific RBA Decision at issue was provided to the Affected Parties as 
+set forth in Section 6.3.5 above, a request for arbitration of the Requested Billing Adjustment 
+with the American Arbitration Association (“AAA”).  At the same time that it submits its request 
+to the AAA, the Affected Party commencing any such review of an RBA Decision shall transmit 
+its request for arbitration: (i) to the ISO’s designated representative for that particular RBA 
+Decision; and (ii) to each of the Affected Parties; and (iii) to the Chair of the NEPOOL Budget 
+and Finance Subcommittee.  The ISO and any Affected Party shall be joined as parties to the 
+arbitration.  NEPOOL and other Covered Entities shall be permitted to intervene in the arbitration 
+if they desire to do so.  
+ 
+Section 6.4.2 – Finality of the AAA Neutral’s Decision. Except as otherwise provided in this 
+Section 6.4.2, the written, final decision of the AAA neutral shall become final and binding on the 
+Affected Parties, including the ISO, and shall not be appealable in any forum on the twenty-first 
+(21st) Business Day after the date on which the final decision of the AAA neutral was issued.  
+The final decision of the AAA neutral shall not become final or binding if on or before the 
+twentieth (20th) Business Day after the date on which the final decision of the AAA neutral was 
+issued, an Affected Party or Parties or the ISO has appealed the final decision of the AAA neutral 
+by commencing a proceeding before the Commission or other regulatory or judicial authority 
+with jurisdiction over the dispute.  If any such appeal is filed, the final decision of the AAA 
+neutral shall have no force or effect unless or until it is affirmed or upheld upon completion of the 
+appeal process.  
+ 
+Section 6.5 – Access to Confidential Information. Information that is deemed confidential 
+pursuant to the ISO New England Information Policy in the possession, custody or control of the 
+ISO concerning the dollar amount in Invoices or Remittance Advices issued by the ISO 
+(“Confidential Information”) shall be made available under these billing dispute procedures only 
+to “Dispute Representatives” who have executed a confidentiality agreement in accordance both 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+with this Section 6.5 and the ISO New England Information Policy in the form of Attachment 1 
+hereto (“Confidentiality Agreement”).  A copy of the executed Confidentiality Agreement for a 
+Dispute Representative shall be provided to the ISO prior to the disclosure of any Confidential 
+Information to said Dispute Representative.  Confidential Information shall not be disclosed to 
+anyone other than in accordance with this Section 6.5, and shall be used only in connection with 
+the billing dispute procedures provided under this Section 6.  
+ 
+a) 
+Potential Disputing Parties’ Right of Access to Confidential Information. A 
+Market Participant, PTO or Non-Market Participant Transmission Customer that 
+is a potential Disputing Party is entitled to obtain access to Confidential 
+Information for its Dispute Representative, if and only if, it can demonstrate to 
+the ISO that such access is required to determine if it has a substantive basis for 
+filing a Requested Billing Adjustment with the ISO.  Such demonstration by a 
+potential Disputing Party, at a minimum, shall include: the information submitted 
+to ISO Participant Support and Solutions required in Section 6.3.1; and, why lack 
+of access to Confidential Information prevents the potential Disputing Party from 
+determining if it has a substantive basis for filing such a Requested Billing 
+Adjustment.  A potential Disputing Party shall submit a request for access to 
+Confidential Information in writing to the ISO (an “Information Request”). The 
+ISO shall evaluate and respond to such an Information Request within ten (10) 
+days of the receipt of the Information Request, and where the need for access to 
+Confidential Information is demonstrated in accordance with the above, shall 
+provide access to such Confidential Information within fifteen (15) days of the 
+receipt of the Information Request.  
+ 
+b) 
+Affected Parties Right of Access to Confidential Information. If the RBA 
+Decision is submitted to the AAA for resolution pursuant to Section 6.4, then for 
+purposes of that AAA proceeding a Market Participant or Non-Market 
+Participant Transmission Customer that is an Affected Party is entitled to obtain 
+access to Confidential Information for its Dispute Representative if, and only if, 
+it can demonstrate to the AAA Neutral that such access is required to protect its 
+financial interests with respect to review of an RBA Decision pending before the 
+Neutral.  An Affected Party shall submit a request for access to Confidential 
+Information concerning an RBA Decision within the timeframes established by 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+the Neutral.  The Neutral shall have the authority to enter such orders as may be 
+necessary to protect the Confidential Information, in accordance with applicable 
+ISO policies including but not limited to the ISO New England Information 
+Policy.  
+ 
+c) 
+Dispute Representatives.  Dispute Representatives shall be limited to the AAA 
+Neutral(s), Covered Entities and third parties retained by and/or in-house legal 
+counsel of the AAA or Covered Entities; provided, however, that Confidential 
+Information may not be disclosed to a Dispute Representative to the extent the 
+disclosure is prohibited by Order 889.  A Dispute Representative may disclose 
+Confidential Information to any other Dispute Representative as long as the 
+disclosing Dispute Representative and the receiving Dispute Representative each 
+have executed a Confidentiality Agreement.  In the event that any Dispute 
+Representative to whom Confidential Information is disclosed ceases to be 
+engaged in a matter under these billing dispute procedures, or is no longer 
+qualified to be a Dispute Representative under this Section, access to 
+Confidential Information by that person, or persons, shall be terminated and all 
+such Confidential Information received by that party shall be returned to the ISO 
+or destroyed to the satisfaction of the ISO.  Even if no longer engaged as a 
+Dispute Representative under this Section, every person who has executed a 
+Confidentiality Agreement shall continue to be bound by the provisions of this 
+Section and such Confidentiality Agreement.  All Dispute Representatives are 
+responsible for ensuring that persons under their supervision or control comply 
+with this Section and the Confidentiality Agreement.  
+ 
+d) 
+Maintenance of Confidential Information.  All copies of all documents and 
+materials containing Confidential Information shall be maintained by Dispute 
+Representatives at all times in a secure place in sealed envelopes or other 
+appropriate containers endorsed to the effect that they are sealed pursuant to this 
+Section.  Such documents and material shall be marked PROTECTED 
+CONFIDENTIAL INFORMATION and shall be maintained under seal and 
+provided only to Dispute Representatives as are authorized to examine and 
+inspect such Confidential Informational.  Dispute Representatives shall provide 
+to the ISO a list of those persons under the supervision and/or control of the 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Dispute Representative who are entitled to receive Confidential Information.  
+Dispute Representatives shall take all reasonable precautions to ensure that 
+Confidential Information is not distributed to unauthorized persons.  
+ 
+e) 
+ISO Right to Object to Access to Confidential Information. Nothing in this 
+Section shall be construed as precluding the ISO from objecting to providing any 
+party access to Confidential Information on any legal grounds other than those 
+provided under the ISO New England Information Policy, as it may be amended 
+time to time.  
+ 
+SECTION 7 -WEEKLY BILLING PRINCIPLES FOR NON-HOURLY CHARGES.  
+ 
+The ISO shall administer weekly billing arrangements for Non-Hourly Charges and Transmission 
+Charges that have been effected in special circumstances pursuant to the ISO New England 
+Financial Assurance Policy according to the following principles:  
+ 
+Section 7.1 - Weekly Invoices. The ISO shall issue weekly Invoices for such Non-Hourly 
+Charges and such Transmission Charges to any Market Participant or Non-Market Participant 
+Transmission Customer for which such a weekly billing arrangement has been established to the 
+extent such Market Participant’s or Non-Market Participant Transmission Customer’s Non-
+Hourly Charges and Transmission Charges exceed the Payments due to it for Non-Hourly 
+Charges and Transmission Charges, respectively, for the current billing week.  Such weekly 
+Invoices for Non-Hourly Charges and for Transmission Charges would be issued and due at the 
+same times as one of the twice weekly Invoices for Hourly Charges as determined by the ISO.  
+Remittance Advices for Non-Hourly Charges and for Transmission Charges for such Market 
+Participants and Non-Market Participant Transmission Customers will still be issued monthly, in 
+accordance with the procedures set forth above.  
+ 
+Section 7.2 -Basis for Billing. The amounts due from such Market Participant or Non-Market 
+Participant Transmission Customer on weekly Invoices for Non-Hourly Charges and 
+Transmission Charges shall be based on estimates derived by pro-rating the most recent final 
+monthly Statements and Transmission Statements issued for such Market Participant or Non-
+Market Participant Transmission Customer.  
+ 
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+Section 7.3 -Monthly Reconciliation. In connection with each monthly billing cycle, the ISO shall 
+reconcile the sum of the weekly Invoices for Non-Hourly Charges and for Transmission Charges 
+issued with the normal monthly billing quantities for such Non-Hourly Charges and Transmission 
+Charges calculated for the Market Participant or Non-Market Participant Transmission Customer.  
+The ISO shall perform a true-up of any amounts owed or due on the following weekly Statements 
+or monthly Transmission Statements.  
+ 
+Section 7.4 – FTR-Only Customers. FTR-Only Customers are not eligible for weekly billing 
+arrangements for Non-Hourly Charges.  
+Effective Date: 2/20/2023 - Docket # ER23-705-000 
+ 
+ 
+ 
+ 
+Re:  Requested Billing Adjustment _________________ 
+ 
+CONFIDENTIALITY AND NONDISCLOSURE AGREEMENT 
+ 
+The ISO (“Provider”) agrees to make available, pursuant to Section 6 of the ISO New England Billing Policy, to 
+________________________ (“Recipient”) confidential and proprietary information (Confidential Information”) relevant to 
+resolution of the Requested Billing Adjustment ______ and any appeals thereof as provided for in said Section 6. 
+ 
+1. 
+Any information provided to the Recipient and labeled “Confidential Information” by Provider shall be 
+confidential subject to this Agreement. 
+2. 
+The Confidential Information is received by Recipient in confidence. 
+3. 
+The Confidential Information shall not be used or disclosed by the Recipient except in accordance with the 
+terms contained herein, with Section 5 of the ISO New England Billing Policy and with the ISO New 
+England Information Policy. 
+4. 
+Only individuals who are Dispute Representatives as that term is defined in Section 6 of the ISO New 
+England Billing Policy, and not entities, may be Recipients of Confidential Information under this paragraph.  
+By executing this Agreement, each Recipient certified that he/she meets the requirements of this Agreement. 
+5. 
+The following conditions apply to each Recipient: 
+a. 
+Each Recipient will receive one (1) numbered, controlled copy of the Confidential Information.  
+The Recipient will not make any copies thereof or provide the Confidential Information to any 
+individual or entity except one who has executed and delivered an Agreement identical to this 
+Agreement to the Provider. 
+b. 
+The Recipient shall maintain a log of all persons granted access to the Confidential Information. 
+c. 
+The Recipient, by signing this Agreement acknowledges that he/she may not in any manner 
+disclose the Confidential Information to any person, and that he/she may not use the Confidential 
+Information for the benefit of any person except in this proceeding and in accordance with the  
+terms of this Agreement, Section 6 of the ISO New England Billing Policy and the ISO New 
+England Information Policy. 
+d. 
+The Recipient acknowledges that any violation of this Agreement may subject the Recipient to civil 
+actions for violation thereof. 
+e. 
+Within thirty (30) days of the final decision issued with respect to the Requested Billing 
+Adjustment terminating all appeals with respect to this Requested Billing Adjustment, Recipient 
+shall return the Confidential Information to Provider. 
+ 
+PROVIDER: 
+ 
+ 
+ 
+ 
+RECIPIENT: 
+By: _________________________ 
+ 
+ 
+By:__________________________ 
+Dated:_______________________ 
+ 
+ 
+Dated:________________________ 
